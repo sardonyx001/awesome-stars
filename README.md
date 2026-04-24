@@ -2033,7 +2033,7 @@
 
 ## TypeScript 
 
-- [refactoringhq/tolaria](https://github.com/refactoringhq/tolaria) - 
+- [refactoringhq/tolaria](https://github.com/refactoringhq/tolaria) - Desktop app to manage markdown knowledge bases
 - [EpicenterHQ/epicenter](https://github.com/EpicenterHQ/epicenter) - Open-source, local-first apps.
 - [huntabyte/shadcn-svelte](https://github.com/huntabyte/shadcn-svelte) - shadcn/ui, but for Svelte. ✨
 - [earendil-works/gondolin](https://github.com/earendil-works/gondolin) - Experimental Linux microvm setup with a TypeScript Control Plane as Agent Sandbox
