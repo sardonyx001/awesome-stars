@@ -889,6 +889,7 @@
 
 ## HTML 
 
+- [sardonyx001/docker-hello-world](https://github.com/sardonyx001/docker-hello-world) - Hello World web server in under 2 MB
 - [ovh/docs](https://github.com/ovh/docs) - Official repository containing all docs & guides of OVH Group
 - [karpathy/jobs](https://github.com/karpathy/jobs) - A research tool for visually exploring Bureau of Labor Statistics Occupational Outlook Handbook data. This is not a report, a paper, or a serious economic publication — it is a development tool for ex
 - [ktwrd/88x31](https://github.com/ktwrd/88x31) - A Collection of 88x31 buttons
@@ -1696,7 +1697,7 @@
 - [google/crosvm](https://github.com/google/crosvm) - The Chrome OS Virtual Machine Monitor - Mirror of https://chromium.googlesource.com/crosvm/crosvm/
 - [convco/convco](https://github.com/convco/convco) - Conventional commits, changelog, versioning, validation
 - [gwenn/lemon-rs](https://github.com/gwenn/lemon-rs) - LALR(1) parser generator for Rust based on Lemon + SQL parser
-- [j178/prek](https://github.com/j178/prek) - ⚡ A Git hook manager written in Rust, designed as a drop-in alternative to pre-commit.
+- [j178/prek](https://github.com/j178/prek) - ⚡ A fast Git hook manager written in Rust, designed as a drop-in alternative to pre-commit, reimagined.
 - [Dicklesworthstone/destructive_command_guard](https://github.com/Dicklesworthstone/destructive_command_guard) - The Destructive Command Guard (dcg) is for blocking dangerous git and shell commands from being executed by agents.
 - [holon-run/uxc](https://github.com/holon-run/uxc) - A unified CLI for discovering and invoking tools across OpenAPI, MCP, GraphQL, gRPC, and JSON-RPC
 - [cola-io/codex-acp](https://github.com/cola-io/codex-acp) - An Agent Client Protocol (ACP)–compatible agent that bridges the OpenAI Codex runtime with ACP clients over stdio.
