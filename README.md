@@ -2152,7 +2152,7 @@
 - [acoyfellow/UserDO](https://github.com/acoyfellow/UserDO) - Authentication-enabled Durable Objects for Cloudflare Workers. Provides JWT auth, per-user SQLite tables with Zod schemas, KV storage, SSE real-time updates, and browser client. Extend one class to bu
 - [Effect-TS/effect](https://github.com/Effect-TS/effect) - Build production-ready applications in TypeScript
 - [mermaid-js/mermaid](https://github.com/mermaid-js/mermaid) - Generation of diagrams like flowcharts or sequence diagrams from text in a similar manner as markdown
-- [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Interactive roadmaps, guides and other educational content to help developers grow in their careers.
+- [nilbuild/developer-roadmap](https://github.com/nilbuild/developer-roadmap) - Interactive roadmaps, guides and other educational content to help developers grow in their careers.
 - [edrlab/thorium-web](https://github.com/edrlab/thorium-web) - 🌐 An open-source ebook/audiobook/comics Web Reader
 - [jaypyles/Scraperr](https://github.com/jaypyles/Scraperr) - Self-hosted webscraper.
 - [leerob/next-email-client](https://github.com/leerob/next-email-client) - An email client built with the Next.js App Router and Postgres.
