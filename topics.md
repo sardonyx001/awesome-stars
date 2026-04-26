@@ -3858,7 +3858,7 @@
 - [GongRzhe/Office-PowerPoint-MCP-Server](https://github.com/GongRzhe/Office-PowerPoint-MCP-Server) - A MCP (Model Context Protocol) server for PowerPoint manipulation using python-pptx. This server provides tools for creating, editing, and manipulating PowerPoint presentations through the MCP protoco
 - [charmbracelet/fantasy](https://github.com/charmbracelet/fantasy) - Build AI agents with Go. Multiple providers, multiple models, one API. 🧙
 - [aoi1/bbf-git](https://github.com/aoi1/bbf-git) - This is a repository for the book Build, Break, Fix and learn Git/GitHub
-- [legions-developer/evilcharts](https://github.com/legions-developer/evilcharts) - A Beautiful & Animated Chart UI Website built on top of shadcn & recharts.
+- [legions-developer/evilcharts](https://github.com/legions-developer/evilcharts) - EvilCharts is an open-source chart UI website built with shadcn and Recharts, beautifully designed and handcrafted.
 - [Felitendo/jellyfin-plugin-lyrics](https://github.com/Felitendo/jellyfin-plugin-lyrics) - A plugin for Jellyfin that automatically downloads and applies lyrics to your songs
 - [LadybirdBrowser/ladybird](https://github.com/LadybirdBrowser/ladybird) - Truly independent web browser
 - [Waleed2660/springboot-learning-kit](https://github.com/Waleed2660/springboot-learning-kit) - A Spring Boot application designed for learning and experimentation with technologies like ActiveMQ, RabbitMQ and PostgreSQL, Prometheus & Grafana. This project demonstrates the integration of messagi
