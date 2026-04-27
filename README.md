@@ -274,7 +274,6 @@
 ## Dockerfile 
 
 - [linuxserver/docker-bazarr](https://github.com/linuxserver/docker-bazarr) - 
-- [coollabsio/coolify-docs](https://github.com/coollabsio/coolify-docs) - Documentation for Coolify
 - [shunsock/uv_on_docker_playground](https://github.com/shunsock/uv_on_docker_playground) - uv on Docker
 - [kelseyhightower/nocode](https://github.com/kelseyhightower/nocode) - The best way to write secure and reliable applications. Write nothing; deploy nowhere.
 - [linuxserver/docker-nzbget](https://github.com/linuxserver/docker-nzbget) - 
@@ -434,7 +433,7 @@
 - [google/syzkaller](https://github.com/google/syzkaller) - syzkaller is an unsupervised coverage-guided kernel fuzzer
 - [appleboy/gin-jwt](https://github.com/appleboy/gin-jwt) - JWT Middleware for Gin framework
 - [traefik/traefik](https://github.com/traefik/traefik) - The Cloud Native Application Proxy
-- [nixopus/nixopus](https://github.com/nixopus/nixopus) - Run production apps without thinking about infrastructure On your server or ours. Fully agentic.
+- [nixopus/nixopus](https://github.com/nixopus/nixopus) - Run production apps without thinking about infrastructure. On your server or ours. Fully agentic.
 - [AshokShau/coolify-telegram-bot](https://github.com/AshokShau/coolify-telegram-bot) - A Telegram bot to manage your Coolify applications — list, restart, deploy, check logs, schedule and more via inline buttons.
 - [SierraJC/terraform-provider-coolify](https://github.com/SierraJC/terraform-provider-coolify) - Terraform provider for Coolify v4
 - [mercari/actions-runner-controller](https://github.com/mercari/actions-runner-controller) - Kubernetes controller for GitHub Actions self-hosted runners
@@ -1014,6 +1013,7 @@
 - [GomezWare/coolhook](https://github.com/GomezWare/coolhook) - A universal webhook trigger for Coolify projects
 - [ccollier86/forgejo-coolify-bridge](https://github.com/ccollier86/forgejo-coolify-bridge) - Use Forgejo with Coolify just like GitHub! Native integration for browsing repos, automatic webhooks, and push-to-deploy
 - [sammcj/firecrawler](https://github.com/sammcj/firecrawler) - A lightweight frontend for self-hosted Firecrawl instances
+- [coollabsio/coolify-docs](https://github.com/coollabsio/coolify-docs) - Documentation for Coolify
 - [alam00000/bentopdf](https://github.com/alam00000/bentopdf) - The Privacy First PDF Toolkit
 - [cronicle-edge/cronicle-edge](https://github.com/cronicle-edge/cronicle-edge) - Cronicle V2 (Orchestra) community prototype
 - [mongo-express/mongo-express](https://github.com/mongo-express/mongo-express) - Web-based MongoDB admin interface, written with Node.js and Express
