@@ -360,7 +360,6 @@
 - [inconshreveable/mousetrap](https://github.com/inconshreveable/mousetrap) - Detect starting from Windows explorer
 - [bykof/go-plantuml](https://github.com/bykof/go-plantuml) - Generate plantuml diagrams from go source files or directories
 - [evilmartians/lefthook](https://github.com/evilmartians/lefthook) - Fast and powerful Git hooks manager for any type of projects.
-- [holon-run/holon](https://github.com/holon-run/holon) - Holon runs AI coding agents headlessly to turn issues into PR-ready patches and summaries — locally or in CI, without babysitting the agent.
 - [henrygd/beszel](https://github.com/henrygd/beszel) - Lightweight server monitoring with historical data, docker stats, and alerts.
 - [lite-quests/go-quests](https://github.com/lite-quests/go-quests) - Hands-on practice for go
 - [simulot/immich-go](https://github.com/simulot/immich-go) - An alternative to the immich-CLI command that doesn't depend on nodejs installation. It tries its best for importing google photos takeout archives.
@@ -1710,6 +1709,7 @@
 - [orhun/git-cliff](https://github.com/orhun/git-cliff) - A highly customizable Changelog Generator that follows Conventional Commit specifications ⛰️
 - [crate-ci/typos](https://github.com/crate-ci/typos) - Source code spell checker
 - [lycheeverse/lychee](https://github.com/lycheeverse/lychee) - ⚡ Fast, async, stream-based link checker written in Rust. Finds broken URLs and mail addresses inside Markdown, HTML, reStructuredText, websites and more!
+- [holon-run/holon](https://github.com/holon-run/holon) - Holon runs AI coding agents headlessly to turn issues into PR-ready patches and summaries — locally or in CI, without babysitting the agent.
 - [lux-db/lux](https://github.com/lux-db/lux) - A Redis-compatable key-value store. Up to 10x faster. Native vector support.
 - [facebook/sapling](https://github.com/facebook/sapling) - A Scalable, User-Friendly Source Control System.
 - [rustfs/rustfs](https://github.com/rustfs/rustfs) - 🚀2.3x faster than MinIO for 4KB object payloads. RustFS is an open-source, S3-compatible high-performance object storage system supporting migration and coexistence with other S3-compatible platforms 
