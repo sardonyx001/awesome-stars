@@ -997,7 +997,7 @@
 - [istanbuljs/nyc](https://github.com/istanbuljs/nyc) - the Istanbul command line interface
 - [midspiral/lemmafit](https://github.com/midspiral/lemmafit) - Make agents prove that their code is correct.
 - [plantuml/plantuml.js](https://github.com/plantuml/plantuml.js) - PlantUML that runs completely on javascript without needing java/servers
-- [agent-sh/agentsys](https://github.com/agent-sh/agentsys) - AI writes code. This automates everything else · 19 plugins, 47 agents, and 40 skills · for Claude Code, OpenCode, Codex, Cursor, Kiro.
+- [agent-sh/agentsys](https://github.com/agent-sh/agentsys) - AI writes code. This automates everything else · 20 plugins · 49 agents · 41 skills · for Claude Code, OpenCode, Codex, Cursor, Kiro.
 - [mailcow/mailcow-dockerized](https://github.com/mailcow/mailcow-dockerized) - mailcow: dockerized - 🐮 + 🐋 = 💕
 - [forwardemail/forwardemail.net](https://github.com/forwardemail/forwardemail.net) - Privacy-focused encrypted email for everyone.  All-in-one alternative to Gmail + Mailchimp + Sendgrid.
 - [pshenok/server-survival](https://github.com/pshenok/server-survival) - Tower defense game that teaches cloud architecture. Build infrastructure, survive traffic, learn scaling.
@@ -1709,7 +1709,7 @@
 - [orhun/git-cliff](https://github.com/orhun/git-cliff) - A highly customizable Changelog Generator that follows Conventional Commit specifications ⛰️
 - [crate-ci/typos](https://github.com/crate-ci/typos) - Source code spell checker
 - [lycheeverse/lychee](https://github.com/lycheeverse/lychee) - ⚡ Fast, async, stream-based link checker written in Rust. Finds broken URLs and mail addresses inside Markdown, HTML, reStructuredText, websites and more!
-- [holon-run/holon](https://github.com/holon-run/holon) - Holon runs AI coding agents headlessly to turn issues into PR-ready patches and summaries — locally or in CI, without babysitting the agent.
+- [holon-run/holon](https://github.com/holon-run/holon) - Local-first AI agent runtime for workspaces, wakeups, and long-running task execution
 - [lux-db/lux](https://github.com/lux-db/lux) - A Redis-compatable key-value store. Up to 10x faster. Native vector support.
 - [facebook/sapling](https://github.com/facebook/sapling) - A Scalable, User-Friendly Source Control System.
 - [rustfs/rustfs](https://github.com/rustfs/rustfs) - 🚀2.3x faster than MinIO for 4KB object payloads. RustFS is an open-source, S3-compatible high-performance object storage system supporting migration and coexistence with other S3-compatible platforms 
@@ -1840,7 +1840,7 @@
 - [teloxide/teloxide](https://github.com/teloxide/teloxide) - 🤖 An elegant Telegram bots framework for Rust
 - [arxanas/git-branchless](https://github.com/arxanas/git-branchless) - High-velocity, monorepo-scale workflow for Git
 - [GitoxideLabs/gitoxide](https://github.com/GitoxideLabs/gitoxide) - An idiomatic, lean, fast & safe pure Rust implementation of Git
-- [blacknon/hwatch](https://github.com/blacknon/hwatch) - A modern alternative to the watch command, records the differences in execution results and can check this differences at after.
+- [blacknon/hwatch](https://github.com/blacknon/hwatch) - hwatch: alternative watch command with history, diff view, JSONL logging, and change hooks. since 2018.
 - [jj-vcs/jj](https://github.com/jj-vcs/jj) - A Git-compatible VCS that is both simple and powerful
 - [khyerdev/tcobalt](https://github.com/khyerdev/tcobalt) - Command-line interface wrapper for https://cobalt.tools, written in rust
 - [evilsocket/legba](https://github.com/evilsocket/legba) - The fastest and more comprehensive multiprotocol credentials bruteforcer / password sprayer and enumerator.  🥷
