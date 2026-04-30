@@ -310,6 +310,7 @@
 
 ## Go 
 
+- [ray-project/kuberay](https://github.com/ray-project/kuberay) - A toolkit to run Ray applications on Kubernetes
 - [zeromicro/go-zero](https://github.com/zeromicro/go-zero) - A cloud-native Go microservices framework with cli tool for productivity.
 - [tinyauthapp/tinyauth](https://github.com/tinyauthapp/tinyauth) - The tiniest authentication and authorization server you have ever seen.
 - [earthly/earthly](https://github.com/earthly/earthly) - Super simple build framework with fast, repeatable builds and an instantly familiar syntax – like Dockerfile and Makefile had a baby.
@@ -1913,6 +1914,7 @@
 
 ## Shell 
 
+- [braintrustdata/helm](https://github.com/braintrustdata/helm) - Helm charts for the self-hosted data plane
 - [uditgoenka/autoresearch](https://github.com/uditgoenka/autoresearch) - Claude Autoresearch Skill — Autonomous goal-directed iteration for Claude Code. Inspired by Karpathy's autoresearch. Modify → Verify → Keep/Discard → Repeat forever.
 - [PrismML-Eng/Bonsai-demo](https://github.com/PrismML-Eng/Bonsai-demo) - Bonsai Demo
 - [Mekann2904/dotfiles-bare](https://github.com/Mekann2904/dotfiles-bare) - 
