@@ -1726,7 +1726,7 @@
 - [zeroclaw-labs/zeroclaw](https://github.com/zeroclaw-labs/zeroclaw) - Fast, small, and fully autonomous AI personal assistant infrastructure, ANY OS, ANY PLATFORM — deploy anywhere, swap anything 🦀
 - [bellicose100xp/jiq](https://github.com/bellicose100xp/jiq) - Interactive JSON query tool with real-time output and AI assistance
 - [ricardodantas/hazelnut](https://github.com/ricardodantas/hazelnut) - 🌰 Terminal-based automated file organizer inspired by Hazel. Watch folders and organize files with rules.
-- [chroma-core/chroma](https://github.com/chroma-core/chroma) - Data infrastructure for AI
+- [chroma-core/chroma](https://github.com/chroma-core/chroma) - Search infrastructure for AI
 - [smol-machines/smolvm](https://github.com/smol-machines/smolvm) - Tool to build & run portable, lightweight, self-contained virtual machines.
 - [sile/mamegrep](https://github.com/sile/mamegrep) - An interactive terminal interface for `$ git grep` to easily edit search patterns and view results
 - [sile/kk](https://github.com/sile/kk) - A TUI text editor
