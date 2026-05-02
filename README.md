@@ -1333,7 +1333,6 @@
 - [jorgebucaran/awsm.fish](https://github.com/jorgebucaran/awsm.fish) - A curation of prompts, plugins & other Fish treasures 🐚💎
 - [thomasdavis/resume](https://github.com/thomasdavis/resume) - Resume of Thomas Davis
 - [anderspitman/awesome-tunneling](https://github.com/anderspitman/awesome-tunneling) - List of ngrok, Cloudflare Tunnel, Tailscale, and ZeroTier alternatives and other tunneling software and services. Focus on self-hosting.
-- [xtaci/kcptun](https://github.com/xtaci/kcptun) - Reliable UDP Transmission Optimizer based on KCP: Enhancing network efficiency in poor connectivity environments.
 - [ekgame/uiua-json](https://github.com/ekgame/uiua-json) - 
 - [lucia-auth/lucia](https://github.com/lucia-auth/lucia) - Authentication, simple and clean
 - [breatheco-de/exercise-instagram-data-modeling](https://github.com/breatheco-de/exercise-instagram-data-modeling) - Doing the data modeling UML diagram
