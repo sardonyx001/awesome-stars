@@ -1161,7 +1161,7 @@
 
 ## LLVM 
 
-- [goplus/llgo](https://github.com/goplus/llgo) - A Go compiler based on LLVM in order to better integrate Go with the C ecosystem including Python and JavaScript
+- [xgo-dev/llgo](https://github.com/xgo-dev/llgo) - A Go compiler based on LLVM in order to better integrate Go with the C ecosystem including Python and JavaScript
 
 ## Lean 
 
