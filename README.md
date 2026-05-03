@@ -1631,7 +1631,7 @@
 - [tofuSCHNITZEL/home-assistant-wienerlinien](https://github.com/tofuSCHNITZEL/home-assistant-wienerlinien) - A sensor that give you information about departures from a specified Wiener Linien stop.
 - [custom-components/wienerlinien](https://github.com/custom-components/wienerlinien) - A sensor that give you information about next departure from spesified stop.
 - [PKlempe/WienerLinienMonitor-for-RaspberryPi](https://github.com/PKlempe/WienerLinienMonitor-for-RaspberryPi) - A script for using a Raspberry Pi in combination with an "Adafruit LCD + Keypad Kit" as a departure board.
-- [NeTEx-CEN/NeTEx](https://github.com/NeTEx-CEN/NeTEx) - NeTEx is a CEN Technical Standard for exchanging Public Transport schedules and related data.
+- [TransmodelEcosystem/NeTEx](https://github.com/TransmodelEcosystem/NeTEx) - NeTEx is a CEN Technical Standard for exchanging Public Transport schedules and related data.
 - [san089/Optimizing-Public-Transportation](https://github.com/san089/Optimizing-Public-Transportation) - A real-time event pipeline around Kafka Ecosystem for Chicago Transit Authority.
 - [CxAalto/gtfspy](https://github.com/CxAalto/gtfspy) - Public transport network analysis using Python 🚊🚇🚃🚌🛳️🚡🚠🚞
 - [ranger/ranger](https://github.com/ranger/ranger) - A VIM-inspired filemanager for the console
