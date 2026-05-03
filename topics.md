@@ -4419,7 +4419,7 @@
 - [fewieden/MMM-WienerLinien](https://github.com/fewieden/MMM-WienerLinien) - Public Transport Module of Vienna/Austria for MagicMirror²
 - [peterneubauer/TransportDublin](https://github.com/peterneubauer/TransportDublin) - A neo4j & Google Maps based Public Transport Route Planner for Dublin
 - [ABeaujet/CalypsoInspector](https://github.com/ABeaujet/CalypsoInspector) - Ever wondered what's stored on your public transport card?
-- [NeTEx-CEN/NeTEx](https://github.com/NeTEx-CEN/NeTEx) - NeTEx is a CEN Technical Standard for exchanging Public Transport schedules and related data.
+- [TransmodelEcosystem/NeTEx](https://github.com/TransmodelEcosystem/NeTEx) - NeTEx is a CEN Technical Standard for exchanging Public Transport schedules and related data.
 - [etalab/transpo-rt](https://github.com/etalab/transpo-rt) - Simple API for public transport realtime data
 - [HSLdevcom/localroute](https://github.com/HSLdevcom/localroute) - Javascript library for public transport route planning
 - [MihaiBalint/TimisoaraPublicTransport](https://github.com/MihaiBalint/TimisoaraPublicTransport) - An Android App that scrapes public transport information (times/connections) and shows it on your Android.
