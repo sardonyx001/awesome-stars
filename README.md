@@ -877,6 +877,7 @@
 - [casdoor/casdoor](https://github.com/casdoor/casdoor) - An open-source Agent-first Identity and Access Management (IAM) /LLM MCP & agent gateway and auth server with web UI supporting OpenClaw, MCP, OAuth, OIDC, SAML, CAS, LDAP, SCIM, WebAuthn, TOTP, MFA, 
 - [docker/compose](https://github.com/docker/compose) - Define and run multi-container applications with Docker
 - [twpayne/chezmoi](https://github.com/twpayne/chezmoi) - Manage your dotfiles across multiple diverse machines, securely.
+- [chubin/wttr.in](https://github.com/chubin/wttr.in) - :partly_sunny: The right way to check the weather
 - [CovenantSQL/CovenantSQL](https://github.com/CovenantSQL/CovenantSQL) - A decentralized, trusted, high performance, SQL database with blockchain features
 - [JanDeDobbeleer/oh-my-posh](https://github.com/JanDeDobbeleer/oh-my-posh) - The most customisable and low-latency cross platform/shell prompt renderer
 - [mmpx12/twitter-media-downloader](https://github.com/mmpx12/twitter-media-downloader) - twmd: CLI/GUI Apiless twitter downlaoder. Download medias from single tweet or a whole profile.
@@ -1636,7 +1637,6 @@
 - [CxAalto/gtfspy](https://github.com/CxAalto/gtfspy) - Public transport network analysis using Python 🚊🚇🚃🚌🛳️🚡🚠🚞
 - [ranger/ranger](https://github.com/ranger/ranger) - A VIM-inspired filemanager for the console
 - [rsalmei/zsh-history-to-fish](https://github.com/rsalmei/zsh-history-to-fish) - Bring your ZSH history to Fish shell.
-- [chubin/wttr.in](https://github.com/chubin/wttr.in) - :partly_sunny: The right way to check the weather
 - [FreddieBrown/Bluefind](https://github.com/FreddieBrown/Bluefind) - Emergency Ad Hoc Networks: Using Bluetooth to Share Locations in Disaster Scenarios
 - [civitai/sd_civitai_extension](https://github.com/civitai/sd_civitai_extension) - All of the Civitai models inside Automatic 1111 Stable Diffusion Web UI
 - [deep-floyd/IF](https://github.com/deep-floyd/IF) - 
