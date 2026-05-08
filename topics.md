@@ -5837,6 +5837,7 @@
 - [AlexPl292/IdeaVim-EasyMotion](https://github.com/AlexPl292/IdeaVim-EasyMotion) - EasyMotion emulation plugin for IdeaVim
 - [weirongxu/plantuml-previewer.vim](https://github.com/weirongxu/plantuml-previewer.vim) - Vim / Neovim plugin for preview PlantUML
 - [vim/vim](https://github.com/vim/vim) - The official Vim repository
+- [walkersumida/fusen.nvim](https://github.com/walkersumida/fusen.nvim) - Sticky note bookmarks for Neovim, per Git branch with hover annotations and Telescope integration
 - [sainnhe/everforest](https://github.com/sainnhe/everforest) - 🌲 Comfortable & Pleasant Color Scheme for Vim
 - [neoclide/coc-java](https://github.com/neoclide/coc-java) - Java extension for coc.nvim
 - [ruifm/gitlinker.nvim](https://github.com/ruifm/gitlinker.nvim) - A lua neovim plugin to generate shareable file permalinks (with line ranges) for several git web frontend hosts. Inspired by tpope/vim-fugitive's :GBrowse
