@@ -1428,7 +1428,7 @@
 - [Blazemeter/taurus](https://github.com/Blazemeter/taurus) - Automation-friendly framework for Continuous Testing by
 - [locustio/locust](https://github.com/locustio/locust) - Write scalable load tests in plain Python 🚗💨
 - [ray-project/ray](https://github.com/ray-project/ray) - Ray is an AI compute engine. Ray consists of a core distributed runtime and a set of AI Libraries for accelerating ML workloads.
-- [nandyalu/trailarr](https://github.com/nandyalu/trailarr) - Trailarr is a Docker application to download and manage trailers for your Radarr and Sonarr libraries.
+- [nandyalu/trailarr](https://github.com/nandyalu/trailarr) - Trailarr is a Docker application to download and manage trailers for your Media libraries.
 - [karpathy/nanoGPT](https://github.com/karpathy/nanoGPT) - The simplest, fastest repository for training/finetuning medium-sized GPTs.
 - [jellyfin/jellycon](https://github.com/jellyfin/jellycon) - Kodi Addon for Jellyfin
 - [open-feature/spec](https://github.com/open-feature/spec) - OpenFeature specification
@@ -2274,7 +2274,7 @@
 - [gt-codes/og-cron](https://github.com/gt-codes/og-cron) - Vercel Cron Jobs + Vercel OG + Upstash
 - [itsyoboieltr/elysia-filesystem-router](https://github.com/itsyoboieltr/elysia-filesystem-router) - 
 - [elysiajs/elysia](https://github.com/elysiajs/elysia) - Ergonomic Framework for Humans
-- [isamu/arXiv-api-ts](https://github.com/isamu/arXiv-api-ts) - arXiv-api - A Javascript wrapper of arxiv api.
+- [modernized-js/arXiv-api](https://github.com/modernized-js/arXiv-api) - arXiv-api - A Javascript wrapper of arxiv api.
 - [lucide-icons/lucide](https://github.com/lucide-icons/lucide) - Beautiful & consistent icon toolkit made by the community. Open-source project and a fork of Feather Icons.
 - [omar-dulaimi/prisma-zod-generator](https://github.com/omar-dulaimi/prisma-zod-generator) - Prisma 2+ generator to emit Zod schemas from your Prisma schema
 - [valtyr/prisma-kysely](https://github.com/valtyr/prisma-kysely) - 🪄 Generate Kysely types directly from your Prisma schema!
