@@ -3873,7 +3873,7 @@
 - [giltene/wrk2](https://github.com/giltene/wrk2) - A constant throughput, correct latency recording variant of wrk
 - [mcollina/autocannon](https://github.com/mcollina/autocannon) - fast HTTP/1.1 benchmarking tool written in Node.js
 - [duckdb/duckdb-go](https://github.com/duckdb/duckdb-go) - duckdb-go provides a database/sql driver for the DuckDB database engine.
-- [nandyalu/trailarr](https://github.com/nandyalu/trailarr) - Trailarr is a Docker application to download and manage trailers for your Radarr and Sonarr libraries.
+- [nandyalu/trailarr](https://github.com/nandyalu/trailarr) - Trailarr is a Docker application to download and manage trailers for your Media libraries.
 - [evanw/kiwi](https://github.com/evanw/kiwi) - A schema-based binary format for efficiently encoding trees of data
 - [saljam/webwormhole](https://github.com/saljam/webwormhole) - Peer authenticated WebRTC.
 - [ktwrd/88x31](https://github.com/ktwrd/88x31) - A Collection of 88x31 buttons
@@ -4367,7 +4367,7 @@
 - [ggml-org/llama.cpp](https://github.com/ggml-org/llama.cpp) - LLM inference in C/C++
 - [itsyoboieltr/elysia-filesystem-router](https://github.com/itsyoboieltr/elysia-filesystem-router) - 
 - [monk1337/resp](https://github.com/monk1337/resp) - Fetch Academic Research Papers from different sources
-- [isamu/arXiv-api-ts](https://github.com/isamu/arXiv-api-ts) - arXiv-api - A Javascript wrapper of arxiv api.
+- [modernized-js/arXiv-api](https://github.com/modernized-js/arXiv-api) - arXiv-api - A Javascript wrapper of arxiv api.
 - [yiyu0x/line-notify-sdk-nodejs](https://github.com/yiyu0x/line-notify-sdk-nodejs) - 🔨 A third party LINE Notify SDK for Node.js
 - [kidkrub/line-notifier](https://github.com/kidkrub/line-notifier) - 
 - [omar-dulaimi/prisma-zod-generator](https://github.com/omar-dulaimi/prisma-zod-generator) - Prisma 2+ generator to emit Zod schemas from your Prisma schema
