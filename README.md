@@ -348,7 +348,7 @@
 - [bunniesandbeatings/goerkin](https://github.com/bunniesandbeatings/goerkin) - Gherkin DSL for Ginkgo
 - [sourcegraph/run](https://github.com/sourcegraph/run) - 🏃‍♂️ A new way to execute commands and manipulate command output in Go
 - [shengyanli1982/go-loadbalancer](https://github.com/shengyanli1982/go-loadbalancer) - Lightweight Go load balancer delivering reliable performance and easy extensibility.
-- [DaiYuANg/arcgo](https://github.com/DaiYuANg/arcgo) - arcgo is a modular Go toolkit for backend infrastructure. It is package-oriented, supports incremental adoption, and allows inter-package composition.
+- [lyonbrown4d/arcgo](https://github.com/lyonbrown4d/arcgo) - arcgo is a modular Go toolkit for backend infrastructure. It is package-oriented, supports incremental adoption, and allows inter-package composition.
 - [aohoyd/aku](https://github.com/aohoyd/aku) - Terminal UI for Kubernetes clusters built with Bubble Tea. Resource browsing, YAML/describe views, live log streaming, split panes, exec, debug containers, port forwarding, Helm management, and vim-st
 - [speakeasy-api/jsonpath](https://github.com/speakeasy-api/jsonpath) - This is a full implementation of RFC 9535 built to be WASM compatible and powers https://overlay.speakeasy.com/
 - [daeuniverse/dae](https://github.com/daeuniverse/dae) - eBPF-based Linux high-performance transparent proxy solution.
