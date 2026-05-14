@@ -320,6 +320,7 @@
 
 ## agents 
 
+- [rohitg00/agentmemory](https://github.com/rohitg00/agentmemory) - #1 Persistent memory for AI coding agents based on real-world benchmarks
 - [genkit-ai/genkit](https://github.com/genkit-ai/genkit) - Open-source framework for building AI-powered apps in JavaScript, Go, and Python, built and used in production by Google
 - [Cloudflare-Studio/ask-bonk](https://github.com/Cloudflare-Studio/ask-bonk) - Bonk is a code & docs agent that can build, review and triage for you, built on Cloudflare Workers & OpenCode.
 - [lastmile-ai/mcp-agent](https://github.com/lastmile-ai/mcp-agent) - Build effective agents using Model Context Protocol and simple workflow patterns
@@ -351,6 +352,7 @@
 
 ## ai 
 
+- [rohitg00/agentmemory](https://github.com/rohitg00/agentmemory) - #1 Persistent memory for AI coding agents based on real-world benchmarks
 - [uditgoenka/autoresearch](https://github.com/uditgoenka/autoresearch) - Claude Autoresearch Skill — Autonomous goal-directed iteration for Claude Code. Inspired by Karpathy's autoresearch. Modify → Verify → Keep/Discard → Repeat forever.
 - [genkit-ai/genkit](https://github.com/genkit-ai/genkit) - Open-source framework for building AI-powered apps in JavaScript, Go, and Python, built and used in production by Google
 - [midspiral/lemmafit](https://github.com/midspiral/lemmafit) - Make agents prove that their code is correct.
@@ -3772,6 +3774,8 @@
 
 ## others 
 
+- [smithclay/duckdb-otlp](https://github.com/smithclay/duckdb-otlp) - query OpenTelemetry metrics, logs, and traces (OTLP) in duckdb
+- [tinyhumansai/openhuman](https://github.com/tinyhumansai/openhuman) - Your Personal AI super intelligence. Private, Simple and extremely powerful.
 - [paperclipai/paperclip](https://github.com/paperclipai/paperclip) - The open-source app everyone uses to manage agents at work
 - [braintrustdata/helm](https://github.com/braintrustdata/helm) - Helm charts for the self-hosted data plane
 - [sardonyx001/docker-hello-world](https://github.com/sardonyx001/docker-hello-world) - Hello World web server in under 2 MB
