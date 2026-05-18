@@ -1000,7 +1000,7 @@
 - [istanbuljs/nyc](https://github.com/istanbuljs/nyc) - the Istanbul command line interface
 - [midspiral/lemmafit](https://github.com/midspiral/lemmafit) - Make agents prove that their code is correct.
 - [plantuml/plantuml.js](https://github.com/plantuml/plantuml.js) - PlantUML that runs completely on javascript without needing java/servers
-- [agent-sh/agentsys](https://github.com/agent-sh/agentsys) - AI writes code. This automates everything else · 24 plugins · 49 agents · 45 skills · for Claude Code, OpenCode, Codex, Cursor, Kiro.
+- [agent-sh/agentsys](https://github.com/agent-sh/agentsys) - AI writes code. This automates everything else · 24 plugins · 50 agents · 45 skills · for Claude Code, OpenCode, Codex, Cursor, Kiro.
 - [mailcow/mailcow-dockerized](https://github.com/mailcow/mailcow-dockerized) - mailcow: dockerized - 🐮 + 🐋 = 💕
 - [forwardemail/forwardemail.net](https://github.com/forwardemail/forwardemail.net) - Privacy-focused encrypted email for everyone.  All-in-one alternative to Gmail + Mailchimp + Sendgrid.
 - [pshenok/server-survival](https://github.com/pshenok/server-survival) - Tower defense game that teaches cloud architecture. Build infrastructure, survive traffic, learn scaling.
@@ -1395,6 +1395,7 @@
 
 ## Python 
 
+- [MinishLab/semble](https://github.com/MinishLab/semble) - Fast and Accurate Code Search for Agents. Uses ~98% fewer tokens than grep+read
 - [jumpserver/jumpserver](https://github.com/jumpserver/jumpserver) - JumpServer is an open-source Privileged Access Management (PAM) platform that provides DevOps and IT teams with on-demand and secure access to SSH, RDP, Kubernetes, Database and RemoteApp endpoints th
 - [sooperset/mcp-atlassian](https://github.com/sooperset/mcp-atlassian) - MCP server for Atlassian tools (Confluence, Jira)
 - [maguowei/starred](https://github.com/maguowei/starred) - Create and maintain your own Awesome-style list from GitHub stars!
@@ -1695,6 +1696,7 @@
 
 ## Rust 
 
+- [compio-rs/compio](https://github.com/compio-rs/compio) - A thread-per-core async Rust runtime with IOCP/io_uring/polling.
 - [Sollimann/bonsai](https://github.com/Sollimann/bonsai) - Rust implementation of behavior trees for deterministic AI
 - [jnsahaj/lumen](https://github.com/jnsahaj/lumen) - Beautiful git diff viewer, generate commits with AI, get summary of changes, all from the CLI
 - [tinyhumansai/openhuman](https://github.com/tinyhumansai/openhuman) - Your Personal AI super intelligence. Private, Simple and extremely powerful.
@@ -2142,7 +2144,7 @@
 - [artifacthub/hub](https://github.com/artifacthub/hub) - Find, install and publish Cloud Native packages
 - [browseros-ai/BrowserOS](https://github.com/browseros-ai/BrowserOS) - 🌐 The open-source Agentic browser; alternative to ChatGPT Atlas, Perplexity Comet, Dia.
 - [neoclide/coc-java](https://github.com/neoclide/coc-java) - Java extension for coc.nvim
-- [lobehub/lobehub](https://github.com/lobehub/lobehub) - LobeHub organizes your agents into 7×24 operation. It hires, schedules, reports on your entire AI team. You stay in charge — without staying online.
+- [lobehub/lobehub](https://github.com/lobehub/lobehub) - 🤯 LobeHub is your Chief Agent Operator, organizing your agents into 7×24 operations by hiring, scheduling, and reporting on your entire AI team.
 - [triggerdotdev/trigger.dev](https://github.com/triggerdotdev/trigger.dev) - Trigger.dev – build and deploy fully‑managed AI agents and workflows
 - [ollama/ollama-js](https://github.com/ollama/ollama-js) - Ollama JavaScript library
 - [chhoumann/bunnai](https://github.com/chhoumann/bunnai) - cli to inject ai-generated commit messages into lazygit
@@ -2238,7 +2240,7 @@
 - [carloscuesta/gitmoji](https://github.com/carloscuesta/gitmoji) - An emoji guide for your commit messages. 😜
 - [rawnly/next-wayfinder](https://github.com/rawnly/next-wayfinder) - Apply multiple nextjs middlewares with ease
 - [maximegel/blogster](https://github.com/maximegel/blogster) - Crosspost to Medium and Dev.to automagically from the CLI
-- [codebam/cf-workers-telegram-bot](https://github.com/codebam/cf-workers-telegram-bot) - Telegram Bot library for CloudFlare Workers
+- [codebam/cf-workers-telegram-bot](https://github.com/codebam/cf-workers-telegram-bot) - Telegram Bot for CloudFlare Workers
 - [tskau/tobalt](https://github.com/tskau/tobalt) - the simple cobalt API client written in typescript
 - [tskau/cobold](https://github.com/tskau/cobold) - telegram bot for downloading media, powered by cobalt
 - [ethndotsh/openbin](https://github.com/ethndotsh/openbin) - 
