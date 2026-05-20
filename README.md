@@ -814,7 +814,7 @@
 - [dolthub/dolt](https://github.com/dolthub/dolt) - Dolt – Git for Data
 - [k3s-io/k3s](https://github.com/k3s-io/k3s) - Lightweight Kubernetes
 - [davecheney/httpstat](https://github.com/davecheney/httpstat) - It's like curl -v, with colours.
-- [gogs/gogs](https://github.com/gogs/gogs) - Gogs is a painless self-hosted Git service
+- [gogs/gogs](https://github.com/gogs/gogs) - The painless way to host your own Git service
 - [jpillora/chisel](https://github.com/jpillora/chisel) - A fast TCP/UDP tunnel over HTTP
 - [uptrace/bun](https://github.com/uptrace/bun) - SQL-first Golang ORM
 - [calloc134/golang-ddd-test](https://github.com/calloc134/golang-ddd-test) - 試験用です。参考にしないこと
