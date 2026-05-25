@@ -1479,6 +1479,7 @@
 
 ## docker 
 
+- [siderolabs/conform](https://github.com/siderolabs/conform) - Policy enforcement for your pipelines.
 - [pvd-nerd/docker-arr-suite](https://github.com/pvd-nerd/docker-arr-suite) - Modular Docker Compose stack for automated media management using Jellyfin/Plex, Traefik, qBittorrent, Radarr, Sonarr, Prowlarr, and more—securely routed through Gluetun with built-in reverse proxy, u
 - [getwud/wud](https://github.com/getwud/wud) - Keep your containers up-to-date!
 - [containerd/containerd](https://github.com/containerd/containerd) - An open and reliable container runtime
@@ -1907,6 +1908,7 @@
 
 ## go 
 
+- [siderolabs/conform](https://github.com/siderolabs/conform) - Policy enforcement for your pipelines.
 - [zeromicro/go-zero](https://github.com/zeromicro/go-zero) - A cloud-native Go microservices framework with cli tool for productivity.
 - [gitsocial-org/gitsocial](https://github.com/gitsocial-org/gitsocial) - Git-native cross-forge collaboration platform
 - [ko-build/ko](https://github.com/ko-build/ko) - Build and deploy Go applications
