@@ -307,6 +307,7 @@
 
 ## agent 
 
+- [agent-infra/sandbox](https://github.com/agent-infra/sandbox) - All-in-One Sandbox for AI Agents that combines Browser, Shell, File, MCP and VSCode Server in a single Docker container.
 - [duo121/termhub](https://github.com/duo121/termhub) - TermHub: Open-source native terminal control gateway for AI Agents. Let LLMs/AI Agents fully control & automate iTerm2 / Windows Terminal: manage tabs, panes, sessions, send commands, capture output p
 - [bytedance/deer-flow](https://github.com/bytedance/deer-flow) - An open-source long-horizon SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skill, subagents and message gateway, it handles different levels of ta
 - [agent-sh/agentsys](https://github.com/agent-sh/agentsys) - AI writes code. This automates everything else · 26 plugins · 50 agents · 47 skills · for Claude Code, OpenCode, Codex, Cursor, Kiro.
@@ -3328,6 +3329,7 @@
 
 ## mcp 
 
+- [agent-infra/sandbox](https://github.com/agent-infra/sandbox) - All-in-One Sandbox for AI Agents that combines Browser, Shell, File, MCP and VSCode Server in a single Docker container.
 - [MinishLab/semble](https://github.com/MinishLab/semble) - Fast and Accurate Code Search for Agents. Uses ~98% fewer tokens than grep+read
 - [sooperset/mcp-atlassian](https://github.com/sooperset/mcp-atlassian) - MCP server for Atlassian tools (Confluence, Jira)
 - [openclaw/mcporter](https://github.com/openclaw/mcporter) - Call MCPs via TypeScript, masquerading as simple TypeScript API. Or package them as cli.
@@ -5354,6 +5356,7 @@
 
 ## shell 
 
+- [agent-infra/sandbox](https://github.com/agent-infra/sandbox) - All-in-One Sandbox for AI Agents that combines Browser, Shell, File, MCP and VSCode Server in a single Docker container.
 - [sourcegraph/run](https://github.com/sourcegraph/run) - 🏃‍♂️ A new way to execute commands and manipulate command output in Go
 - [sigoden/aichat](https://github.com/sigoden/aichat) - All-in-one LLM CLI tool featuring Shell Assistant, Chat-REPL, RAG, AI Tools & Agents, with access to OpenAI, Claude, Gemini, Ollama, Groq, and more.
 - [mongodb-js/mongosh](https://github.com/mongodb-js/mongosh) - The MongoDB Shell
