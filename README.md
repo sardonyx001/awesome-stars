@@ -335,7 +335,7 @@
 - [GoogleContainerTools/skaffold](https://github.com/GoogleContainerTools/skaffold) - Easy and Repeatable Kubernetes Development
 - [nozomi-koborinai/gcp-cost-mcp-server](https://github.com/nozomi-koborinai/gcp-cost-mcp-server) - 💰 An MCP server that enables AI assistants to estimate Google Cloud costs, powered by Cloud Billing Catalog API and built with Genkit for Go
 - [ko-build/ko](https://github.com/ko-build/ko) - Build and deploy Go applications
-- [distr-sh/distr](https://github.com/distr-sh/distr) - The Open Source control plane for self-managed, BYOC, and on-prem deployments. Everything you need to distribute applications to self-managed customers out of the box. Supporting Docker Compose, Docke
+- [distr-sh/distr](https://github.com/distr-sh/distr) - The Open Source control plane for self-hosted, BYOC, and on-prem deployments. Everything you need to distribute applications to self-hosted customers out of the box. Supporting Docker Compose, Docker 
 - [rancher/k3k](https://github.com/rancher/k3k) - Kubernetes in Kubernetes
 - [bjarneo/cliamp](https://github.com/bjarneo/cliamp) - cliamp - Terminal music player inspired by winamp
 - [cadence-workflow/cadence](https://github.com/cadence-workflow/cadence) - Cadence is a distributed, scalable, durable, and highly available orchestration engine to execute asynchronous long-running business logic in a scalable and resilient way.
@@ -1018,7 +1018,6 @@
 - [GomezWare/coolhook](https://github.com/GomezWare/coolhook) - A universal webhook trigger for Coolify projects
 - [ccollier86/forgejo-coolify-bridge](https://github.com/ccollier86/forgejo-coolify-bridge) - Use Forgejo with Coolify just like GitHub! Native integration for browsing repos, automatic webhooks, and push-to-deploy
 - [sammcj/firecrawler](https://github.com/sammcj/firecrawler) - A lightweight frontend for self-hosted Firecrawl instances
-- [coollabsio/coolify-docs](https://github.com/coollabsio/coolify-docs) - Documentation for Coolify
 - [alam00000/bentopdf](https://github.com/alam00000/bentopdf) - The Privacy First PDF Toolkit
 - [cronicle-edge/cronicle-edge](https://github.com/cronicle-edge/cronicle-edge) - Cronicle V2 (Orchestra) community prototype
 - [mongo-express/mongo-express](https://github.com/mongo-express/mongo-express) - Web-based MongoDB admin interface, written with Node.js and Express
@@ -1248,6 +1247,7 @@
 
 ## MDX 
 
+- [coollabsio/coolify-docs](https://github.com/coollabsio/coolify-docs) - Documentation for Coolify
 - [webtui/webtui](https://github.com/webtui/webtui) - Modular CSS Library that brings the beauty of Terminal UIs to the browser
 - [mkosir/typescript-style-guide](https://github.com/mkosir/typescript-style-guide) - ⚙️ TypeScript Style Guide. A concise set of conventions and best practices for creating consistent, maintainable code.
 - [pmillspaugh/petemillspaugh.com](https://github.com/pmillspaugh/petemillspaugh.com) - My digital garden
