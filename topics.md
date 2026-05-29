@@ -3815,7 +3815,7 @@
 - [refactoringhq/tolaria](https://github.com/refactoringhq/tolaria) - Desktop app to manage markdown knowledge bases
 - [thunderbird/appointment](https://github.com/thunderbird/appointment) - Invite others to grab times on your calendar. Choose a date. Make appointments as easy as it gets.
 - [olivierlambert/calrs](https://github.com/olivierlambert/calrs) - Fast, self-hostable scheduling platform. Like Cal.com, but written in Rust.
-- [podplane/s3lect](https://github.com/podplane/s3lect) - Leader election package for Go which uses S3-compatible object storage as the primary coordination mechanism
+- [podplane/s3lect](https://github.com/podplane/s3lect) - Leader election package for Go which uses S3/object storage as the primary coordination mechanism
 - [fnproject/ext-auth](https://github.com/fnproject/ext-auth) - Authentication extension for Fn Project
 - [treeder/slackbots](https://github.com/treeder/slackbots) - A bunch of rad slackbots that run on Fn Project.
 - [earendil-works/gondolin](https://github.com/earendil-works/gondolin) - Experimental Linux microvm setup with a TypeScript Control Plane as Agent Sandbox
