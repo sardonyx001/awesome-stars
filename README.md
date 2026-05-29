@@ -320,7 +320,7 @@
 - [earthly/earthly](https://github.com/earthly/earthly) - Super simple build framework with fast, repeatable builds and an instantly familiar syntax – like Dockerfile and Makefile had a baby.
 - [ovh/ovhcloud-cli](https://github.com/ovh/ovhcloud-cli) - ☀ Official Command Line Interface to manage your OVHcloud services ☁
 - [zitadel/zitadel](https://github.com/zitadel/zitadel) - ZITADEL - Identity infrastructure, simplified for you.
-- [podplane/s3lect](https://github.com/podplane/s3lect) - Leader election package for Go which uses S3-compatible object storage as the primary coordination mechanism
+- [podplane/s3lect](https://github.com/podplane/s3lect) - Leader election package for Go which uses S3/object storage as the primary coordination mechanism
 - [fnproject/ext-auth](https://github.com/fnproject/ext-auth) - Authentication extension for Fn Project
 - [dependabot/cli](https://github.com/dependabot/cli) - A tool for testing and debugging Dependabot update jobs.
 - [aayanmtn/chartgo](https://github.com/aayanmtn/chartgo) - chartjs for go
