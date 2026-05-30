@@ -1725,7 +1725,7 @@
 - [orhun/git-cliff](https://github.com/orhun/git-cliff) - A highly customizable Changelog Generator that follows Conventional Commit specifications ⛰️
 - [crate-ci/typos](https://github.com/crate-ci/typos) - Source code spell checker
 - [lycheeverse/lychee](https://github.com/lycheeverse/lychee) - ⚡ Fast, async, stream-based link checker written in Rust. Finds broken URLs and mail addresses inside Markdown, HTML, reStructuredText, websites and more!
-- [holon-run/holon](https://github.com/holon-run/holon) - Local, headless server-client runtime for durable AI agent work in local workspaces
+- [holon-run/holon](https://github.com/holon-run/holon) - A local workbench for agents doing continuous work across sessions, commands, human input, and external events.
 - [lux-db/lux](https://github.com/lux-db/lux) - A Redis-compatable key-value store. Up to 10x faster. Native vector support.
 - [facebook/sapling](https://github.com/facebook/sapling) - A Scalable, User-Friendly Source Control System.
 - [rustfs/rustfs](https://github.com/rustfs/rustfs) - 🚀2.3x faster than MinIO for 4KB object payloads. RustFS is an open-source, S3-compatible high-performance object storage system supporting migration and coexistence with other S3-compatible platforms 
