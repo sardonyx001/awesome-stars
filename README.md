@@ -177,7 +177,7 @@
 
 ## C++ 
 
-- [smithclay/duckdb-otlp](https://github.com/smithclay/duckdb-otlp) - query OpenTelemetry metrics, logs, and traces (OTLP) in duckdb
+- [smithclay/duckdb-otlp](https://github.com/smithclay/duckdb-otlp) - stream, store and query OpenTelemetry metrics, logs, and traces (OTLP) in duckdb
 - [scylladb/scylladb](https://github.com/scylladb/scylladb) - NoSQL data store using the Seastar framework, compatible with Apache Cassandra and Amazon DynamoDB
 - [wled/WLED](https://github.com/wled/WLED) - Control WS2812B and many more types of digital RGB LEDs with an ESP32 over WiFi!
 - [alibaba/zvec](https://github.com/alibaba/zvec) - A lightweight, lightning-fast, in-process vector database
