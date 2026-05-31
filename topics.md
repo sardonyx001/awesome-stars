@@ -3809,7 +3809,7 @@
 - [MauricioPerera/just-bash-wiki](https://github.com/MauricioPerera/just-bash-wiki) - just-bash plugin: LLM-maintained wiki with semantic search. Implements Karpathy's LLM Wiki pattern.
 - [compio-rs/compio](https://github.com/compio-rs/compio) - A thread-per-core async Rust runtime with IOCP/io_uring/polling.
 - [openwrt/luci](https://github.com/openwrt/luci) - LuCI - OpenWrt Configuration Interface
-- [smithclay/duckdb-otlp](https://github.com/smithclay/duckdb-otlp) - query OpenTelemetry metrics, logs, and traces (OTLP) in duckdb
+- [smithclay/duckdb-otlp](https://github.com/smithclay/duckdb-otlp) - stream, store and query OpenTelemetry metrics, logs, and traces (OTLP) in duckdb
 - [tinyhumansai/openhuman](https://github.com/tinyhumansai/openhuman) - Your Personal AI super intelligence. Private, Simple and extremely powerful.
 - [paperclipai/paperclip](https://github.com/paperclipai/paperclip) - The open-source app everyone uses to manage agents at work
 - [braintrustdata/helm](https://github.com/braintrustdata/helm) - Helm charts for the self-hosted data plane
