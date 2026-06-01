@@ -1653,7 +1653,7 @@
 - [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) - :books: Freely available programming books
 - [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) - Stable Diffusion web UI
 - [knguyenanhoa/cli-arxiv](https://github.com/knguyenanhoa/cli-arxiv) - CLI tool for exploring arXiv (inspired by karpathy's brilliant ArXiv Sanity Preserver)
-- [mongodb-developer/FARM-Intro](https://github.com/mongodb-developer/FARM-Intro) - Introducing FARM - FastAPI, React & MongoDB
+- [mongodb-developer/FARM-Intro](https://github.com/mongodb-developer/FARM-Intro) - A full-stack FARM Stack to-do app built with FastAPI, React and MongoDB. Shows async CRUD, a React 18 frontend with Ant Design 5 and MongoDB-backed task persistence with local Docker and CI support.
 - [Deadshot0x7/Webspoilt](https://github.com/Deadshot0x7/Webspoilt) - This script will you help to find the information about the website and to help in penetrating testing
 - [Shad0w-ops/H.I.V.E](https://github.com/Shad0w-ops/H.I.V.E) - H.I.V.E is an automated OSINT (Open Source Intelligence) multi-tool that enables efficient data gathering from various sources through the utilization of a single, unified platform.
 - [abdulkadir-gungor/JPGtoMalware](https://github.com/abdulkadir-gungor/JPGtoMalware) - It embeds the executable file or payload inside the jpg file.  The method the program uses isn't exactly called one of the steganography methods. For this reason, it does not cause any distortion in t
@@ -1802,6 +1802,7 @@
 - [kevinswiber/postman2openapi](https://github.com/kevinswiber/postman2openapi) - Convert a Postman collection to an OpenAPI definition.
 - [sxyazi/yazi](https://github.com/sxyazi/yazi) - 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
 - [ouch-org/ouch](https://github.com/ouch-org/ouch) - Painless compression and decompression in the terminal
+- [pnpm/pnpm](https://github.com/pnpm/pnpm) - Fast, disk space efficient package manager
 - [rust-lang/rust](https://github.com/rust-lang/rust) - Empowering everyone to build reliable and efficient software.
 - [juspay/hyperswitch](https://github.com/juspay/hyperswitch) - Open source, composable payments platform | PCI compliant | SaaS and Self-host options | Enables connectivity to multiple payment, payout, fraud, vault and tokenization providers | Uplifts authorizati
 - [uutils/coreutils](https://github.com/uutils/coreutils) - Cross-platform Rust rewrite of the GNU coreutils
@@ -2148,7 +2149,7 @@
 - [qoomon/actions--access-token](https://github.com/qoomon/actions--access-token) - Get rid of personal access tokens (PAT) and credential management, use temporary GitHub Application access tokens instead!
 - [anthropics/anthropic-sdk-typescript](https://github.com/anthropics/anthropic-sdk-typescript) - Access to Anthropic's safety-first language model APIs in TypeScript
 - [modelcontextprotocol/typescript-sdk](https://github.com/modelcontextprotocol/typescript-sdk) - The official TypeScript SDK for Model Context Protocol servers and clients
-- [ruvnet/ruflo](https://github.com/ruvnet/ruflo) - 🌊 The leading agent orchestration platform for Claude. Deploy intelligent multi-agent swarms, coordinate autonomous workflows, and build conversational AI systems. Features    enterprise-grade archite
+- [ruvnet/ruflo](https://github.com/ruvnet/ruflo) - 🌊 The leading agent meta-harness for Claude. Deploy intelligent multi-agent swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning swarm 
 - [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) - An open-source AI agent that brings the power of Gemini directly into your terminal.
 - [chaqchase/cronbake](https://github.com/chaqchase/cronbake) - Cronbake - A Cron Job Manager powered by Bun
 - [shuding/legid](https://github.com/shuding/legid) - A library for generating safe, legit and random URL-compat IDs.
@@ -2166,7 +2167,6 @@
 - [vercel/micro](https://github.com/vercel/micro) - Asynchronous HTTP microservices
 - [8bitgentleman/activitywatch-mcp-server](https://github.com/8bitgentleman/activitywatch-mcp-server) - Model Context Protocol server for ActivityWatch time tracking data
 - [anomalyco/opencode](https://github.com/anomalyco/opencode) - The open source coding agent.
-- [pnpm/pnpm](https://github.com/pnpm/pnpm) - Fast, disk space efficient package manager
 - [PlasmoHQ/plasmo](https://github.com/PlasmoHQ/plasmo) - 🧩 The Browser Extension Framework
 - [wxt-dev/wxt](https://github.com/wxt-dev/wxt) - ⚡ Next-gen Web Extension Framework
 - [kysely-org/kysely](https://github.com/kysely-org/kysely) - A type-safe TypeScript SQL query builder
@@ -2231,7 +2231,7 @@
 - [eramdam/starry-raindrop](https://github.com/eramdam/starry-raindrop) - Sync GitHub starred repos to a Raindrop.io collection
 - [Aylur/ags](https://github.com/Aylur/ags) - Scaffolding CLI for Astal+Gnim
 - [raycast/extensions](https://github.com/raycast/extensions) - Everything you need to extend Raycast.
-- [novuhq/novu](https://github.com/novuhq/novu) - The open-source notification infrastructure. In-app Inbox component, E-mail, SMS, Push and Slack Integrations.
+- [novuhq/novu](https://github.com/novuhq/novu) - The open-source communication infrastructure for agents and products
 - [bogeychan/elysia-logger](https://github.com/bogeychan/elysia-logger) - A plugin for Elysia.js for logging using the pino library
 - [adelsz/pgtyped](https://github.com/adelsz/pgtyped) - pgTyped - Typesafe SQL in TypeScript
 - [payloadcms/payload](https://github.com/payloadcms/payload) - Payload is the open-source, fullstack Next.js framework, giving you instant backend superpowers. Get a full TypeScript backend and admin panel instantly. Use Payload as a headless CMS or for building 
