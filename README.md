@@ -1703,6 +1703,7 @@
 
 ## Rust 
 
+- [turbopuffer/alyze](https://github.com/turbopuffer/alyze) - Tokenization and analysis pipeline for full-text search
 - [servo/servo](https://github.com/servo/servo) - Servo aims to empower developers with a lightweight, high-performance alternative for embedding web technologies in applications.
 - [facebook/pyrefly](https://github.com/facebook/pyrefly) - A fast type checker and language server for Python
 - [compio-rs/compio](https://github.com/compio-rs/compio) - A thread-per-core async Rust runtime with IOCP/io_uring/polling.
