@@ -1703,6 +1703,7 @@
 
 ## Rust 
 
+- [sarub0b0/kubetui](https://github.com/sarub0b0/kubetui) - An intuitive Terminal User Interface (TUI) tool for real-time monitoring and exploration of Kubernetes resources
 - [turbopuffer/alyze](https://github.com/turbopuffer/alyze) - Tokenization and analysis pipeline for full-text search
 - [servo/servo](https://github.com/servo/servo) - Servo aims to empower developers with a lightweight, high-performance alternative for embedding web technologies in applications.
 - [facebook/pyrefly](https://github.com/facebook/pyrefly) - A fast type checker and language server for Python
