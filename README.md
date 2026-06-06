@@ -1295,7 +1295,6 @@
 - [kepano/obsidian-skills](https://github.com/kepano/obsidian-skills) - Agent skills for Obsidian. Teach your agent to use Markdown, Bases, JSON Canvas, and use the CLI.
 - [devexperts/grading-system](https://github.com/devexperts/grading-system) - Grades system for the engineers at Devexperts
 - [sameerbagwe/k8sLabSetup](https://github.com/sameerbagwe/k8sLabSetup) - Setup Guide (Mac M1): Kubernetes, Cilium CNI, Istio Mesh, Security Hardening, CIS Benchmarks
-- [ashishpatel26/500-AI-Agents-Projects](https://github.com/ashishpatel26/500-AI-Agents-Projects) - The 500 AI Agents Projects is a curated collection of AI agent use cases across various industries. It showcases practical applications and provides links to open-source projects for implementation, i
 - [grayhatdevelopers/plane-coolify](https://github.com/grayhatdevelopers/plane-coolify) - Plane sample config for running on Coolify
 - [essamamdani/coolify-trigger-v4](https://github.com/essamamdani/coolify-trigger-v4) - Trigger.dev v4 Self-Hosted Setup in Coolify
 - [pizlonator/fil-c](https://github.com/pizlonator/fil-c) - Fil-C: completely compatible memory safety for C and C++
@@ -1425,6 +1424,7 @@
 - [langchain-ai/streamlit-agent](https://github.com/langchain-ai/streamlit-agent) - Reference implementations of several LangChain agents as Streamlit apps
 - [americium-241/LLM_Omnitool_UI](https://github.com/americium-241/LLM_Omnitool_UI) - A minimalistic streamlit chatbot UI to combine and customize tools for langchain llm agents
 - [getredash/redash](https://github.com/getredash/redash) - Make Your Company Data Driven. Connect to any data source, easily visualize, dashboard and share your data.
+- [ashishpatel26/500-AI-Agents-Projects](https://github.com/ashishpatel26/500-AI-Agents-Projects) - The 500 AI Agents Projects is a curated collection of AI agent use cases across various industries. It showcases practical applications and provides links to open-source projects for implementation, i
 - [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - The agent engineering platform.
 - [kaxap/arl](https://github.com/kaxap/arl) - lists of most popular repositories for most favoured programming languages (according to StackOverflow)
 - [rendercv/rendercv](https://github.com/rendercv/rendercv) - Resume builder for academics and engineers
