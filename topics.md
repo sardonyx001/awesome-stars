@@ -3714,7 +3714,6 @@
 - [BingyanStudio/LapisCV](https://github.com/BingyanStudio/LapisCV) - 📄 Easily create your resume with Markdown on VSCode / Typora / Obsidian
 - [kmaasrud/awesome-obsidian](https://github.com/kmaasrud/awesome-obsidian) - 🕶️ Awesome stuff for Obsidian
 - [roodolv/markdown-toggle.nvim](https://github.com/roodolv/markdown-toggle.nvim) - A Neovim plugin that provides a simple and useful set of toggle commands for Markdown.
-- [siyuan-note/siyuan](https://github.com/siyuan-note/siyuan) - A privacy-first, self-hosted, fully open source personal knowledge management software, written in typescript and golang.
 
 ## obsidian-md 
 
