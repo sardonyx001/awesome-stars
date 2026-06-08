@@ -1291,7 +1291,7 @@
 
 - [pvd-nerd/docker-arr-suite](https://github.com/pvd-nerd/docker-arr-suite) - Modular Docker Compose stack for automated media management using Jellyfin/Plex, Traefik, qBittorrent, Radarr, Sonarr, Prowlarr, and more—securely routed through Gluetun with built-in reverse proxy, u
 - [devcontainers/spec](https://github.com/devcontainers/spec) - Development Containers: Use a container as a full-featured development environment.
-- [kepano/obsidian-skills](https://github.com/kepano/obsidian-skills) - Agent skills for Obsidian. Teach your agent to use Markdown, Bases, JSON Canvas, and use the CLI.
+- [kepano/obsidian-skills](https://github.com/kepano/obsidian-skills) - Agent skills for Obsidian. Teach your agent to use Obsidian CLI and open formats including Markdown, Bases, JSON Canvas.
 - [devexperts/grading-system](https://github.com/devexperts/grading-system) - Grades system for the engineers at Devexperts
 - [sameerbagwe/k8sLabSetup](https://github.com/sameerbagwe/k8sLabSetup) - Setup Guide (Mac M1): Kubernetes, Cilium CNI, Istio Mesh, Security Hardening, CIS Benchmarks
 - [grayhatdevelopers/plane-coolify](https://github.com/grayhatdevelopers/plane-coolify) - Plane sample config for running on Coolify
