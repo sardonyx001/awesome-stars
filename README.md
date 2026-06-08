@@ -1694,7 +1694,7 @@
 - [Homebrew/homebrew-cask](https://github.com/Homebrew/homebrew-cask) - 🍻 A CLI workflow for the administration of macOS applications distributed as binaries
 - [samg/timetrap](https://github.com/samg/timetrap) - Simple command line timetracker
 - [ahyield/tram_time](https://github.com/ahyield/tram_time) - My tram :tram: arrival times, station is a stone's throw from my door.
-- [Homebrew/brew](https://github.com/Homebrew/brew) - 🍺 The missing package manager for macOS (or Linux)
+- [Homebrew/brew](https://github.com/Homebrew/brew) - 🍺 The Package Manager for Everywhere
 - [sferik/x-cli](https://github.com/sferik/x-cli) - A command-line power tool for Twitter.
 
 ## Rust 
