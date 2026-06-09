@@ -1077,7 +1077,7 @@
 - [sanathkr/go-npm](https://github.com/sanathkr/go-npm) - Distribute and install Go binaries via NPM
 - [yiyu0x/line-notify-sdk-nodejs](https://github.com/yiyu0x/line-notify-sdk-nodejs) - 🔨 A third party LINE Notify SDK for Node.js
 - [kidkrub/line-notifier](https://github.com/kidkrub/line-notifier) - 
-- [facebook/react](https://github.com/facebook/react) - The library for web and native user interfaces.
+- [react/react](https://github.com/react/react) - The library for web and native user interfaces.
 - [jamesgeorge007/github-activity-readme](https://github.com/jamesgeorge007/github-activity-readme) - Updates README with the recent GitHub activity of a user
 - [jackspirou/clientjs](https://github.com/jackspirou/clientjs) - Device information and digital fingerprinting written in pure JavaScript.
 - [gautamkrishnar/nothing-private](https://github.com/gautamkrishnar/nothing-private) - Do you think you are safe using private browsing or incognito mode?. :smile: :imp: This will prove that you're wrong.   Previously hosted at nothingprivate.ml
