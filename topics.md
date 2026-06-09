@@ -435,6 +435,7 @@
 
 ## ai-agents 
 
+- [avivsinai/bitbucket-cli](https://github.com/avivsinai/bitbucket-cli) - Bitbucket CLI with gh-like ergonomics
 - [eforge-build/eforge](https://github.com/eforge-build/eforge) - Open source agentic build system - transforms specifications into verified source code with blind adversarial review
 - [Dicklesworthstone/destructive_command_guard](https://github.com/Dicklesworthstone/destructive_command_guard) - The Destructive Command Guard (dcg) is for blocking dangerous git and shell commands from being executed by agents.
 - [holon-run/uxc](https://github.com/holon-run/uxc) - A unified CLI for discovering and invoking tools across OpenAPI, MCP, GraphQL, gRPC, and JSON-RPC
@@ -873,6 +874,7 @@
 
 ## claude-code 
 
+- [avivsinai/bitbucket-cli](https://github.com/avivsinai/bitbucket-cli) - Bitbucket CLI with gh-like ergonomics
 - [eforge-build/eforge](https://github.com/eforge-build/eforge) - Open source agentic build system - transforms specifications into verified source code with blind adversarial review
 - [uditgoenka/autoresearch](https://github.com/uditgoenka/autoresearch) - Claude Autoresearch Skill — Autonomous goal-directed iteration for Claude Code. Inspired by Karpathy's autoresearch. Modify → Verify → Keep/Discard → Repeat forever.
 - [midspiral/lemmafit](https://github.com/midspiral/lemmafit) - Make agents prove that their code is correct.
@@ -893,6 +895,7 @@
 
 ## cli 
 
+- [avivsinai/bitbucket-cli](https://github.com/avivsinai/bitbucket-cli) - Bitbucket CLI with gh-like ergonomics
 - [jnsahaj/lumen](https://github.com/jnsahaj/lumen) - Beautiful git diff viewer, generate commits with AI, get summary of changes, all from the CLI
 - [ovh/ovhcloud-cli](https://github.com/ovh/ovhcloud-cli) - ☀ Official Command Line Interface to manage your OVHcloud services ☁
 - [openclaw/mcporter](https://github.com/openclaw/mcporter) - Call MCPs via TypeScript, masquerading as simple TypeScript API. Or package them as cli.
@@ -1387,6 +1390,7 @@
 
 ## developer-tools 
 
+- [avivsinai/bitbucket-cli](https://github.com/avivsinai/bitbucket-cli) - Bitbucket CLI with gh-like ergonomics
 - [GoogleContainerTools/skaffold](https://github.com/GoogleContainerTools/skaffold) - Easy and Repeatable Kubernetes Development
 - [Dicklesworthstone/destructive_command_guard](https://github.com/Dicklesworthstone/destructive_command_guard) - The Destructive Command Guard (dcg) is for blocking dangerous git and shell commands from being executed by agents.
 - [holon-run/uxc](https://github.com/holon-run/uxc) - A unified CLI for discovering and invoking tools across OpenAPI, MCP, GraphQL, gRPC, and JSON-RPC
@@ -1426,6 +1430,7 @@
 
 ## devops 
 
+- [avivsinai/bitbucket-cli](https://github.com/avivsinai/bitbucket-cli) - Bitbucket CLI with gh-like ergonomics
 - [aohoyd/aku](https://github.com/aohoyd/aku) - Terminal UI for Kubernetes clusters built with Bubble Tea. Resource browsing, YAML/describe views, live log streaming, split panes, exec, debug containers, port forwarding, Helm management, and vim-st
 - [kestra-io/kestra](https://github.com/kestra-io/kestra) - Event Driven Orchestration & Scheduling Platform for Mission Critical Applications
 - [pshenok/server-survival](https://github.com/pshenok/server-survival) - Tower defense game that teaches cloud architecture. Build infrastructure, survive traffic, learn scaling.
@@ -1851,6 +1856,7 @@
 
 ## git 
 
+- [avivsinai/bitbucket-cli](https://github.com/avivsinai/bitbucket-cli) - Bitbucket CLI with gh-like ergonomics
 - [jnsahaj/lumen](https://github.com/jnsahaj/lumen) - Beautiful git diff viewer, generate commits with AI, get summary of changes, all from the CLI
 - [gitsocial-org/gitsocial](https://github.com/gitsocial-org/gitsocial) - Git-native cross-forge collaboration platform
 - [j178/prek](https://github.com/j178/prek) - ⚡ A fast Git hook manager written in Rust, designed as a drop-in alternative to pre-commit, reimagined.
@@ -2149,6 +2155,7 @@
 
 ## golang 
 
+- [avivsinai/bitbucket-cli](https://github.com/avivsinai/bitbucket-cli) - Bitbucket CLI with gh-like ergonomics
 - [ente-io/ente](https://github.com/ente-io/ente) - 💚 End-to-end encrypted cloud for everything.
 - [zeromicro/go-zero](https://github.com/zeromicro/go-zero) - A cloud-native Go microservices framework with cli tool for productivity.
 - [tinyauthapp/tinyauth](https://github.com/tinyauthapp/tinyauth) - The tiniest authentication and authorization server you have ever seen.
