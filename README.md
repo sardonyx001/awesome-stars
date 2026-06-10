@@ -313,6 +313,8 @@
 
 ## Go 
 
+- [go-go-golems/go-minitrace](https://github.com/go-go-golems/go-minitrace) - minitrace util
+- [go-go-golems/glazed](https://github.com/go-go-golems/glazed) - a library to make it easy to output structured data in your command line tools. add the icing on top of your data
 - [go-go-golems/oak](https://github.com/go-go-golems/oak) - GO GO PARSE YOUR CODE GO GO
 - [go-go-golems/bobatea](https://github.com/go-go-golems/bobatea) - Custom bubbletea bubbles
 - [dtolpin/gosparkline](https://github.com/dtolpin/gosparkline) - Sparklines in Go
