@@ -313,6 +313,9 @@
 
 ## Go 
 
+- [go-go-golems/oak](https://github.com/go-go-golems/oak) - GO GO PARSE YOUR CODE GO GO
+- [go-go-golems/bobatea](https://github.com/go-go-golems/bobatea) - Custom bubbletea bubbles
+- [dtolpin/gosparkline](https://github.com/dtolpin/gosparkline) - Sparklines in Go
 - [avivsinai/bitbucket-cli](https://github.com/avivsinai/bitbucket-cli) - Bitbucket CLI with gh-like ergonomics
 - [siderolabs/conform](https://github.com/siderolabs/conform) - Policy enforcement for your pipelines.
 - [ray-project/kuberay](https://github.com/ray-project/kuberay) - A toolkit to run Ray applications on Kubernetes
