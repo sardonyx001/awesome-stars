@@ -901,7 +901,7 @@
 - [ovh/ovhcloud-cli](https://github.com/ovh/ovhcloud-cli) - ☀ Official Command Line Interface to manage your OVHcloud services ☁
 - [openclaw/mcporter](https://github.com/openclaw/mcporter) - Call MCPs via TypeScript, masquerading as simple TypeScript API. Or package them as cli.
 - [bibendi/dip](https://github.com/bibendi/dip) - The dip is a CLI dev–tool that provides native-like interaction with a Dockerized application.
-- [gitsocial-org/gitsocial](https://github.com/gitsocial-org/gitsocial) - Coss-forge collaboration platform
+- [gitsocial-org/gitsocial](https://github.com/gitsocial-org/gitsocial) - Cross-forge collaboration platform
 - [eforge-build/eforge](https://github.com/eforge-build/eforge) - Open source agentic build system - transforms specifications into verified source code with blind adversarial review
 - [duo121/termhub](https://github.com/duo121/termhub) - TermHub: Open-source native terminal control gateway for AI Agents. Let LLMs/AI Agents fully control & automate iTerm2 / Windows Terminal: manage tabs, panes, sessions, send commands, capture output p
 - [kepano/obsidian-skills](https://github.com/kepano/obsidian-skills) - Agent skills for Obsidian. Teach your agent to use Obsidian CLI and open formats including Markdown, Bases, JSON Canvas.
@@ -1862,7 +1862,7 @@
 
 - [avivsinai/bitbucket-cli](https://github.com/avivsinai/bitbucket-cli) - Bitbucket CLI with gh-like ergonomics
 - [jnsahaj/lumen](https://github.com/jnsahaj/lumen) - Beautiful git diff viewer, generate commits with AI, get summary of changes, all from the CLI
-- [gitsocial-org/gitsocial](https://github.com/gitsocial-org/gitsocial) - Coss-forge collaboration platform
+- [gitsocial-org/gitsocial](https://github.com/gitsocial-org/gitsocial) - Cross-forge collaboration platform
 - [j178/prek](https://github.com/j178/prek) - ⚡ A fast Git hook manager written in Rust, designed as a drop-in alternative to pre-commit, reimagined.
 - [Dicklesworthstone/destructive_command_guard](https://github.com/Dicklesworthstone/destructive_command_guard) - The Destructive Command Guard (dcg) is for blocking dangerous git and shell commands from being executed by agents.
 - [orhun/git-cliff](https://github.com/orhun/git-cliff) - A highly customizable Changelog Generator that follows Conventional Commit specifications ⛰️
@@ -1928,7 +1928,7 @@
 - [dtolpin/gosparkline](https://github.com/dtolpin/gosparkline) - Sparklines in Go
 - [siderolabs/conform](https://github.com/siderolabs/conform) - Policy enforcement for your pipelines.
 - [zeromicro/go-zero](https://github.com/zeromicro/go-zero) - A cloud-native Go microservices framework with cli tool for productivity.
-- [gitsocial-org/gitsocial](https://github.com/gitsocial-org/gitsocial) - Coss-forge collaboration platform
+- [gitsocial-org/gitsocial](https://github.com/gitsocial-org/gitsocial) - Cross-forge collaboration platform
 - [ko-build/ko](https://github.com/ko-build/ko) - Build and deploy Go applications
 - [distr-sh/distr](https://github.com/distr-sh/distr) - The Open Source control plane for self-hosted, BYOC, and on-prem deployments. Everything you need to distribute applications to self-hosted customers out of the box. Supporting Docker Compose, Docker 
 - [rulego/rulego](https://github.com/rulego/rulego) - ⛓️RuleGo is a lightweight, high-performance, embedded, next-generation component orchestration rule engine framework for Go.
@@ -5738,7 +5738,7 @@
 ## tui 
 
 - [sarub0b0/kubetui](https://github.com/sarub0b0/kubetui) - An intuitive Terminal User Interface (TUI) tool for real-time monitoring and exploration of Kubernetes resources
-- [gitsocial-org/gitsocial](https://github.com/gitsocial-org/gitsocial) - Coss-forge collaboration platform
+- [gitsocial-org/gitsocial](https://github.com/gitsocial-org/gitsocial) - Cross-forge collaboration platform
 - [janosmiko/vau](https://github.com/janosmiko/vau) - 🔒 A yazi-inspired terminal UI for browsing and editing HashiCorp Vault KV secrets.
 - [aohoyd/aku](https://github.com/aohoyd/aku) - Terminal UI for Kubernetes clusters built with Bubble Tea. Resource browsing, YAML/describe views, live log streaming, split panes, exec, debug containers, port forwarding, Helm management, and vim-st
 - [deemkeen/stegodon](https://github.com/deemkeen/stegodon) - Blog directly from ssh!
