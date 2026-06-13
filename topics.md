@@ -4021,7 +4021,7 @@
 - [rothgar/awesome-tuis](https://github.com/rothgar/awesome-tuis) - List of projects that provide terminal user interfaces
 - [aklt/plantuml-syntax](https://github.com/aklt/plantuml-syntax) - vim syntax file for plantuml
 - [cyprieng/github-breakout](https://github.com/cyprieng/github-breakout) - Generate a Breakout game SVG from a GitHub user's contributions graph
-- [saghen/frizbee](https://github.com/saghen/frizbee) - Fast typo-resistant fuzzy matching via SIMD smith waterman, similar algorithm to FZF/FZY
+- [saghen/frizbee](https://github.com/saghen/frizbee) - Fast typo-resistant fuzzy matching via SIMD smith waterman, similar algorithm to FZF
 - [OAI/sig-moonwalk](https://github.com/OAI/sig-moonwalk) - The effort to explore the future of the OpenAPI Specification is known as "Moonwalk." It includes 4.x considerations but also strives to consider 3.x. There is no planned end date to 4.0, so we strong
 - [thom311/libnl](https://github.com/thom311/libnl) - Netlink Library Suite
 - [topjohnwu/libsu](https://github.com/topjohnwu/libsu) - A complete solution for apps using root permissions
