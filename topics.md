@@ -435,6 +435,7 @@
 
 ## ai-agents 
 
+- [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) - Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.
 - [avivsinai/bitbucket-cli](https://github.com/avivsinai/bitbucket-cli) - Bitbucket CLI with gh-like ergonomics
 - [eforge-build/eforge](https://github.com/eforge-build/eforge) - Open source agentic build system - transforms specifications into verified source code with blind adversarial review
 - [Dicklesworthstone/destructive_command_guard](https://github.com/Dicklesworthstone/destructive_command_guard) - The Destructive Command Guard (dcg) is for blocking dangerous git and shell commands from being executed by agents.
@@ -876,6 +877,7 @@
 
 ## claude-code 
 
+- [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) - Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.
 - [rikeda71/ghostty-pane-splitter](https://github.com/rikeda71/ghostty-pane-splitter) - CLI Tool to split pane on Ghostty Terminal
 - [avivsinai/bitbucket-cli](https://github.com/avivsinai/bitbucket-cli) - Bitbucket CLI with gh-like ergonomics
 - [eforge-build/eforge](https://github.com/eforge-build/eforge) - Open source agentic build system - transforms specifications into verified source code with blind adversarial review
@@ -1396,6 +1398,7 @@
 
 ## developer-tools 
 
+- [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) - Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.
 - [avivsinai/bitbucket-cli](https://github.com/avivsinai/bitbucket-cli) - Bitbucket CLI with gh-like ergonomics
 - [GoogleContainerTools/skaffold](https://github.com/GoogleContainerTools/skaffold) - Easy and Repeatable Kubernetes Development
 - [Dicklesworthstone/destructive_command_guard](https://github.com/Dicklesworthstone/destructive_command_guard) - The Destructive Command Guard (dcg) is for blocking dangerous git and shell commands from being executed by agents.
@@ -3115,6 +3118,7 @@
 
 ## llm 
 
+- [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) - Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.
 - [jnsahaj/lumen](https://github.com/jnsahaj/lumen) - Beautiful git diff viewer, generate commits with AI, get summary of changes, all from the CLI
 - [mlc-ai/web-llm](https://github.com/mlc-ai/web-llm) - High-performance In-browser LLM Inference Engine
 - [genkit-ai/genkit](https://github.com/genkit-ai/genkit) - Open-source framework for building AI-powered apps in JavaScript, Go, and Python, built and used in production by Google
@@ -4744,6 +4748,7 @@
 
 ## prompt-engineering 
 
+- [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) - Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.
 - [wshobson/agents](https://github.com/wshobson/agents) - Multi-harness agentic plugin marketplace for Claude Code, Codex CLI, Cursor, OpenCode, GitHub Copilot, and Gemini CLI
 
 ## pwa 
