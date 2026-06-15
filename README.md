@@ -313,6 +313,8 @@
 
 ## Go 
 
+- [tamnd/ascii-gif](https://github.com/tamnd/ascii-gif) - Turn a terminal session into a good-looking animated GIF. A vhs wrapper with an attractive default look.
+- [tamnd/kage](https://github.com/tamnd/kage) - Shadow any website for offline viewing, with the JavaScript stripped out
 - [go-go-golems/go-minitrace](https://github.com/go-go-golems/go-minitrace) - minitrace util
 - [go-go-golems/glazed](https://github.com/go-go-golems/glazed) - a library to make it easy to output structured data in your command line tools. add the icing on top of your data
 - [go-go-golems/oak](https://github.com/go-go-golems/oak) - GO GO PARSE YOUR CODE GO GO
@@ -1001,6 +1003,7 @@
 
 ## JavaScript 
 
+- [gildas-lormeau/SingleFile](https://github.com/gildas-lormeau/SingleFile) - Web Extension for saving a faithful copy of a complete web page in a single HTML file
 - [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) - Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.
 - [openwrt/luci](https://github.com/openwrt/luci) - LuCI - OpenWrt Configuration Interface
 - [pinojs/pino](https://github.com/pinojs/pino) - 🌲 super fast, all natural json logger
