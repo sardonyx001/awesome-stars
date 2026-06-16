@@ -3886,7 +3886,7 @@
 - [paypay/paypay-sample-ecommerce-backend-python](https://github.com/paypay/paypay-sample-ecommerce-backend-python) - PayPay Sample Ecommerce Backend
 - [rancher/k3k](https://github.com/rancher/k3k) - Kubernetes in Kubernetes
 - [bazelbuild/bazel-central-registry](https://github.com/bazelbuild/bazel-central-registry) - The central registry of Bazel modules for the Bzlmod external dependency system.
-- [google/cel-spec](https://github.com/google/cel-spec) - Common Expression Language -- specification and binary representation
+- [cel-expr/cel-spec](https://github.com/cel-expr/cel-spec) - Common Expression Language -- specification and binary representation
 - [boldsoftware/shelley](https://github.com/boldsoftware/shelley) - Shelley is a coding agent
 - [earendil-works/pi](https://github.com/earendil-works/pi) - AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI
 - [davebcn87/pi-autoresearch](https://github.com/davebcn87/pi-autoresearch) - Autonomous experiment loop extension for pi
