@@ -2988,6 +2988,7 @@
 
 ## kubernetes 
 
+- [istio/istio](https://github.com/istio/istio) - Connect, secure, control, and observe services.
 - [sarub0b0/kubetui](https://github.com/sarub0b0/kubetui) - An intuitive Terminal User Interface (TUI) tool for real-time monitoring and exploration of Kubernetes resources
 - [ray-project/kuberay](https://github.com/ray-project/kuberay) - A toolkit to run Ray applications on Kubernetes
 - [containerd/containerd](https://github.com/containerd/containerd) - An open and reliable container runtime
@@ -3412,6 +3413,7 @@
 
 ## microservices 
 
+- [istio/istio](https://github.com/istio/istio) - Connect, secure, control, and observe services.
 - [zeromicro/go-zero](https://github.com/zeromicro/go-zero) - A cloud-native Go microservices framework with cli tool for productivity.
 - [storj/drpc](https://github.com/storj/drpc) - drpc is a lightweight, drop-in replacement for gRPC
 - [anthdm/hollywood](https://github.com/anthdm/hollywood) - Blazingly fast and light-weight Actor engine written in Golang
