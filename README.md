@@ -313,6 +313,7 @@
 
 ## Go 
 
+- [istio/api](https://github.com/istio/api) - API definitions for the Istio project
 - [istio/istio](https://github.com/istio/istio) - Connect, secure, control, and observe services.
 - [tamnd/ascii-gif](https://github.com/tamnd/ascii-gif) - Turn a terminal session into a good-looking animated GIF. A vhs wrapper with an attractive default look.
 - [tamnd/kage](https://github.com/tamnd/kage) - Shadow any website for offline viewing, with the JavaScript stripped out
