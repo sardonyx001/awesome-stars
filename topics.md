@@ -3847,6 +3847,7 @@
 
 ## others 
 
+- [containerd/nri](https://github.com/containerd/nri) - Node Resource Interface
 - [iptv-org/iptv](https://github.com/iptv-org/iptv) - Collection of publicly available IPTV channels from all over the world
 - [tamnd/ascii-gif](https://github.com/tamnd/ascii-gif) - Turn a terminal session into a good-looking animated GIF. A vhs wrapper with an attractive default look.
 - [tamnd/kage](https://github.com/tamnd/kage) - Shadow any website for offline viewing, with the JavaScript stripped out
