@@ -313,6 +313,7 @@
 
 ## Go 
 
+- [containerd/nri](https://github.com/containerd/nri) - Node Resource Interface
 - [actions/actions-runner-controller](https://github.com/actions/actions-runner-controller) - Kubernetes controller for GitHub Actions self-hosted runners
 - [summerwind/h2spec](https://github.com/summerwind/h2spec) - A conformance testing tool for HTTP/2 implementation.
 - [istio/api](https://github.com/istio/api) - API definitions for the Istio project
