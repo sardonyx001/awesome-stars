@@ -2053,7 +2053,7 @@
 - [fogleman/gg](https://github.com/fogleman/gg) - Go Graphics - 2D rendering in Go with a simple API.
 - [aunefyren/wrapperr](https://github.com/aunefyren/wrapperr) - Website based application that summarizes Plex statistics from a given period and displays it in a nice format. Similar to the Spotify Wrapped concept.
 - [opencoff/go-proxies](https://github.com/opencoff/go-proxies) - SOCKSv5 and HTTP Proxy Server in golang
-- [go-httpproxy/httpproxy](https://github.com/go-httpproxy/httpproxy) - Go HTTP proxy server library
+- [orkunkaraduman/go-httpproxy](https://github.com/orkunkaraduman/go-httpproxy) - Go HTTP proxy server library
 - [ovh/utask](https://github.com/ovh/utask) - µTask is an automation engine that models and executes business processes declared in yaml. ✏️📋
 - [sipt/shuttle](https://github.com/sipt/shuttle) - A web proxy in Golang with amazing features.
 - [hearchco/agent](https://github.com/hearchco/agent) - Hearchco agent used to gather info from a variety of sources.
@@ -2294,7 +2294,7 @@
 - [gertd/go-pluralize](https://github.com/gertd/go-pluralize) - Pluralize and singularize any word (golang adaptation of https://www.npmjs.com/package/pluralize)
 - [nikolaydubina/go-recipes](https://github.com/nikolaydubina/go-recipes) - 🦩 Tools for Go projects
 - [spicetify/cli](https://github.com/spicetify/cli) - Command-line tool to customize Spotify client. Supports Windows, macOS, and Linux.
-- [go-httpproxy/httpproxy](https://github.com/go-httpproxy/httpproxy) - Go HTTP proxy server library
+- [orkunkaraduman/go-httpproxy](https://github.com/orkunkaraduman/go-httpproxy) - Go HTTP proxy server library
 - [ovh/utask](https://github.com/ovh/utask) - µTask is an automation engine that models and executes business processes declared in yaml. ✏️📋
 - [shadowsocks/go-shadowsocks2](https://github.com/shadowsocks/go-shadowsocks2) - Modern Shadowsocks in Go
 - [hearchco/agent](https://github.com/hearchco/agent) - Hearchco agent used to gather info from a variety of sources.
