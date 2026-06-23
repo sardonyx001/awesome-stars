@@ -1340,6 +1340,7 @@
 - [jmnwong/NSL-KDD-Dataset](https://github.com/jmnwong/NSL-KDD-Dataset) - 
 - [wietze/HijackLibs](https://github.com/wietze/HijackLibs) - Project for tracking publicly disclosed DLL Hijacking opportunities.
 - [dbohdan/structured-text-tools](https://github.com/dbohdan/structured-text-tools) - A list of command-line tools for manipulating structured text data
+- [daytonaio/daytona](https://github.com/daytonaio/daytona) - Daytona is a Secure and Elastic Infrastructure for Running AI-Generated Code
 - [gostor/awesome-go-storage](https://github.com/gostor/awesome-go-storage) - A curated list of awesome Go storage projects and libraries
 - [yosriady/awesome-api-devtools](https://github.com/yosriady/awesome-api-devtools) - :books: A collection of useful resources for building RESTful HTTP+JSON APIs.
 - [4chan/4chan-API](https://github.com/4chan/4chan-API) - Documentation for 4chan's read-only JSON API.
@@ -2272,7 +2273,6 @@
 - [zoriya/Kyoo](https://github.com/zoriya/Kyoo) - A portable and vast media library solution.
 - [GitbookIO/gitbook](https://github.com/GitbookIO/gitbook) - The open source frontend for GitBook doc sites
 - [langgenius/dify](https://github.com/langgenius/dify) - Production-ready platform for agentic workflow development.
-- [daytonaio/daytona](https://github.com/daytonaio/daytona) - Daytona is a Secure and Elastic Infrastructure for Running AI-Generated Code
 - [carloscuesta/gitmoji](https://github.com/carloscuesta/gitmoji) - An emoji guide for your commit messages. 😜
 - [rawnly/next-wayfinder](https://github.com/rawnly/next-wayfinder) - Apply multiple nextjs middlewares with ease
 - [maximegel/blogster](https://github.com/maximegel/blogster) - Crosspost to Medium and Dev.to automagically from the CLI
