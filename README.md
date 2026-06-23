@@ -1408,6 +1408,7 @@
 
 ## Python 
 
+- [MohammadRaziei/mmdc](https://github.com/MohammadRaziei/mmdc) - Python-native Mermaid diagram converter – no browser, Node.js, or npm required. Renders diagrams to SVG using PhantomJS via phasma, perfect for documentation automation and CI/CD pipelines.
 - [sphinx-contrib/confluencebuilder](https://github.com/sphinx-contrib/confluencebuilder) - Confluence Markup Builder Plugin for Sphinx
 - [ldayton/Parable](https://github.com/ldayton/Parable) - 🌀 A complete bash parser that handles every edge case — extensively validated against bash itself — one file, zero dependencies
 - [idank/bashlex](https://github.com/idank/bashlex) - Python parser for bash
