@@ -24,6 +24,7 @@
 - [Gherkin](#gherkin)
 - [Gleam](#gleam)
 - [Go](#go)
+- [Go Template](#go-template)
 - [HCL](#hcl)
 - [HTML](#html)
 - [Haskell](#haskell)
@@ -898,6 +899,10 @@
 - [theoremoon/ShellgeiBot](https://github.com/theoremoon/ShellgeiBot) - シェル芸を実行しちゃう危険なbot
 - [metafates/mangal](https://github.com/metafates/mangal) - 📖 The most advanced (yet simple) cli manga downloader in the entire universe! Lua scrapers, export formats, anilist integration, fancy TUI and more!
 - [hashicorp/vault](https://github.com/hashicorp/vault) - A tool for secrets management, encryption as a service, and privileged access management
+
+## Go Template 
+
+- [sourcebot-dev/sourcebot-helm-chart](https://github.com/sourcebot-dev/sourcebot-helm-chart) - Kubernetes config and Helm chart for Sourcebot
 
 ## HCL 
 
