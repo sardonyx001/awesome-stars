@@ -266,7 +266,7 @@
 
 ## Dart 
 
-- [ente-io/ente](https://github.com/ente-io/ente) - 💚 End-to-end encrypted cloud for everything.
+- [ente/ente](https://github.com/ente/ente) - 💚 End-to-end encrypted cloud for everything.
 - [UnicornsOnLSD/finamp](https://github.com/UnicornsOnLSD/finamp) - A Jellyfin music client for mobile
 - [odrevet/edict_database](https://github.com/odrevet/edict_database) - Convert JMDICT and KANJIDIC2 into SQL (sqlite, postgres) and CSV
 - [coder-with-a-bushido/ACTION_PROCESS_TEXT-Flutter](https://github.com/coder-with-a-bushido/ACTION_PROCESS_TEXT-Flutter) - A Flutter plugin for ACTION_PROCESS_TEXT implementation in android.
