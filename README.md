@@ -5,6 +5,7 @@
 
 ## Contents
 
+- [ALGOL](#algol)
 - [Assembly](#assembly)
 - [Astro](#astro)
 - [C](#c)
@@ -71,6 +72,10 @@
 - [Wren](#wren)
 - [Zig](#zig)
 - [jq](#jq)
+
+## ALGOL 
+
+- [TheRenegadeCoder/sample-programs](https://github.com/TheRenegadeCoder/sample-programs) - Sample Programs in Every Programming Language
 
 ## Assembly 
 
@@ -314,6 +319,8 @@
 
 ## Go 
 
+- [helm/helm](https://github.com/helm/helm) - The Kubernetes Package Manager
+- [getsops/sops](https://github.com/getsops/sops) - Simple and flexible tool for managing secrets
 - [containerd/nri](https://github.com/containerd/nri) - Node Resource Interface
 - [actions/actions-runner-controller](https://github.com/actions/actions-runner-controller) - Kubernetes controller for GitHub Actions self-hosted runners
 - [summerwind/h2spec](https://github.com/summerwind/h2spec) - A conformance testing tool for HTTP/2 implementation.
@@ -945,6 +952,7 @@
 
 ## Java 
 
+- [microcks/microcks](https://github.com/microcks/microcks) - The open source, cloud native tool for API Mocking and Testing. Microcks is a Cloud Native Computing Foundation incubating project 🚀
 - [panga/fn-native-java](https://github.com/panga/fn-native-java) - Fn Project Native Java Function using GraalVM
 - [apache/james-project](https://github.com/apache/james-project) - Emails at the heart of your business logic!
 - [plantuml/plantuml-server](https://github.com/plantuml/plantuml-server) - PlantUML Online Server
@@ -1414,6 +1422,7 @@
 
 ## Python 
 
+- [usemoss/moss](https://github.com/usemoss/moss) - The retrieval layer for production AI systems. Lightning-fast (&lt;10ms) search without vector databases. Built for browser, edge, on-device, and cloud.
 - [MohammadRaziei/mmdc](https://github.com/MohammadRaziei/mmdc) - Python-native Mermaid diagram converter – no browser, Node.js, or npm required. Renders diagrams to SVG using PhantomJS via phasma, perfect for documentation automation and CI/CD pipelines.
 - [sphinx-contrib/confluencebuilder](https://github.com/sphinx-contrib/confluencebuilder) - Confluence Markup Builder Plugin for Sphinx
 - [ldayton/Parable](https://github.com/ldayton/Parable) - 🌀 A complete bash parser that handles every edge case — extensively validated against bash itself — one file, zero dependencies
@@ -1426,6 +1435,7 @@
 - [maguowei/starred](https://github.com/maguowei/starred) - Create and maintain your own Awesome-style list from GitHub stars!
 - [thunderbird/appointment](https://github.com/thunderbird/appointment) - Invite others to grab times on your calendar. Choose a date. Make appointments as easy as it gets.
 - [earendil-works/absurd](https://github.com/earendil-works/absurd) - An experiment in durability
+- [boldsoftware/exe.dev](https://github.com/boldsoftware/exe.dev) - just use ssh
 - [ECNU-SII/MIA](https://github.com/ECNU-SII/MIA) - Memory Intelligence Agent
 - [paypay/paypay-sample-ecommerce-backend-python](https://github.com/paypay/paypay-sample-ecommerce-backend-python) - PayPay Sample Ecommerce Backend
 - [sqlfluff/sqlfluff](https://github.com/sqlfluff/sqlfluff) - A modular SQL linter and auto-formatter with support for multiple dialects and templated code.
@@ -1721,6 +1731,11 @@
 
 ## Rust 
 
+- [biomejs/gritql](https://github.com/biomejs/gritql) - GritQL is a query language for searching, linting, and modifying code.
+- [sharkdp/hyperfine](https://github.com/sharkdp/hyperfine) - A command-line benchmarking tool
+- [SeekStorm/SeekStorm](https://github.com/SeekStorm/SeekStorm) - SeekStorm: vector & lexical search - in-process library & multi-tenancy server, in Rust.
+- [coast-guard/coasts](https://github.com/coast-guard/coasts) - Localhost service isolation and orchestration for git worktrees.
+- [git-ai-project/git-ai](https://github.com/git-ai-project/git-ai) - A Git extension for tracking the AI-generated code in your repos
 - [BlackSnufkin/BYOVD](https://github.com/BlackSnufkin/BYOVD) - BYOVD research use cases featuring vulnerable driver discovery and reverse engineering methodology.  (CVE-2025-52915,  CVE-2025-1055, CVE-2026-3609, CVE-2026-8501).
 - [bvaisvil/zenith](https://github.com/bvaisvil/zenith) - Zenith - sort of like top or htop but with zoom-able charts, CPU, GPU, network, and disk usage
 - [cocoindex-io/cocoindex](https://github.com/cocoindex-io/cocoindex) - Incremental engine for long horizon agents 🌟 Star if you like it!
@@ -2079,6 +2094,9 @@
 
 ## TypeScript 
 
+- [Openpanel-dev/groupmq](https://github.com/Openpanel-dev/groupmq) - A fast, reliable Redis-backed per-group FIFO queue for Node + TypeScript with guaranteed job ordering and parallel processing across groups.
+- [The-Context-Company/observatory](https://github.com/The-Context-Company/observatory) - 
+- [metorial/metorial-platform](https://github.com/metorial/metorial-platform) - The engine powering hundreds of thousands of MCP connections 🤖 🔥
 - [vercel/eve](https://github.com/vercel/eve) - The Framework for Building Agents
 - [iptv-org/iptv](https://github.com/iptv-org/iptv) - Collection of publicly available IPTV channels from all over the world
 - [2bo/qiita-mcp-server](https://github.com/2bo/qiita-mcp-server) - Qiita MCP Server
@@ -2093,7 +2111,6 @@
 - [earendil-works/gondolin](https://github.com/earendil-works/gondolin) - Experimental Linux microvm setup with a TypeScript Control Plane as Agent Sandbox
 - [getwud/wud](https://github.com/getwud/wud) - Keep your containers up-to-date!
 - [mlc-ai/web-llm](https://github.com/mlc-ai/web-llm) - High-performance In-browser LLM Inference Engine
-- [boldsoftware/exe.dev](https://github.com/boldsoftware/exe.dev) - just use ssh
 - [openclaw/mcporter](https://github.com/openclaw/mcporter) - Call MCPs via TypeScript, masquerading as simple TypeScript API. Or package them as cli.
 - [lumindigital/juno](https://github.com/lumindigital/juno) - Juno makes it easy to define Argo Workflows with Typescript.
 - [vercel-labs/just-bash](https://github.com/vercel-labs/just-bash) - Bash for Agents
