@@ -319,6 +319,7 @@
 
 ## Go 
 
+- [rogpeppe/go-internal](https://github.com/rogpeppe/go-internal) - Selected Go-internal packages factored out from the standard library
 - [helm/helm](https://github.com/helm/helm) - The Kubernetes Package Manager
 - [getsops/sops](https://github.com/getsops/sops) - Simple and flexible tool for managing secrets
 - [containerd/nri](https://github.com/containerd/nri) - Node Resource Interface
