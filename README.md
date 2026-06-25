@@ -1423,6 +1423,7 @@
 
 ## Python 
 
+- [cpatrickalves/plane-cli](https://github.com/cpatrickalves/plane-cli) - A command-line interface for https://plane.so, an open-source project management tool. The CLI allows you to manage projects, work items, modules, documents, comments, and users directly from the term
 - [ain3sh/.agents](https://github.com/ain3sh/.agents) - 
 - [usemoss/moss](https://github.com/usemoss/moss) - The retrieval layer for production AI systems. Lightning-fast (&lt;10ms) search without vector databases. Built for browser, edge, on-device, and cloud.
 - [MohammadRaziei/mmdc](https://github.com/MohammadRaziei/mmdc) - Python-native Mermaid diagram converter – no browser, Node.js, or npm required. Renders diagrams to SVG using PhantomJS via phasma, perfect for documentation automation and CI/CD pipelines.
@@ -2096,6 +2097,7 @@
 
 ## TypeScript 
 
+- [DetachHead/basedpyright](https://github.com/DetachHead/basedpyright) - pyright fork with various type checking improvements, improved vscode support and pylance features built into the language server
 - [RhysSullivan/executor](https://github.com/RhysSullivan/executor) - The missing integration layer for AI agents. Let them call any OpenAPI / MCP / GraphQL / custom js functions in secure environment.
 - [Openpanel-dev/groupmq](https://github.com/Openpanel-dev/groupmq) - A fast, reliable Redis-backed per-group FIFO queue for Node + TypeScript with guaranteed job ordering and parallel processing across groups.
 - [The-Context-Company/observatory](https://github.com/The-Context-Company/observatory) - 
