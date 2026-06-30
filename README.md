@@ -250,7 +250,7 @@
 - [TessavWalstijn/firefox.custom](https://github.com/TessavWalstijn/firefox.custom) - Custom styling to make FireFox more like Arc and/or Edge
 - [jeycaarce/message](https://github.com/jeycaarce/message) - 
 - [jgthms/bulma](https://github.com/jgthms/bulma) - Modern CSS framework based on Flexbox
-- [Gui-Luz/next-leaflet-tailwind](https://github.com/Gui-Luz/next-leaflet-tailwind) - A boilerplate repo ready for web mapping with next, leaflet and tailwind
+- [guiluzsal/next-leaflet-tailwind](https://github.com/guiluzsal/next-leaflet-tailwind) - A boilerplate repo ready for web mapping with next, leaflet and tailwind
 
 ## CoffeeScript 
 
