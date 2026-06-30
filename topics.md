@@ -4605,7 +4605,7 @@
 - [uchan-nos/mikanos](https://github.com/uchan-nos/mikanos) - Educational Operating System
 - [mxkaske/mxkaske.dev](https://github.com/mxkaske/mxkaske.dev) - Build. Craft. Brew.
 - [sei40kr/fish-ranger-cd](https://github.com/sei40kr/fish-ranger-cd) - Automatically change the directory in fish after closing ranger
-- [Gui-Luz/next-leaflet-tailwind](https://github.com/Gui-Luz/next-leaflet-tailwind) - A boilerplate repo ready for web mapping with next, leaflet and tailwind
+- [guiluzsal/next-leaflet-tailwind](https://github.com/guiluzsal/next-leaflet-tailwind) - A boilerplate repo ready for web mapping with next, leaflet and tailwind
 - [jorgebucaran/hydro](https://github.com/jorgebucaran/hydro) - Ultra-pure, lag-free prompt with async Git status—just for Fish
 - [gmirey/LOC](https://github.com/gmirey/LOC) - LOC language
 - [bilde2910/Hauk](https://github.com/bilde2910/Hauk) - Open-source realtime location sharing
