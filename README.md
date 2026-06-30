@@ -1438,7 +1438,6 @@
 - [maguowei/starred](https://github.com/maguowei/starred) - Create and maintain your own Awesome-style list from GitHub stars!
 - [thunderbird/appointment](https://github.com/thunderbird/appointment) - Invite others to grab times on your calendar. Choose a date. Make appointments as easy as it gets.
 - [earendil-works/absurd](https://github.com/earendil-works/absurd) - An experiment in durability
-- [boldsoftware/exe.dev](https://github.com/boldsoftware/exe.dev) - just use ssh
 - [ECNU-SII/MIA](https://github.com/ECNU-SII/MIA) - Memory Intelligence Agent
 - [paypay/paypay-sample-ecommerce-backend-python](https://github.com/paypay/paypay-sample-ecommerce-backend-python) - PayPay Sample Ecommerce Backend
 - [sqlfluff/sqlfluff](https://github.com/sqlfluff/sqlfluff) - A modular SQL linter and auto-formatter with support for multiple dialects and templated code.
@@ -2453,6 +2452,7 @@
 
 ## Zig 
 
+- [boldsoftware/exe.dev](https://github.com/boldsoftware/exe.dev) - just use ssh
 - [lightpanda-io/browser](https://github.com/lightpanda-io/browser) - Lightpanda: the headless browser designed for AI and automation
 - [satibot/satibot](https://github.com/satibot/satibot) - satibot is a lightweight, memory-aware AI agent, built in Zig for performance, with very simple local first vector search, web search, and file access capabilities. Inspired by OpenClawd and nanobot. 
 - [superstarryeyes/hys](https://github.com/superstarryeyes/hys) - Terminal RSS Reader for Digital Minimalists in Zig — Tool for Escaping the Doomscroll
