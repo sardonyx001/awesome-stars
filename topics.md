@@ -4552,7 +4552,7 @@
 - [skygragon/leetcode-cli](https://github.com/skygragon/leetcode-cli) - A cli tool to enjoy leetcode!
 - [neetcode-gh/leetcode](https://github.com/neetcode-gh/leetcode) - Leetcode solutions
 - [afatcoder/LeetcodeTop](https://github.com/afatcoder/LeetcodeTop) - 汇总各大互联网公司容易考察的高频leetcode题🔥
-- [MisterBooo/LeetCodeAnimation](https://github.com/MisterBooo/LeetCodeAnimation) - Demonstrate all the questions on LeetCode in the form of animation.（用动画的形式呈现解LeetCode题目的思路）
+- [MisterBooo/LeetCodeAnimation](https://github.com/MisterBooo/LeetCodeAnimation) - Demonstrate all the questions on LeetCode in the form of animation.（用动画的形式呈现解LeetCode题目的思路,完整单步/回看/变速/语音讲解在 algomooc.com）
 - [xizhang20181005/Leetcode_company_frequency](https://github.com/xizhang20181005/Leetcode_company_frequency) - Collection of leetcode company tag problems. Periodically updating.
 - [igoreineck/fault-tolerance-app](https://github.com/igoreineck/fault-tolerance-app) - An application that uses Replication as a technique to deal with Fault Tolerance
 - [python/cpython](https://github.com/python/cpython) - The Python programming language
