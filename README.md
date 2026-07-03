@@ -1006,7 +1006,7 @@
 - [opentripplanner/OpenTripPlanner](https://github.com/opentripplanner/OpenTripPlanner) - An open source multi-modal trip planner
 - [charles-tan/java-nyc-bus-gtfs-realtime-to-kafka](https://github.com/charles-tan/java-nyc-bus-gtfs-realtime-to-kafka) - Ingests data from gtfs-realtime and produces the feed to Kafka, specifically for NYC bus data
 - [doocs/leetcode](https://github.com/doocs/leetcode) - 🔥LeetCode solutions in any programming language | 多种编程语言实现 LeetCode、《剑指 Offer（第 2 版）》、《程序员面试金典（第 6 版）》题解
-- [MisterBooo/LeetCodeAnimation](https://github.com/MisterBooo/LeetCodeAnimation) - Demonstrate all the questions on LeetCode in the form of animation.（用动画的形式呈现解LeetCode题目的思路）
+- [MisterBooo/LeetCodeAnimation](https://github.com/MisterBooo/LeetCodeAnimation) - Demonstrate all the questions on LeetCode in the form of animation.（用动画的形式呈现解LeetCode题目的思路,完整单步/回看/变速/语音讲解在 algomooc.com）
 - [miao1007/AnimeWallpaper](https://github.com/miao1007/AnimeWallpaper) - [Android] Konachan wallpaper downloader
 - [supertokens/supertokens-core](https://github.com/supertokens/supertokens-core) - Open source alternative to Auth0 / Firebase Auth / AWS Cognito
 - [peterneubauer/TransportDublin](https://github.com/peterneubauer/TransportDublin) - A neo4j & Google Maps based Public Transport Route Planner for Dublin
