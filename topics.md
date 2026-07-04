@@ -3939,7 +3939,7 @@
 - [compio-rs/compio](https://github.com/compio-rs/compio) - A thread-per-core async Rust runtime with IOCP/io_uring/polling.
 - [openwrt/luci](https://github.com/openwrt/luci) - LuCI - OpenWrt Configuration Interface
 - [smithclay/duckdb-otlp](https://github.com/smithclay/duckdb-otlp) - stream, store, and query OpenTelemetry metrics, logs, and traces (OTLP) in duckdb
-- [tinyhumansai/openhuman](https://github.com/tinyhumansai/openhuman) - Your Personal AI super intelligence. Private, Simple and extremely powerful.
+- [tinyhumansai/openhuman](https://github.com/tinyhumansai/openhuman) - Your Personal AI super intelligence. A brain that builds a local-first memory of your life, a fantastic orchestrator of agent fleets and workflows, and a deep researcher.
 - [paperclipai/paperclip](https://github.com/paperclipai/paperclip) - The open-source app everyone uses to manage agents at work
 - [braintrustdata/helm](https://github.com/braintrustdata/helm) - Helm charts for the self-hosted data plane
 - [sardonyx001/docker-hello-world](https://github.com/sardonyx001/docker-hello-world) - Hello World web server in under 2 MB
