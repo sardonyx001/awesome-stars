@@ -1958,7 +1958,6 @@
 
 ## SCSS 
 
-- [maildev/maildev](https://github.com/maildev/maildev) - :mailbox: SMTP Server + Web Interface for viewing and testing emails during development.
 - [monkeyWzr/hugo-theme-cactus](https://github.com/monkeyWzr/hugo-theme-cactus) - Cactus theme for hugo
 - [appseed-projects/e4893d58-61c0-4ff6-9b35-2094374f737e](https://github.com/appseed-projects/e4893d58-61c0-4ff6-9b35-2094374f737e) - Material Kit Flask - Generated Seed Project (Open-Source) | AppSeed
 
@@ -2191,6 +2190,7 @@
 - [0bs-chat/zerobs](https://github.com/0bs-chat/zerobs) - the ai chat app for the power users.
 - [mongodb-js/mongosh](https://github.com/mongodb-js/mongosh) - The MongoDB Shell
 - [thelounge/thelounge](https://github.com/thelounge/thelounge) - 💬  ‎ Modern, responsive, cross-platform, self-hosted web IRC client
+- [maildev/maildev](https://github.com/maildev/maildev) - :mailbox: SMTP Server + Web Interface for viewing and testing emails during development.
 - [cyprieng/github-breakout](https://github.com/cyprieng/github-breakout) - Generate a Breakout game SVG from a GitHub user's contributions graph
 - [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - Open-Source API Development Ecosystem • https://hoppscotch.io • Offline, On-Prem & Cloud • Web, Desktop & CLI • Open-Source Alternative to Postman, Insomnia
 - [worktile/plait](https://github.com/worktile/plait) - A completely customizable framework for building all-in-one drawing whiteboard
