@@ -319,6 +319,7 @@
 
 ## Go 
 
+- [ozacod/cpx](https://github.com/ozacod/cpx) - 
 - [rogpeppe/go-internal](https://github.com/rogpeppe/go-internal) - Selected Go-internal packages factored out from the standard library
 - [helm/helm](https://github.com/helm/helm) - The Kubernetes Package Manager
 - [getsops/sops](https://github.com/getsops/sops) - Simple and flexible tool for managing secrets
