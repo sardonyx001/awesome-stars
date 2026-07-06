@@ -3916,6 +3916,7 @@
 
 ## others 
 
+- [ozacod/cpx](https://github.com/ozacod/cpx) - 
 - [bruits/sampo](https://github.com/bruits/sampo) - Automate changelogs, versioning, and publishing—even for monorepos across multiple package registries 🧭
 - [rogpeppe/go-internal](https://github.com/rogpeppe/go-internal) - Selected Go-internal packages factored out from the standard library
 - [ain3sh/.agents](https://github.com/ain3sh/.agents) - 
