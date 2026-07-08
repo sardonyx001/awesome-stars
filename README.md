@@ -320,6 +320,9 @@
 
 ## Go 
 
+- [hedgieinsocks/kubectl-cnf](https://github.com/hedgieinsocks/kubectl-cnf) - A kubectl plugin that helps switch between current-contexts in multiple kubeconfigs within a terminal tab scope
+- [jonnylangefeld/kubectl-mc](https://github.com/jonnylangefeld/kubectl-mc) - Run kubectl commands against multiple clusters at once
+- [kubernetes/client-go](https://github.com/kubernetes/client-go) - Go client for Kubernetes.
 - [ozacod/cpx](https://github.com/ozacod/cpx) - 
 - [rogpeppe/go-internal](https://github.com/rogpeppe/go-internal) - Selected Go-internal packages factored out from the standard library
 - [helm/helm](https://github.com/helm/helm) - The Kubernetes Package Manager
@@ -1425,6 +1428,7 @@
 
 ## Python 
 
+- [kubernetes-client/python](https://github.com/kubernetes-client/python) - Official Python client library for kubernetes
 - [cpatrickalves/plane-cli](https://github.com/cpatrickalves/plane-cli) - A command-line interface for https://plane.so, an open-source project management tool. The CLI allows you to manage projects, work items, modules, documents, comments, and users directly from the term
 - [ain3sh/.agents](https://github.com/ain3sh/.agents) - 
 - [usemoss/moss](https://github.com/usemoss/moss) - The retrieval layer for production AI systems. Lightning-fast (&lt;10ms) search without vector databases. Built for browser, edge, on-device, and cloud.
@@ -2098,6 +2102,7 @@
 
 ## TypeScript 
 
+- [backnotprop/plannotator](https://github.com/backnotprop/plannotator) - Annotate and review coding agent plans and code diffs visually, share with your team, send feedback to agents with one click.
 - [DetachHead/basedpyright](https://github.com/DetachHead/basedpyright) - pyright fork with various type checking improvements, improved vscode support and pylance features built into the language server
 - [UsefulSoftwareCo/executor](https://github.com/UsefulSoftwareCo/executor) - The missing integration layer for AI agents. Let them call any OpenAPI / MCP / GraphQL / custom js functions in secure environment.
 - [Openpanel-dev/groupmq](https://github.com/Openpanel-dev/groupmq) - A fast, reliable Redis-backed per-group FIFO queue for Node + TypeScript with guaranteed job ordering and parallel processing across groups.
