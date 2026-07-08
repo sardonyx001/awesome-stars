@@ -340,6 +340,7 @@
 
 ## agents 
 
+- [backnotprop/plannotator](https://github.com/backnotprop/plannotator) - Annotate and review coding agent plans and code diffs visually, share with your team, send feedback to agents with one click.
 - [agentgateway/agentgateway](https://github.com/agentgateway/agentgateway) - Next Generation Agentic Proxy for AI Agents and MCP servers
 - [elder-plinius/CL4R1T4S](https://github.com/elder-plinius/CL4R1T4S) - LEAKED SYSTEM PROMPTS FOR CHATGPT, CLAUDE, GEMINI, GROK, PERPLEXITY, CURSOR, LOVABLE, REPLIT, AND MORE! - AI SYSTEMS TRANSPARENCY FOR ALL! 👐
 - [MinishLab/semble](https://github.com/MinishLab/semble) - Fast and Accurate Code Search for Agents. Uses ~98% fewer tokens than grep+read
@@ -941,6 +942,7 @@
 
 ## claude-code 
 
+- [backnotprop/plannotator](https://github.com/backnotprop/plannotator) - Annotate and review coding agent plans and code diffs visually, share with your team, send feedback to agents with one click.
 - [iOfficeAI/OfficeCLI](https://github.com/iOfficeAI/OfficeCLI) - OfficeCLI is the first and best Office suite  purpose-built for AI agents to read, edit, and automate Word, Excel, and PowerPoint files. Free, open-source, single binary, no Office installation requir
 - [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) - Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.
 - [rikeda71/ghostty-pane-splitter](https://github.com/rikeda71/ghostty-pane-splitter) - CLI Tool to split pane on Ghostty Terminal
@@ -1152,6 +1154,7 @@
 
 ## code-review 
 
+- [backnotprop/plannotator](https://github.com/backnotprop/plannotator) - Annotate and review coding agent plans and code diffs visually, share with your team, send feedback to agents with one click.
 - [eforge-build/eforge](https://github.com/eforge-build/eforge) - Open source agentic build system - transforms specifications into verified source code with blind adversarial review
 - [Cloudflare-Studio/ask-bonk](https://github.com/Cloudflare-Studio/ask-bonk) - Bonk is a code & docs agent that can build, review and triage for you, built on Cloudflare Workers & OpenCode.
 - [agent-sh/agentsys](https://github.com/agent-sh/agentsys) - AI writes code. This automates everything else · 24 plugins · 49 agents · 44 skills · for Claude Code, OpenCode, Codex, Cursor, Kiro.
@@ -3055,6 +3058,7 @@
 
 ## kubernetes 
 
+- [kubernetes-client/python](https://github.com/kubernetes-client/python) - Official Python client library for kubernetes
 - [helm/helm](https://github.com/helm/helm) - The Kubernetes Package Manager
 - [microcks/microcks](https://github.com/microcks/microcks) - The open source, cloud native tool for API Mocking and Testing. Microcks is a Cloud Native Computing Foundation incubating project 🚀
 - [actions/actions-runner-controller](https://github.com/actions/actions-runner-controller) - Kubernetes controller for GitHub Actions self-hosted runners
@@ -3144,6 +3148,7 @@
 
 ## library 
 
+- [kubernetes-client/python](https://github.com/kubernetes-client/python) - Official Python client library for kubernetes
 - [IBM/fp-go](https://github.com/IBM/fp-go) - Functional programming library for Go 1.24+, inspired by fp-ts. Uses generic type aliases for a clean, composable API. Provides Option, Either, Result, IO, IOResult, Reader, and ReaderIOResult monads,
 - [dgraph-io/ristretto](https://github.com/dgraph-io/ristretto) - A high performance memory-bound Go cache
 - [dgraph-io/badger](https://github.com/dgraph-io/badger) - Fast key-value DB in Go.
@@ -3824,6 +3829,7 @@
 
 ## obsidian 
 
+- [backnotprop/plannotator](https://github.com/backnotprop/plannotator) - Annotate and review coding agent plans and code diffs visually, share with your team, send feedback to agents with one click.
 - [kepano/obsidian-skills](https://github.com/kepano/obsidian-skills) - Agent skills for Obsidian. Teach your agent to use Obsidian CLI and open formats including Markdown, Bases, JSON Canvas.
 - [BingyanStudio/LapisCV](https://github.com/BingyanStudio/LapisCV) - 📄 Easily create your resume with Markdown on VSCode / Typora / Obsidian
 - [kmaasrud/awesome-obsidian](https://github.com/kmaasrud/awesome-obsidian) - 🕶️ Awesome stuff for Obsidian
@@ -3920,6 +3926,9 @@
 
 ## others 
 
+- [hedgieinsocks/kubectl-cnf](https://github.com/hedgieinsocks/kubectl-cnf) - A kubectl plugin that helps switch between current-contexts in multiple kubeconfigs within a terminal tab scope
+- [jonnylangefeld/kubectl-mc](https://github.com/jonnylangefeld/kubectl-mc) - Run kubectl commands against multiple clusters at once
+- [kubernetes/client-go](https://github.com/kubernetes/client-go) - Go client for Kubernetes.
 - [ozacod/cpx](https://github.com/ozacod/cpx) - 
 - [bruits/sampo](https://github.com/bruits/sampo) - Automate changelogs, versioning, and publishing—even for monorepos across multiple package registries 🧭
 - [rogpeppe/go-internal](https://github.com/rogpeppe/go-internal) - Selected Go-internal packages factored out from the standard library
