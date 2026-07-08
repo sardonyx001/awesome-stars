@@ -2138,7 +2138,7 @@
 - [ulixee/hero](https://github.com/ulixee/hero) - The web browser built for scraping
 - [devflowinc/firecrawl-simple](https://github.com/devflowinc/firecrawl-simple) - ➖ Stripped down, stable version of firecrawl optimized for self-hosting and ease of contribution. Billing logic and AI features are completely removed. Crawl and convert any website into LLM-ready mar
 - [newmo-oss/mermaid-viewer](https://github.com/newmo-oss/mermaid-viewer) - User Friendly Mermaid Diagram Viewer.
-- [NVIDIA/NemoClaw](https://github.com/NVIDIA/NemoClaw) - Run agents like Hermes and OpenClaw more securely inside NVIDIA OpenShell with managed inference
+- [NVIDIA/NemoClaw](https://github.com/NVIDIA/NemoClaw) - Run agents like Hermes, LangChain Deep Agents, and OpenClaw more securely inside NVIDIA OpenShell with managed inference
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
 - [google/brotli](https://github.com/google/brotli) - Brotli compression format
 - [browserless/browserless](https://github.com/browserless/browserless) - Deploy headless browsers in Docker. Run on our cloud or bring your own. Free for non-commercial uses.
