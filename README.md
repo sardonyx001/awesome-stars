@@ -93,6 +93,7 @@
 
 ## C 
 
+- [openai/git](https://github.com/openai/git) - "the information manager from hell" - linus torvalds [e83c516, 7 Apr 2005]
 - [fumiyas/python-nkf](https://github.com/fumiyas/python-nkf) - Python Japanese codecs by NKF (Network Kanji Filter)
 - [sumatrapdfreader/sumatrapdf](https://github.com/sumatrapdfreader/sumatrapdf) - SumatraPDF reader
 - [timescale/pg_textsearch](https://github.com/timescale/pg_textsearch) - PostgreSQL extension for BM25 relevance-ranked full-text search. Postgres OSS licensed.
