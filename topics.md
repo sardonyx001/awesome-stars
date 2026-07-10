@@ -3929,6 +3929,7 @@
 
 ## others 
 
+- [openai/git](https://github.com/openai/git) - "the information manager from hell" - linus torvalds [e83c516, 7 Apr 2005]
 - [hedgieinsocks/kubectl-cnf](https://github.com/hedgieinsocks/kubectl-cnf) - A kubectl plugin that helps switch between current-contexts in multiple kubeconfigs within a terminal tab scope
 - [jonnylangefeld/kubectl-mc](https://github.com/jonnylangefeld/kubectl-mc) - Run kubectl commands against multiple clusters at once
 - [kubernetes/client-go](https://github.com/kubernetes/client-go) - Go client for Kubernetes.
