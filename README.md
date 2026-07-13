@@ -1429,6 +1429,7 @@
 
 ## Python 
 
+- [littledivy/mimic](https://github.com/littledivy/mimic) - Intercept any app, then call it from Python like a library
 - [kubernetes-client/python](https://github.com/kubernetes-client/python) - Official Python client library for kubernetes
 - [cpatrickalves/plane-cli](https://github.com/cpatrickalves/plane-cli) - A command-line interface for https://plane.so, an open-source project management tool. The CLI allows you to manage projects, work items, modules, documents, comments, and users directly from the term
 - [ain3sh/.agents](https://github.com/ain3sh/.agents) - 
