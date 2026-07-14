@@ -1448,7 +1448,6 @@
 - [earendil-works/absurd](https://github.com/earendil-works/absurd) - An experiment in durability
 - [ECNU-SII/MIA](https://github.com/ECNU-SII/MIA) - Memory Intelligence Agent
 - [paypay/paypay-sample-ecommerce-backend-python](https://github.com/paypay/paypay-sample-ecommerce-backend-python) - PayPay Sample Ecommerce Backend
-- [PrismML-Eng/Bonsai-demo](https://github.com/PrismML-Eng/Bonsai-demo) - Bonsai Demo
 - [sqlfluff/sqlfluff](https://github.com/sqlfluff/sqlfluff) - A modular SQL linter and auto-formatter with support for multiple dialects and templated code.
 - [astronomer/dag-factory](https://github.com/astronomer/dag-factory) - Construct Apache Airflow DAGs Declaratively via YAML configuration files
 - [bytedance/deer-flow](https://github.com/bytedance/deer-flow) - An open-source long-horizon SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skill, subagents and message gateway, it handles different levels of ta
@@ -1986,6 +1985,7 @@
 
 - [braintrustdata/helm](https://github.com/braintrustdata/helm) - Helm charts for the self-hosted data plane
 - [uditgoenka/autoresearch](https://github.com/uditgoenka/autoresearch) - Claude Autoresearch Skill — Autonomous goal-directed iteration for Claude Code. Inspired by Karpathy's autoresearch. Modify → Verify → Keep/Discard → Repeat forever.
+- [PrismML-Eng/Bonsai-demo](https://github.com/PrismML-Eng/Bonsai-demo) - Bonsai Demo
 - [Mekann2904/dotfiles-bare](https://github.com/Mekann2904/dotfiles-bare) - 
 - [rgcr/m-cli](https://github.com/rgcr/m-cli) -  Swiss Army Knife for macOS
 - [shell-dot/tuoni](https://github.com/shell-dot/tuoni) - Tuoni
