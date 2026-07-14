@@ -2302,7 +2302,7 @@
 - [kravetsone/elysia-autoload](https://github.com/kravetsone/elysia-autoload) - Plugin for Elysia which autoload all routes in directory and code-generate types for Eden
 - [brunofin/cohesion](https://github.com/brunofin/cohesion) - Notion client for Linux
 - [Tatamo/atcoder-cli](https://github.com/Tatamo/atcoder-cli) - AtCoder command line tools
-- [SigNoz/signoz](https://github.com/SigNoz/signoz) - SigNoz is an open-source observability platform native to OpenTelemetry with logs, traces and metrics in a single application. An open-source alternative to DataDog, NewRelic, etc. 🔥 🖥.   👉  Open sour
+- [SigNoz/signoz](https://github.com/SigNoz/signoz) - SigNoz is an open-source, OpenTelemetry-native observability platform for your team and their AI agents. Get logs, metrics, and traces in one tool with features like APM, distributed tracing, log mana
 - [pmndrs/react-three-fiber](https://github.com/pmndrs/react-three-fiber) - 🇨🇭 A React renderer for Three.js
 - [DefinitelyTyped/DefinitelyTyped](https://github.com/DefinitelyTyped/DefinitelyTyped) - The repository for high quality TypeScript type definitions.
 - [codecentric/gopass-ui](https://github.com/codecentric/gopass-ui) - gopass CLI + UI = visual cross-platform password manager for teams
