@@ -4391,7 +4391,7 @@
 - [everywall/ladder](https://github.com/everywall/ladder) - Selfhosted alternative to 12ft.io. and 1ft.io. Proxy to remove CORS headers and modify HTML
 - [kubernetes/klog](https://github.com/kubernetes/klog) - Leveled execution logs for Go (fork of https://github.com/golang/glog)
 - [vdesmond/attractors](https://github.com/vdesmond/attractors) - package for simulation and visualization of strange attractors
-- [kyuridenamida/atcoder-tools](https://github.com/kyuridenamida/atcoder-tools) - Convenient modules & tools for AtCoder users, written in Python 3.9
+- [kyuridenamida/atcoder-tools](https://github.com/kyuridenamida/atcoder-tools) - Convenient modules & tools for AtCoder users, supporting Python 3.10+
 - [PacktPublishing/Event-Driven-Architecture-in-Golang](https://github.com/PacktPublishing/Event-Driven-Architecture-in-Golang) - Event-Driven Architecture in Golang, published by Packt
 - [refact0r/system24](https://github.com/refact0r/system24) - a tui-style discord theme
 - [TessavWalstijn/firefox.custom](https://github.com/TessavWalstijn/firefox.custom) - Custom styling to make FireFox more like Arc and/or Edge
