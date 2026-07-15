@@ -1431,7 +1431,7 @@
 - [kubernetes-client/python](https://github.com/kubernetes-client/python) - Official Python client library for kubernetes
 - [cpatrickalves/plane-cli](https://github.com/cpatrickalves/plane-cli) - A command-line interface for https://plane.so, an open-source project management tool. The CLI allows you to manage projects, work items, modules, documents, comments, and users directly from the term
 - [ain3sh/.agents](https://github.com/ain3sh/.agents) - 
-- [MohammadRaziei/mermaidx](https://github.com/MohammadRaziei/mermaidx) - Python-native Mermaid diagram converter – no browser, Node.js, or npm required. Renders diagrams to SVG using PhantomJS via phasma, perfect for documentation automation and CI/CD pipelines.
+- [MohammadRaziei/mermaidx](https://github.com/MohammadRaziei/mermaidx) - Python-native Mermaid diagram converter – no browser, Node.js, or npm required. Renders diagrams to SVG/PNG/PDF using an embedded QuickJS engine and resvg, perfect for documentation automation and CI/
 - [sphinx-contrib/confluencebuilder](https://github.com/sphinx-contrib/confluencebuilder) - Confluence Markup Builder Plugin for Sphinx
 - [ldayton/Parable](https://github.com/ldayton/Parable) - 🌀 A complete bash parser that handles every edge case — extensively validated against bash itself — one file, zero dependencies
 - [idank/bashlex](https://github.com/idank/bashlex) - Python parser for bash
