@@ -941,7 +941,7 @@
 - [trickest/cve](https://github.com/trickest/cve) - Gather and update all available and newest CVEs with their PoC.
 - [mythrantic/ollama-docker](https://github.com/mythrantic/ollama-docker) - Welcome to the Ollama Docker Compose Setup! This project simplifies the deployment of Ollama using Docker Compose, making it easy to run Ollama with all its dependencies in a containerized environment
 - [crccheck/docker-hello-world](https://github.com/crccheck/docker-hello-world) - Hello World web server in under 2 MB
-- [kyuridenamida/atcoder-tools](https://github.com/kyuridenamida/atcoder-tools) - Convenient modules & tools for AtCoder users, written in Python 3.9
+- [kyuridenamida/atcoder-tools](https://github.com/kyuridenamida/atcoder-tools) - Convenient modules & tools for AtCoder users, supporting Python 3.10+
 - [NoahTheDuke/vim-just](https://github.com/NoahTheDuke/vim-just) - Vim Just Syntax
 - [kagisearch/smallweb](https://github.com/kagisearch/smallweb) - Kagi Small Web
 - [veggiedefender/secret-resolutions](https://github.com/veggiedefender/secret-resolutions) - 
@@ -1607,6 +1607,7 @@
 - [lixxu/flask-paginate](https://github.com/lixxu/flask-paginate) - Pagination support for flask
 - [Flagsmith/flagsmith](https://github.com/Flagsmith/flagsmith) - Flagsmith is an open source feature flagging and remote config service. Self-host or use our hosted version at https://app.flagsmith.com.
 - [tox-dev/pipdeptree](https://github.com/tox-dev/pipdeptree) - A command line utility to display dependency tree of the installed Python packages
+- [Nekos-API/Nekos-API](https://github.com/Nekos-API/Nekos-API) - An open-source free anime images RESTful/GraphQL API.
 - [black-forest-labs/flux](https://github.com/black-forest-labs/flux) - Official inference repo for FLUX.1 models
 - [FlareSolverr/FlareSolverr](https://github.com/FlareSolverr/FlareSolverr) - Proxy server to bypass Cloudflare protection
 - [pallets/quart](https://github.com/pallets/quart) - An async Python micro framework for building web applications.
@@ -1905,7 +1906,6 @@
 - [l1npengtul/nokhwa](https://github.com/l1npengtul/nokhwa) - Cross Platform Rust Library for Powerful Webcam/Camera Capture
 - [cgsdev0/termsand](https://github.com/cgsdev0/termsand) - falling sand sim for tmux 3.4+
 - [MeanderingProgrammer/advent-of-code](https://github.com/MeanderingProgrammer/advent-of-code) - Advent of Code - All Years - Blazingly Fast
-- [Nekos-API/Nekos-API](https://github.com/Nekos-API/Nekos-API) - An open-source free anime images RESTful/GraphQL API.
 - [redlib-org/redlib](https://github.com/redlib-org/redlib) - Private front-end for Reddit
 - [teloxide/teloxide](https://github.com/teloxide/teloxide) - 🤖 An elegant Telegram bots framework for Rust
 - [arxanas/git-branchless](https://github.com/arxanas/git-branchless) - High-velocity, monorepo-scale workflow for Git
