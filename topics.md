@@ -3981,7 +3981,7 @@
 - [treeder/slackbots](https://github.com/treeder/slackbots) - A bunch of rad slackbots that run on Fn Project.
 - [earendil-works/gondolin](https://github.com/earendil-works/gondolin) - Experimental Linux microvm setup with a TypeScript Control Plane as Agent Sandbox
 - [earendil-works/absurd](https://github.com/earendil-works/absurd) - An experiment in durability
-- [dependabot/cli](https://github.com/dependabot/cli) - A tool for testing and debugging Dependabot update jobs.
+- [dependabot/cli](https://github.com/dependabot/cli) - A tool for running Dependabot update jobs.
 - [aayanmtn/chartgo](https://github.com/aayanmtn/chartgo) - chartjs for go
 - [devcontainers/spec](https://github.com/devcontainers/spec) - Development Containers: Use a container as a full-featured development environment.
 - [opendata-oss/opendata](https://github.com/opendata-oss/opendata) - OpenData is a collection of open source databases built on a common, object-native storage and infrastructure foundation.
