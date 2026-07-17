@@ -3931,6 +3931,7 @@
 
 ## others 
 
+- [OAI/Arazzo-Specification](https://github.com/OAI/Arazzo-Specification) - The Arazzo Specification - A Tapestry for Deterministic API Workflows
 - [littledivy/mimic](https://github.com/littledivy/mimic) - Intercept any app, then call it from Python like a library
 - [openai/git](https://github.com/openai/git) - "the information manager from hell" - linus torvalds [e83c516, 7 Apr 2005]
 - [hedgieinsocks/kubectl-cnf](https://github.com/hedgieinsocks/kubectl-cnf) - A kubectl plugin that helps switch between current-contexts in multiple kubeconfigs within a terminal tab scope
@@ -4063,7 +4064,7 @@
 - [nandyalu/trailarr](https://github.com/nandyalu/trailarr) - Trailarr is a self-hosted app to download and manage trailers for your media libraries.
 - [evanw/kiwi](https://github.com/evanw/kiwi) - A schema-based binary format for efficiently encoding trees of data
 - [saljam/webwormhole](https://github.com/saljam/webwormhole) - Peer authenticated WebRTC.
-- [ktwrd/88x31](https://github.com/ktwrd/88x31) - A Collection of 88x31 buttons
+- [ktwrd/88x31](https://github.com/ktwrd/88x31) - A collection of 88x31 buttons/images
 - [karpathy/nanoGPT](https://github.com/karpathy/nanoGPT) - The simplest, fastest repository for training/finetuning medium-sized GPTs.
 - [jellyfin/jellycon](https://github.com/jellyfin/jellycon) - Kodi Addon for Jellyfin
 - [confighub/sdk](https://github.com/confighub/sdk) - ConfigHub SDK for building custom API clients, workers and other tools
