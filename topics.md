@@ -2014,6 +2014,7 @@
 - [dtolpin/gosparkline](https://github.com/dtolpin/gosparkline) - Sparklines in Go
 - [siderolabs/conform](https://github.com/siderolabs/conform) - Policy enforcement for your pipelines.
 - [zeromicro/go-zero](https://github.com/zeromicro/go-zero) - A cloud-native Go microservices framework with cli tool for productivity.
+- [odvcencio/gotreesitter](https://github.com/odvcencio/gotreesitter) - Pure Go tree-sitter runtime
 - [gitsocial-org/gitsocial](https://github.com/gitsocial-org/gitsocial) - Cross-forge collaboration platform
 - [ko-build/ko](https://github.com/ko-build/ko) - Build and deploy Go applications
 - [distr-sh/distr](https://github.com/distr-sh/distr) - The Open Source control plane for self-hosted, BYOC, and on-prem deployments. Everything you need to distribute applications to self-hosted customers out of the box. Supporting Docker Compose, Docker 
@@ -2250,6 +2251,7 @@
 - [ente/ente](https://github.com/ente/ente) - 💚 End-to-end encrypted cloud for everything.
 - [zeromicro/go-zero](https://github.com/zeromicro/go-zero) - A cloud-native Go microservices framework with cli tool for productivity.
 - [tinyauthapp/tinyauth](https://github.com/tinyauthapp/tinyauth) - The tiniest OpenID Certified™ authorization and authentication server you have ever seen.
+- [odvcencio/gotreesitter](https://github.com/odvcencio/gotreesitter) - Pure Go tree-sitter runtime
 - [nozomi-koborinai/gcp-cost-mcp-server](https://github.com/nozomi-koborinai/gcp-cost-mcp-server) - 💰 An MCP server that enables AI assistants to estimate Google Cloud costs, powered by Cloud Billing Catalog API and built with Genkit for Go
 - [ko-build/ko](https://github.com/ko-build/ko) - Build and deploy Go applications
 - [distr-sh/distr](https://github.com/distr-sh/distr) - The Open Source control plane for self-hosted, BYOC, and on-prem deployments. Everything you need to distribute applications to self-hosted customers out of the box. Supporting Docker Compose, Docker 
@@ -3983,7 +3985,6 @@
 - [lumindigital/juno](https://github.com/lumindigital/juno) - Juno makes it easy to define Argo Workflows with Typescript.
 - [ECNU-SII/MIA](https://github.com/ECNU-SII/MIA) - Memory Intelligence Agent
 - [moby/swarmkit](https://github.com/moby/swarmkit) - A toolkit for orchestrating distributed systems at any scale. It includes primitives for node discovery, raft-based consensus, task scheduling and more.
-- [odvcencio/gotreesitter](https://github.com/odvcencio/gotreesitter) - Pure Go tree-sitter runtime
 - [vercel-labs/just-bash](https://github.com/vercel-labs/just-bash) - Bash for Agents
 - [convco/convco](https://github.com/convco/convco) - Conventional commits, changelog, versioning, validation
 - [opentofu/opentofu](https://github.com/opentofu/opentofu) - OpenTofu lets you declaratively manage your cloud infrastructure.
@@ -5210,6 +5211,7 @@
 
 ## rust 
 
+- [hyperlight-dev/hyperlight](https://github.com/hyperlight-dev/hyperlight) - Hyperlight is a lightweight Virtual Machine Manager (VMM) designed to be embedded within applications. It enables safe execution of untrusted code within micro virtual machines with very low latency a
 - [biomejs/gritql](https://github.com/biomejs/gritql) - GritQL is a query language for searching, linting, and modifying code.
 - [sharkdp/hyperfine](https://github.com/sharkdp/hyperfine) - A command-line benchmarking tool
 - [BlackSnufkin/BYOVD](https://github.com/BlackSnufkin/BYOVD) - BYOVD research use cases featuring vulnerable driver discovery and reverse engineering methodology.  (CVE-2025-52915,  CVE-2025-1055, CVE-2026-3609, CVE-2026-8501).
