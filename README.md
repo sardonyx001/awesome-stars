@@ -352,7 +352,7 @@
 - [zitadel/zitadel](https://github.com/zitadel/zitadel) - ZITADEL - Identity infrastructure, simplified for you.
 - [podplane/s3lect](https://github.com/podplane/s3lect) - Leader election package for Go which uses S3/object storage as the primary coordination mechanism
 - [fnproject/ext-auth](https://github.com/fnproject/ext-auth) - Authentication extension for Fn Project
-- [dependabot/cli](https://github.com/dependabot/cli) - A tool for testing and debugging Dependabot update jobs.
+- [dependabot/cli](https://github.com/dependabot/cli) - A tool for running Dependabot update jobs.
 - [aayanmtn/chartgo](https://github.com/aayanmtn/chartgo) - chartjs for go
 - [jetify-com/devbox](https://github.com/jetify-com/devbox) - Instant, easy, and predictable development environments
 - [containerd/containerd](https://github.com/containerd/containerd) - An open and reliable container runtime
