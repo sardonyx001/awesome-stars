@@ -897,7 +897,7 @@
 - [cockroachdb/cockroach](https://github.com/cockroachdb/cockroach) - CockroachDB — the cloud native, distributed SQL database designed for high availability, effortless scale, and control over data placement.
 - [go-chi/chi](https://github.com/go-chi/chi) - lightweight, idiomatic and composable router for building Go HTTP services
 - [rawnly/splash-cli](https://github.com/rawnly/splash-cli) - A simple, CLI to download Unsplash wallpapers. Nothing fancy — it just works.
-- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Kimi-K2.6, GLM-5.1, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.
+- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Kimi-K2.6, GLM-5.2, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.
 - [kkdai/linenotify](https://github.com/kkdai/linenotify) - Template for LINE Notify service in Golang
 - [tofl/PNGify](https://github.com/tofl/PNGify) - A command line tool to encode text and files into PNG images
 - [owasp-amass/amass](https://github.com/owasp-amass/amass) - In-depth attack surface mapping and asset discovery
