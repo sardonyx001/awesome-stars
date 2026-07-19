@@ -1008,7 +1008,7 @@
 - [Battelle/cantordust](https://github.com/Battelle/cantordust) - Public repository for Cantordust Ghidra plugin.
 - [brettwooldridge/HikariCP](https://github.com/brettwooldridge/HikariCP) - 光 HikariCP・A solid, high-performance, JDBC connection pool at last.
 - [DrKLO/Telegram](https://github.com/DrKLO/Telegram) - Telegram for Android source
-- [theonedev/onedev](https://github.com/theonedev/onedev) - Git Server with CI/CD, Kanban, and Packages. Seamless integration. Unparalleled experience.
+- [theonedev/onedev](https://github.com/theonedev/onedev) - The Unified and Autonomous Development Platform
 - [opentripplanner/OpenTripPlanner](https://github.com/opentripplanner/OpenTripPlanner) - An open source multi-modal trip planner
 - [charles-tan/java-nyc-bus-gtfs-realtime-to-kafka](https://github.com/charles-tan/java-nyc-bus-gtfs-realtime-to-kafka) - Ingests data from gtfs-realtime and produces the feed to Kafka, specifically for NYC bus data
 - [doocs/leetcode](https://github.com/doocs/leetcode) - 🔥LeetCode solutions in any programming language | 多种编程语言实现 LeetCode、《剑指 Offer（第 2 版）》、《程序员面试金典（第 6 版）》题解
@@ -1046,7 +1046,7 @@
 - [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) - Stop renting your intelligence. Own it with AnythingLLM. Everything you need for a powerful local-first agent experience
 - [mcollina/autocannon](https://github.com/mcollina/autocannon) - fast HTTP/1.1 benchmarking tool written in Node.js
 - [crocodilestick/Calibre-Web-Automated](https://github.com/crocodilestick/Calibre-Web-Automated) - Calibre-Web but Automated and with tons of New Features! Fully automate and simplify your eBook set up!
-- [semantic-release/semantic-release](https://github.com/semantic-release/semantic-release) - :package::rocket: Fully automated version management and package publishing
+- [semantic-release/semantic-release](https://github.com/semantic-release/semantic-release) - 📦🚀 Fully automated version management and package publishing
 - [r0adkll/sign-android-release](https://github.com/r0adkll/sign-android-release) - A GitHub action to sign an APK or AAB
 - [aleixrodriala/wa-tunnel](https://github.com/aleixrodriala/wa-tunnel) - Tunneling Internet traffic over Whatsapp
 - [the-halfbloodprince/GalaxyM1199](https://github.com/the-halfbloodprince/GalaxyM1199) - A cool galaxy simulation using THREE JS particles.
