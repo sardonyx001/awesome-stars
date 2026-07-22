@@ -2108,6 +2108,7 @@
 
 ## TypeScript 
 
+- [giscus/giscus](https://github.com/giscus/giscus) - A commenting system powered by GitHub Discussions. :octocat: :speech_balloon: :gem:
 - [jvm/usql-mcp](https://github.com/jvm/usql-mcp) - usql MCP Server
 - [inkeep/open-knowledge](https://github.com/inkeep/open-knowledge) - Beautiful, AI-native markdown IDE and LLM wiki
 - [backnotprop/plannotator](https://github.com/backnotprop/plannotator) - Annotate and review coding agent plans and code diffs visually, share with your team, send feedback to agents with one click.
