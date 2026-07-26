@@ -945,7 +945,6 @@
 - [mythrantic/ollama-docker](https://github.com/mythrantic/ollama-docker) - Welcome to the Ollama Docker Compose Setup! This project simplifies the deployment of Ollama using Docker Compose, making it easy to run Ollama with all its dependencies in a containerized environment
 - [crccheck/docker-hello-world](https://github.com/crccheck/docker-hello-world) - Hello World web server in under 2 MB
 - [NoahTheDuke/vim-just](https://github.com/NoahTheDuke/vim-just) - Vim Just Syntax
-- [kagisearch/smallweb](https://github.com/kagisearch/smallweb) - Kagi Small Web
 - [veggiedefender/secret-resolutions](https://github.com/veggiedefender/secret-resolutions) - 
 - [agenda/agenda](https://github.com/agenda/agenda) - Lightweight job scheduling for Node.js
 - [mustache/mustache.github.com](https://github.com/mustache/mustache.github.com) - The {{official}} website
@@ -1622,6 +1621,7 @@
 - [xflr6/graphviz](https://github.com/xflr6/graphviz) - Simple Python interface for Graphviz
 - [KlingAIResearch/LivePortrait](https://github.com/KlingAIResearch/LivePortrait) - Bring portraits to life!
 - [OrionStarAI/Orion](https://github.com/OrionStarAI/Orion) - Orion-14B is a family of models includes a 14B foundation LLM, and a series of models: a chat model, a long context model, a quantized model, a RAG fine-tuned model, and an Agent fine-tuned model. Ori
+- [kagisearch/smallweb](https://github.com/kagisearch/smallweb) - Kagi Small Web
 - [wacchoz/APR_CL](https://github.com/wacchoz/APR_CL) - Adleman–Pomerance–Rumely-Cohen-Lenstra primality test (APR-CL)
 - [google-research/bigbird](https://github.com/google-research/bigbird) - Transformers for Longer Sequences
 - [secdev/scapy](https://github.com/secdev/scapy) - Scapy: the Python-based interactive packet manipulation program & library.
