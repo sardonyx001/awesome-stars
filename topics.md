@@ -4223,7 +4223,7 @@
 - [helix-editor/tree-house](https://github.com/helix-editor/tree-house) - Cozy Rust bindings to the tree-sitter C library and a robust highlighter
 - [datastax/ragstack-ai](https://github.com/datastax/ragstack-ai) - RAGStack is an out of the box solution simplifying Retrieval Augmented Generation (RAG) in AI apps.
 - [prasmussen/chrome-cli](https://github.com/prasmussen/chrome-cli) - Control Google Chrome from the command line
-- [spring-projects/spring-retry](https://github.com/spring-projects/spring-retry) - 
+- [spring-attic/spring-retry](https://github.com/spring-attic/spring-retry) - 
 - [aoi1/bbf-kubernetes](https://github.com/aoi1/bbf-kubernetes) - Repository for the book "Build, Breaking, Fixing: A Playful Way to Learn Kubernetes”
 - [reitzig/sdkman-for-fish](https://github.com/reitzig/sdkman-for-fish) - Adds support for SDKMAN! to fish
 - [frictionlessdata/datapackage-go](https://github.com/frictionlessdata/datapackage-go) - A Go library for working with Data Package.
