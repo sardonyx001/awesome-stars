@@ -994,7 +994,7 @@
 - [javaparser/javaparser](https://github.com/javaparser/javaparser) - Java 1-25 Parser and Abstract Syntax Tree for Java with advanced analysis functionalities.
 - [eclipse-jdtls/eclipse.jdt.ls](https://github.com/eclipse-jdtls/eclipse.jdt.ls) - Java language server
 - [gousiosg/java-callgraph](https://github.com/gousiosg/java-callgraph) - Programs for producing static and dynamic (runtime) call graphs for Java programs
-- [spring-projects/spring-retry](https://github.com/spring-projects/spring-retry) - 
+- [spring-attic/spring-retry](https://github.com/spring-attic/spring-retry) - 
 - [soot-oss/SootUp](https://github.com/soot-oss/SootUp) - A new version of Soot with a completely overhauled architecture
 - [DiUS/java-faker](https://github.com/DiUS/java-faker) - Brings the popular ruby faker gem to Java
 - [OpenRefine/OpenRefine](https://github.com/OpenRefine/OpenRefine) - OpenRefine is a free, open source power tool for working with messy data and improving it
