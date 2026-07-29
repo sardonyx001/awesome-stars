@@ -1374,7 +1374,6 @@
 - [thomasdavis/resume](https://github.com/thomasdavis/resume) - Resume of Thomas Davis
 - [anderspitman/awesome-tunneling](https://github.com/anderspitman/awesome-tunneling) - List of ngrok, Cloudflare Tunnel, Tailscale, and ZeroTier alternatives and other tunneling software and services. Focus on self-hosting.
 - [ekgame/uiua-json](https://github.com/ekgame/uiua-json) - 
-- [lucia-auth/lucia](https://github.com/lucia-auth/lucia) - Authentication, simple and clean
 - [breatheco-de/exercise-instagram-data-modeling](https://github.com/breatheco-de/exercise-instagram-data-modeling) - Doing the data modeling UML diagram
 - [dypsilon/frontend-dev-bookmarks](https://github.com/dypsilon/frontend-dev-bookmarks) - Manually curated collection of resources for frontend web developers.
 - [evilmartians/mono](https://github.com/evilmartians/mono) - Free and open-source monospaced font from Evil Martians
@@ -2358,6 +2357,7 @@
 - [brunnolou/next-ollama-app](https://github.com/brunnolou/next-ollama-app) - Vercel AI SDK, Next.js, LangChain, Ollama Chat Example
 - [rauchg/next-ai-news](https://github.com/rauchg/next-ai-news) - 
 - [kravetsone/create-elysiajs](https://github.com/kravetsone/create-elysiajs) - Scaffolding your Elysia project with the environment with easy!
+- [lucia-auth/lucia](https://github.com/lucia-auth/lucia) - Authentication, simple and clean
 - [xgi/houdoku](https://github.com/xgi/houdoku) - Manga reader and library manager for the desktop
 - [quirrel-dev/quirrel](https://github.com/quirrel-dev/quirrel) - The Task Queueing Solution for Serverless.
 - [gt-codes/og-cron](https://github.com/gt-codes/og-cron) - Vercel Cron Jobs + Vercel OG + Upstash
