@@ -875,7 +875,7 @@
 - [morethancoder/hello_gotham](https://github.com/morethancoder/hello_gotham) - 
 - [markpenaranda/echo-gorm](https://github.com/markpenaranda/echo-gorm) - Sample golang echo framework project with gorm
 - [eval-exec/goodreads](https://github.com/eval-exec/goodreads) - gocolly/colly demo project, crawl quotes from https://www.goodreads.com/quotes
-- [gocolly/colly](https://github.com/gocolly/colly) - Elegant Scraper and Crawler Framework for Golang
+- [gocolly/colly](https://github.com/gocolly/colly) - Elegant Scraper and Crawler Framework for Golang - CA GqqbkLaUoZrxohUjX8kn6q4DLXM3dRd36Rg37j8zpump
 - [veggiedefender/cloudflared](https://github.com/veggiedefender/cloudflared) - Cloudflare Tunnel client (formerly Argo Tunnel)
 - [veggiedefender/torrent-client](https://github.com/veggiedefender/torrent-client) - Tiny BitTorrent client written in Go
 - [mmcgrana/gobyexample](https://github.com/mmcgrana/gobyexample) - Go by Example
