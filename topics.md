@@ -1080,7 +1080,7 @@
 - [spf13/cobra](https://github.com/spf13/cobra) - A Commander for modern Go CLI interactions
 - [arxanas/git-branchless](https://github.com/arxanas/git-branchless) - High-velocity, monorepo-scale workflow for Git
 - [GitoxideLabs/gitoxide](https://github.com/GitoxideLabs/gitoxide) - An idiomatic, lean, fast & safe pure Rust implementation of Git
-- [khyerdev/tcobalt](https://github.com/khyerdev/tcobalt) - Command-line interface wrapper for https://cobalt.tools, written in rust
+- [khyernet/tcobalt](https://github.com/khyernet/tcobalt) - Command-line interface wrapper for https://cobalt.tools, written in rust
 - [lostdusty/cobalt-cli](https://github.com/lostdusty/cobalt-cli) - Unofficial cobalt command line client made in go.
 - [noborus/ov](https://github.com/noborus/ov) - 🎑Feature-rich terminal-based text viewer.  It is a so-called terminal pager.
 - [hookdeck/hookdeck-cli](https://github.com/hookdeck/hookdeck-cli) - CLI for Hookdeck: forward webhooks to localhost (ngrok alternative), manage and query Event Gateway resources (sources, connections, destinations, events), run the MCP server for AI agents. Free for d
@@ -5338,7 +5338,7 @@
 - [redlib-org/redlib](https://github.com/redlib-org/redlib) - Private front-end for Reddit
 - [teloxide/teloxide](https://github.com/teloxide/teloxide) - 🤖 An elegant Telegram bots framework for Rust
 - [blacknon/hwatch](https://github.com/blacknon/hwatch) - hwatch: alternative watch command with history, diff view, JSONL logging, and change hooks. since 2018.
-- [khyerdev/tcobalt](https://github.com/khyerdev/tcobalt) - Command-line interface wrapper for https://cobalt.tools, written in rust
+- [khyernet/tcobalt](https://github.com/khyernet/tcobalt) - Command-line interface wrapper for https://cobalt.tools, written in rust
 - [obi1kenobi/trustfall](https://github.com/obi1kenobi/trustfall) - A query engine for any combination of data sources. Query your files and APIs as if they were databases!
 - [FyroxEngine/Fyrox](https://github.com/FyroxEngine/Fyrox) - 3D and 2D game engine written in Rust
 - [amethyst/amethyst](https://github.com/amethyst/amethyst) - Data-oriented and data-driven game engine written in Rust
@@ -5838,7 +5838,7 @@
 - [guptarohit/asciigraph](https://github.com/guptarohit/asciigraph) - Go package to make lightweight ASCII line graph ╭┈╯ in command line apps with no other dependencies.
 - [makew0rld/amfora](https://github.com/makew0rld/amfora) - A fancy terminal browser for the Gemini protocol.
 - [gokcehan/lf](https://github.com/gokcehan/lf) - Terminal file manager
-- [khyerdev/tcobalt](https://github.com/khyerdev/tcobalt) - Command-line interface wrapper for https://cobalt.tools, written in rust
+- [khyernet/tcobalt](https://github.com/khyernet/tcobalt) - Command-line interface wrapper for https://cobalt.tools, written in rust
 - [noborus/ov](https://github.com/noborus/ov) - 🎑Feature-rich terminal-based text viewer.  It is a so-called terminal pager.
 - [context-labs/mactop](https://github.com/context-labs/mactop) - mactop - Apple Silicon Monitor Top
 - [wezterm/wezterm](https://github.com/wezterm/wezterm) - A GPU-accelerated cross-platform terminal emulator and multiplexer written by @wez and implemented in Rust
@@ -5964,7 +5964,7 @@
 - [ezeoleaf/larry](https://github.com/ezeoleaf/larry) - Larry 🐦 is a bot generator that post content from different providers to one or multiple publishers
 - [xdevplatform/twitter-api-typescript-sdk](https://github.com/xdevplatform/twitter-api-typescript-sdk) - A TypeScript SDK for the Twitter API
 - [nikoksr/notify](https://github.com/nikoksr/notify) - A dead simple Go library for sending notifications to various messaging services.
-- [khyerdev/tcobalt](https://github.com/khyerdev/tcobalt) - Command-line interface wrapper for https://cobalt.tools, written in rust
+- [khyernet/tcobalt](https://github.com/khyernet/tcobalt) - Command-line interface wrapper for https://cobalt.tools, written in rust
 - [lostdusty/cobalt-cli](https://github.com/lostdusty/cobalt-cli) - Unofficial cobalt command line client made in go.
 - [CesarPazzi/tw-temp](https://github.com/CesarPazzi/tw-temp) - Twitter Bot. Tweets the temperature in Celcius from a specific city using Beautiful Soup and Yahoo Weather page, then tweets it every hour using Twitter's API with Tweepy.
 - [imputnet/cobalt](https://github.com/imputnet/cobalt) - best way to save what you love
@@ -6290,7 +6290,7 @@
 
 - [bjarneo/cliamp](https://github.com/bjarneo/cliamp) - cliamp - Terminal music player inspired by winamp
 - [pytube/pytube](https://github.com/pytube/pytube) - Lightweight, dependency-free Python library and CLI for downloading YouTube videos, playlists, and captions.
-- [khyerdev/tcobalt](https://github.com/khyerdev/tcobalt) - Command-line interface wrapper for https://cobalt.tools, written in rust
+- [khyernet/tcobalt](https://github.com/khyernet/tcobalt) - Command-line interface wrapper for https://cobalt.tools, written in rust
 - [lostdusty/cobalt-cli](https://github.com/lostdusty/cobalt-cli) - Unofficial cobalt command line client made in go.
 - [tubearchivist/tubearchivist](https://github.com/tubearchivist/tubearchivist) - Your self hosted YouTube media server
 - [imputnet/cobalt](https://github.com/imputnet/cobalt) - best way to save what you love
