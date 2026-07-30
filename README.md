@@ -1170,7 +1170,6 @@
 - [stephencwelch/Neural-Networks-Demystified](https://github.com/stephencwelch/Neural-Networks-Demystified) - Supporting code for short YouTube series Neural Networks Demystified.
 - [commaai/commavq](https://github.com/commaai/commavq) - commaVQ is a dataset of compressed driving video
 - [777arc/PySDR](https://github.com/777arc/PySDR) - PySDR is a guide to software-defined radio (SDR) and RF signal processing using Python, live at https://pysdr.org
-- [marceloprates/prettymaps](https://github.com/marceloprates/prettymaps) - Draw pretty maps from OpenStreetMap data! Built with osmnx +matplotlib + shapely
 - [emilywenger/presidential-travel](https://github.com/emilywenger/presidential-travel) - An analysis of international travel habits of American presidents 1933-2018.
 
 ## Kotlin 
@@ -1711,6 +1710,7 @@
 - [Textualize/textual](https://github.com/Textualize/textual) - The lean application framework for Python.  Build sophisticated user interfaces with a simple Python API. Run your apps in the terminal and a web browser.
 - [xoreaxeaxeax/reductio](https://github.com/xoreaxeaxeax/reductio) - An exploration of code homeomorphism
 - [AdamLaurie/rompar](https://github.com/AdamLaurie/rompar) - Semi-automatic extraction of data from microscopic images of Masked ROM.
+- [marceloprates/prettymaps](https://github.com/marceloprates/prettymaps) - Draw pretty maps from OpenStreetMap data! Built with osmnx +matplotlib + shapely
 - [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) - A feature-rich command-line audio/video downloader
 - [dylanaraps/pywal](https://github.com/dylanaraps/pywal) - 🎨 Generate and change color-schemes on the fly.
 - [omkarjc27/OooWee](https://github.com/omkarjc27/OooWee) - Programming Language Containing Phrase OooWee and  it's Variations, Inspired from the Rick&Morty charecter Mr.PoopyButhole
