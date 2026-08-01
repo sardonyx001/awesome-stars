@@ -1442,7 +1442,7 @@
 - [ldayton/Parable](https://github.com/ldayton/Parable) - 🌀 A complete bash parser that handles every edge case — extensively validated against bash itself — one file, zero dependencies
 - [idank/bashlex](https://github.com/idank/bashlex) - Python parser for bash
 - [agent-infra/sandbox](https://github.com/agent-infra/sandbox) - All-in-One Sandbox for AI Agents that combines Browser, Shell, File, MCP and VSCode Server in a single Docker container.
-- [MinishLab/semble](https://github.com/MinishLab/semble) - Fast and Accurate Code Search for Agents. Uses ~98% fewer tokens than grep+read
+- [MinishLab/semble](https://github.com/MinishLab/semble) - Fast and Accurate Code Search for Agents. Uses 99% fewer tokens than grep+read
 - [jumpserver/jumpserver](https://github.com/jumpserver/jumpserver) - JumpServer is an open-source Privileged Access Management (PAM) platform that provides DevOps and IT teams with on-demand and secure access to SSH, RDP, Kubernetes, Database and RemoteApp endpoints th
 - [smithclay/duckdb-otlp](https://github.com/smithclay/duckdb-otlp) - stream, store, and query OpenTelemetry metrics, logs, and traces (OTLP) in duckdb
 - [sooperset/mcp-atlassian](https://github.com/sooperset/mcp-atlassian) - MCP server for Atlassian tools (Confluence, Jira)
