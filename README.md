@@ -936,6 +936,7 @@
 - [ericchiang/pup](https://github.com/ericchiang/pup) - Parsing HTML at the command line
 - [KroneCorylus/ghostty-shader-playground](https://github.com/KroneCorylus/ghostty-shader-playground) - Personal space for learn and develop shaders
 - [adityatelange/hugo-PaperMod](https://github.com/adityatelange/hugo-PaperMod) - A fast, clean, responsive Hugo theme.
+- [Michael-A-Kuykendall/shimmy](https://github.com/Michael-A-Kuykendall/shimmy) - ⚡ Pure-Rust WebGPU inference engine — OpenAI-API compatible, GGUF native, runs on any GPU. No Python. No llama.cpp. Single binary.
 - [tomfran/typo](https://github.com/tomfran/typo) - A simple Hugo theme
 - [wadhah101/mycv](https://github.com/wadhah101/mycv) - 
 - [eza-community/eza.rocks](https://github.com/eza-community/eza.rocks) - EZA Rocks, on the Wolrld Wide Interwebs
@@ -1825,7 +1826,6 @@
 - [bruits/maudit](https://github.com/bruits/maudit) - A static site generator 👑 The still scrolls of the web, unchanging and steadfast, at last!
 - [garasubo/bookos2](https://github.com/garasubo/bookos2) - 
 - [garasubo/erkos](https://github.com/garasubo/erkos) - A prototype embedded operating system written in Rust
-- [Michael-A-Kuykendall/shimmy](https://github.com/Michael-A-Kuykendall/shimmy) - ⚡ Pure-Rust WebGPU inference engine — OpenAI-API compatible, GGUF native, runs on any GPU. No Python. No llama.cpp. Single binary.
 - [nuta/hypervisor-in-1000-lines](https://github.com/nuta/hypervisor-in-1000-lines) - Writing a hypervisor in 1,000 lines.
 - [apache/datafusion](https://github.com/apache/datafusion) - Apache DataFusion SQL Query Engine
 - [openai/codex](https://github.com/openai/codex) - Lightweight coding agent that runs in your terminal
