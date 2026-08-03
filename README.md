@@ -2114,6 +2114,8 @@
 
 ## TypeScript 
 
+- [matr1xp/ubereats_mcp_server](https://github.com/matr1xp/ubereats_mcp_server) - This is an enhanced UberEats MCP (Model Context Protocol) server built with TypeScript. It provides automated interaction with UberEats through a modern MCP server implementation that integrates with 
+- [bitwarden/mcp-server](https://github.com/bitwarden/mcp-server) - MCP server for interaction with Bitwarden.
 - [NateBJones-Projects/OB1](https://github.com/NateBJones-Projects/OB1) - Open Brain — The infrastructure layer for your thinking. One database, one AI gateway, one chat channel — any AI plugs in. No middleware, no SaaS.
 - [giscus/giscus](https://github.com/giscus/giscus) - A commenting system powered by GitHub Discussions. :octocat: :speech_balloon: :gem:
 - [jvm/usql-mcp](https://github.com/jvm/usql-mcp) - usql MCP Server
