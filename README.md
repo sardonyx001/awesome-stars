@@ -1432,6 +1432,7 @@
 
 ## Python 
 
+- [Graphify-Labs/graphify](https://github.com/Graphify-Labs/graphify) - Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, e
 - [foxox/nzconfigtools](https://github.com/foxox/nzconfigtools) - Config editing tools for the Nikon Z system.
 - [ldayton/Tongues](https://github.com/ldayton/Tongues) - Write your algorithmic library once in Python. Get native, idiomatic code in every language.
 - [josiahcarlson/parse-crontab](https://github.com/josiahcarlson/parse-crontab) - Parse and use crontab schedules in Python
