@@ -2522,6 +2522,7 @@
 
 ## google 
 
+- [openclaw/gogcli](https://github.com/openclaw/gogcli) - Google Workspace in your terminal.
 - [elder-plinius/CL4R1T4S](https://github.com/elder-plinius/CL4R1T4S) - LEAKED SYSTEM PROMPTS FOR CHATGPT, CLAUDE, GEMINI, GROK, PERPLEXITY, CURSOR, LOVABLE, REPLIT, AND MORE! - AI SYSTEMS TRANSPARENCY FOR ALL! 👐
 - [just-every/code](https://github.com/just-every/code) - Every Code - push frontier AI to it limits. A fork of the Codex CLI with validation, automation, browser integration, multi-agents, theming, and much more. Orchestrate agents from OpenAI, Claude, Gemi
 - [simulot/immich-go](https://github.com/simulot/immich-go) - An alternative to the immich-CLI command that doesn't depend on nodejs installation. It tries its best for importing google photos takeout archives.
@@ -3973,6 +3974,8 @@
 
 ## others 
 
+- [yusukebe/ax](https://github.com/yusukebe/ax) - The AI-era curl
+- [boldsoftware/meat](https://github.com/boldsoftware/meat) - meat.dev
 - [darktable-org/darktable](https://github.com/darktable-org/darktable) - darktable is an open source photography workflow application and raw developer
 - [foxox/nzconfigtools](https://github.com/foxox/nzconfigtools) - Config editing tools for the Nikon Z system.
 - [matr1xp/ubereats_mcp_server](https://github.com/matr1xp/ubereats_mcp_server) - This is an enhanced UberEats MCP (Model Context Protocol) server built with TypeScript. It provides automated interaction with UberEats through a modern MCP server implementation that integrates with 
