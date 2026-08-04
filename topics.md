@@ -469,6 +469,7 @@
 
 ## ai-agents 
 
+- [Graphify-Labs/graphify](https://github.com/Graphify-Labs/graphify) - Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, e
 - [NateBJones-Projects/OB1](https://github.com/NateBJones-Projects/OB1) - Open Brain — The infrastructure layer for your thinking. One database, one AI gateway, one chat channel — any AI plugs in. No middleware, no SaaS.
 - [usemoss/moss](https://github.com/usemoss/moss) - The retrieval layer for production AI systems. Lightning-fast (&lt;10ms) search without vector databases. Built for browser, edge, on-device, and cloud.
 - [cocoindex-io/cocoindex](https://github.com/cocoindex-io/cocoindex) - Incremental engine for long horizon agents 🌟 Star if you like it!
@@ -953,6 +954,7 @@
 
 ## claude-code 
 
+- [Graphify-Labs/graphify](https://github.com/Graphify-Labs/graphify) - Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, e
 - [mpecan/tokf](https://github.com/mpecan/tokf) - Config-driven CLI tool that compresses command output before it reaches an LLM context
 - [backnotprop/plannotator](https://github.com/backnotprop/plannotator) - Annotate and review coding agent plans and code diffs visually, share with your team, send feedback to agents with one click.
 - [iOfficeAI/OfficeCLI](https://github.com/iOfficeAI/OfficeCLI) - OfficeCLI is the first and best Office suite  purpose-built for AI agents to read, edit, and automate Word, Excel, and PowerPoint files. Free, open-source, single binary, no Office installation requir
@@ -1495,6 +1497,7 @@
 
 ## developer-tools 
 
+- [Graphify-Labs/graphify](https://github.com/Graphify-Labs/graphify) - Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, e
 - [mpecan/tokf](https://github.com/mpecan/tokf) - Config-driven CLI tool that compresses command output before it reaches an LLM context
 - [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) - Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.
 - [avivsinai/bitbucket-cli](https://github.com/avivsinai/bitbucket-cli) - Bitbucket CLI with gh-like ergonomics
@@ -3237,6 +3240,7 @@
 
 ## llm 
 
+- [Graphify-Labs/graphify](https://github.com/Graphify-Labs/graphify) - Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, e
 - [mpecan/tokf](https://github.com/mpecan/tokf) - Config-driven CLI tool that compresses command output before it reaches an LLM context
 - [inkeep/open-knowledge](https://github.com/inkeep/open-knowledge) - Beautiful, AI-native markdown IDE and LLM wiki
 - [cocoindex-io/cocoindex](https://github.com/cocoindex-io/cocoindex) - Incremental engine for long horizon agents 🌟 Star if you like it!
@@ -3486,6 +3490,7 @@
 
 ## mcp 
 
+- [Graphify-Labs/graphify](https://github.com/Graphify-Labs/graphify) - Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, e
 - [bitwarden/mcp-server](https://github.com/bitwarden/mcp-server) - MCP server for interaction with Bitwarden.
 - [micro/mu](https://github.com/micro/mu) - Tools for Agents
 - [NateBJones-Projects/OB1](https://github.com/NateBJones-Projects/OB1) - Open Brain — The infrastructure layer for your thinking. One database, one AI gateway, one chat channel — any AI plugs in. No middleware, no SaaS.
@@ -5102,6 +5107,7 @@
 
 ## rag 
 
+- [Graphify-Labs/graphify](https://github.com/Graphify-Labs/graphify) - Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, e
 - [usemoss/moss](https://github.com/usemoss/moss) - The retrieval layer for production AI systems. Lightning-fast (&lt;10ms) search without vector databases. Built for browser, edge, on-device, and cloud.
 - [cocoindex-io/cocoindex](https://github.com/cocoindex-io/cocoindex) - Incremental engine for long horizon agents 🌟 Star if you like it!
 - [MauricioPerera/just-bash-data](https://github.com/MauricioPerera/just-bash-data) - just-bash plugin: db (MongoDB-style document store) and vec (vector similarity search) commands for in-shell agents. JWT auth, RBAC, AES-256-GCM encryption, 4 quantizations.
