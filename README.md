@@ -2120,6 +2120,7 @@
 
 ## TypeScript 
 
+- [wallpants/pantsdown](https://github.com/wallpants/pantsdown) - Markdown to "GitHub HTML" parser
 - [yusukebe/ax](https://github.com/yusukebe/ax) - The AI-era curl
 - [matr1xp/ubereats_mcp_server](https://github.com/matr1xp/ubereats_mcp_server) - This is an enhanced UberEats MCP (Model Context Protocol) server built with TypeScript. It provides automated interaction with UberEats through a modern MCP server implementation that integrates with 
 - [bitwarden/mcp-server](https://github.com/bitwarden/mcp-server) - MCP server for interaction with Bitwarden.
