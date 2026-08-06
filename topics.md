@@ -2940,6 +2940,7 @@
 
 ## javascript 
 
+- [qdrant/qdrant-js](https://github.com/qdrant/qdrant-js) - JavaScript/Typescript SDK for Qdrant Vector Database
 - [giscus/giscus](https://github.com/giscus/giscus) - A commenting system powered by GitHub Discussions. :octocat: :speech_balloon: :gem:
 - [biomejs/gritql](https://github.com/biomejs/gritql) - GritQL is a query language for searching, linting, and modifying code.
 - [MohammadRaziei/mermaidx](https://github.com/MohammadRaziei/mermaidx) - Python-native Mermaid diagram converter – no browser, Node.js, or npm required. Renders diagrams to SVG/PNG/PDF using an embedded QuickJS engine and resvg, perfect for documentation automation and CI/
@@ -3977,6 +3978,8 @@
 
 ## others 
 
+- [trycompai/crm](https://github.com/trycompai/crm) - An open-source, agentic-first CRM.
+- [cloudflare/computer](https://github.com/cloudflare/computer) - Give your agent a computer 👾
 - [yusukebe/ax](https://github.com/yusukebe/ax) - The AI-era curl
 - [boldsoftware/meat](https://github.com/boldsoftware/meat) - meat.dev
 - [darktable-org/darktable](https://github.com/darktable-org/darktable) - darktable is an open source photography workflow application and raw developer
@@ -6019,6 +6022,7 @@
 
 ## typescript 
 
+- [qdrant/qdrant-js](https://github.com/qdrant/qdrant-js) - JavaScript/Typescript SDK for Qdrant Vector Database
 - [wallpants/pantsdown](https://github.com/wallpants/pantsdown) - Markdown to "GitHub HTML" parser
 - [bitwarden/mcp-server](https://github.com/bitwarden/mcp-server) - MCP server for interaction with Bitwarden.
 - [vercel/eve](https://github.com/vercel/eve) - The Open Framework for Building Agents
