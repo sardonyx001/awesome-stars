@@ -2120,6 +2120,9 @@
 
 ## TypeScript 
 
+- [qdrant/qdrant-js](https://github.com/qdrant/qdrant-js) - JavaScript/Typescript SDK for Qdrant Vector Database
+- [trycompai/crm](https://github.com/trycompai/crm) - An open-source, agentic-first CRM.
+- [cloudflare/computer](https://github.com/cloudflare/computer) - Give your agent a computer 👾
 - [wallpants/pantsdown](https://github.com/wallpants/pantsdown) - Markdown to "GitHub HTML" parser
 - [yusukebe/ax](https://github.com/yusukebe/ax) - The AI-era curl
 - [matr1xp/ubereats_mcp_server](https://github.com/matr1xp/ubereats_mcp_server) - This is an enhanced UberEats MCP (Model Context Protocol) server built with TypeScript. It provides automated interaction with UberEats through a modern MCP server implementation that integrates with 
