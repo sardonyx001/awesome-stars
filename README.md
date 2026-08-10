@@ -1379,7 +1379,6 @@
 - [cat-milk/Anime-Girls-Holding-Programming-Books](https://github.com/cat-milk/Anime-Girls-Holding-Programming-Books) - Anime Girls Holding Programming Books
 - [jorgebucaran/awsm.fish](https://github.com/jorgebucaran/awsm.fish) - A curation of prompts, plugins & other Fish treasures 🐚💎
 - [thomasdavis/resume](https://github.com/thomasdavis/resume) - Resume of Thomas Davis
-- [anderspitman/awesome-tunneling](https://github.com/anderspitman/awesome-tunneling) - List of ngrok, Cloudflare Tunnel, Tailscale, and ZeroTier alternatives and other tunneling software and services. Focus on self-hosting.
 - [ekgame/uiua-json](https://github.com/ekgame/uiua-json) - 
 - [breatheco-de/exercise-instagram-data-modeling](https://github.com/breatheco-de/exercise-instagram-data-modeling) - Doing the data modeling UML diagram
 - [dypsilon/frontend-dev-bookmarks](https://github.com/dypsilon/frontend-dev-bookmarks) - Manually curated collection of resources for frontend web developers.
@@ -1642,6 +1641,7 @@
 - [pranavjad/mlx-gpt2](https://github.com/pranavjad/mlx-gpt2) - gpt-2 from scratch in mlx
 - [online-judge-tools/oj](https://github.com/online-judge-tools/oj) - Tools for various online judges. Downloading sample cases, generating additional test cases, testing your code, and submitting it.
 - [StuffAnThings/qbit_manage](https://github.com/StuffAnThings/qbit_manage) - This tool will help manage tedious tasks in qBittorrent and automate them. Tag, categorize, remove Orphaned data, remove unregistered torrents and much much more.
+- [anderspitman/awesome-tunneling](https://github.com/anderspitman/awesome-tunneling) - List of ngrok, Cloudflare Tunnel, Tailscale, and ZeroTier alternatives and other tunneling software and services. Focus on self-hosting.
 - [pallets/flask](https://github.com/pallets/flask) - The Python micro framework for building web applications.
 - [bbilly1/tilefy](https://github.com/bbilly1/tilefy) - Create beautiful tiles for your project
 - [tubearchivist/tubearchivist](https://github.com/tubearchivist/tubearchivist) - Your self hosted YouTube media server
