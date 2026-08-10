@@ -1436,6 +1436,7 @@
 
 ## Python 
 
+- [max-sixty/tend](https://github.com/max-sixty/tend) - Claude-powered CI workflows for GitHub repositories
 - [Graphify-Labs/graphify](https://github.com/Graphify-Labs/graphify) - Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, e
 - [foxox/nzconfigtools](https://github.com/foxox/nzconfigtools) - Config editing tools for the Nikon Z system.
 - [ldayton/Tongues](https://github.com/ldayton/Tongues) - Write your algorithmic library once in Python. Get native, idiomatic code in every language.
@@ -2119,6 +2120,7 @@
 
 ## TypeScript 
 
+- [rcarmo/piclaw](https://github.com/rcarmo/piclaw) - pi coding agent in a technicolor web trenchcoat
 - [qdrant/qdrant-js](https://github.com/qdrant/qdrant-js) - JavaScript/Typescript SDK for Qdrant Vector Database
 - [trycompai/crm](https://github.com/trycompai/crm) - Comp AI CRM is an open source, CRM designed for AI agents. Agentic-first CRM.
 - [cloudflare/computer](https://github.com/cloudflare/computer) - Give your agent a computer 👾
