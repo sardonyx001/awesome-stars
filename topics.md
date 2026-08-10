@@ -1609,6 +1609,7 @@
 
 ## docker 
 
+- [rcarmo/piclaw](https://github.com/rcarmo/piclaw) - pi coding agent in a technicolor web trenchcoat
 - [siderolabs/conform](https://github.com/siderolabs/conform) - Policy enforcement for your pipelines.
 - [pvd-nerd/docker-arr-suite](https://github.com/pvd-nerd/docker-arr-suite) - Modular Docker Compose stack for automated media management using Jellyfin/Plex, Traefik, qBittorrent, Radarr, Sonarr, Prowlarr, and more—securely routed through Gluetun with built-in reverse proxy, u
 - [getwud/wud](https://github.com/getwud/wud) - Keep your containers up-to-date!
@@ -3250,6 +3251,7 @@
 
 ## llm 
 
+- [rcarmo/piclaw](https://github.com/rcarmo/piclaw) - pi coding agent in a technicolor web trenchcoat
 - [Graphify-Labs/graphify](https://github.com/Graphify-Labs/graphify) - Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, e
 - [mpecan/tokf](https://github.com/mpecan/tokf) - Config-driven CLI tool that compresses command output before it reaches an LLM context
 - [inkeep/open-knowledge](https://github.com/inkeep/open-knowledge) - Beautiful, AI-native markdown IDE and LLM wiki
@@ -5512,6 +5514,7 @@
 
 ## self-hosted 
 
+- [rcarmo/piclaw](https://github.com/rcarmo/piclaw) - pi coding agent in a technicolor web trenchcoat
 - [homarr-labs/dashboard-icons](https://github.com/homarr-labs/dashboard-icons) - Your definitive source for dashboard icons.
 - [distr-sh/distr](https://github.com/distr-sh/distr) - The Open Source control plane for self-hosted, BYOC, and on-prem deployments. Everything you need to distribute applications to self-hosted customers out of the box. Supporting Docker Compose, Docker 
 - [liketrek/TREK](https://github.com/liketrek/TREK) - A self-hosted travel/trip planner with real-time collaboration, interactive maps, PWA support, SSO, budgets, packing lists, and more.
@@ -6029,6 +6032,7 @@
 
 ## typescript 
 
+- [rcarmo/piclaw](https://github.com/rcarmo/piclaw) - pi coding agent in a technicolor web trenchcoat
 - [qdrant/qdrant-js](https://github.com/qdrant/qdrant-js) - JavaScript/Typescript SDK for Qdrant Vector Database
 - [wallpants/pantsdown](https://github.com/wallpants/pantsdown) - Markdown to "GitHub HTML" parser
 - [bitwarden/mcp-server](https://github.com/bitwarden/mcp-server) - MCP server for interaction with Bitwarden.
