@@ -1974,6 +1974,7 @@
 
 ## git 
 
+- [joseluisq/gitnow](https://github.com/joseluisq/gitnow) - Speed up your Git workflow. :tropical_fish:
 - [avivsinai/bitbucket-cli](https://github.com/avivsinai/bitbucket-cli) - Bitbucket CLI with gh-like ergonomics
 - [jnsahaj/lumen](https://github.com/jnsahaj/lumen) - Beautiful git diff viewer, generate commits with AI, get summary of changes, all from the CLI
 - [gitsocial-org/gitsocial](https://github.com/gitsocial-org/gitsocial) - Cross-forge collaboration platform
@@ -2011,6 +2012,7 @@
 
 ## github 
 
+- [joseluisq/gitnow](https://github.com/joseluisq/gitnow) - Speed up your Git workflow. :tropical_fish:
 - [giscus/giscus](https://github.com/giscus/giscus) - A commenting system powered by GitHub Discussions. :octocat: :speech_balloon: :gem:
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
 - [aviator-co/av](https://github.com/aviator-co/av) - A command line tool to manage stacked PRs with Aviator
@@ -3981,6 +3983,7 @@
 
 ## others 
 
+- [max-sixty/tend](https://github.com/max-sixty/tend) - Claude-powered CI workflows for GitHub repositories
 - [JetBrains/intellij-community](https://github.com/JetBrains/intellij-community) - IntelliJ IDEA & IntelliJ Platform
 - [DetachHead/rebased](https://github.com/DetachHead/rebased) - A git client based on the IntelliJ platform
 - [CopilotKit/channels-sdk](https://github.com/CopilotKit/channels-sdk) - The open-source SDK for bringing any agent into any chat platform: Slack, Microsoft Teams, Discord, Telegram - with native, Interactive UI.
