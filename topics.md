@@ -5381,6 +5381,7 @@
 - [ynuwenhof/koblas](https://github.com/ynuwenhof/koblas) - Lightweight SOCKS5 proxy server
 - [spacedriveapp/spacedrive](https://github.com/spacedriveapp/spacedrive) - Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust.
 - [firecracker-microvm/firecracker](https://github.com/firecracker-microvm/firecracker) - Secure and fast microVMs for serverless computing.
+- [stamparm/maltrail](https://github.com/stamparm/maltrail) - Malicious traffic detection system
 - [modelfoxdotdev/modelfox](https://github.com/modelfoxdotdev/modelfox) - ModelFox makes it easy to train, deploy, and monitor machine learning models.
 - [ms-jpq/sad](https://github.com/ms-jpq/sad) - CLI search and replace | Space Age seD
 - [tealdeer-rs/tealdeer](https://github.com/tealdeer-rs/tealdeer) - A very fast implementation of tldr in Rust.
