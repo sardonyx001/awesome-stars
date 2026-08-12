@@ -1294,7 +1294,7 @@
 
 - [coollabsio/coolify-docs](https://github.com/coollabsio/coolify-docs) - Documentation for Coolify
 - [webtui/webtui](https://github.com/webtui/webtui) - Modular CSS Library that brings the beauty of Terminal UIs to the browser
-- [mkosir/typescript-style-guide](https://github.com/mkosir/typescript-style-guide) - ⚙️ TypeScript Style Guide. A concise set of conventions and best practices for creating consistent, maintainable code.
+- [mkosir/typescript-style-guide](https://github.com/mkosir/typescript-style-guide) - ⚙️ TypeScript Style Guide and Agent Skill. A concise set of conventions and best practices for consistent, maintainable code.
 - [pmillspaugh/petemillspaugh.com](https://github.com/pmillspaugh/petemillspaugh.com) - My digital garden
 - [Xe/site](https://github.com/Xe/site) - The new frontend/backend code for https://xeiaso.net
 - [rauchg/blog](https://github.com/rauchg/blog) - 
