@@ -1534,7 +1534,7 @@
 - [pamoller/xmlformatter](https://github.com/pamoller/xmlformatter) - Format and compress XML documents
 - [huggingface/smolagents](https://github.com/huggingface/smolagents) - 🤗 smolagents: a barebones library for agents that think in code.
 - [SandeebAdhikari/DevPilot-HQ](https://github.com/SandeebAdhikari/DevPilot-HQ) - DevPilot is an AI-powered CLI that accelerates developer onboarding by automatically explaining and summarizing unfamiliar codebases.
-- [Darwin-lfl/langmanus](https://github.com/Darwin-lfl/langmanus) - A community-driven AI automation framework that builds upon the incredible work of the open source community. Our goal is to combine language models with specialized tools for tasks like web search, c
+- [darwin-lau/langmanus](https://github.com/darwin-lau/langmanus) - A community-driven AI automation framework that builds upon the incredible work of the open source community. Our goal is to combine language models with specialized tools for tasks like web search, c
 - [langchain-ai/langgraph](https://github.com/langchain-ai/langgraph) - Build resilient agents.
 - [astanin/python-tabulate](https://github.com/astanin/python-tabulate) - Pretty-print tabular data in Python, a library and a command-line utility. Repository migrated from bitbucket.org/astanin/python-tabulate.
 - [ActivityWatch/aw-watcher-input](https://github.com/ActivityWatch/aw-watcher-input) - Track your keypresses and mouse movements with ActivityWatch
