@@ -927,6 +927,7 @@
 ## Go Template 
 
 - [sourcebot-dev/sourcebot-helm-chart](https://github.com/sourcebot-dev/sourcebot-helm-chart) - Kubernetes config and Helm chart for Sourcebot
+- [braintrustdata/helm](https://github.com/braintrustdata/helm) - Helm charts for the self-hosted data plane
 
 ## HCL 
 
@@ -2008,7 +2009,6 @@
 ## Shell 
 
 - [joseluisq/gitnow](https://github.com/joseluisq/gitnow) - Speed up your Git workflow. :tropical_fish:
-- [braintrustdata/helm](https://github.com/braintrustdata/helm) - Helm charts for the self-hosted data plane
 - [uditgoenka/autoresearch](https://github.com/uditgoenka/autoresearch) - Claude Autoresearch Skill — Autonomous goal-directed iteration for Claude Code. Inspired by Karpathy's autoresearch. Modify → Verify → Keep/Discard → Repeat forever.
 - [PrismML-Eng/Bonsai-demo](https://github.com/PrismML-Eng/Bonsai-demo) - Bonsai Demo
 - [Mekann2904/dotfiles-bare](https://github.com/Mekann2904/dotfiles-bare) - 
