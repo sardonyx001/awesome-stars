@@ -850,6 +850,7 @@
 
 ## c 
 
+- [ibireme/yyjson](https://github.com/ibireme/yyjson) - The fastest JSON library in C
 - [sumatrapdfreader/sumatrapdf](https://github.com/sumatrapdfreader/sumatrapdf) - SumatraPDF reader
 - [htop-dev/htop](https://github.com/htop-dev/htop) - htop - an interactive process viewer
 - [kaxap/arl](https://github.com/kaxap/arl) - lists of most popular repositories for most favoured programming languages (according to StackOverflow)
@@ -3041,6 +3042,7 @@
 
 ## json 
 
+- [ibireme/yyjson](https://github.com/ibireme/yyjson) - The fastest JSON library in C
 - [redis/redis](https://github.com/redis/redis) - For developers, who are building real-time data-driven applications, Redis is the preferred, fastest, and most feature-rich cache, data structure server, and document and vector query engine.
 - [pinojs/pino](https://github.com/pinojs/pino) - 🌲 super fast, all natural json logger
 - [pamburus/hl](https://github.com/pamburus/hl) - A fast and powerful log viewer and processor that converts JSON logs or logfmt logs into a clear human-readable format.
@@ -3985,6 +3987,8 @@
 
 ## others 
 
+- [coleifer/pysqlite3](https://github.com/coleifer/pysqlite3) - SQLite3 DB-API 2.0 driver from Python 3, packaged separately, with improvements
+- [cathrynlavery/diagram-design](https://github.com/cathrynlavery/diagram-design) - 29 editorial diagram types for Claude Code. Self-contained HTML + SVG. No shadows, no Mermaid-slop.
 - [max-sixty/tend](https://github.com/max-sixty/tend) - Claude-powered CI workflows for GitHub repositories
 - [JetBrains/intellij-community](https://github.com/JetBrains/intellij-community) - IntelliJ IDEA & IntelliJ Platform
 - [DetachHead/rebased](https://github.com/DetachHead/rebased) - A git client based on the IntelliJ platform
