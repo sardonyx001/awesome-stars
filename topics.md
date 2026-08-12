@@ -4299,7 +4299,7 @@
 - [huggingface/smolagents](https://github.com/huggingface/smolagents) - 🤗 smolagents: a barebones library for agents that think in code.
 - [ahmedkhalf/project.nvim](https://github.com/ahmedkhalf/project.nvim) - The superior project management solution for neovim.
 - [SandeebAdhikari/DevPilot-HQ](https://github.com/SandeebAdhikari/DevPilot-HQ) - DevPilot is an AI-powered CLI that accelerates developer onboarding by automatically explaining and summarizing unfamiliar codebases.
-- [Darwin-lfl/langmanus](https://github.com/Darwin-lfl/langmanus) - A community-driven AI automation framework that builds upon the incredible work of the open source community. Our goal is to combine language models with specialized tools for tasks like web search, c
+- [darwin-lau/langmanus](https://github.com/darwin-lau/langmanus) - A community-driven AI automation framework that builds upon the incredible work of the open source community. Our goal is to combine language models with specialized tools for tasks like web search, c
 - [chrisgrieser/nvim-chainsaw](https://github.com/chrisgrieser/nvim-chainsaw) - Smart and highly customizable insertion of various kinds of log statements.
 - [vercel/micro](https://github.com/vercel/micro) - Asynchronous HTTP microservices
 - [astanin/python-tabulate](https://github.com/astanin/python-tabulate) - Pretty-print tabular data in Python, a library and a command-line utility. Repository migrated from bitbucket.org/astanin/python-tabulate.
