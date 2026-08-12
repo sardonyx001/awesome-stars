@@ -92,6 +92,7 @@
 
 ## C 
 
+- [crosspoint-reader/crosspoint-reader](https://github.com/crosspoint-reader/crosspoint-reader) - Open-source e-reader firmware
 - [coleifer/pysqlite3](https://github.com/coleifer/pysqlite3) - SQLite3 DB-API 2.0 driver from Python 3, packaged separately, with improvements
 - [ibireme/yyjson](https://github.com/ibireme/yyjson) - The fastest JSON library in C
 - [darktable-org/darktable](https://github.com/darktable-org/darktable) - darktable is an open source photography workflow application and raw developer
