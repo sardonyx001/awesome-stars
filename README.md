@@ -1608,7 +1608,7 @@
 - [maaslalani/PicturePerfect](https://github.com/maaslalani/PicturePerfect) - Analyzing social media profiles to discover potential mental illnesses.
 - [Yasir-ali-farrukh/GNN4ID](https://github.com/Yasir-ali-farrukh/GNN4ID) - GNN4ID: A Toolset for Crafting Graph Neural Network-Based NIDS Datasets
 - [hiyouga/LlamaFactory](https://github.com/hiyouga/LlamaFactory) - Unified Efficient Fine-Tuning of 100+ LLMs & VLMs (ACL 2024)
-- [jaanaltosaar/variational-autoencoder](https://github.com/jaanaltosaar/variational-autoencoder) - Variational autoencoder implemented in tensorflow and pytorch (including inverse autoregressive flow)
+- [altosaar/variational-autoencoder](https://github.com/altosaar/variational-autoencoder) - Variational autoencoder implemented in tensorflow and pytorch (including inverse autoregressive flow)
 - [AntixK/PyTorch-VAE](https://github.com/AntixK/PyTorch-VAE) - A Collection of Variational Autoencoders (VAE) in PyTorch.
 - [ivre/ivre](https://github.com/ivre/ivre) - Network recon framework. Build your own, self-hosted and fully-controlled alternatives to Shodan / ZoomEye / Censys and GreyNoise, run your Passive DNS service, build your taylor-made EASM tool, colle
 - [nat/ghtop](https://github.com/nat/ghtop) - See what's happening on GitHub in real time (also helpful if you need to use up your API quota as quickly as possible)
