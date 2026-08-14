@@ -3995,6 +3995,7 @@
 
 ## others 
 
+- [flapdoodle-oss/de.flapdoodle.embed.mongo.spring](https://github.com/flapdoodle-oss/de.flapdoodle.embed.mongo.spring) - embedded mongo spring integration
 - [tobi/try](https://github.com/tobi/try) - fresh directories for every vibe
 - [jesseduffield/lazydocker](https://github.com/jesseduffield/lazydocker) - The lazier way to manage everything docker
 - [coleifer/pysqlite3](https://github.com/coleifer/pysqlite3) - SQLite3 DB-API 2.0 driver from Python 3, packaged separately, with improvements
