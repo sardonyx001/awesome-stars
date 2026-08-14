@@ -971,6 +971,7 @@
 
 ## Java 
 
+- [flapdoodle-oss/de.flapdoodle.embed.mongo.spring](https://github.com/flapdoodle-oss/de.flapdoodle.embed.mongo.spring) - embedded mongo spring integration
 - [JetBrains/intellij-community](https://github.com/JetBrains/intellij-community) - IntelliJ IDEA & IntelliJ Platform
 - [DetachHead/rebased](https://github.com/DetachHead/rebased) - A git client based on the IntelliJ platform
 - [microcks/microcks](https://github.com/microcks/microcks) - The open source, cloud native tool for API Mocking and Testing. Microcks is a Cloud Native Computing Foundation incubating project 🚀
