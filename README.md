@@ -1183,7 +1183,7 @@
 - [Western-OC2-Lab/AutonomousCyber-AutoML-based-Autonomous-Intrusion-Detection-System](https://github.com/Western-OC2-Lab/AutonomousCyber-AutoML-based-Autonomous-Intrusion-Detection-System) - This repository includes code for the paper "Towards Autonomous Cybersecurity: An Intelligent AutoML Framework for Autonomous Intrusion Detection" accepted in AutonomousCyber, ACM CCS, 2024.
 - [thinline72/nsl-kdd](https://github.com/thinline72/nsl-kdd) - PySpark solution to the NSL-KDD dataset: https://www.unb.ca/cic/datasets/nsl.html
 - [stephencwelch/Neural-Networks-Demystified](https://github.com/stephencwelch/Neural-Networks-Demystified) - Supporting code for short YouTube series Neural Networks Demystified.
-- [commaai/commavq](https://github.com/commaai/commavq) - commaVQ is a dataset of compressed driving video
+- [commaai/commavq](https://github.com/commaai/commavq) - A dataset of 100,000 minutes of driving video compressed using a VQ-VAE.
 - [777arc/PySDR](https://github.com/777arc/PySDR) - PySDR is a guide to software-defined radio (SDR) and RF signal processing using Python, live at https://pysdr.org
 - [emilywenger/presidential-travel](https://github.com/emilywenger/presidential-travel) - An analysis of international travel habits of American presidents 1933-2018.
 
