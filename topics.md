@@ -4580,7 +4580,7 @@
 - [ninja-build/ninja](https://github.com/ninja-build/ninja) - a small build system with a focus on speed
 - [talostrading/sonic](https://github.com/talostrading/sonic) - Sonic is a Go library for network and I/O programming that provides developers with a consistent asynchronous model, with a focus on achieving the lowest possible latency and jitter in Go.
 - [hydralauncher/hydra](https://github.com/hydralauncher/hydra) - Hydra Launcher is an open-source gaming platform created to be the single tool that you need
-- [commaai/commavq](https://github.com/commaai/commavq) - commaVQ is a dataset of compressed driving video
+- [commaai/commavq](https://github.com/commaai/commavq) - A dataset of 100,000 minutes of driving video compressed using a VQ-VAE.
 - [IlanCosman/tide](https://github.com/IlanCosman/tide) - 🌊 The ultimate Fish prompt.
 - [jorgebucaran/fisher](https://github.com/jorgebucaran/fisher) - A plugin manager for Fish
 - [mattgreen/lucid.fish](https://github.com/mattgreen/lucid.fish) - Minimalist, high-performance fish prompt
