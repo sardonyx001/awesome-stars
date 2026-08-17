@@ -4006,6 +4006,8 @@
 
 ## others 
 
+- [sardonyx001/whats-this-kanji](https://github.com/sardonyx001/whats-this-kanji) - Android app for Japanese text processing and kanji lookup with offline KANJIDIC2 dictionary
+- [bufbuild/buf](https://github.com/bufbuild/buf) - The best way of working with Protocol Buffers.
 - [flapdoodle-oss/de.flapdoodle.embed.mongo.spring](https://github.com/flapdoodle-oss/de.flapdoodle.embed.mongo.spring) - embedded mongo spring integration
 - [tobi/try](https://github.com/tobi/try) - fresh directories for every vibe
 - [jesseduffield/lazydocker](https://github.com/jesseduffield/lazydocker) - The lazier way to manage everything docker
