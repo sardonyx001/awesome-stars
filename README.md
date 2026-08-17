@@ -1186,6 +1186,7 @@
 
 ## Kotlin 
 
+- [sardonyx001/whats-this-kanji](https://github.com/sardonyx001/whats-this-kanji) - Android app for Japanese text processing and kanji lookup with offline KANJIDIC2 dictionary
 - [iamgio/quarkdown](https://github.com/iamgio/quarkdown) - 🪐 Markdown with superpowers: from ideas to papers, presentations, websites, books, and knowledge bases.
 - [AlexPl292/IdeaVim-EasyMotion](https://github.com/AlexPl292/IdeaVim-EasyMotion) - EasyMotion emulation plugin for IdeaVim
 - [michaelbull/kotlin-retry](https://github.com/michaelbull/kotlin-retry) - A multiplatform higher-order function for retrying operations that may fail.
