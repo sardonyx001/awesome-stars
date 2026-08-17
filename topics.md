@@ -4012,7 +4012,7 @@
 - [tobi/try](https://github.com/tobi/try) - fresh directories for every vibe
 - [jesseduffield/lazydocker](https://github.com/jesseduffield/lazydocker) - The lazier way to manage everything docker
 - [coleifer/pysqlite3](https://github.com/coleifer/pysqlite3) - SQLite3 DB-API 2.0 driver from Python 3, packaged separately, with improvements
-- [cathrynlavery/diagram-design](https://github.com/cathrynlavery/diagram-design) - 29 editorial diagram types for Claude Code. Self-contained HTML + SVG. No shadows, no Mermaid-slop.
+- [cathrynlavery/diagram-design](https://github.com/cathrynlavery/diagram-design) - 27 editorial diagram types for Claude Code. Self-contained HTML + SVG. No shadows, no Mermaid-slop.
 - [max-sixty/tend](https://github.com/max-sixty/tend) - Claude-powered CI workflows for GitHub repositories
 - [JetBrains/intellij-community](https://github.com/JetBrains/intellij-community) - IntelliJ IDEA & IntelliJ Platform
 - [DetachHead/rebased](https://github.com/DetachHead/rebased) - A git client based on the IntelliJ platform
