@@ -5320,6 +5320,7 @@
 
 ## rust 
 
+- [pauloremoli/logana](https://github.com/pauloremoli/logana) - Terminal log analyzer built in Rust with instant filtering, structured field parsing, compressed file support, Docker/OTel streaming, and MCP integration.
 - [mpecan/tokf](https://github.com/mpecan/tokf) - Config-driven CLI tool that compresses command output before it reaches an LLM context
 - [mpecan/rable](https://github.com/mpecan/rable) - A complete GNU Bash 5.3-compatible parser written in Rust — 100% compatible reimplementation of Parable with Python bindings via PyO3, ~10x faster
 - [hyperlight-dev/hyperlight](https://github.com/hyperlight-dev/hyperlight) - Hyperlight is a lightweight Virtual Machine Manager (VMM) designed to be embedded within applications. It enables safe execution of untrusted code within micro virtual machines with very low latency a
@@ -6005,6 +6006,7 @@
 
 ## tui 
 
+- [pauloremoli/logana](https://github.com/pauloremoli/logana) - Terminal log analyzer built in Rust with instant filtering, structured field parsing, compressed file support, Docker/OTel streaming, and MCP integration.
 - [bvaisvil/zenith](https://github.com/bvaisvil/zenith) - Zenith - sort of like top or htop but with zoom-able charts, CPU, GPU, network, and disk usage
 - [sarub0b0/kubetui](https://github.com/sarub0b0/kubetui) - An intuitive Terminal User Interface (TUI) tool for real-time monitoring and exploration of Kubernetes resources
 - [gitsocial-org/gitsocial](https://github.com/gitsocial-org/gitsocial) - Cross-forge collaboration platform
