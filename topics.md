@@ -313,6 +313,7 @@
 
 ## agent 
 
+- [micro/mu](https://github.com/micro/mu) - Mu is a personal agent
 - [iOfficeAI/OfficeCLI](https://github.com/iOfficeAI/OfficeCLI) - OfficeCLI is the first and best Office suite  purpose-built for AI agents to read, edit, and automate Word, Excel, and PowerPoint files. Free, open-source, single binary, no Office installation requir
 - [vercel/eve](https://github.com/vercel/eve) - The Open Framework for Building Agents
 - [agent-infra/sandbox](https://github.com/agent-infra/sandbox) - All-in-One Sandbox for AI Agents that combines Browser, Shell, File, MCP and VSCode Server in a single Docker container.
@@ -385,6 +386,7 @@
 
 - [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman) - 🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman
 - [semantica-agi/semantica](https://github.com/semantica-agi/semantica) - Graph-Native Infrastructure for Context and Accountable AI Systems
+- [micro/mu](https://github.com/micro/mu) - Mu is a personal agent
 - [iOfficeAI/OfficeCLI](https://github.com/iOfficeAI/OfficeCLI) - OfficeCLI is the first and best Office suite  purpose-built for AI agents to read, edit, and automate Word, Excel, and PowerPoint files. Free, open-source, single binary, no Office installation requir
 - [git-ai-project/git-ai](https://github.com/git-ai-project/git-ai) - A Git extension for tracking the AI-generated code in your repos
 - [metorial/metorial-platform](https://github.com/metorial/metorial-platform) - The engine powering hundreds of thousands of MCP connections 🤖 🔥
@@ -3529,7 +3531,7 @@
 
 - [Graphify-Labs/graphify](https://github.com/Graphify-Labs/graphify) - Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, e
 - [bitwarden/mcp-server](https://github.com/bitwarden/mcp-server) - MCP server for interaction with Bitwarden.
-- [micro/mu](https://github.com/micro/mu) - An Inbox for Agents
+- [micro/mu](https://github.com/micro/mu) - Mu is a personal agent
 - [NateBJones-Projects/OB1](https://github.com/NateBJones-Projects/OB1) - Open Brain — The infrastructure layer for your thinking. One database, one AI gateway, one chat channel — any AI plugs in. No middleware, no SaaS.
 - [jvm/usql-mcp](https://github.com/jvm/usql-mcp) - usql MCP Server
 - [metorial/metorial-platform](https://github.com/metorial/metorial-platform) - The engine powering hundreds of thousands of MCP connections 🤖 🔥
