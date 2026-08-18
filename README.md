@@ -1763,6 +1763,7 @@
 
 ## Rust 
 
+- [pauloremoli/logana](https://github.com/pauloremoli/logana) - Terminal log analyzer built in Rust with instant filtering, structured field parsing, compressed file support, Docker/OTel streaming, and MCP integration.
 - [probablySophie/ledgerr](https://github.com/probablySophie/ledgerr) - A simple plain-text time and finance tracking library
 - [mpecan/tokf](https://github.com/mpecan/tokf) - Config-driven CLI tool that compresses command output before it reaches an LLM context
 - [mpecan/rable](https://github.com/mpecan/rable) - A complete GNU Bash 5.3-compatible parser written in Rust — 100% compatible reimplementation of Parable with Python bindings via PyO3, ~10x faster
