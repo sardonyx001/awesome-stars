@@ -4013,6 +4013,7 @@
 
 ## others 
 
+- [honojs/cli](https://github.com/honojs/cli) - CLI for Humans and AI with Hono
 - [sardonyx001/blog](https://github.com/sardonyx001/blog) - 
 - [sardonyx001/awesome-stars](https://github.com/sardonyx001/awesome-stars) - My Awesome List
 - [sardonyx001/whats-this-kanji](https://github.com/sardonyx001/whats-this-kanji) - Android app for Japanese text processing and kanji lookup with offline KANJIDIC2 dictionary
