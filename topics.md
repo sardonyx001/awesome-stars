@@ -3124,6 +3124,7 @@
 
 ## kubernetes 
 
+- [ahmetb/kubectx](https://github.com/ahmetb/kubectx) - Faster way to switch between clusters and namespaces in kubectl
 - [yonahd/kor](https://github.com/yonahd/kor) - A Golang Tool to discover unused Kubernetes Resources
 - [kubernetes/kops](https://github.com/kubernetes/kops) - Kubernetes Operations (kOps) - Production Grade k8s Installation, Upgrades and Management
 - [kubernetes-client/python](https://github.com/kubernetes-client/python) - Official Python client library for kubernetes
@@ -4013,6 +4014,7 @@
 
 ## others 
 
+- [peco/peco](https://github.com/peco/peco) - Simplistic interactive filtering tool
 - [honojs/cli](https://github.com/honojs/cli) - CLI for Humans and AI with Hono
 - [sardonyx001/blog](https://github.com/sardonyx001/blog) - 
 - [sardonyx001/awesome-stars](https://github.com/sardonyx001/awesome-stars) - My Awesome List
