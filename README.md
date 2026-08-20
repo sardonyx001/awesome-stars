@@ -2019,6 +2019,7 @@
 
 ## Shell 
 
+- [alexwforsythe/tmux-which-key](https://github.com/alexwforsythe/tmux-which-key) - A tmux plugin that allows users to select actions from a customizable popup menu 🧰
 - [tobi/try](https://github.com/tobi/try) - fresh directories for every vibe
 - [joseluisq/gitnow](https://github.com/joseluisq/gitnow) - Speed up your Git workflow. :tropical_fish:
 - [uditgoenka/autoresearch](https://github.com/uditgoenka/autoresearch) - Claude Autoresearch Skill — Autonomous goal-directed iteration for Claude Code. Inspired by Karpathy's autoresearch. Modify → Verify → Keep/Discard → Repeat forever.
