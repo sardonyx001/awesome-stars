@@ -190,6 +190,7 @@
 
 ## C++ 
 
+- [google/flatbuffers](https://github.com/google/flatbuffers) - FlatBuffers: Memory Efficient Serialization Library
 - [nasa/fprime](https://github.com/nasa/fprime) - F´ - A flight software and embedded systems framework
 - [CLIUtils/CLI11](https://github.com/CLIUtils/CLI11) - CLI11 is a command line parser for C++11 and beyond that provides a rich feature set with a simple and intuitive interface.
 - [scylladb/scylladb](https://github.com/scylladb/scylladb) - NoSQL data store using the Seastar framework, compatible with Apache Cassandra and Amazon DynamoDB
@@ -2511,6 +2512,7 @@
 
 ## Zig 
 
+- [vercel-labs/fx](https://github.com/vercel-labs/fx) - Unix like coding agent
 - [boldsoftware/exe.dev](https://github.com/boldsoftware/exe.dev) - just use ssh
 - [lightpanda-io/browser](https://github.com/lightpanda-io/browser) - Lightpanda: the headless browser designed for AI and automation
 - [satibot/satibot](https://github.com/satibot/satibot) - satibot is a lightweight, memory-aware AI agent, built in Zig for performance, with very simple local first vector search, web search, and file access capabilities. Inspired by OpenClawd and nanobot. 
