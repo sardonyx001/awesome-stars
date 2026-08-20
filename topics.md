@@ -4529,7 +4529,7 @@
 - [refact0r/system24](https://github.com/refact0r/system24) - a tui-style discord theme
 - [TessavWalstijn/firefox.custom](https://github.com/TessavWalstijn/firefox.custom) - Custom styling to make FireFox more like Arc and/or Edge
 - [yue/yue-sample-apps](https://github.com/yue/yue-sample-apps) - Sample apps of Yue
-- [yetone/avante.nvim](https://github.com/yetone/avante.nvim) - Use your Neovim like using Cursor AI IDE!
+- [avante-corp/avante.nvim](https://github.com/avante-corp/avante.nvim) - Use your Neovim like using Cursor AI IDE!
 - [cambecc/earth](https://github.com/cambecc/earth) - a project to visualize global weather conditions
 - [joue-quroi/spoof-geolocation](https://github.com/joue-quroi/spoof-geolocation) - optionally spoof the reported GEO data (JavaScript level)
 - [HermanMartinus/bearblog](https://github.com/HermanMartinus/bearblog) - Free, no-nonsense, super fast blogging.
