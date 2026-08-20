@@ -1268,7 +1268,7 @@
 - [adelarsq/image_preview.nvim](https://github.com/adelarsq/image_preview.nvim) - Image Preview for Neovim 🖼
 - [AGou-ops/dotfiles](https://github.com/AGou-ops/dotfiles) - My personal dotfiles, about neovim, zsh shell, tmux...
 - [yue/yue-sample-apps](https://github.com/yue/yue-sample-apps) - Sample apps of Yue
-- [yetone/avante.nvim](https://github.com/yetone/avante.nvim) - Use your Neovim like using Cursor AI IDE!
+- [avante-corp/avante.nvim](https://github.com/avante-corp/avante.nvim) - Use your Neovim like using Cursor AI IDE!
 - [mrjones2014/legendary.nvim](https://github.com/mrjones2014/legendary.nvim) - 🗺️ A legend for your keymaps, commands, and autocmds, integrates with which-key.nvim, lazy.nvim, and more.
 - [olexsmir/gopher.nvim](https://github.com/olexsmir/gopher.nvim) - Minimalistic plugin for Go development
 - [crusj/structrue-go.nvim](https://github.com/crusj/structrue-go.nvim) - A better structured display of golang symbols information
