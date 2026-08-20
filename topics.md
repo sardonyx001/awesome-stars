@@ -4021,6 +4021,7 @@
 
 ## others 
 
+- [alexwforsythe/tmux-which-key](https://github.com/alexwforsythe/tmux-which-key) - A tmux plugin that allows users to select actions from a customizable popup menu 🧰
 - [peco/peco](https://github.com/peco/peco) - Simplistic interactive filtering tool
 - [honojs/cli](https://github.com/honojs/cli) - CLI for Humans and AI with Hono
 - [sardonyx001/blog](https://github.com/sardonyx001/blog) - 
