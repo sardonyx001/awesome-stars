@@ -35,6 +35,7 @@
 - [bugbounty](#bugbounty)
 - [c](#c)
 - [c-plus-plus](#c-plus-plus)
+- [c-sharp](#c-sharp)
 - [chatbot](#chatbot)
 - [chatgpt](#chatgpt)
 - [chrome](#chrome)
@@ -860,6 +861,7 @@
 
 ## c 
 
+- [google/flatbuffers](https://github.com/google/flatbuffers) - FlatBuffers: Memory Efficient Serialization Library
 - [ibireme/yyjson](https://github.com/ibireme/yyjson) - The fastest JSON library in C
 - [sumatrapdfreader/sumatrapdf](https://github.com/sumatrapdfreader/sumatrapdf) - SumatraPDF reader
 - [htop-dev/htop](https://github.com/htop-dev/htop) - htop - an interactive process viewer
@@ -881,11 +883,16 @@
 
 ## c-plus-plus 
 
+- [google/flatbuffers](https://github.com/google/flatbuffers) - FlatBuffers: Memory Efficient Serialization Library
 - [scylladb/scylladb](https://github.com/scylladb/scylladb) - NoSQL data store using the Seastar framework, compatible with Apache Cassandra and Amazon DynamoDB
 - [sumatrapdfreader/sumatrapdf](https://github.com/sumatrapdfreader/sumatrapdf) - SumatraPDF reader
 - [opencv/opencv](https://github.com/opencv/opencv) - Open Source Computer Vision Library
 - [emcrisostomo/fswatch](https://github.com/emcrisostomo/fswatch) - A cross-platform file change monitor with multiple backends: Apple macOS File System Events, *BSD kqueue, Solaris/Illumos File Events Notification, Linux inotify and fanotify, Microsoft Windows and a 
 - [LadybirdBrowser/ancient-history](https://github.com/LadybirdBrowser/ancient-history) - The Ladybird web browser
+
+## c-sharp 
+
+- [google/flatbuffers](https://github.com/google/flatbuffers) - FlatBuffers: Memory Efficient Serialization Library
 
 ## chatbot 
 
@@ -2069,6 +2076,7 @@
 
 ## go 
 
+- [google/flatbuffers](https://github.com/google/flatbuffers) - FlatBuffers: Memory Efficient Serialization Library
 - [yonahd/kor](https://github.com/yonahd/kor) - A Golang Tool to discover unused Kubernetes Resources
 - [kubernetes/kops](https://github.com/kubernetes/kops) - Kubernetes Operations (kOps) - Production Grade k8s Installation, Upgrades and Management
 - [summerwind/h2spec](https://github.com/summerwind/h2spec) - A conformance testing tool for HTTP/2 implementation.
@@ -2936,6 +2944,7 @@
 
 ## java 
 
+- [google/flatbuffers](https://github.com/google/flatbuffers) - FlatBuffers: Memory Efficient Serialization Library
 - [panga/fn-native-java](https://github.com/panga/fn-native-java) - Fn Project Native Java Function using GraalVM
 - [cadence-workflow/cadence](https://github.com/cadence-workflow/cadence) - Cadence is a distributed, scalable, durable, and highly available orchestration engine to execute asynchronous long-running business logic in a scalable and resilient way.
 - [apache/cassandra](https://github.com/apache/cassandra) - Open source transactional distributed database. Linear scalability and proven fault-tolerance on commodity hardware or cloud infrastructure without compromising performance.
@@ -2974,6 +2983,7 @@
 
 ## javascript 
 
+- [google/flatbuffers](https://github.com/google/flatbuffers) - FlatBuffers: Memory Efficient Serialization Library
 - [qdrant/qdrant-js](https://github.com/qdrant/qdrant-js) - JavaScript/Typescript SDK for Qdrant Vector Database
 - [giscus/giscus](https://github.com/giscus/giscus) - A commenting system powered by GitHub Discussions. :octocat: :speech_balloon: :gem:
 - [biomejs/gritql](https://github.com/biomejs/gritql) - GritQL is a query language for searching, linting, and modifying code.
@@ -4021,6 +4031,7 @@
 
 ## others 
 
+- [vercel-labs/fx](https://github.com/vercel-labs/fx) - Unix like coding agent
 - [alexwforsythe/tmux-which-key](https://github.com/alexwforsythe/tmux-which-key) - A tmux plugin that allows users to select actions from a customizable popup menu 🧰
 - [peco/peco](https://github.com/peco/peco) - Simplistic interactive filtering tool
 - [honojs/cli](https://github.com/honojs/cli) - CLI for Humans and AI with Hono
@@ -5002,6 +5013,7 @@
 
 ## python 
 
+- [google/flatbuffers](https://github.com/google/flatbuffers) - FlatBuffers: Memory Efficient Serialization Library
 - [semantica-agi/semantica](https://github.com/semantica-agi/semantica) - Graph-Native Infrastructure for Context and Accountable AI Systems
 - [mpecan/rable](https://github.com/mpecan/rable) - A complete GNU Bash 5.3-compatible parser written in Rust — 100% compatible reimplementation of Parable with Python bindings via PyO3, ~10x faster
 - [DetachHead/basedpyright](https://github.com/DetachHead/basedpyright) - pyright fork with various type checking improvements, improved vscode support and pylance features built into the language server
@@ -5339,6 +5351,7 @@
 
 ## rust 
 
+- [google/flatbuffers](https://github.com/google/flatbuffers) - FlatBuffers: Memory Efficient Serialization Library
 - [pauloremoli/logana](https://github.com/pauloremoli/logana) - Terminal log analyzer built in Rust with instant filtering, structured field parsing, compressed file support, Docker/OTel streaming, and MCP integration.
 - [mpecan/tokf](https://github.com/mpecan/tokf) - Config-driven CLI tool that compresses command output before it reaches an LLM context
 - [mpecan/rable](https://github.com/mpecan/rable) - A complete GNU Bash 5.3-compatible parser written in Rust — 100% compatible reimplementation of Parable with Python bindings via PyO3, ~10x faster
@@ -6086,6 +6099,7 @@
 
 ## typescript 
 
+- [google/flatbuffers](https://github.com/google/flatbuffers) - FlatBuffers: Memory Efficient Serialization Library
 - [rcarmo/piclaw](https://github.com/rcarmo/piclaw) - pi coding agent in a technicolor web trenchcoat
 - [qdrant/qdrant-js](https://github.com/qdrant/qdrant-js) - JavaScript/Typescript SDK for Qdrant Vector Database
 - [wallpants/pantsdown](https://github.com/wallpants/pantsdown) - Markdown to "GitHub HTML" parser
