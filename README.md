@@ -1309,7 +1309,6 @@
 - [sardonyx001/blog](https://github.com/sardonyx001/blog) - 
 - [coollabsio/coolify-docs](https://github.com/coollabsio/coolify-docs) - Documentation for Coolify
 - [webtui/webtui](https://github.com/webtui/webtui) - Modular CSS Library that brings the beauty of Terminal UIs to the browser
-- [mkosir/typescript-style-guide](https://github.com/mkosir/typescript-style-guide) - ⚙️ TypeScript Style Guide and Agent Skill. A concise set of conventions and best practices for consistent, maintainable code.
 - [pmillspaugh/petemillspaugh.com](https://github.com/pmillspaugh/petemillspaugh.com) - My digital garden
 - [Xe/site](https://github.com/Xe/site) - The new frontend/backend code for https://xeiaso.net
 - [rauchg/blog](https://github.com/rauchg/blog) - 
@@ -2295,6 +2294,7 @@
 - [specfy/getstack](https://github.com/specfy/getstack) - Explore the most popular technologies and repositories, refreshed every week. Powered by https://github.com/specfy/stack-analyser
 - [acoyfellow/UserDO](https://github.com/acoyfellow/UserDO) - Authentication-enabled Durable Objects for Cloudflare Workers. Provides JWT auth, per-user SQLite tables with Zod schemas, KV storage, SSE real-time updates, and browser client. Extend one class to bu
 - [Effect-TS/effect](https://github.com/Effect-TS/effect) - Build production-ready applications in TypeScript
+- [mkosir/typescript-style-guide](https://github.com/mkosir/typescript-style-guide) - ⚙️ TypeScript Style Guide and Agent Skill. A concise set of conventions and best practices for consistent, maintainable code.
 - [mermaid-js/mermaid](https://github.com/mermaid-js/mermaid) - Generation of diagrams like flowcharts or sequence diagrams from text in a similar manner as markdown
 - [nilbuild/developer-roadmap](https://github.com/nilbuild/developer-roadmap) - Interactive roadmaps, guides and other educational content to help developers grow in their careers.
 - [edrlab/thorium-web](https://github.com/edrlab/thorium-web) - 🌐 An open-source ebook/audiobook/comics Web Reader
