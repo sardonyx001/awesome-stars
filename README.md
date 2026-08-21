@@ -92,6 +92,7 @@
 
 ## C 
 
+- [NationalSecurityAgency/XORSATFilter](https://github.com/NationalSecurityAgency/XORSATFilter) - A library for building efficient set-membership filters and dictionaries based on the Satisfiability problem.
 - [ntop/nDPI](https://github.com/ntop/nDPI) - Open Source Deep Packet Inspection Software Toolkit
 - [crosspoint-reader/crosspoint-reader](https://github.com/crosspoint-reader/crosspoint-reader) - Open-source e-reader firmware
 - [coleifer/pysqlite3](https://github.com/coleifer/pysqlite3) - SQLite3 DB-API 2.0 driver from Python 3, packaged separately, with improvements
