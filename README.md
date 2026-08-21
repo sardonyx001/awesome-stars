@@ -324,6 +324,9 @@
 
 ## Go 
 
+- [cloudwego/kitex](https://github.com/cloudwego/kitex) - Go RPC framework with high-performance and strong-extensibility for building micro-services.
+- [cloudwego/hertz](https://github.com/cloudwego/hertz) - Go HTTP framework with high-performance and strong-extensibility for building micro-services.
+- [labstack/onebox](https://github.com/labstack/onebox) - onebox (ob) — plan-before-apply deploys. Zero downtime. One box.
 - [k1LoW/runn](https://github.com/k1LoW/runn) - runn is a package/tool for running operations following a scenario.
 - [stern/stern](https://github.com/stern/stern) - ⎈ Multi pod and container log tailing for Kubernetes -- Friendly fork of https://github.com/wercker/stern
 - [peco/peco](https://github.com/peco/peco) - Simplistic interactive filtering tool
@@ -2143,6 +2146,7 @@
 
 ## TypeScript 
 
+- [unocss/unocss](https://github.com/unocss/unocss) - The instant on-demand atomic CSS engine.
 - [honojs/cli](https://github.com/honojs/cli) - CLI for Humans and AI with Hono
 - [rcarmo/piclaw](https://github.com/rcarmo/piclaw) - pi coding agent in a technicolor web trenchcoat
 - [qdrant/qdrant-js](https://github.com/qdrant/qdrant-js) - JavaScript/Typescript SDK for Qdrant Vector Database
