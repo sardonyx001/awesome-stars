@@ -216,6 +216,7 @@
 - [physics](#physics)
 - [pico-8](#pico-8)
 - [pixel-art](#pixel-art)
+- [portfolio](#portfolio)
 - [postgresql](#postgresql)
 - [powershell](#powershell)
 - [privacy](#privacy)
@@ -4246,7 +4247,6 @@
 - [ccollier86/forgejo-coolify-bridge](https://github.com/ccollier86/forgejo-coolify-bridge) - Use Forgejo with Coolify just like GitHub! Native integration for browsing repos, automatic webhooks, and push-to-deploy
 - [marconneves/coolify-actions](https://github.com/marconneves/coolify-actions) - Get a deploy for coolify
 - [grayhatdevelopers/plane-coolify](https://github.com/grayhatdevelopers/plane-coolify) - Plane sample config for running on Coolify
-- [adityatelange/hugo-PaperMod](https://github.com/adityatelange/hugo-PaperMod) - A fast, clean, responsive Hugo theme.
 - [Geczy/coolify-migration](https://github.com/Geczy/coolify-migration) - 
 - [coollabsio/coolify-examples](https://github.com/coollabsio/coolify-examples) - A monorepo of example applications ready to deploy with Coolify.
 - [vitejs/vite-ecosystem-ci](https://github.com/vitejs/vite-ecosystem-ci) - Vite Ecosystem CI
@@ -4294,7 +4294,6 @@
 - [OAI/sig-moonwalk](https://github.com/OAI/sig-moonwalk) - The effort to explore the future of the OpenAPI Specification is known as "Moonwalk." It includes 4.x considerations but also strives to consider 3.x. There is no planned end date to 4.0, so we strong
 - [thom311/libnl](https://github.com/thom311/libnl) - Netlink Library Suite
 - [topjohnwu/libsu](https://github.com/topjohnwu/libsu) - A complete solution for apps using root permissions
-- [tomfran/typo](https://github.com/tomfran/typo) - A simple Hugo theme
 - [kiota-community/kiota-java-extra](https://github.com/kiota-community/kiota-java-extra) - Extra tools for working with Kiota in Maven Java projects
 - [wadhah101/mycv](https://github.com/wadhah101/mycv) - 
 - [yoshiko-pg/difit](https://github.com/yoshiko-pg/difit) - A lightweight command-line tool that spins up a local web server to display Git commit diffs in a GitHub-like Files changed view
@@ -4915,6 +4914,11 @@
 
 - [kitao/pyxel](https://github.com/kitao/pyxel) - A retro game engine for Python
 - [dicebear/dicebear](https://github.com/dicebear/dicebear) - DiceBear is an avatar library for designers and developers. 🌍
+
+## portfolio 
+
+- [adityatelange/hugo-PaperMod](https://github.com/adityatelange/hugo-PaperMod) - A fast, clean, responsive Hugo theme.
+- [tomfran/typo](https://github.com/tomfran/typo) - A simple Hugo theme
 
 ## postgresql 
 
