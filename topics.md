@@ -2942,7 +2942,7 @@
 - [chocoford/ExcalidrawZ](https://github.com/chocoford/ExcalidrawZ) - Excalidraw app for mac. Powered by pure SwiftUI.
 - [michaelbull/kotlin-result](https://github.com/michaelbull/kotlin-result) - A multiplatform Result monad for modelling success or failure operations.
 - [ReactVision/viro](https://github.com/ReactVision/viro) - ViroReact is the leading library for building AR and VR experiences and applications using React Native and Expo.
-- [Aidoku/Aidoku](https://github.com/Aidoku/Aidoku) - Manga reader for iOS, iPadOS, and macOS
+- [Aidoku/Aidoku](https://github.com/Aidoku/Aidoku) - Manga reading app for iOS, iPadOS, and macOS
 - [jagandeepbrar/lunasea](https://github.com/jagandeepbrar/lunasea) - Self-hosted software controller built using Flutter
 - [blacktop/ipsw](https://github.com/blacktop/ipsw) - iOS/macOS Research Swiss Army Knife
 - [lollipopkit/flutter_server_box](https://github.com/lollipopkit/flutter_server_box) - ServerBox - server status & toolbox
@@ -5864,7 +5864,7 @@
 - [nikitabobko/AeroSpace](https://github.com/nikitabobko/AeroSpace) - AeroSpace is an i3-like tiling window manager for macOS
 - [bitgapp/eqMac](https://github.com/bitgapp/eqMac) - macOS  System-wide Audio Equalizer & Volume Mixer  🎧
 - [vapor/vapor](https://github.com/vapor/vapor) - 💧 A server-side Swift HTTP web framework.
-- [Aidoku/Aidoku](https://github.com/Aidoku/Aidoku) - Manga reader for iOS, iPadOS, and macOS
+- [Aidoku/Aidoku](https://github.com/Aidoku/Aidoku) - Manga reading app for iOS, iPadOS, and macOS
 - [blacktop/ipsw](https://github.com/blacktop/ipsw) - iOS/macOS Research Swiss Army Knife
 - [dwarvesf/hidden](https://github.com/dwarvesf/hidden) - An ultra-light MacOS utility that helps hide menu bar icons
 - [mrkai77/Loop](https://github.com/mrkai77/Loop) - Window management made elegant.
