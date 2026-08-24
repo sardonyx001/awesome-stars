@@ -1014,6 +1014,7 @@
 ## cli 
 
 - [antfu/iroiro](https://github.com/antfu/iroiro) - Beautiful Colors Lookup in CLI
+- [labstack/onebox](https://github.com/labstack/onebox) - onebox (ob) — plan-before-apply deploys. Zero downtime. One box.
 - [mpecan/tokf](https://github.com/mpecan/tokf) - Config-driven CLI tool that compresses command output before it reaches an LLM context
 - [jvm/usql-mcp](https://github.com/jvm/usql-mcp) - usql MCP Server
 - [iOfficeAI/OfficeCLI](https://github.com/iOfficeAI/OfficeCLI) - OfficeCLI is the first and best Office suite  purpose-built for AI agents to read, edit, and automate Word, Excel, and PowerPoint files. Free, open-source, single binary, no Office installation requir
@@ -1523,6 +1524,7 @@
 
 ## deployment 
 
+- [labstack/onebox](https://github.com/labstack/onebox) - onebox (ob) — plan-before-apply deploys. Zero downtime. One box.
 - [ray-project/ray](https://github.com/ray-project/ray) - Ray is an AI compute engine. Ray consists of a core distributed runtime and a set of AI Libraries for accelerating ML workloads.
 - [nixopus/nixopus](https://github.com/nixopus/nixopus) - Run production apps without thinking about infrastructure. On your server or ours. Fully agentic.
 - [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source, self-hostable PaaS alternative to Vercel, Heroku & Netlify that lets you easily deploy static sites, databases, full-stack applications and 280+ one-click services on your own servers.
@@ -1579,6 +1581,7 @@
 
 ## devops 
 
+- [labstack/onebox](https://github.com/labstack/onebox) - onebox (ob) — plan-before-apply deploys. Zero downtime. One box.
 - [stern/stern](https://github.com/stern/stern) - ⎈ Multi pod and container log tailing for Kubernetes -- Friendly fork of https://github.com/wercker/stern
 - [getsops/sops](https://github.com/getsops/sops) - Simple and flexible tool for managing secrets
 - [avivsinai/bitbucket-cli](https://github.com/avivsinai/bitbucket-cli) - Bitbucket CLI with gh-like ergonomics
@@ -1643,6 +1646,7 @@
 
 ## docker 
 
+- [labstack/onebox](https://github.com/labstack/onebox) - onebox (ob) — plan-before-apply deploys. Zero downtime. One box.
 - [rcarmo/piclaw](https://github.com/rcarmo/piclaw) - pi coding agent in a technicolor web trenchcoat
 - [siderolabs/conform](https://github.com/siderolabs/conform) - Policy enforcement for your pipelines.
 - [pvd-nerd/docker-arr-suite](https://github.com/pvd-nerd/docker-arr-suite) - Modular Docker Compose stack for automated media management using Jellyfin/Plex, Traefik, qBittorrent, Radarr, Sonarr, Prowlarr, and more—securely routed through Gluetun with built-in reverse proxy, u
@@ -1652,7 +1656,7 @@
 - [GoogleContainerTools/skaffold](https://github.com/GoogleContainerTools/skaffold) - Easy and Repeatable Kubernetes Development
 - [homarr-labs/dashboard-icons](https://github.com/homarr-labs/dashboard-icons) - Your definitive source for dashboard icons.
 - [ko-build/ko](https://github.com/ko-build/ko) - Build and deploy Go applications
-- [markrai/scrumboy](https://github.com/markrai/scrumboy) - Self-hosted kanban & project management with shareable boards, voice commands, sticky-notes, multi-language and MCP support
+- [markrai/scrumboy](https://github.com/markrai/scrumboy) - Self-hosted collaborative Jira/Trello alternative, combining customizable project boards, cross-project workload and flow analytics, calendar-aware planning, a visual planning Wall, portable imports/b
 - [browserless/browserless](https://github.com/browserless/browserless) - Deploy headless browsers in Docker. Run on our cloud or bring your own. Free for non-commercial uses.
 - [microsoft/mcp-gateway](https://github.com/microsoft/mcp-gateway) - MCP Gateway is a reverse proxy and management layer for MCP servers, enabling scalable, session-aware stateful routing and lifecycle management of MCP servers in Kubernetes environments.
 - [makeplane/plane](https://github.com/makeplane/plane) - 🔥🔥🔥 Open-source Jira, Linear, Monday, and ClickUp alternative. Plane is a modern project management platform to manage tasks, sprints, docs, and triage.
@@ -2099,7 +2103,7 @@
 - [ko-build/ko](https://github.com/ko-build/ko) - Build and deploy Go applications
 - [distr-sh/distr](https://github.com/distr-sh/distr) - The Open Source control plane for self-hosted, BYOC, and on-prem deployments. Everything you need to distribute applications to self-hosted customers out of the box. Supporting Docker Compose, Docker 
 - [rulego/rulego](https://github.com/rulego/rulego) - ⛓️RuleGo is a lightweight, high-performance, embedded, next-generation component orchestration rule engine framework for Go.
-- [markrai/scrumboy](https://github.com/markrai/scrumboy) - Self-hosted kanban & project management with shareable boards, voice commands, sticky-notes, multi-language and MCP support
+- [markrai/scrumboy](https://github.com/markrai/scrumboy) - Self-hosted collaborative Jira/Trello alternative, combining customizable project boards, cross-project workload and flow analytics, calendar-aware planning, a visual planning Wall, portable imports/b
 - [mhiro2/seedling](https://github.com/mhiro2/seedling) - Dependency-aware test data builder for Go that resolves foreign-key DB relationships automatically.
 - [sourcegraph/run](https://github.com/sourcegraph/run) - 🏃‍♂️ A new way to execute commands and manipulate command output in Go
 - [aohoyd/aku](https://github.com/aohoyd/aku) - Terminal UI for Kubernetes clusters built with Bubble Tea. Resource browsing, YAML/describe views, live log streaming, split panes, exec, debug containers, port forwarding, Helm management, and vim-st
@@ -2326,6 +2330,8 @@
 
 ## golang 
 
+- [labstack/fanout](https://github.com/labstack/fanout) - Single-binary observability platform. Ingest OTLP, store as Parquet, query with DuckDB.
+- [labstack/onebox](https://github.com/labstack/onebox) - onebox (ob) — plan-before-apply deploys. Zero downtime. One box.
 - [k1LoW/runn](https://github.com/k1LoW/runn) - runn is a package/tool for running operations following a scenario.
 - [yonahd/kor](https://github.com/yonahd/kor) - A Golang Tool to discover unused Kubernetes Resources
 - [dtolpin/gosparkline](https://github.com/dtolpin/gosparkline) - Sparklines in Go
@@ -2338,7 +2344,7 @@
 - [ko-build/ko](https://github.com/ko-build/ko) - Build and deploy Go applications
 - [distr-sh/distr](https://github.com/distr-sh/distr) - The Open Source control plane for self-hosted, BYOC, and on-prem deployments. Everything you need to distribute applications to self-hosted customers out of the box. Supporting Docker Compose, Docker 
 - [cadence-workflow/cadence](https://github.com/cadence-workflow/cadence) - Cadence is a distributed, scalable, durable, and highly available orchestration engine to execute asynchronous long-running business logic in a scalable and resilient way.
-- [markrai/scrumboy](https://github.com/markrai/scrumboy) - Self-hosted kanban & project management with shareable boards, voice commands, sticky-notes, multi-language and MCP support
+- [markrai/scrumboy](https://github.com/markrai/scrumboy) - Self-hosted collaborative Jira/Trello alternative, combining customizable project boards, cross-project workload and flow analytics, calendar-aware planning, a visual planning Wall, portable imports/b
 - [yindia/iapetus](https://github.com/yindia/iapetus) - Automate, test, and orchestrate anything that runs in a shell, container, or cloud. No vendor lock-in. 100% open source.
 - [sourcegraph/run](https://github.com/sourcegraph/run) - 🏃‍♂️ A new way to execute commands and manipulate command output in Go
 - [lyonbrown4d/arcgo](https://github.com/lyonbrown4d/arcgo) - arcgo is a modular Go toolkit for backend infrastructure. It is package-oriented, supports incremental adoption, and allows inter-package composition.
@@ -3428,6 +3434,7 @@
 
 ## machine-learning 
 
+- [logpai/Drain3](https://github.com/logpai/Drain3) - A robust streaming log template miner based on the Drain algorithm
 - [ray-project/kuberay](https://github.com/ray-project/kuberay) - A toolkit to run Ray applications on Kubernetes
 - [mlcommons/croissant](https://github.com/mlcommons/croissant) - Croissant is a high-level format for machine learning datasets that brings together four rich layers.
 - [Netflix/maestro](https://github.com/Netflix/maestro) - Maestro: Netflix’s Workflow Orchestrator
@@ -3562,6 +3569,7 @@
 
 ## mcp 
 
+- [labstack/fanout](https://github.com/labstack/fanout) - Single-binary observability platform. Ingest OTLP, store as Parquet, query with DuckDB.
 - [Graphify-Labs/graphify](https://github.com/Graphify-Labs/graphify) - Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, e
 - [bitwarden/mcp-server](https://github.com/bitwarden/mcp-server) - MCP server for interaction with Bitwarden.
 - [micro/mu](https://github.com/micro/mu) - Work with Agents
@@ -3576,7 +3584,7 @@
 - [nozomi-koborinai/gcp-cost-mcp-server](https://github.com/nozomi-koborinai/gcp-cost-mcp-server) - 💰 An MCP server that enables AI assistants to estimate Google Cloud costs, powered by Cloud Billing Catalog API and built with Genkit for Go
 - [rulego/rulego](https://github.com/rulego/rulego) - ⛓️RuleGo is a lightweight, high-performance, embedded, next-generation component orchestration rule engine framework for Go.
 - [holon-run/uxc](https://github.com/holon-run/uxc) - A unified CLI for discovering and invoking tools across OpenAPI, MCP, GraphQL, gRPC, and JSON-RPC
-- [markrai/scrumboy](https://github.com/markrai/scrumboy) - Self-hosted kanban & project management with shareable boards, voice commands, sticky-notes, multi-language and MCP support
+- [markrai/scrumboy](https://github.com/markrai/scrumboy) - Self-hosted collaborative Jira/Trello alternative, combining customizable project boards, cross-project workload and flow analytics, calendar-aware planning, a visual planning Wall, portable imports/b
 - [yindia/rootcause](https://github.com/yindia/rootcause) - RootCause is a local-first MCP server that turns natural-language requests into evidence-backed incident analysis, Kubernetes diagnostics, and safer operations.
 - [ChromeDevTools/chrome-devtools-mcp](https://github.com/ChromeDevTools/chrome-devtools-mcp) - Chrome DevTools for coding agents
 - [lastmile-ai/mcp-agent](https://github.com/lastmile-ai/mcp-agent) - Build effective agents using Model Context Protocol and simple workflow patterns
@@ -3653,6 +3661,7 @@
 
 ## monitoring 
 
+- [labstack/fanout](https://github.com/labstack/fanout) - Single-binary observability platform. Ingest OTLP, store as Parquet, query with DuckDB.
 - [henrygd/beszel](https://github.com/henrygd/beszel) - Lightweight server monitoring with historical data, docker stats, and alerts.
 - [koala73/worldmonitor](https://github.com/koala73/worldmonitor) - Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface
 - [influxdata/kapacitor](https://github.com/influxdata/kapacitor) - Open source framework for processing, monitoring, and alerting on time series data
@@ -4049,13 +4058,12 @@
 
 ## others 
 
+- [Dr1zzt/XDrain](https://github.com/Dr1zzt/XDrain) - Effective log parsing in log streams using fixed depth forest
 - [hauntsaninja/mypy_primer](https://github.com/hauntsaninja/mypy_primer) - Run Python type checkers over millions of lines of code
 - [DetachHead/python-type-checker-comparison](https://github.com/DetachHead/python-type-checker-comparison) - 
 - [KSPP/linux](https://github.com/KSPP/linux) - Linux kernel source tree (Kernel Self Protection Project)
 - [tw93/Kami](https://github.com/tw93/Kami) - 👩‍🚒 Good content deserves good paper.
-- [labstack/fanout](https://github.com/labstack/fanout) - Single-binary observability platform. Ingest OTLP, store as Parquet, query with DuckDB.
 - [FastFilter/xorfilter](https://github.com/FastFilter/xorfilter) - Go library implementing binary fuse and xor filters
-- [labstack/onebox](https://github.com/labstack/onebox) - onebox (ob) — plan-before-apply deploys. Zero downtime. One box.
 - [unocss/unocss](https://github.com/unocss/unocss) - The instant on-demand atomic CSS engine.
 - [vercel-labs/fx](https://github.com/vercel-labs/fx) - Unix like coding agent
 - [alexwforsythe/tmux-which-key](https://github.com/alexwforsythe/tmux-which-key) - A tmux plugin that allows users to select actions from a customizable popup menu 🧰
@@ -5016,7 +5024,7 @@
 
 ## project-management 
 
-- [markrai/scrumboy](https://github.com/markrai/scrumboy) - Self-hosted kanban & project management with shareable boards, voice commands, sticky-notes, multi-language and MCP support
+- [markrai/scrumboy](https://github.com/markrai/scrumboy) - Self-hosted collaborative Jira/Trello alternative, combining customizable project boards, cross-project workload and flow analytics, calendar-aware planning, a visual planning Wall, portable imports/b
 - [makeplane/plane](https://github.com/makeplane/plane) - 🔥🔥🔥 Open-source Jira, Linear, Monday, and ClickUp alternative. Plane is a modern project management platform to manage tasks, sprints, docs, and triage.
 - [hcengineering/platform](https://github.com/hcengineering/platform) - Huly — All-in-One Project Management Platform (alternative to Linear, Jira, Slack, Notion, Motion)
 - [usekaneo/kaneo](https://github.com/usekaneo/kaneo) - 🎯 All you need. Nothing you don't. Open source project management that works for you, not against you.
@@ -5034,7 +5042,7 @@
 
 ## pwa 
 
-- [markrai/scrumboy](https://github.com/markrai/scrumboy) - Self-hosted kanban & project management with shareable boards, voice commands, sticky-notes, multi-language and MCP support
+- [markrai/scrumboy](https://github.com/markrai/scrumboy) - Self-hosted collaborative Jira/Trello alternative, combining customizable project boards, cross-project workload and flow analytics, calendar-aware planning, a visual planning Wall, portable imports/b
 - [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - Open-Source API Development Ecosystem • https://hoppscotch.io • Offline, On-Prem & Cloud • Web, Desktop & CLI • Open-Source Alternative to Postman, Insomnia
 - [pacexy/flow](https://github.com/pacexy/flow) - Browser-based ePub reader
 - [soruly/pasu](https://github.com/soruly/pasu) - Self-hosted TOTP authenticator PWA with FIDO2 (WebAuthn)
@@ -5611,11 +5619,13 @@
 
 ## self-hosted 
 
+- [labstack/fanout](https://github.com/labstack/fanout) - Single-binary observability platform. Ingest OTLP, store as Parquet, query with DuckDB.
+- [labstack/onebox](https://github.com/labstack/onebox) - onebox (ob) — plan-before-apply deploys. Zero downtime. One box.
 - [rcarmo/piclaw](https://github.com/rcarmo/piclaw) - pi coding agent in a technicolor web trenchcoat
 - [homarr-labs/dashboard-icons](https://github.com/homarr-labs/dashboard-icons) - Your definitive source for dashboard icons.
 - [distr-sh/distr](https://github.com/distr-sh/distr) - The Open Source control plane for self-hosted, BYOC, and on-prem deployments. Everything you need to distribute applications to self-hosted customers out of the box. Supporting Docker Compose, Docker 
 - [liketrek/TREK](https://github.com/liketrek/TREK) - A self-hosted travel/trip planner with real-time collaboration, interactive maps, PWA support, SSO, budgets, packing lists, and more.
-- [markrai/scrumboy](https://github.com/markrai/scrumboy) - Self-hosted kanban & project management with shareable boards, voice commands, sticky-notes, multi-language and MCP support
+- [markrai/scrumboy](https://github.com/markrai/scrumboy) - Self-hosted collaborative Jira/Trello alternative, combining customizable project boards, cross-project workload and flow analytics, calendar-aware planning, a visual planning Wall, portable imports/b
 - [henrygd/beszel](https://github.com/henrygd/beszel) - Lightweight server monitoring with historical data, docker stats, and alerts.
 - [mcpjungle/MCPJungle](https://github.com/mcpjungle/MCPJungle) - One place to manage & connect to all your MCP servers
 - [onyx-dot-app/onyx](https://github.com/onyx-dot-app/onyx) - Open Source AI Platform - AI Chat with advanced features that works with every LLM
@@ -5809,7 +5819,7 @@
 
 ## sqlite 
 
-- [markrai/scrumboy](https://github.com/markrai/scrumboy) - Self-hosted kanban & project management with shareable boards, voice commands, sticky-notes, multi-language and MCP support
+- [markrai/scrumboy](https://github.com/markrai/scrumboy) - Self-hosted collaborative Jira/Trello alternative, combining customizable project boards, cross-project workload and flow analytics, calendar-aware planning, a visual planning Wall, portable imports/b
 - [forwardemail/forwardemail.net](https://github.com/forwardemail/forwardemail.net) - Privacy-focused encrypted email for everyone.  All-in-one alternative to Gmail + Mailchimp + Sendgrid.
 - [dbeaver/dbeaver](https://github.com/dbeaver/dbeaver) - Free universal database tool and SQL client
 - [glebarez/go-sqlite](https://github.com/glebarez/go-sqlite) - pure-Go SQLite driver for Go (SQLite embedded)
