@@ -2158,6 +2158,7 @@
 
 ## TypeScript 
 
+- [microsoft/agent-host-protocol](https://github.com/microsoft/agent-host-protocol) - Synchronized multi-client state for AI agent sessions
 - [antfu/iroiro](https://github.com/antfu/iroiro) - Beautiful Colors Lookup in CLI
 - [unocss/unocss](https://github.com/unocss/unocss) - The instant on-demand atomic CSS engine.
 - [honojs/cli](https://github.com/honojs/cli) - CLI for Humans and AI with Hono
