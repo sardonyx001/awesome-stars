@@ -4058,6 +4058,7 @@
 
 ## others 
 
+- [microsoft/agent-host-protocol](https://github.com/microsoft/agent-host-protocol) - Synchronized multi-client state for AI agent sessions
 - [Dr1zzt/XDrain](https://github.com/Dr1zzt/XDrain) - Effective log parsing in log streams using fixed depth forest
 - [hauntsaninja/mypy_primer](https://github.com/hauntsaninja/mypy_primer) - Run Python type checkers over millions of lines of code
 - [DetachHead/python-type-checker-comparison](https://github.com/DetachHead/python-type-checker-comparison) - 
