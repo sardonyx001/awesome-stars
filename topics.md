@@ -4060,6 +4060,7 @@
 
 ## others 
 
+- [brogao/LogGzip](https://github.com/brogao/LogGzip) - LogGzip: Towards Log Parsing with Lossless Compression
 - [sdelrio/rpi-hostap](https://github.com/sdelrio/rpi-hostap) - Transform your PI into a Wireless Router (DHCP and WPA2 already insisde)
 - [logpai/loghub-2.0](https://github.com/logpai/loghub-2.0) - A Large-scale Evaluation for Log Parsing Techniques: How Far are We? [ISSTA'24]
 - [microsoft/agent-host-protocol](https://github.com/microsoft/agent-host-protocol) - Synchronized multi-client state for AI agent sessions
