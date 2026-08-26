@@ -2037,6 +2037,7 @@
 
 ## Shell 
 
+- [sdelrio/rpi-hostap](https://github.com/sdelrio/rpi-hostap) - Transform your PI into a Wireless Router (DHCP and WPA2 already insisde)
 - [alexwforsythe/tmux-which-key](https://github.com/alexwforsythe/tmux-which-key) - A tmux plugin that allows users to select actions from a customizable popup menu 🧰
 - [tobi/try](https://github.com/tobi/try) - fresh directories for every vibe
 - [joseluisq/gitnow](https://github.com/joseluisq/gitnow) - Speed up your Git workflow. :tropical_fish:
