@@ -327,6 +327,10 @@
 
 ## Go 
 
+- [slackhq/nebula](https://github.com/slackhq/nebula) - A scalable overlay networking tool with a focus on performance, simplicity and security
+- [rfjakob/gocryptfs](https://github.com/rfjakob/gocryptfs) - Encrypted overlay filesystem written in Go
+- [KromDaniel/regengo](https://github.com/KromDaniel/regengo) - a compile-time finite state machine generator for regular expressions in golang
+- [coregx/coregex](https://github.com/coregx/coregex) - Pure Go production-grade regex engine with SIMD optimizations. Up to 3-3000x+ faster than stdlib.
 - [FastFilter/xorfilter](https://github.com/FastFilter/xorfilter) - Go library implementing binary fuse and xor filters
 - [cloudwego/kitex](https://github.com/cloudwego/kitex) - Go RPC framework with high-performance and strong-extensibility for building micro-services.
 - [cloudwego/hertz](https://github.com/cloudwego/hertz) - Go HTTP framework with high-performance and strong-extensibility for building micro-services.
@@ -341,7 +345,7 @@
 - [jesseduffield/lazydocker](https://github.com/jesseduffield/lazydocker) - The lazier way to manage everything docker
 - [boldsoftware/meat](https://github.com/boldsoftware/meat) - meat.dev
 - [openclaw/gogcli](https://github.com/openclaw/gogcli) - Google Workspace in your terminal.
-- [micro/mu](https://github.com/micro/mu) - A network for humans, agents and services
+- [micro/mu](https://github.com/micro/mu) - A server for humans, agents and services
 - [kubernetes/kops](https://github.com/kubernetes/kops) - Kubernetes Operations (kOps) - Production Grade k8s Installation, Upgrades and Management
 - [hedgieinsocks/kubectl-cnf](https://github.com/hedgieinsocks/kubectl-cnf) - A kubectl plugin that helps switch between current-contexts in multiple kubeconfigs within a terminal tab scope
 - [jonnylangefeld/kubectl-mc](https://github.com/jonnylangefeld/kubectl-mc) - Run kubectl commands against multiple clusters at once
@@ -455,7 +459,7 @@
 - [bitfield/gotestdox](https://github.com/bitfield/gotestdox) - A tool for formatting Go test results as readable documentation
 - [guumaster/hostctl](https://github.com/guumaster/hostctl) - Your dev tool to manage /etc/hosts like a pro!
 - [karmada-io/karmada](https://github.com/karmada-io/karmada) - Open, Multi-Cloud, Multi-Cluster Kubernetes Orchestration
-- [loft-sh/vcluster](https://github.com/loft-sh/vcluster) - vCluster - Create fully functional virtual Kubernetes clusters - Each vcluster runs inside a namespace of the underlying k8s cluster. It's cheaper than creating separate full-blown clusters and it off
+- [loft-sh/vcluster](https://github.com/loft-sh/vcluster) - vCluster creates tenant clusters: fully isolated environments delivered as managed Kubernetes, or as the foundation for Slurm, Ray, Run:ai and inference clusters. Each gets its own API server, CRDs an
 - [gastownhall/beads](https://github.com/gastownhall/beads) - Beads - A memory upgrade for your coding agent
 - [gastownhall/gastown](https://github.com/gastownhall/gastown) - Gas Town - multi-agent workspace manager
 - [u-root/cpu](https://github.com/u-root/cpu) - cpu command in Go, inspired by the Plan 9 cpu command
@@ -983,6 +987,7 @@
 
 ## Java 
 
+- [slackhq/astra](https://github.com/slackhq/astra) - Astra is a structured log search and analytics engine developed by Slack and Salesforce
 - [flapdoodle-oss/de.flapdoodle.embed.mongo.spring](https://github.com/flapdoodle-oss/de.flapdoodle.embed.mongo.spring) - embedded mongo spring integration
 - [JetBrains/intellij-community](https://github.com/JetBrains/intellij-community) - IntelliJ IDEA & IntelliJ Platform
 - [DetachHead/rebased](https://github.com/DetachHead/rebased) - A git client based on the IntelliJ platform
@@ -1201,6 +1206,7 @@
 
 ## Kotlin 
 
+- [slackhq/circuit](https://github.com/slackhq/circuit) - ⚡️ A Compose-driven architecture for Kotlin and Android applications.
 - [sardonyx001/whats-this-kanji](https://github.com/sardonyx001/whats-this-kanji) - Android app for Japanese text processing and kanji lookup with offline KANJIDIC2 dictionary
 - [iamgio/quarkdown](https://github.com/iamgio/quarkdown) - 🪐 Markdown with superpowers: from ideas to papers, presentations, websites, books, and knowledge bases.
 - [AlexPl292/IdeaVim-EasyMotion](https://github.com/AlexPl292/IdeaVim-EasyMotion) - EasyMotion emulation plugin for IdeaVim
@@ -1234,6 +1240,7 @@
 
 ## Lua 
 
+- [saghen/blink.cmp](https://github.com/saghen/blink.cmp) - Performant, batteries-included completion plugin for Neovim
 - [mhiro2/pinwords.nvim](https://github.com/mhiro2/pinwords.nvim) - Persistent, slot-based word highlighting for focused reading and code review in Neovim.
 - [hedyhli/outline.nvim](https://github.com/hedyhli/outline.nvim) - Fancy code outline sidebar to visualize and navigate code symbols in a tree hierarchy
 - [bezhermoso/tree-sitter-ghostty](https://github.com/bezhermoso/tree-sitter-ghostty) - Tree-sitter grammar for Ghostty configuration files
@@ -2162,6 +2169,7 @@
 
 ## TypeScript 
 
+- [Jakubantalik/Libraries](https://github.com/Jakubantalik/Libraries) - Collection of effects for React: Border beam, Liquid Gooey, Thinking orbs
 - [microsoft/agent-host-protocol](https://github.com/microsoft/agent-host-protocol) - Synchronized multi-client state for AI agent sessions
 - [antfu/iroiro](https://github.com/antfu/iroiro) - Beautiful Colors Lookup in CLI
 - [unocss/unocss](https://github.com/unocss/unocss) - The instant on-demand atomic CSS engine.
