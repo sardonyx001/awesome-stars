@@ -560,6 +560,7 @@
 
 ## android 
 
+- [slackhq/circuit](https://github.com/slackhq/circuit) - ⚡️ A Compose-driven architecture for Kotlin and Android applications.
 - [ente/ente](https://github.com/ente/ente) - 💚 End-to-end encrypted cloud for everything.
 - [petabyt/fudge-legacy-android](https://github.com/petabyt/fudge-legacy-android) - Outdated, see https://github.com/petabyt/fudge
 - [uber/NullAway](https://github.com/uber/NullAway) - A tool to help eliminate NullPointerExceptions (NPEs) in your Java code with low build-time overhead
@@ -1534,6 +1535,7 @@
 
 ## design 
 
+- [Jakubantalik/Libraries](https://github.com/Jakubantalik/Libraries) - Collection of effects for React: Border beam, Liquid Gooey, Thinking orbs
 - [danielpetho/fancy](https://github.com/danielpetho/fancy) - 
 - [jgthms/bulma](https://github.com/jgthms/bulma) - Modern CSS framework based on Flexbox
 
@@ -2333,6 +2335,7 @@
 
 ## golang 
 
+- [rfjakob/gocryptfs](https://github.com/rfjakob/gocryptfs) - Encrypted overlay filesystem written in Go
 - [KromDaniel/regengo](https://github.com/KromDaniel/regengo) - a compile-time finite state machine generator for regular expressions in golang
 - [coregx/coregex](https://github.com/coregx/coregex) - Pure Go production-grade regex engine with SIMD optimizations. Up to 3-3000x+ faster than stdlib.
 - [labstack/fanout](https://github.com/labstack/fanout) - Single-binary observability platform. Ingest OTLP, store as Parquet, query with DuckDB.
@@ -3149,6 +3152,7 @@
 
 ## kotlin 
 
+- [slackhq/circuit](https://github.com/slackhq/circuit) - ⚡️ A Compose-driven architecture for Kotlin and Android applications.
 - [gatling/gatling](https://github.com/gatling/gatling) - Modern Load Testing as Code
 - [CodeIntelligenceTesting/jazzer](https://github.com/CodeIntelligenceTesting/jazzer) - Coverage-guided, in-process fuzzing for the JVM
 - [michaelbull/kotlin-retry](https://github.com/michaelbull/kotlin-retry) - A multiplatform higher-order function for retrying operations that may fail.
@@ -3165,6 +3169,7 @@
 
 ## kubernetes 
 
+- [slackhq/astra](https://github.com/slackhq/astra) - Astra is a structured log search and analytics engine developed by Slack and Salesforce
 - [stern/stern](https://github.com/stern/stern) - ⎈ Multi pod and container log tailing for Kubernetes -- Friendly fork of https://github.com/wercker/stern
 - [ahmetb/kubectx](https://github.com/ahmetb/kubectx) - Faster way to switch between clusters and namespaces in kubectl
 - [yonahd/kor](https://github.com/yonahd/kor) - A Golang Tool to discover unused Kubernetes Resources
@@ -3189,7 +3194,7 @@
 - [meshery/meshery](https://github.com/meshery/meshery) - Meshery, the cloud native manager
 - [gruberdev/local-gitops](https://github.com/gruberdev/local-gitops) - An automated local cluster setup w/ tls, monitoring, ingress and DNS configuration.
 - [karmada-io/karmada](https://github.com/karmada-io/karmada) - Open, Multi-Cloud, Multi-Cluster Kubernetes Orchestration
-- [loft-sh/vcluster](https://github.com/loft-sh/vcluster) - vCluster - Create fully functional virtual Kubernetes clusters - Each vcluster runs inside a namespace of the underlying k8s cluster. It's cheaper than creating separate full-blown clusters and it off
+- [loft-sh/vcluster](https://github.com/loft-sh/vcluster) - vCluster creates tenant clusters: fully isolated environments delivered as managed Kubernetes, or as the foundation for Slurm, Ray, Run:ai and inference clusters. Each gets its own API server, CRDs an
 - [linkerd/linkerd2](https://github.com/linkerd/linkerd2) - Ultralight, security-first service mesh for Kubernetes. Main repo for Linkerd 2.x.
 - [seaweedfs/seaweedfs](https://github.com/seaweedfs/seaweedfs) - SeaweedFS is a distributed storage system for object storage (S3), file systems, and Iceberg tables, designed to handle billions of files with O(1) disk access and effortless horizontal scaling.
 - [kubernetes-sigs/kind](https://github.com/kubernetes-sigs/kind) - Kubernetes IN Docker - local clusters for testing Kubernetes
@@ -3720,6 +3725,7 @@
 
 ## neovim 
 
+- [saghen/blink.cmp](https://github.com/saghen/blink.cmp) - Performant, batteries-included completion plugin for Neovim
 - [mhiro2/pinwords.nvim](https://github.com/mhiro2/pinwords.nvim) - Persistent, slot-based word highlighting for focused reading and code review in Neovim.
 - [hedyhli/outline.nvim](https://github.com/hedyhli/outline.nvim) - Fancy code outline sidebar to visualize and navigate code symbols in a tree hierarchy
 - [weirongxu/plantuml-previewer.vim](https://github.com/weirongxu/plantuml-previewer.vim) - Vim / Neovim plugin for preview PlantUML
@@ -4063,6 +4069,7 @@
 
 ## others 
 
+- [slackhq/nebula](https://github.com/slackhq/nebula) - A scalable overlay networking tool with a focus on performance, simplicity and security
 - [brogao/LogGzip](https://github.com/brogao/LogGzip) - LogGzip: Towards Log Parsing with Lossless Compression
 - [sdelrio/rpi-hostap](https://github.com/sdelrio/rpi-hostap) - Transform your PI into a Wireless Router (DHCP and WPA2 already insisde)
 - [logpai/loghub-2.0](https://github.com/logpai/loghub-2.0) - A Large-scale Evaluation for Log Parsing Techniques: How Far are We? [ISSTA'24]
