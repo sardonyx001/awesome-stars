@@ -2448,7 +2448,7 @@
 - [alampros/react-confetti](https://github.com/alampros/react-confetti) - Confetti without the cleanup.
 - [gregrickaby/nextjs-github-pages](https://github.com/gregrickaby/nextjs-github-pages) - 🚀 Deploy a Next.js app to GitHub Pages via GitHub Actions
 - [m-leon/prisma-multi-datasources-example](https://github.com/m-leon/prisma-multi-datasources-example) - 
-- [BlinkTagInc/node-gtfs](https://github.com/BlinkTagInc/node-gtfs) - Import GTFS transit data into SQLite and query routes, stops, times, fares and more.
+- [BlinkTagInc/node-gtfs](https://github.com/BlinkTagInc/node-gtfs) - Import, validate, query, and export GTFS Schedule and Realtime data with SQLite, PostgreSQL, and MySQL.
 - [thomasmol/media-transcode-service](https://github.com/thomasmol/media-transcode-service) - A simple microservice that converts a file to an mp3
 - [star-history/star-history](https://github.com/star-history/star-history) - The de facto GitHub star history graph.
 - [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw) - Virtual whiteboard for sketching hand-drawn like diagrams
