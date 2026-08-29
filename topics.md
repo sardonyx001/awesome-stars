@@ -3716,6 +3716,7 @@
 - [uptrace/bun](https://github.com/uptrace/bun) - SQL-first Golang ORM
 - [xo/usql](https://github.com/xo/usql) - Universal command-line interface for SQL databases
 - [drizzle-team/drizzle-orm](https://github.com/drizzle-team/drizzle-orm) - ORM
+- [BlinkTagInc/node-gtfs](https://github.com/BlinkTagInc/node-gtfs) - Import, validate, query, and export GTFS Schedule and Realtime data with SQLite, PostgreSQL, and MySQL.
 - [dubinc/dub](https://github.com/dubinc/dub) - The modern link attribution platform. Loved by world-class marketing teams like Framer, Perplexity, Superhuman, Twilio, Buffer and more.
 
 ## natural-language-processing 
@@ -4974,6 +4975,7 @@
 - [xo/usql](https://github.com/xo/usql) - Universal command-line interface for SQL databases
 - [drizzle-team/drizzle-orm](https://github.com/drizzle-team/drizzle-orm) - ORM
 - [graphile/crystal](https://github.com/graphile/crystal) - 🔮 Graphile's Crystal Monorepo; home to Grafast, PostGraphile, pg-introspection, pg-sql2 and much more!
+- [BlinkTagInc/node-gtfs](https://github.com/BlinkTagInc/node-gtfs) - Import, validate, query, and export GTFS Schedule and Realtime data with SQLite, PostgreSQL, and MySQL.
 - [supabase/supabase-py](https://github.com/supabase/supabase-py) - Python Client for Supabase. Query Postgres from Flask, Django, FastAPI. Python user authentication, security policies, edge functions, file storage, and realtime data streaming. Good first issue.
 - [supabase/supabase](https://github.com/supabase/supabase) - The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.
 
@@ -5851,7 +5853,7 @@
 - [xo/usql](https://github.com/xo/usql) - Universal command-line interface for SQL databases
 - [drizzle-team/drizzle-orm](https://github.com/drizzle-team/drizzle-orm) - ORM
 - [mattn/go-sqlite3](https://github.com/mattn/go-sqlite3) - sqlite3 driver for go using database/sql
-- [BlinkTagInc/node-gtfs](https://github.com/BlinkTagInc/node-gtfs) - Import GTFS transit data into SQLite and query routes, stops, times, fares and more.
+- [BlinkTagInc/node-gtfs](https://github.com/BlinkTagInc/node-gtfs) - Import, validate, query, and export GTFS Schedule and Realtime data with SQLite, PostgreSQL, and MySQL.
 - [CxAalto/gtfspy](https://github.com/CxAalto/gtfspy) - Public transport network analysis using Python 🚊🚇🚃🚌🛳️🚡🚠🚞
 
 ## stable-diffusion 
