@@ -193,6 +193,8 @@
 
 ## C++ 
 
+- [encounter/aurora](https://github.com/encounter/aurora) - A source-level GameCube & Wii compatibility layer
+- [react/react-native](https://github.com/react/react-native) - A framework for building native applications using React
 - [google/flatbuffers](https://github.com/google/flatbuffers) - FlatBuffers: Memory Efficient Serialization Library
 - [nasa/fprime](https://github.com/nasa/fprime) - F´ - A flight software and embedded systems framework
 - [CLIUtils/CLI11](https://github.com/CLIUtils/CLI11) - CLI11 is a command line parser for C++11 and beyond that provides a rich feature set with a simple and intuitive interface.
@@ -328,6 +330,7 @@
 
 ## Go 
 
+- [podman-container-tools/podman](https://github.com/podman-container-tools/podman) - Podman: A tool for managing OCI containers and pods.
 - [slackhq/nebula](https://github.com/slackhq/nebula) - A scalable overlay networking tool with a focus on performance, simplicity and security
 - [rfjakob/gocryptfs](https://github.com/rfjakob/gocryptfs) - Encrypted overlay filesystem written in Go
 - [KromDaniel/regengo](https://github.com/KromDaniel/regengo) - a compile-time finite state machine generator for regular expressions in golang
@@ -1469,6 +1472,8 @@
 
 ## Python 
 
+- [vercel/vercel-py](https://github.com/vercel/vercel-py) - Develop. Preview. Ship. Python.
+- [vercel-labs/ggt](https://github.com/vercel-labs/ggt) - Supercharged Python Unittest Runner
 - [brogao/LogGzip](https://github.com/brogao/LogGzip) - LogGzip: Towards Log Parsing with Lossless Compression
 - [logpai/loghub-2.0](https://github.com/logpai/loghub-2.0) - A Large-scale Evaluation for Log Parsing Techniques: How Far are We? [ISSTA'24]
 - [Dr1zzt/XDrain](https://github.com/Dr1zzt/XDrain) - Effective log parsing in log streams using fixed depth forest
@@ -1797,6 +1802,8 @@
 
 ## Rust 
 
+- [pollen-robotics/microduck](https://github.com/pollen-robotics/microduck) - A Tiny biped duck robot 🦆
+- [servo/rust-smallvec](https://github.com/servo/rust-smallvec) - "Small vector" optimization for Rust: store up to a small number of items on the stack
 - [benwtrent/drain-rs](https://github.com/benwtrent/drain-rs) - Implementation of the drain log categorization algorithm in Rust
 - [databendlabs/databend](https://github.com/databendlabs/databend) - Data Agent Ready Warehouse : One for  Analytics, Search, AI, Python Sandbox.  — rebuilt from scratch. Unified architecture on your S3.
 - [pauloremoli/logana](https://github.com/pauloremoli/logana) - Terminal log analyzer built in Rust with instant filtering, structured field parsing, compressed file support, Docker/OTel streaming, and MCP integration.
