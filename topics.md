@@ -4109,7 +4109,7 @@
 - [vercel-labs/fx](https://github.com/vercel-labs/fx) - Unix like coding agent
 - [alexwforsythe/tmux-which-key](https://github.com/alexwforsythe/tmux-which-key) - A tmux plugin that allows users to select actions from a customizable popup menu 🧰
 - [peco/peco](https://github.com/peco/peco) - Simplistic interactive filtering tool
-- [honojs/cli](https://github.com/honojs/cli) - CLI for Humans and AI with Hono
+- [honojs/cli](https://github.com/honojs/cli) - Command-line tool for Hono, made for AI coding agents
 - [sardonyx001/blog](https://github.com/sardonyx001/blog) - 
 - [sardonyx001/awesome-stars](https://github.com/sardonyx001/awesome-stars) - My Awesome List
 - [sardonyx001/whats-this-kanji](https://github.com/sardonyx001/whats-this-kanji) - Android app for Japanese text processing and kanji lookup with offline KANJIDIC2 dictionary
