@@ -4453,7 +4453,7 @@
 - [dhth/tbll](https://github.com/dhth/tbll) - tbll outputs data in tabular format
 - [dhth/squidge](https://github.com/dhth/squidge) - squidge shortens delimited data
 - [dhth/dstll](https://github.com/dhth/dstll) - dstll gives you a high level overview of various constructs in your code
-- [dhth/mult](https://github.com/dhth/mult) - Run a command multiple times and glance at the outputs via a TUI
+- [dhth/mult](https://github.com/dhth/mult) - Run a command multiple times and glance at the outputs
 - [dhth/omm](https://github.com/dhth/omm) - on-my-mind: a keyboard-driven task manager for the command line
 - [jackc/pgx](https://github.com/jackc/pgx) - PostgreSQL driver and toolkit for Go
 - [charmbracelet/huh](https://github.com/charmbracelet/huh) - Build terminal forms and prompts 🤷🏻‍♀️
