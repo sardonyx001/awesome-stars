@@ -315,7 +315,7 @@
 
 ## agent 
 
-- [micro/mu](https://github.com/micro/mu) - A personal assistant
+- [micro/mu](https://github.com/micro/mu) - Tools for agents
 - [iOfficeAI/OfficeCLI](https://github.com/iOfficeAI/OfficeCLI) - OfficeCLI is the first and best Office suite  purpose-built for AI agents to read, edit, and automate Word, Excel, and PowerPoint files. Free, open-source, single binary, no Office installation requir
 - [vercel/eve](https://github.com/vercel/eve) - The Open Framework for Building Agents
 - [agent-infra/sandbox](https://github.com/agent-infra/sandbox) - All-in-One Sandbox for AI Agents that combines Browser, Shell, File, MCP and VSCode Server in a single Docker container.
@@ -391,7 +391,7 @@
 - [databendlabs/databend](https://github.com/databendlabs/databend) - Data Agent Ready Warehouse : One for  Analytics, Search, AI, Python Sandbox.  — rebuilt from scratch. Unified architecture on your S3.
 - [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman) - 🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman
 - [semantica-agi/semantica](https://github.com/semantica-agi/semantica) - Graph-Native Infrastructure for Context and Accountable AI Systems
-- [micro/mu](https://github.com/micro/mu) - A personal assistant
+- [micro/mu](https://github.com/micro/mu) - Tools for agents
 - [iOfficeAI/OfficeCLI](https://github.com/iOfficeAI/OfficeCLI) - OfficeCLI is the first and best Office suite  purpose-built for AI agents to read, edit, and automate Word, Excel, and PowerPoint files. Free, open-source, single binary, no Office installation requir
 - [git-ai-project/git-ai](https://github.com/git-ai-project/git-ai) - A Git extension for tracking the AI-generated code in your repos
 - [metorial/metorial-platform](https://github.com/metorial/metorial-platform) - The engine powering hundreds of thousands of MCP connections 🤖 🔥
@@ -1685,7 +1685,7 @@
 - [fnproject/fn](https://github.com/fnproject/fn) - The container native, cloud agnostic serverless platform.
 - [whalebrew/whalebrew](https://github.com/whalebrew/whalebrew) - Homebrew, but with Docker images
 - [maildev/maildev](https://github.com/maildev/maildev) - :mailbox: SMTP Server + Web Interface for viewing and testing emails during development.
-- [authelia/authelia](https://github.com/authelia/authelia) - The Single Sign-On Multi-Factor portal for web apps, now OpenID Certified™
+- [authelia/authelia](https://github.com/authelia/authelia) - The Single Sign-On Multi-Factor portal for web apps. OpenID Certified™ and Post-Quantum Cryptography Ready.
 - [abiosoft/colima](https://github.com/abiosoft/colima) - Container runtimes on macOS (and Linux) with minimal setup
 - [b1-systems/hello-docker-world](https://github.com/b1-systems/hello-docker-world) - a smallest docker example used for testing and training
 - [infrastructure-as-code/docker-hello-world](https://github.com/infrastructure-as-code/docker-hello-world) - A Hello World service with Prometheus instrumentation
@@ -2401,7 +2401,7 @@
 - [riverqueue/river](https://github.com/riverqueue/river) - Fast and reliable background jobs in Go
 - [openfga/openfga](https://github.com/openfga/openfga) - A high performance and flexible authorization/permission engine built for developers and inspired by Google Zanzibar
 - [uber-go/fx](https://github.com/uber-go/fx) - A dependency injection based application framework for Go.
-- [authelia/authelia](https://github.com/authelia/authelia) - The Single Sign-On Multi-Factor portal for web apps, now OpenID Certified™
+- [authelia/authelia](https://github.com/authelia/authelia) - The Single Sign-On Multi-Factor portal for web apps. OpenID Certified™ and Post-Quantum Cryptography Ready.
 - [microsoft/kiota](https://github.com/microsoft/kiota) - OpenAPI based HTTP Client code generator
 - [sardonyx001/ul](https://github.com/sardonyx001/ul) - ul: unordered list, simple lightweight URL shortener
 - [leanghok120/anigarden](https://github.com/leanghok120/anigarden) - cozy tui anime viewer
@@ -3212,7 +3212,7 @@
 - [etcd-io/etcd](https://github.com/etcd-io/etcd) - Distributed reliable key-value store for the most critical data of a distributed system
 - [kubernetes/enhancements](https://github.com/kubernetes/enhancements) - Enhancements tracking repo for Kubernetes
 - [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) - Production-Grade Container Scheduling and Management
-- [authelia/authelia](https://github.com/authelia/authelia) - The Single Sign-On Multi-Factor portal for web apps, now OpenID Certified™
+- [authelia/authelia](https://github.com/authelia/authelia) - The Single Sign-On Multi-Factor portal for web apps. OpenID Certified™ and Post-Quantum Cryptography Ready.
 - [goauthentik/authentik](https://github.com/goauthentik/authentik) - The authentication glue you need.
 - [abiosoft/colima](https://github.com/abiosoft/colima) - Container runtimes on macOS (and Linux) with minimal setup
 - [alexellis/k3sup](https://github.com/alexellis/k3sup) - bootstrap K3s over SSH in &lt; 60s 🚀
@@ -3593,7 +3593,7 @@
 - [labstack/fanout](https://github.com/labstack/fanout) - Single-binary observability platform. Ingest OTLP, store as Parquet, query with DuckDB.
 - [Graphify-Labs/graphify](https://github.com/Graphify-Labs/graphify) - Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, e
 - [bitwarden/mcp-server](https://github.com/bitwarden/mcp-server) - MCP server for interaction with Bitwarden.
-- [micro/mu](https://github.com/micro/mu) - A personal assistant
+- [micro/mu](https://github.com/micro/mu) - Tools for agents
 - [NateBJones-Projects/OB1](https://github.com/NateBJones-Projects/OB1) - Open Brain — The infrastructure layer for your thinking. One database, one AI gateway, one chat channel — any AI plugs in. No middleware, no SaaS.
 - [jvm/usql-mcp](https://github.com/jvm/usql-mcp) - usql MCP Server
 - [metorial/metorial-platform](https://github.com/metorial/metorial-platform) - The engine powering hundreds of thousands of MCP connections 🤖 🔥
@@ -5601,7 +5601,7 @@
 - [golang-jwt/jwt](https://github.com/golang-jwt/jwt) - Go implementation of JSON Web Tokens (JWT).
 - [CodeIntelligenceTesting/jazzer](https://github.com/CodeIntelligenceTesting/jazzer) - Coverage-guided, in-process fuzzing for the JVM
 - [openfga/openfga](https://github.com/openfga/openfga) - A high performance and flexible authorization/permission engine built for developers and inspired by Google Zanzibar
-- [authelia/authelia](https://github.com/authelia/authelia) - The Single Sign-On Multi-Factor portal for web apps, now OpenID Certified™
+- [authelia/authelia](https://github.com/authelia/authelia) - The Single Sign-On Multi-Factor portal for web apps. OpenID Certified™ and Post-Quantum Cryptography Ready.
 - [goauthentik/authentik](https://github.com/goauthentik/authentik) - The authentication glue you need.
 - [kata-containers/kata-containers](https://github.com/kata-containers/kata-containers) - Kata Containers is an open source project and community working to build a standard implementation of lightweight Virtual Machines (VMs) that feel and perform like containers, but provide the workload
 - [lldap/lldap](https://github.com/lldap/lldap) - Light LDAP implementation
