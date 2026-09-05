@@ -615,7 +615,7 @@
 - [dhth/dstll](https://github.com/dhth/dstll) - dstll gives you a high level overview of various constructs in your code
 - [dhth/commits](https://github.com/dhth/commits) - Glance at git commits through a simple TUI
 - [dhth/schemas](https://github.com/dhth/schemas) - Inspect postgres schemas via a TUI
-- [dhth/mult](https://github.com/dhth/mult) - Run a command multiple times and glance at the outputs via a TUI
+- [dhth/mult](https://github.com/dhth/mult) - Run a command multiple times and glance at the outputs
 - [dhth/omm](https://github.com/dhth/omm) - on-my-mind: a keyboard-driven task manager for the command line
 - [traggo/server](https://github.com/traggo/server) - self-hosted tag-based time tracking
 - [jackc/pgx](https://github.com/jackc/pgx) - PostgreSQL driver and toolkit for Go
