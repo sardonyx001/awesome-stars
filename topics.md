@@ -1784,7 +1784,6 @@
 - [antfu/broz](https://github.com/antfu/broz) - A simple, frameless browser for screenshots
 - [microsoft/vscode](https://github.com/microsoft/vscode) - Visual Studio Code
 - [BruceMacD/chatd](https://github.com/BruceMacD/chatd) - Chat with your documents using local AI
-- [siyuan-note/siyuan](https://github.com/siyuan-note/siyuan) - An open-source, privacy-first, self-hosted knowledge workspace where humans and AI agents work together 开源、隐私优先、自托管的知识工作空间，让人与智能体在此协作
 - [xgi/houdoku](https://github.com/xgi/houdoku) - Manga reader and library manager for the desktop
 - [typicode/lowdb](https://github.com/typicode/lowdb) - Simple and fast JSON database
 
@@ -3982,6 +3981,7 @@
 
 ## obsidian 
 
+- [jackyzha0/quartz](https://github.com/jackyzha0/quartz) - 🌱 a fast, batteries-included static-site generator that transforms Markdown content into fully functional websites
 - [backnotprop/plannotator](https://github.com/backnotprop/plannotator) - Annotate and review coding agent plans and code diffs visually, share with your team, send feedback to agents with one click.
 - [kepano/obsidian-skills](https://github.com/kepano/obsidian-skills) - Agent skills for Obsidian. Teach your agent to use Obsidian CLI and open formats including Markdown, Bases, JSON Canvas.
 - [BingyanStudio/LapisCV](https://github.com/BingyanStudio/LapisCV) - 📄 Easily create your resume with Markdown on VSCode / Typora / Obsidian
@@ -3990,6 +3990,7 @@
 
 ## obsidian-md 
 
+- [jackyzha0/quartz](https://github.com/jackyzha0/quartz) - 🌱 a fast, batteries-included static-site generator that transforms Markdown content into fully functional websites
 - [out-of-cheese-error/gooseberry](https://github.com/out-of-cheese-error/gooseberry) - A command line utility to generate a knowledge base from Hypothesis annotations
 
 ## open-source 
