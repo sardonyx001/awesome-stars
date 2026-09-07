@@ -4084,6 +4084,7 @@
 
 ## others 
 
+- [0-lucas/digital-garden](https://github.com/0-lucas/digital-garden) - This is a personal hosting for my Obsidian files. This is built using jazckyzhao0 's quartz.
 - [pollen-robotics/microduck](https://github.com/pollen-robotics/microduck) - A Tiny biped duck robot 🦆
 - [vercel/vercel-py](https://github.com/vercel/vercel-py) - Develop. Preview. Ship. Python.
 - [encounter/aurora](https://github.com/encounter/aurora) - A source-level GameCube & Wii compatibility layer
