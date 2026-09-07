@@ -349,7 +349,7 @@
 - [jesseduffield/lazydocker](https://github.com/jesseduffield/lazydocker) - The lazier way to manage everything docker
 - [boldsoftware/meat](https://github.com/boldsoftware/meat) - meat.dev
 - [openclaw/gogcli](https://github.com/openclaw/gogcli) - Google Workspace in your terminal.
-- [micro/mu](https://github.com/micro/mu) - Tools for agents
+- [micro/mu](https://github.com/micro/mu) - A runtime for agents, tools and services
 - [kubernetes/kops](https://github.com/kubernetes/kops) - Kubernetes Operations (kOps) - Production Grade k8s Installation, Upgrades and Management
 - [hedgieinsocks/kubectl-cnf](https://github.com/hedgieinsocks/kubectl-cnf) - A kubectl plugin that helps switch between current-contexts in multiple kubeconfigs within a terminal tab scope
 - [jonnylangefeld/kubectl-mc](https://github.com/jonnylangefeld/kubectl-mc) - Run kubectl commands against multiple clusters at once
@@ -388,7 +388,7 @@
 - [etcd-io/raft](https://github.com/etcd-io/raft) - Raft library for maintaining a replicated state machine
 - [odvcencio/gotreesitter](https://github.com/odvcencio/gotreesitter) - Pure Go tree-sitter runtime
 - [opentofu/opentofu](https://github.com/opentofu/opentofu) - OpenTofu lets you declaratively manage your cloud infrastructure.
-- [gitsocial-org/gitsocial](https://github.com/gitsocial-org/gitsocial) - Cross-forge collaboration platform
+- [gitsocial-org/gitsocial](https://github.com/gitsocial-org/gitsocial) - Git-native collaboration platform
 - [runfinch/finch](https://github.com/runfinch/finch) - The Finch CLI is an open source client for container development
 - [GoogleContainerTools/skaffold](https://github.com/GoogleContainerTools/skaffold) - Easy and Repeatable Kubernetes Development
 - [nozomi-koborinai/gcp-cost-mcp-server](https://github.com/nozomi-koborinai/gcp-cost-mcp-server) - 💰 An MCP server that enables AI assistants to estimate Google Cloud costs, powered by Cloud Billing Catalog API and built with Genkit for Go
@@ -1803,6 +1803,8 @@
 
 ## Rust 
 
+- [microsoft/tgrep](https://github.com/microsoft/tgrep) - Trigram-indexed grep with a client/server architecture for fast regex search in large codebases locally
+- [tikv/agatedb](https://github.com/tikv/agatedb) - A persistent key-value storage in rust.
 - [pollen-robotics/microduck](https://github.com/pollen-robotics/microduck) - A Tiny biped duck robot 🦆
 - [servo/rust-smallvec](https://github.com/servo/rust-smallvec) - "Small vector" optimization for Rust: store up to a small number of items on the stack
 - [benwtrent/drain-rs](https://github.com/benwtrent/drain-rs) - Implementation of the drain log categorization algorithm in Rust
