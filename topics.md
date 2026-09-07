@@ -315,7 +315,7 @@
 
 ## agent 
 
-- [micro/mu](https://github.com/micro/mu) - Tools for agents
+- [micro/mu](https://github.com/micro/mu) - A runtime for agents, tools and services
 - [iOfficeAI/OfficeCLI](https://github.com/iOfficeAI/OfficeCLI) - OfficeCLI is the first and best Office suite  purpose-built for AI agents to read, edit, and automate Word, Excel, and PowerPoint files. Free, open-source, single binary, no Office installation requir
 - [vercel/eve](https://github.com/vercel/eve) - The Open Framework for Building Agents
 - [agent-infra/sandbox](https://github.com/agent-infra/sandbox) - All-in-One Sandbox for AI Agents that combines Browser, Shell, File, MCP and VSCode Server in a single Docker container.
@@ -391,7 +391,7 @@
 - [databendlabs/databend](https://github.com/databendlabs/databend) - Data Agent Ready Warehouse : One for  Analytics, Search, AI, Python Sandbox.  — rebuilt from scratch. Unified architecture on your S3.
 - [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman) - 🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman
 - [semantica-agi/semantica](https://github.com/semantica-agi/semantica) - Graph-Native Infrastructure for Context and Accountable AI Systems
-- [micro/mu](https://github.com/micro/mu) - Tools for agents
+- [micro/mu](https://github.com/micro/mu) - A runtime for agents, tools and services
 - [iOfficeAI/OfficeCLI](https://github.com/iOfficeAI/OfficeCLI) - OfficeCLI is the first and best Office suite  purpose-built for AI agents to read, edit, and automate Word, Excel, and PowerPoint files. Free, open-source, single binary, no Office installation requir
 - [git-ai-project/git-ai](https://github.com/git-ai-project/git-ai) - A Git extension for tracking the AI-generated code in your repos
 - [metorial/metorial-platform](https://github.com/metorial/metorial-platform) - The engine powering hundreds of thousands of MCP connections 🤖 🔥
@@ -1033,7 +1033,7 @@
 - [ovh/ovhcloud-cli](https://github.com/ovh/ovhcloud-cli) - ☀ Official Command Line Interface to manage your OVHcloud services ☁
 - [openclaw/mcporter](https://github.com/openclaw/mcporter) - Call MCPs via TypeScript, masquerading as simple TypeScript API. Or package them as cli.
 - [bibendi/dip](https://github.com/bibendi/dip) - The dip is a CLI dev–tool that provides native-like interaction with a Dockerized application.
-- [gitsocial-org/gitsocial](https://github.com/gitsocial-org/gitsocial) - Cross-forge collaboration platform
+- [gitsocial-org/gitsocial](https://github.com/gitsocial-org/gitsocial) - Git-native collaboration platform
 - [eforge-build/eforge](https://github.com/eforge-build/eforge) - Open source agentic build system - transforms specifications into verified source code with blind adversarial review
 - [duo121/termhub](https://github.com/duo121/termhub) - TermHub: Open-source native terminal control gateway for AI Agents. Let LLMs/AI Agents fully control & automate iTerm2 / Windows Terminal: manage tabs, panes, sessions, send commands, capture output p
 - [kepano/obsidian-skills](https://github.com/kepano/obsidian-skills) - Agent skills for Obsidian. Teach your agent to use Obsidian CLI and open formats including Markdown, Bases, JSON Canvas.
@@ -2033,7 +2033,7 @@
 - [joseluisq/gitnow](https://github.com/joseluisq/gitnow) - Speed up your Git workflow. :tropical_fish:
 - [avivsinai/bitbucket-cli](https://github.com/avivsinai/bitbucket-cli) - Bitbucket CLI with gh-like ergonomics
 - [jnsahaj/lumen](https://github.com/jnsahaj/lumen) - Beautiful git diff viewer, generate commits with AI, get summary of changes, all from the CLI
-- [gitsocial-org/gitsocial](https://github.com/gitsocial-org/gitsocial) - Cross-forge collaboration platform
+- [gitsocial-org/gitsocial](https://github.com/gitsocial-org/gitsocial) - Git-native collaboration platform
 - [j178/prek](https://github.com/j178/prek) - ⚡ A fast Git hook manager written in Rust, designed as a drop-in alternative to pre-commit, reimagined.
 - [Dicklesworthstone/destructive_command_guard](https://github.com/Dicklesworthstone/destructive_command_guard) - The Destructive Command Guard (dcg) is for blocking dangerous git and shell commands from being executed by agents.
 - [orhun/git-cliff](https://github.com/orhun/git-cliff) - A highly customizable Changelog Generator that follows Conventional Commit specifications ⛰️
@@ -2109,7 +2109,7 @@
 - [siderolabs/conform](https://github.com/siderolabs/conform) - Policy enforcement for your pipelines.
 - [zeromicro/go-zero](https://github.com/zeromicro/go-zero) - A cloud-native Go microservices framework with cli tool for productivity.
 - [odvcencio/gotreesitter](https://github.com/odvcencio/gotreesitter) - Pure Go tree-sitter runtime
-- [gitsocial-org/gitsocial](https://github.com/gitsocial-org/gitsocial) - Cross-forge collaboration platform
+- [gitsocial-org/gitsocial](https://github.com/gitsocial-org/gitsocial) - Git-native collaboration platform
 - [ko-build/ko](https://github.com/ko-build/ko) - Build and deploy Go applications
 - [distr-sh/distr](https://github.com/distr-sh/distr) - The Open Source control plane for self-hosted, BYOC, and on-prem deployments. Everything you need to distribute applications to self-hosted customers out of the box. Supporting Docker Compose, Docker 
 - [rulego/rulego](https://github.com/rulego/rulego) - ⛓️RuleGo is a lightweight, high-performance, embedded, next-generation component orchestration rule engine framework for Go.
@@ -3591,7 +3591,7 @@
 - [labstack/fanout](https://github.com/labstack/fanout) - Single-binary observability platform. Ingest OTLP, store as Parquet, query with DuckDB.
 - [Graphify-Labs/graphify](https://github.com/Graphify-Labs/graphify) - Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, e
 - [bitwarden/mcp-server](https://github.com/bitwarden/mcp-server) - MCP server for interaction with Bitwarden.
-- [micro/mu](https://github.com/micro/mu) - Tools for agents
+- [micro/mu](https://github.com/micro/mu) - A runtime for agents, tools and services
 - [NateBJones-Projects/OB1](https://github.com/NateBJones-Projects/OB1) - Open Brain — The infrastructure layer for your thinking. One database, one AI gateway, one chat channel — any AI plugs in. No middleware, no SaaS.
 - [jvm/usql-mcp](https://github.com/jvm/usql-mcp) - usql MCP Server
 - [metorial/metorial-platform](https://github.com/metorial/metorial-platform) - The engine powering hundreds of thousands of MCP connections 🤖 🔥
@@ -4085,6 +4085,8 @@
 
 ## others 
 
+- [microsoft/tgrep](https://github.com/microsoft/tgrep) - Trigram-indexed grep with a client/server architecture for fast regex search in large codebases locally
+- [tikv/agatedb](https://github.com/tikv/agatedb) - A persistent key-value storage in rust.
 - [0-lucas/digital-garden](https://github.com/0-lucas/digital-garden) - This is a personal hosting for my Obsidian files. This is built using jazckyzhao0 's quartz.
 - [pollen-robotics/microduck](https://github.com/pollen-robotics/microduck) - A Tiny biped duck robot 🦆
 - [vercel/vercel-py](https://github.com/vercel/vercel-py) - Develop. Preview. Ship. Python.
@@ -5761,7 +5763,7 @@
 ## serverless 
 
 - [databendlabs/databend](https://github.com/databendlabs/databend) - Data Agent Ready Warehouse : One for  Analytics, Search, AI, Python Sandbox.  — rebuilt from scratch. Unified architecture on your S3.
-- [gitsocial-org/gitsocial](https://github.com/gitsocial-org/gitsocial) - Cross-forge collaboration platform
+- [gitsocial-org/gitsocial](https://github.com/gitsocial-org/gitsocial) - Git-native collaboration platform
 - [robustmq/robustmq](https://github.com/robustmq/robustmq) - Communication infrastructure for the AI era — one binary, one broker, one storage layer, any protocol
 - [cloudflare/workers-sdk](https://github.com/cloudflare/workers-sdk) - ⛅️ Home to Wrangler, the CLI for Cloudflare Workers®
 - [pingcap/tidb](https://github.com/pingcap/tidb) - TiDB is built for agentic workloads that grow unpredictably, with ACID guarantees and native support for transactions, analytics, and vector search. No data silos. No noisy neighbors. No infrastructur
@@ -6129,7 +6131,7 @@
 - [pauloremoli/logana](https://github.com/pauloremoli/logana) - Terminal log analyzer built in Rust with instant filtering, structured field parsing, compressed file support, Docker/OTel streaming, and MCP integration.
 - [bvaisvil/zenith](https://github.com/bvaisvil/zenith) - Zenith - sort of like top or htop but with zoom-able charts, CPU, GPU, network, and disk usage
 - [sarub0b0/kubetui](https://github.com/sarub0b0/kubetui) - An intuitive Terminal User Interface (TUI) tool for real-time monitoring and exploration of Kubernetes resources
-- [gitsocial-org/gitsocial](https://github.com/gitsocial-org/gitsocial) - Cross-forge collaboration platform
+- [gitsocial-org/gitsocial](https://github.com/gitsocial-org/gitsocial) - Git-native collaboration platform
 - [janosmiko/vau](https://github.com/janosmiko/vau) - 🔒 A yazi-inspired terminal UI for browsing and editing HashiCorp Vault KV secrets.
 - [aohoyd/aku](https://github.com/aohoyd/aku) - Terminal UI for Kubernetes clusters built with Bubble Tea. Resource browsing, YAML/describe views, live log streaming, split panes, exec, debug containers, port forwarding, Helm management, and vim-st
 - [deemkeen/stegodon](https://github.com/deemkeen/stegodon) - Blog directly from ssh!
