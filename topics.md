@@ -315,6 +315,7 @@
 
 ## agent 
 
+- [vectordotdev/vector](https://github.com/vectordotdev/vector) - A high-performance observability data pipeline.
 - [micro/mu](https://github.com/micro/mu) - A runtime for agents, tools and services
 - [iOfficeAI/OfficeCLI](https://github.com/iOfficeAI/OfficeCLI) - OfficeCLI is the first and best Office suite  purpose-built for AI agents to read, edit, and automate Word, Excel, and PowerPoint files. Free, open-source, single binary, no Office installation requir
 - [vercel/eve](https://github.com/vercel/eve) - The Open Framework for Building Agents
@@ -2098,6 +2099,7 @@
 
 ## go 
 
+- [twmb/franz-go](https://github.com/twmb/franz-go) - franz-go is a feature complete, pure Go library for Kafka from 0.8.0 through 4.2+. Producing, consuming, transacting, administrating, etc.
 - [coregx/coregex](https://github.com/coregx/coregex) - Pure Go production-grade regex engine with SIMD optimizations. Up to 3-3000x+ faster than stdlib.
 - [cloudwego/kitex](https://github.com/cloudwego/kitex) - Go RPC framework with high-performance and strong-extensibility for building micro-services.
 - [cloudwego/hertz](https://github.com/cloudwego/hertz) - Go HTTP framework with high-performance and strong-extensibility for building micro-services.
@@ -2340,6 +2342,7 @@
 
 ## golang 
 
+- [twmb/franz-go](https://github.com/twmb/franz-go) - franz-go is a feature complete, pure Go library for Kafka from 0.8.0 through 4.2+. Producing, consuming, transacting, administrating, etc.
 - [rfjakob/gocryptfs](https://github.com/rfjakob/gocryptfs) - Encrypted overlay filesystem written in Go
 - [KromDaniel/regengo](https://github.com/KromDaniel/regengo) - a compile-time finite state machine generator for regular expressions in golang
 - [coregx/coregex](https://github.com/coregx/coregex) - Pure Go production-grade regex engine with SIMD optimizations. Up to 3-3000x+ faster than stdlib.
@@ -2668,6 +2671,7 @@
 
 ## hacktoberfest 
 
+- [vectordotdev/vector](https://github.com/vectordotdev/vector) - A high-performance observability data pipeline.
 - [k1LoW/runn](https://github.com/k1LoW/runn) - runn is a package/tool for running operations following a scenario.
 - [giscus/giscus](https://github.com/giscus/giscus) - A commenting system powered by GitHub Discussions. :octocat: :speech_balloon: :gem:
 - [earthly/earthly](https://github.com/earthly/earthly) - Super simple build framework with fast, repeatable builds and an instantly familiar syntax – like Dockerfile and Makefile had a baby.
@@ -3112,6 +3116,7 @@
 
 ## json 
 
+- [cloudwego/sonic-rs](https://github.com/cloudwego/sonic-rs) - A fast Rust JSON library based on SIMD.
 - [ibireme/yyjson](https://github.com/ibireme/yyjson) - The fastest JSON library in C
 - [redis/redis](https://github.com/redis/redis) - For developers, who are building real-time data-driven applications, Redis is the preferred, fastest, and most feature-rich cache, data structure server, and document and vector query engine.
 - [pinojs/pino](https://github.com/pinojs/pino) - 🌲 super fast, all natural json logger
@@ -3683,6 +3688,7 @@
 
 ## monitoring 
 
+- [vectordotdev/vector](https://github.com/vectordotdev/vector) - A high-performance observability data pipeline.
 - [labstack/fanout](https://github.com/labstack/fanout) - Single-binary observability platform. Ingest OTLP, store as Parquet, query with DuckDB.
 - [henrygd/beszel](https://github.com/henrygd/beszel) - Lightweight server monitoring with historical data, docker stats, and alerts.
 - [koala73/worldmonitor](https://github.com/koala73/worldmonitor) - Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface
@@ -4085,6 +4091,8 @@
 
 ## others 
 
+- [cloudwego/goref](https://github.com/cloudwego/goref) - Go heap object reference analysis tool
+- [go-json-experiment/jsonbench](https://github.com/go-json-experiment/jsonbench) - JSON benchmarks to compare different Go JSON implementations
 - [microsoft/tgrep](https://github.com/microsoft/tgrep) - Trigram-indexed grep with a client/server architecture for fast regex search in large codebases locally
 - [tikv/agatedb](https://github.com/tikv/agatedb) - A persistent key-value storage in rust.
 - [0-lucas/digital-garden](https://github.com/0-lucas/digital-garden) - This is a personal hosting for my Obsidian files. This is built using jazckyzhao0 's quartz.
@@ -5432,6 +5440,7 @@
 
 ## rust 
 
+- [cloudwego/sonic-rs](https://github.com/cloudwego/sonic-rs) - A fast Rust JSON library based on SIMD.
 - [databendlabs/databend](https://github.com/databendlabs/databend) - Data Agent Ready Warehouse : One for  Analytics, Search, AI, Python Sandbox.  — rebuilt from scratch. Unified architecture on your S3.
 - [google/flatbuffers](https://github.com/google/flatbuffers) - FlatBuffers: Memory Efficient Serialization Library
 - [pauloremoli/logana](https://github.com/pauloremoli/logana) - Terminal log analyzer built in Rust with instant filtering, structured field parsing, compressed file support, Docker/OTel streaming, and MCP integration.
