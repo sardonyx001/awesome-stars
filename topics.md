@@ -4425,7 +4425,7 @@
 - [ahmedkhalf/project.nvim](https://github.com/ahmedkhalf/project.nvim) - The superior project management solution for neovim.
 - [SandeebAdhikari/DevPilot-HQ](https://github.com/SandeebAdhikari/DevPilot-HQ) - DevPilot is an AI-powered CLI that accelerates developer onboarding by automatically explaining and summarizing unfamiliar codebases.
 - [darwin-lau/langmanus](https://github.com/darwin-lau/langmanus) - A community-driven AI automation framework that builds upon the incredible work of the open source community. Our goal is to combine language models with specialized tools for tasks like web search, c
-- [chrisgrieser/nvim-chainsaw](https://github.com/chrisgrieser/nvim-chainsaw) - Smart and highly customizable insertion of various kinds of log statements.
+- [chrisgrieser/nvim-chainsaw](https://github.com/chrisgrieser/nvim-chainsaw) - Smart and customizable creation of logs.
 - [vercel/micro](https://github.com/vercel/micro) - Asynchronous HTTP microservices
 - [astanin/python-tabulate](https://github.com/astanin/python-tabulate) - Pretty-print tabular data in Python, a library and a command-line utility. Repository migrated from bitbucket.org/astanin/python-tabulate.
 - [ActivityWatch/aw-watcher-input](https://github.com/ActivityWatch/aw-watcher-input) - Track your keypresses and mouse movements with ActivityWatch
