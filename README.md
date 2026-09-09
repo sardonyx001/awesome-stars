@@ -386,6 +386,7 @@
 - [fnproject/ext-auth](https://github.com/fnproject/ext-auth) - Authentication extension for Fn Project
 - [dependabot/cli](https://github.com/dependabot/cli) - A tool for running Dependabot update jobs.
 - [aayanmtn/chartgo](https://github.com/aayanmtn/chartgo) - chartjs for go
+- [boldsoftware/exe.dev](https://github.com/boldsoftware/exe.dev) - just use ssh
 - [jetify-com/devbox](https://github.com/jetify-com/devbox) - Instant, easy, and predictable development environments
 - [containerd/containerd](https://github.com/containerd/containerd) - An open and reliable container runtime
 - [moby/swarmkit](https://github.com/moby/swarmkit) - A toolkit for orchestrating distributed systems at any scale. It includes primitives for node discovery, raft-based consensus, task scheduling and more.
@@ -2566,7 +2567,6 @@
 ## Zig 
 
 - [vercel-labs/fx](https://github.com/vercel-labs/fx) - Unix like coding agent
-- [boldsoftware/exe.dev](https://github.com/boldsoftware/exe.dev) - just use ssh
 - [lightpanda-io/browser](https://github.com/lightpanda-io/browser) - Lightpanda: the headless browser designed for AI and automation
 - [satibot/satibot](https://github.com/satibot/satibot) - satibot is a lightweight, memory-aware AI agent, built in Zig for performance, with very simple local first vector search, web search, and file access capabilities. Inspired by OpenClawd and nanobot. 
 - [paulilaaso/hys](https://github.com/paulilaaso/hys) - Terminal RSS Reader for Digital Minimalists — Tool for Escaping the Doomscroll
