@@ -2226,7 +2226,7 @@
 - [micro-editor/micro](https://github.com/micro-editor/micro) - A modern and intuitive terminal-based text editor
 - [anchore/syft](https://github.com/anchore/syft) - CLI tool and library for generating a Software Bill of Materials from container images and filesystems
 - [anchore/grype](https://github.com/anchore/grype) - A vulnerability scanner for container images and filesystems
-- [corazawaf/libinjection-go](https://github.com/corazawaf/libinjection-go) - libinjection is a Golang port of the libinjection(https://github.com/client9/libinjection)
+- [corazawaf/libinjection-go](https://github.com/corazawaf/libinjection-go) - libinjection is a Golang port of the libinjection(https://github.com/libinjection/libinjection)
 - [modelfoxdotdev/modelfox](https://github.com/modelfoxdotdev/modelfox) - ModelFox makes it easy to train, deploy, and monitor machine learning models.
 - [rocketlaunchr/dataframe-go](https://github.com/rocketlaunchr/dataframe-go) - DataFrames for Go: For statistics, machine-learning, and data manipulation/exploration
 - [gomlx/gomlx](https://github.com/gomlx/gomlx) - GoMLX: An Accelerated Machine Learning Framework For Go
@@ -2475,7 +2475,7 @@
 - [mikefarah/yq](https://github.com/mikefarah/yq) - yq is a portable command-line YAML, JSON, XML, CSV, TOML, HCL  and properties processor
 - [anchore/syft](https://github.com/anchore/syft) - CLI tool and library for generating a Software Bill of Materials from container images and filesystems
 - [anchore/grype](https://github.com/anchore/grype) - A vulnerability scanner for container images and filesystems
-- [corazawaf/libinjection-go](https://github.com/corazawaf/libinjection-go) - libinjection is a Golang port of the libinjection(https://github.com/client9/libinjection)
+- [corazawaf/libinjection-go](https://github.com/corazawaf/libinjection-go) - libinjection is a Golang port of the libinjection(https://github.com/libinjection/libinjection)
 - [modelfoxdotdev/modelfox](https://github.com/modelfoxdotdev/modelfox) - ModelFox makes it easy to train, deploy, and monitor machine learning models.
 - [rocketlaunchr/dataframe-go](https://github.com/rocketlaunchr/dataframe-go) - DataFrames for Go: For statistics, machine-learning, and data manipulation/exploration
 - [gomlx/gomlx](https://github.com/gomlx/gomlx) - GoMLX: An Accelerated Machine Learning Framework For Go
@@ -4091,6 +4091,7 @@
 
 ## others 
 
+- [kees/kernel-tools](https://github.com/kees/kernel-tools) - Tools for doing upstream Linux kernel development, patch wrangling, builds, and testing
 - [cloudwego/goref](https://github.com/cloudwego/goref) - Go heap object reference analysis tool
 - [go-json-experiment/jsonbench](https://github.com/go-json-experiment/jsonbench) - JSON benchmarks to compare different Go JSON implementations
 - [microsoft/tgrep](https://github.com/microsoft/tgrep) - Trigram-indexed grep with a client/server architecture for fast regex search in large codebases locally
