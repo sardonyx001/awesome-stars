@@ -4091,6 +4091,7 @@
 
 ## others 
 
+- [MapleTechLabs/maple](https://github.com/MapleTechLabs/maple) - OpenTelemetry observability platform
 - [kees/kernel-tools](https://github.com/kees/kernel-tools) - Tools for doing upstream Linux kernel development, patch wrangling, builds, and testing
 - [cloudwego/goref](https://github.com/cloudwego/goref) - Go heap object reference analysis tool
 - [go-json-experiment/jsonbench](https://github.com/go-json-experiment/jsonbench) - JSON benchmarks to compare different Go JSON implementations
