@@ -2187,6 +2187,7 @@
 
 ## TypeScript 
 
+- [MapleTechLabs/maple](https://github.com/MapleTechLabs/maple) - OpenTelemetry observability platform
 - [jackyzha0/quartz](https://github.com/jackyzha0/quartz) - 🌱 a fast, batteries-included static-site generator that transforms Markdown content into fully functional websites
 - [0-lucas/digital-garden](https://github.com/0-lucas/digital-garden) - This is a personal hosting for my Obsidian files. This is built using jazckyzhao0 's quartz.
 - [Jakubantalik/Libraries.dev](https://github.com/Jakubantalik/Libraries.dev) - High-crafted UI libraries for AI agents: Border beam, Orbs, Metal, Gooey, Image
