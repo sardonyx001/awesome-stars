@@ -332,6 +332,7 @@
 
 ## Go 
 
+- [dagucloud/dagu](https://github.com/dagucloud/dagu) - Self-hostable workflow orchestrator for teams whose main work isn't orchestration. Declarative YAML over your scripts, SSH commands, containers, etc; keep workflows separate from business logic. One b
 - [twmb/franz-go](https://github.com/twmb/franz-go) - franz-go is a feature complete, pure Go library for Kafka from 0.8.0 through 4.2+. Producing, consuming, transacting, administrating, etc.
 - [cloudwego/goref](https://github.com/cloudwego/goref) - Go heap object reference analysis tool
 - [go-json-experiment/jsonbench](https://github.com/go-json-experiment/jsonbench) - JSON benchmarks to compare different Go JSON implementations
@@ -1479,6 +1480,7 @@
 
 ## Python 
 
+- [cloud-in-a-bottle/cloud-in-a-bottle](https://github.com/cloud-in-a-bottle/cloud-in-a-bottle) - Deploy, use, and share web apps on a server you control. Your apps, data, and infrastructure stay yours.
 - [logpai/logparser](https://github.com/logpai/logparser) - A machine learning toolkit for log parsing [ICSE'19, DSN'16]
 - [vercel/vercel-py](https://github.com/vercel/vercel-py) - Develop. Preview. Ship. Python.
 - [vercel-labs/ggt](https://github.com/vercel-labs/ggt) - Supercharged Python Unittest Runner
