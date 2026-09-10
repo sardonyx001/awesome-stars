@@ -195,6 +195,7 @@
 
 ## C++ 
 
+- [nmslib/hnswlib](https://github.com/nmslib/hnswlib) - Header-only C++/python library for fast approximate nearest neighbors
 - [encounter/aurora](https://github.com/encounter/aurora) - A source-level GameCube & Wii compatibility layer
 - [react/react-native](https://github.com/react/react-native) - A framework for building native applications using React
 - [google/flatbuffers](https://github.com/google/flatbuffers) - FlatBuffers: Memory Efficient Serialization Library
@@ -1478,6 +1479,7 @@
 
 ## Python 
 
+- [logpai/logparser](https://github.com/logpai/logparser) - A machine learning toolkit for log parsing [ICSE'19, DSN'16]
 - [vercel/vercel-py](https://github.com/vercel/vercel-py) - Develop. Preview. Ship. Python.
 - [vercel-labs/ggt](https://github.com/vercel-labs/ggt) - Supercharged Python Unittest Runner
 - [brogao/LogGzip](https://github.com/brogao/LogGzip) - LogGzip: Towards Log Parsing with Lossless Compression
