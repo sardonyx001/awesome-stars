@@ -999,6 +999,7 @@
 
 ## Java 
 
+- [qos-ch/logback](https://github.com/qos-ch/logback) - The reliable, generic, fast and flexible logging framework for Java.
 - [slackhq/astra](https://github.com/slackhq/astra) - Astra is a structured log search and analytics engine developed by Slack and Salesforce
 - [flapdoodle-oss/de.flapdoodle.embed.mongo.spring](https://github.com/flapdoodle-oss/de.flapdoodle.embed.mongo.spring) - embedded mongo spring integration
 - [JetBrains/intellij-community](https://github.com/JetBrains/intellij-community) - IntelliJ IDEA & IntelliJ Platform
