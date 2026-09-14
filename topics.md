@@ -2985,6 +2985,7 @@
 
 ## java 
 
+- [fabric8io/kubernetes-client](https://github.com/fabric8io/kubernetes-client) - Java client for Kubernetes & OpenShift
 - [google/flatbuffers](https://github.com/google/flatbuffers) - FlatBuffers: Memory Efficient Serialization Library
 - [panga/fn-native-java](https://github.com/panga/fn-native-java) - Fn Project Native Java Function using GraalVM
 - [cadence-workflow/cadence](https://github.com/cadence-workflow/cadence) - Cadence is a distributed, scalable, durable, and highly available orchestration engine to execute asynchronous long-running business logic in a scalable and resilient way.
@@ -3182,6 +3183,7 @@
 
 ## kubernetes 
 
+- [fabric8io/kubernetes-client](https://github.com/fabric8io/kubernetes-client) - Java client for Kubernetes & OpenShift
 - [algolia/kubernetes-hands-on](https://github.com/algolia/kubernetes-hands-on) - Kubernetes Hands-on by Algolia
 - [podman-container-tools/podman](https://github.com/podman-container-tools/podman) - Podman: A tool for managing OCI containers and pods.
 - [slackhq/astra](https://github.com/slackhq/astra) - Astra is a structured log search and analytics engine developed by Slack and Salesforce
