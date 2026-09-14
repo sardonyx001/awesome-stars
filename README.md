@@ -197,6 +197,7 @@
 
 ## C++ 
 
+- [facebookresearch/faiss](https://github.com/facebookresearch/faiss) - A library for efficient similarity search and clustering of dense vectors.
 - [nmslib/hnswlib](https://github.com/nmslib/hnswlib) - Header-only C++/python library for fast approximate nearest neighbors
 - [encounter/aurora](https://github.com/encounter/aurora) - A source-level GameCube & Wii compatibility layer
 - [react/react-native](https://github.com/react/react-native) - A framework for building native applications using React
@@ -630,7 +631,7 @@
 - [jackc/pgx](https://github.com/jackc/pgx) - PostgreSQL driver and toolkit for Go
 - [charmbracelet/huh](https://github.com/charmbracelet/huh) - Build terminal forms and prompts 🤷🏻‍♀️
 - [go-echarts/go-echarts](https://github.com/go-echarts/go-echarts) - 🎨 The adorable charts library for Golang.
-- [yuin/goldmark](https://github.com/yuin/goldmark) - :trophy: A markdown parser written in Go. Easy to extend, standard(CommonMark) compliant, well structured.
+- [yuin/goldmark](https://github.com/yuin/goldmark) - :trophy: The Golden Swiss Army Knife for markdown processing. 100% CommonMark compliant, AST w/ CST, Extensible, Fast, CJK-friendly.
 - [charmbracelet/glamour](https://github.com/charmbracelet/glamour) - Stylesheet-based markdown rendering for your CLI apps 💇🏻‍♀️
 - [quay/clair](https://github.com/quay/clair) - Vulnerability Static Analysis for Containers
 - [hrfee/jfa-go](https://github.com/hrfee/jfa-go) - a bit-of-everything user management app for Jellyfin
@@ -1373,6 +1374,7 @@
 
 ## Others 
 
+- [algolia/kubernetes-hands-on](https://github.com/algolia/kubernetes-hands-on) - Kubernetes Hands-on by Algolia
 - [YintongHuo/awesome-agent-trajectory](https://github.com/YintongHuo/awesome-agent-trajectory) - A collection of agent trajectory analysis techniques and benchmark
 - [christopherkade/awesome-dev-websites](https://github.com/christopherkade/awesome-dev-websites) - 📄 A curated list of awesome developer personal websites
 - [sardonyx001/awesome-stars](https://github.com/sardonyx001/awesome-stars) - My Awesome List
@@ -1816,6 +1818,7 @@
 
 ## Rust 
 
+- [StanMarek/ghost-complete](https://github.com/StanMarek/ghost-complete) - Terminal autocomplete engine inspired by Fig. PTY proxy, 709 specs, Rust. Built for Ghostty.
 - [vectordotdev/vector](https://github.com/vectordotdev/vector) - A high-performance observability data pipeline.
 - [cloudwego/sonic-rs](https://github.com/cloudwego/sonic-rs) - A fast Rust JSON library based on SIMD.
 - [microsoft/tgrep](https://github.com/microsoft/tgrep) - Trigram-indexed grep with a client/server architecture for fast regex search in large codebases locally
@@ -2196,6 +2199,7 @@
 
 ## TypeScript 
 
+- [microsoft/inshellisense](https://github.com/microsoft/inshellisense) - IDE style command line auto complete
 - [MapleTechLabs/maple](https://github.com/MapleTechLabs/maple) - OpenTelemetry observability platform
 - [jackyzha0/quartz](https://github.com/jackyzha0/quartz) - 🌱 a fast, batteries-included static-site generator that transforms Markdown content into fully functional websites
 - [0-lucas/digital-garden](https://github.com/0-lucas/digital-garden) - This is a personal hosting for my Obsidian files. This is built using jazckyzhao0 's quartz.
