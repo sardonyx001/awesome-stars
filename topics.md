@@ -315,6 +315,7 @@
 
 ## agent 
 
+- [alibaba/open-code-review](https://github.com/alibaba/open-code-review) - Fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-
 - [vectordotdev/vector](https://github.com/vectordotdev/vector) - A high-performance observability data pipeline.
 - [micro/mu](https://github.com/micro/mu) - A runtime for apps, agents and services
 - [iOfficeAI/OfficeCLI](https://github.com/iOfficeAI/OfficeCLI) - OfficeCLI is the first and best Office suite  purpose-built for AI agents to read, edit, and automate Word, Excel, and PowerPoint files. Free, open-source, single binary, no Office installation requir
@@ -337,6 +338,7 @@
 
 ## agent-skills 
 
+- [alibaba/open-code-review](https://github.com/alibaba/open-code-review) - Fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-
 - [cathrynlavery/diagram-design](https://github.com/cathrynlavery/diagram-design) - 38 editorial diagram types for Claude Code, Codex, and Pi. Self-contained HTML + SVG. No shadows. No Mermaid slop.
 - [inkeep/open-knowledge](https://github.com/inkeep/open-knowledge) - Beautiful, AI-native markdown IDE and LLM wiki
 - [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) - Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.
@@ -1214,6 +1216,7 @@
 
 ## code-review 
 
+- [alibaba/open-code-review](https://github.com/alibaba/open-code-review) - Fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-
 - [backnotprop/plannotator](https://github.com/backnotprop/plannotator) - Annotate and review coding agent plans and code diffs visually, share with your team, send feedback to agents with one click.
 - [eforge-build/eforge](https://github.com/eforge-build/eforge) - Open source agentic build system - transforms specifications into verified source code with blind adversarial review
 - [Cloudflare-Studio/ask-bonk](https://github.com/Cloudflare-Studio/ask-bonk) - Bonk is a code & docs agent that can build, review and triage for you, built on Cloudflare Workers & OpenCode.
