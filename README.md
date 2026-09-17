@@ -952,6 +952,7 @@
 - [chubin/wttr.in](https://github.com/chubin/wttr.in) - :partly_sunny: The right way to check the weather
 - [CovenantSQL/CovenantSQL](https://github.com/CovenantSQL/CovenantSQL) - A decentralized, trusted, high performance, SQL database with blockchain features
 - [JanDeDobbeleer/oh-my-posh](https://github.com/JanDeDobbeleer/oh-my-posh) - The most customisable and low-latency cross platform/shell prompt renderer
+- [mmpx12/twitter-media-downloader](https://github.com/mmpx12/twitter-media-downloader) - twmd: CLI/GUI Apiless twitter downlaoder. Download medias from single tweet or a whole profile.
 - [theoremoon/ShellgeiBot](https://github.com/theoremoon/ShellgeiBot) - シェル芸を実行しちゃう危険なbot
 - [metafates/mangal](https://github.com/metafates/mangal) - 📖 The most advanced (yet simple) cli manga downloader in the entire universe! Lua scrapers, export formats, anilist integration, fancy TUI and more!
 - [hashicorp/vault](https://github.com/hashicorp/vault) - A tool for secrets management, encryption as a service, and privileged access management
@@ -1430,7 +1431,7 @@
 - [jla524/fromthetensor](https://github.com/jla524/fromthetensor) - From the Tensor to Stable Diffusion, a rough outline for a 10 week course.
 - [leereilly/games](https://github.com/leereilly/games) - Archived — A list of games, add-ons, maps, etc. hosted on GitHub. Any genre. Any platform. Any engine.
 - [cat-milk/Anime-Girls-Holding-Programming-Books](https://github.com/cat-milk/Anime-Girls-Holding-Programming-Books) - Anime Girls Holding Programming Books
-- [bendlang/bend](https://github.com/bendlang/bend) - Bend 2: a fast language that blocks AI mistakes via proof. Coming soon.
+- [bendlang/bend](https://github.com/bendlang/bend) - Bend 2: a fast language that blocks AI mistakes via proof. Install: curl -fsSL https://bend-lang.com/install.sh | sh
 - [jorgebucaran/awsm.fish](https://github.com/jorgebucaran/awsm.fish) - A curation of prompts, plugins & other Fish treasures 🐚💎
 - [thomasdavis/resume](https://github.com/thomasdavis/resume) - Resume of Thomas Davis
 - [ekgame/uiua-json](https://github.com/ekgame/uiua-json) - 
@@ -1759,7 +1760,7 @@
 - [tofuSCHNITZEL/home-assistant-wienerlinien](https://github.com/tofuSCHNITZEL/home-assistant-wienerlinien) - A sensor that give you information about departures from a specified Wiener Linien stop.
 - [custom-components/wienerlinien](https://github.com/custom-components/wienerlinien) - A sensor that give you information about next departure from spesified stop.
 - [PKlempe/WienerLinienMonitor-for-RaspberryPi](https://github.com/PKlempe/WienerLinienMonitor-for-RaspberryPi) - A script for using a Raspberry Pi in combination with an "Adafruit LCD + Keypad Kit" as a departure board.
-- [TransmodelEcosystem/NeTEx](https://github.com/TransmodelEcosystem/NeTEx) - NeTEx is the CEN Technical Specification for exchanging Public Transport static data.
+- [TransmodelEcosystem/NeTEx](https://github.com/TransmodelEcosystem/NeTEx) - NeTEx (Network Timetable Exchange) - CEN/TS 16614 series dedicated to the exchange of Public transport static data
 - [san089/Optimizing-Public-Transportation](https://github.com/san089/Optimizing-Public-Transportation) - A real-time event pipeline around Kafka Ecosystem for Chicago Transit Authority.
 - [CxAalto/gtfspy](https://github.com/CxAalto/gtfspy) - Public transport network analysis using Python 🚊🚇🚃🚌🛳️🚡🚠🚞
 - [ranger/ranger](https://github.com/ranger/ranger) - A VIM-inspired filemanager for the console
@@ -2338,6 +2339,7 @@
 - [artifacthub/hub](https://github.com/artifacthub/hub) - Find, install and publish Cloud Native packages
 - [browseros-ai/BrowserOS](https://github.com/browseros-ai/BrowserOS) - 🌐 The open-source Agentic browser; alternative to ChatGPT Atlas, Perplexity Comet, Dia.
 - [neoclide/coc-java](https://github.com/neoclide/coc-java) - Java extension for coc.nvim
+- [lobehub/lobehub](https://github.com/lobehub/lobehub) - 🤯 LobeHub is your Chief Agent Operator, organizing your agents into 7×24 operations by hiring, scheduling, and reporting on your entire AI team.
 - [triggerdotdev/trigger.dev](https://github.com/triggerdotdev/trigger.dev) - Trigger.dev – build and deploy durable AI agents and workflows
 - [ollama/ollama-js](https://github.com/ollama/ollama-js) - Ollama JavaScript library
 - [chhoumann/bunnai](https://github.com/chhoumann/bunnai) - cli to inject ai-generated commit messages into lazygit
