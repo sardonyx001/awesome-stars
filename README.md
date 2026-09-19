@@ -1054,7 +1054,6 @@
 - [konohiroaki/java8-code-kata](https://github.com/konohiroaki/java8-code-kata) - 
 - [artsiomkorzun/1brc-walkthrough](https://github.com/artsiomkorzun/1brc-walkthrough) - The step-by-step walkthrough over 1brc challenge.
 - [spring-projects/spring-shell](https://github.com/spring-projects/spring-shell) - Spring based shell
-- [ReactVision/viro](https://github.com/ReactVision/viro) - ViroReact is the leading library for building AR and VR experiences and applications using React Native and Expo.
 - [flxholle/QuickTiles](https://github.com/flxholle/QuickTiles) - Android Quick Settings Tiles. Mirrored from https://gitlab.com/flxholle/quick-tiles
 - [line/armeria](https://github.com/line/armeria) - Your go-to microservice framework for any situation, from the creator of Netty et al. You can build any type of microservice leveraging your favorite technologies,  including gRPC, Thrift, Kotlin, Ret
 - [Battelle/cantordust](https://github.com/Battelle/cantordust) - Public repository for Cantordust Ghidra plugin.
@@ -2361,6 +2360,7 @@
 - [nilbuild/developer-roadmap](https://github.com/nilbuild/developer-roadmap) - Interactive roadmaps, guides and other educational content to help developers grow in their careers.
 - [edrlab/thorium-web](https://github.com/edrlab/thorium-web) - 🌐 An open-source ebook/audiobook/comics Web Reader
 - [jaypyles/Scraperr](https://github.com/jaypyles/Scraperr) - Self-hosted webscraper.
+- [ReactVision/viro](https://github.com/ReactVision/viro) - ViroReact is the leading library for building AR and VR experiences and applications using React Native and Expo.
 - [leerob/next-email-client](https://github.com/leerob/next-email-client) - An email client built with the Next.js App Router and Postgres.
 - [arrow2nd/linebot-fuel](https://github.com/arrow2nd/linebot-fuel) - ⛽️ 燃費計算する LINEBot
 - [yondako/yondako](https://github.com/yondako/yondako) - 🐙 よんだことをわすれないための読書記録サービス
