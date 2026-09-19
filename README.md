@@ -335,6 +335,8 @@
 
 ## Go 
 
+- [Agent-Field/CodeAF](https://github.com/Agent-Field/CodeAF) - Open-Source Software factory for Open Models
+- [k3a/html2text](https://github.com/k3a/html2text) - Simple Go package to convert HTML to plain text
 - [umputun/revdiff](https://github.com/umputun/revdiff) - TUI for reviewing diffs, files, and documents with inline annotations
 - [alibaba/open-code-review](https://github.com/alibaba/open-code-review) - Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE,
 - [dagucloud/dagu](https://github.com/dagucloud/dagu) - Self-hostable workflow orchestrator for teams whose main work isn't orchestration. Declarative YAML over your scripts, SSH commands, containers, etc; keep workflows separate from business logic. One b
@@ -2078,6 +2080,7 @@
 
 ## Shell 
 
+- [jorgebucaran/autopair.fish](https://github.com/jorgebucaran/autopair.fish) - Auto-complete matching pairs in the Fish command line
 - [sdelrio/rpi-hostap](https://github.com/sdelrio/rpi-hostap) - Transform your PI into a Wireless Router (DHCP and WPA2 already insisde)
 - [alexwforsythe/tmux-which-key](https://github.com/alexwforsythe/tmux-which-key) - A tmux plugin that allows users to select actions from a customizable popup menu 🧰
 - [tobi/try](https://github.com/tobi/try) - fresh directories for every vibe
