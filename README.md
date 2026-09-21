@@ -414,7 +414,7 @@
 - [cadence-workflow/cadence](https://github.com/cadence-workflow/cadence) - Cadence is a distributed, scalable, durable, and highly available orchestration engine to execute asynchronous long-running business logic in a scalable and resilient way.
 - [rulego/rulego](https://github.com/rulego/rulego) - ⛓️RuleGo is a lightweight, high-performance, embedded, next-generation component orchestration rule engine framework for Go.
 - [boldsoftware/shelley](https://github.com/boldsoftware/shelley) - Shelley is a coding agent
-- [markrai/scrumboy](https://github.com/markrai/scrumboy) - Self-hosted project management • customizable project boards • cross-project workload and flow analytics • calendar-aware planning • sticky-note wall • portable imports/backups • realtime email notifi
+- [markrai/scrumboy](https://github.com/markrai/scrumboy) - Self-hosted project management • Customizable boards • Cross-project workload and flow analytics • Calendar/Agenda • Sticky-note wall • Imports/Backups • Email notifications • MCP/Agent automation
 - [router-for-me/CLIProxyAPI](https://github.com/router-for-me/CLIProxyAPI) - Wrap Antigravity, ChatGPT Codex, Claude Code, Grok Build, Muse Code, Davin as an OpenAI/Gemini/Claude/Codex compatible API service, allowing you to enjoy the free Gemini Series, GPT Series, Grok Serie
 - [yindia/iapetus](https://github.com/yindia/iapetus) - Automate, test, and orchestrate anything that runs in a shell, container, or cloud. No vendor lock-in. 100% open source.
 - [yindia/rootcause](https://github.com/yindia/rootcause) - RootCause is a local-first MCP server that turns natural-language requests into evidence-backed incident analysis, Kubernetes diagnostics, and safer operations.
@@ -2378,7 +2378,7 @@
 - [zerebos/ghostty-config](https://github.com/zerebos/ghostty-config) - A beautiful config generator for Ghostty terminal.
 - [danielpetho/fancy](https://github.com/danielpetho/fancy) - 
 - [anomalyco/openauth](https://github.com/anomalyco/openauth) - ▦ Universal, standards-based auth provider.
-- [openobserve/openobserve](https://github.com/openobserve/openobserve) - Open source observability platform for logs, metrics, traces, RUM, Session replay, pipelines, SLO and LLM observability. A sophisticated, simple and highly performant alternative to Datadog, Splunk, a
+- [openobserve/openobserve](https://github.com/openobserve/openobserve) - Open source observability platform for logs, metrics, traces, RUM (web, android, ios), Session replay, pipelines, SLO and LLM observability. A sophisticated, simple and highly performant alternative t
 - [molvqingtai/WebChat](https://github.com/molvqingtai/WebChat) - 💬 Chat with anyone on any website.
 - [llm-jp/awesome-japanese-llm](https://github.com/llm-jp/awesome-japanese-llm) - 日本語LLMまとめ - Overview of Japanese LLMs
 - [vim-skk/skkeleton](https://github.com/vim-skk/skkeleton) - SKK implements for Vim/Neovim with denops.vim
