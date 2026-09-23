@@ -2248,7 +2248,7 @@
 - [gomlx/gomlx](https://github.com/gomlx/gomlx) - GoMLX: An Accelerated Machine Learning Framework For Go
 - [panjf2000/ants](https://github.com/panjf2000/ants) - 🐜🐜🐜 ants is the most powerful and reliable pooling solution for Go.
 - [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) - Style definitions for nice terminal layouts 👄
-- [mgechev/revive](https://github.com/mgechev/revive) - 🔥 ~6x faster, stricter, configurable, extensible, and beautiful drop-in replacement for golint
+- [revive-lint/revive](https://github.com/revive-lint/revive) - 🔥 Fast, strict, configurable, extensible, and beautiful linter for Go
 - [ncarlier/webhookd](https://github.com/ncarlier/webhookd) - A minimalist, powerful webhook server designed to easily trigger shell scripts and run external processes via HTTP requests.
 - [Broderick-Westrope/tetrigo](https://github.com/Broderick-Westrope/tetrigo) - Play Tetris in your terminal.
 - [sirupsen/logrus](https://github.com/sirupsen/logrus) - Structured, pluggable logging for Go.
@@ -2499,7 +2499,7 @@
 - [gomlx/gomlx](https://github.com/gomlx/gomlx) - GoMLX: An Accelerated Machine Learning Framework For Go
 - [AGou-ops/dotfiles](https://github.com/AGou-ops/dotfiles) - My personal dotfiles, about neovim, zsh shell, tmux...
 - [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) - Style definitions for nice terminal layouts 👄
-- [mgechev/revive](https://github.com/mgechev/revive) - 🔥 ~6x faster, stricter, configurable, extensible, and beautiful drop-in replacement for golint
+- [revive-lint/revive](https://github.com/revive-lint/revive) - 🔥 Fast, strict, configurable, extensible, and beautiful linter for Go
 - [go-ggz/ggz](https://github.com/go-ggz/ggz) - An URL shortener service written in Golang
 - [Broderick-Westrope/tetrigo](https://github.com/Broderick-Westrope/tetrigo) - Play Tetris in your terminal.
 - [Permify/permify](https://github.com/Permify/permify) - An open-source authorization as a service inspired by Google Zanzibar, designed to build and manage fine-grained and scalable authorization systems for any application. — Permify is now part of Fusion
@@ -2777,7 +2777,7 @@
 - [ivre/ivre](https://github.com/ivre/ivre) - Network recon framework. Build your own, self-hosted and fully-controlled alternatives to Shodan / ZoomEye / Censys and GreyNoise, run your Passive DNS service, build your taylor-made EASM tool, colle
 - [censys/censys-python](https://github.com/censys/censys-python) - An easy-to-use and lightweight API wrapper for Censys APIs.
 - [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) - Style definitions for nice terminal layouts 👄
-- [mgechev/revive](https://github.com/mgechev/revive) - 🔥 ~6x faster, stricter, configurable, extensible, and beautiful drop-in replacement for golint
+- [revive-lint/revive](https://github.com/revive-lint/revive) - 🔥 Fast, strict, configurable, extensible, and beautiful linter for Go
 - [roboflow/supervision](https://github.com/roboflow/supervision) - We write your reusable computer vision tools. 💜
 - [Broderick-Westrope/tetrigo](https://github.com/Broderick-Westrope/tetrigo) - Play Tetris in your terminal.
 - [adnanh/webhook](https://github.com/adnanh/webhook) - webhook is a lightweight incoming webhook server to run shell commands
