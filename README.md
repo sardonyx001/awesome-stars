@@ -673,7 +673,7 @@
 - [neilotoole/errgroup](https://github.com/neilotoole/errgroup) - errgroup with goroutine worker limits
 - [neilotoole/sq](https://github.com/neilotoole/sq) - sq data wrangler
 - [ggicci/httpin](https://github.com/ggicci/httpin) - 🍡 HTTP Input for Go - HTTP Request from/to Go Struct (Bi-directional Data Binding between Go Struct and http.Request)
-- [soulteary/nginx-formatter](https://github.com/soulteary/nginx-formatter) - Small and easy-to-use Nginx configuration formatting tool (CLI & GUI), support Docker, x86, ARM, macOS...
+- [soulteary/nginx-formatter](https://github.com/soulteary/nginx-formatter) - gofmt for Nginx configs: AST-based, lossless & idempotent, CI-ready (--check/--diff), CLI + WebUI, single binary. 安全可靠的 Nginx 配置格式化工具。
 - [olebedev/when](https://github.com/olebedev/when) - A natural language date/time parser with pluggable rules
 - [dgraph-io/badger](https://github.com/dgraph-io/badger) - Fast key-value DB in Go.
 - [joomcode/errorx](https://github.com/joomcode/errorx) - A comprehensive error handling library for Go
@@ -719,7 +719,7 @@
 - [anchore/syft](https://github.com/anchore/syft) - CLI tool and library for generating a Software Bill of Materials from container images and filesystems
 - [anchore/grype](https://github.com/anchore/grype) - A vulnerability scanner for container images and filesystems
 - [corazawaf/libinjection-go](https://github.com/corazawaf/libinjection-go) - libinjection is a Golang port of the libinjection(https://github.com/libinjection/libinjection)
-- [crowdsecurity/crowdsec](https://github.com/crowdsecurity/crowdsec) - CrowdSec - the open-source and participative security solution offering crowdsourced protection against malicious IPs and access to the most advanced real-world CTI.
+- [crowdsecurity/crowdsec](https://github.com/crowdsecurity/crowdsec) - Open-source IDS/IPS, WAF and bot detection for Linux, Windows, Docker and Kubernetes, with a crowdsourced blocklist of malicious IPs.
 - [maaslalani/nap](https://github.com/maaslalani/nap) - Code snippets in your terminal
 - [rocketlaunchr/dataframe-go](https://github.com/rocketlaunchr/dataframe-go) - DataFrames for Go: For statistics, machine-learning, and data manipulation/exploration
 - [gomlx/gomlx](https://github.com/gomlx/gomlx) - GoMLX: An Accelerated Machine Learning Framework For Go
@@ -1857,7 +1857,7 @@
 - [compio-rs/compio](https://github.com/compio-rs/compio) - A thread-per-core async Rust runtime with IOCP/io_uring/polling.
 - [Sollimann/bonsai](https://github.com/Sollimann/bonsai) - Rust implementation of behavior trees for deterministic AI (now with Python bindings)
 - [jnsahaj/lumen](https://github.com/jnsahaj/lumen) - Beautiful git diff viewer, generate commits with AI, get summary of changes, all from the CLI
-- [tinyhumansai/openhuman](https://github.com/tinyhumansai/openhuman) - OpenHuman is an open source agent harness with local-first memory, agent orchestration, and workflows
+- [tinyhumansai/openhuman](https://github.com/tinyhumansai/openhuman) - OpenHuman is the fastest, cheapest, most efficient open-source agent harness. Written in Rust
 - [olivierlambert/calrs](https://github.com/olivierlambert/calrs) - Fast, self-hostable scheduling platform. Like Cal.com, but written in Rust.
 - [slatedb/slatedb](https://github.com/slatedb/slatedb) - A cloud native embedded storage engine built on object storage.
 - [opendata-oss/opendata](https://github.com/opendata-oss/opendata) - OpenData is a collection of open source databases built on a common, object-native storage and infrastructure foundation.
