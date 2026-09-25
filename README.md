@@ -63,7 +63,6 @@
 - [TeX](#tex)
 - [Text](#text)
 - [TypeScript](#typescript)
-- [TypeSpec](#typespec)
 - [Typst](#typst)
 - [V](#v)
 - [Vim Script](#vim-script)
@@ -2283,6 +2282,7 @@
 - [steipete/summarize](https://github.com/steipete/summarize) - Point at any URL/YouTube/Podcast or file. Get the gist. CLI and Chrome Extension.
 - [openclaw/openclaw](https://github.com/openclaw/openclaw) - The AI that really does things. Any OS. Any Platform. The lobster way. 🦞
 - [cloudflare/moltworker](https://github.com/cloudflare/moltworker) - Run OpenClaw, (formerly Moltbot, formerly Clawdbot) on Cloudflare Workers
+- [microsoft/Agents](https://github.com/microsoft/Agents) - The Microsoft 365 Agent SDK simplifies building full stack, multichannel, trusted agents for platforms including M365, Teams, Copilot Studio, and Webchat.
 - [kulterryan/who-to-bother-at-on-x](https://github.com/kulterryan/who-to-bother-at-on-x) - Find the right people to reach out to at your favorite tech companies
 - [a2ui-project/a2ui](https://github.com/a2ui-project/a2ui) - 
 - [LibreChat-AI/LibreChat](https://github.com/LibreChat-AI/LibreChat) - Enhanced ChatGPT Clone: Features Agents, MCP, Skills, DeepSeek, Anthropic, AWS, OpenAI, Responses API, Azure, Groq, o1, GPT-5, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, me
@@ -2542,10 +2542,6 @@
 - [gaearon/overreacted.io](https://github.com/gaearon/overreacted.io) - Personal blog by Dan Abramov.
 - [jaydp17/series-notifier-serverless](https://github.com/jaydp17/series-notifier-serverless) - A facebook messenger bot 🤖 that notifies you when your favorite TV series releases 🚀 a new episode
 - [mifi/editly](https://github.com/mifi/editly) - Slick, declarative command line video editing & API
-
-## TypeSpec 
-
-- [microsoft/Agents](https://github.com/microsoft/Agents) - The Microsoft 365 Agent SDK simplifies building full stack, multichannel, trusted agents for platforms including M365, Teams, Copilot Studio, and Webchat.
 
 ## Typst 
 
