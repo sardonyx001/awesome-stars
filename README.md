@@ -1478,7 +1478,7 @@
 
 - [hyvor/relay](https://github.com/hyvor/relay) - ✉️ Open-Source Email API for Developers. Cloud & Self-hosted Alternative to SES, Mailgun, SendGrid.
 - [isucon/isucon14](https://github.com/isucon/isucon14) - 
-- [andrii-kryvoviaz/slink](https://github.com/andrii-kryvoviaz/slink) - Self-hosted image sharing service
+- [andrii-kryvoviaz/slink](https://github.com/andrii-kryvoviaz/slink) - Self-hosted image hosting and sharing platform with private links, collections, S3/SMB storage, OIDC SSO and ShareX support.
 - [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source, self-hostable PaaS alternative to Vercel, Heroku & Netlify that lets you easily deploy static sites, databases, full-stack applications and 280+ one-click services on your own servers.
 - [nokonoko/Uguu](https://github.com/nokonoko/Uguu) - Uguu is a simple lightweight temporary file host with support for drop, paste, click and API uploading.
 - [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats) - 🔥 Stay motivated and show off your contribution streak! 🌟 Display your total contributions, current streak, and longest streak on your GitHub profile README
@@ -1718,7 +1718,7 @@
 - [CesarPazzi/tw-temp](https://github.com/CesarPazzi/tw-temp) - Twitter Bot. Tweets the temperature in Celcius from a specific city using Beautiful Soup and Yahoo Weather page, then tweets it every hour using Twitter's API with Tweepy.
 - [amithkoujalgi/ollama-pdf-bot](https://github.com/amithkoujalgi/ollama-pdf-bot) - A bot that accepts PDF docs and lets you ask questions on it.
 - [arXiv/zzzArchived_arxiv-fulltext](https://github.com/arXiv/zzzArchived_arxiv-fulltext) - arXiv plain text extraction
-- [Watchful1/RemindMeBot](https://github.com/Watchful1/RemindMeBot) - u/RemindMeBot on reddit
+- [Watchful1/RemindMeBot](https://github.com/Watchful1/RemindMeBot) - Reddit bot that messages you a reminder after a set time. Python, SQLite.
 - [testdrivenio/fastapi-crud-async](https://github.com/testdrivenio/fastapi-crud-async) - FastAPI CRUD
 - [testdrivenio/fastapi-celery](https://github.com/testdrivenio/fastapi-celery) - Example of how to handle background processes with FastAPI, Celery, and Docker
 - [monk1337/resp](https://github.com/monk1337/resp) - Fetch Academic Research Papers from different sources
