@@ -1730,7 +1730,7 @@
 - [redis/redis-py](https://github.com/redis/redis-py) - Redis Python client
 - [inveniosoftware/flask-celeryext](https://github.com/inveniosoftware/flask-celeryext) - Simple integration layer between Celery and Flask.
 - [run-llama/llama_index](https://github.com/run-llama/llama_index) - LlamaIndex is the document processing platform for AI
-- [Comfy-Org/ComfyUI](https://github.com/Comfy-Org/ComfyUI) - The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.
+- [Comfy-Org/ComfyUI](https://github.com/Comfy-Org/ComfyUI) - The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. The fastest local inference engine in the world.
 - [be-hase/ghe-line-notify](https://github.com/be-hase/ghe-line-notify) - LINE Notify Gateway for Github Enterprise.
 - [golbin/line-notify](https://github.com/golbin/line-notify) - A Simple Wrapper for LINE Messenger Notify
 - [louis70109/lotify](https://github.com/louis70109/lotify) - LINE Notify API wrapper for Python
