@@ -33,7 +33,6 @@
 - [Julia](#julia)
 - [Jupyter Notebook](#jupyter-notebook)
 - [Kotlin](#kotlin)
-- [LLVM](#llvm)
 - [Lean](#lean)
 - [Lua](#lua)
 - [MDX](#mdx)
@@ -657,6 +656,7 @@
 - [devfeel/dotweb](https://github.com/devfeel/dotweb) - Simple and easy go web micro framework
 - [meinside/telegram-bot-go](https://github.com/meinside/telegram-bot-go) - Telegram Bot API wrapper for Golang
 - [pocket-id/pocket-id](https://github.com/pocket-id/pocket-id) - The most user-friendly OpenID Connect Certified™ and OAuth 2.0 provider that lets users sign in to your applications with passkeys.
+- [xgo-dev/llgo](https://github.com/xgo-dev/llgo) - A Go compiler based on LLVM in order to better integrate Go with the C ecosystem including Python and JavaScript
 - [pulumi/pulumi](https://github.com/pulumi/pulumi) - Pulumi - Infrastructure as Code in any programming language 🚀
 - [zincsearch/zincsearch](https://github.com/zincsearch/zincsearch) - ZincSearch . A lightweight alternative to elasticsearch that requires minimal resources, written in Go.
 - [go-shiori/go-epub](https://github.com/go-shiori/go-epub) - Go library for creating EPUB files
@@ -1252,10 +1252,6 @@
 - [android/architecture-samples](https://github.com/android/architecture-samples) - A collection of samples to discuss and showcase different architectural tools and patterns for Android apps.
 - [aniyomiorg/aniyomi](https://github.com/aniyomiorg/aniyomi) - An app for manga and anime
 - [recloudstream/cloudstream](https://github.com/recloudstream/cloudstream) - Android app for streaming and downloading media.
-
-## LLVM 
-
-- [xgo-dev/llgo](https://github.com/xgo-dev/llgo) - A Go compiler based on LLVM in order to better integrate Go with the C ecosystem including Python and JavaScript
 
 ## Lean 
 
