@@ -4139,6 +4139,8 @@
 
 ## others 
 
+- [ZStud/reef](https://github.com/ZStud/reef) - Paste bash into fish. It just works.
+- [jlokos/raybridge](https://github.com/jlokos/raybridge) - MCP server that bridges Raycast extensions to any MCP-compatible client
 - [jorgebucaran/autopair.fish](https://github.com/jorgebucaran/autopair.fish) - Auto-complete matching pairs in the Fish command line
 - [wong2/diffx](https://github.com/wong2/diffx) - A local code review tool designed for the coding agent workflow
 - [lovablelabs/oj](https://github.com/lovablelabs/oj) - Experimental next generation frontend tooling.
