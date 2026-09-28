@@ -195,6 +195,7 @@
 
 ## C++ 
 
+- [yhirose/cpp-httplib](https://github.com/yhirose/cpp-httplib) - A C++ header-only HTTP/HTTPS server and client library
 - [facebookresearch/faiss](https://github.com/facebookresearch/faiss) - A library for efficient similarity search and clustering of dense vectors.
 - [nmslib/hnswlib](https://github.com/nmslib/hnswlib) - Header-only C++/python library for fast approximate nearest neighbors
 - [encounter/aurora](https://github.com/encounter/aurora) - A source-level GameCube & Wii compatibility layer
@@ -334,6 +335,7 @@
 
 ## Go 
 
+- [boyter/cs](https://github.com/boyter/cs) - codespelunker - CLI code search tool that understands code structure and ranks results by relevance. No indexing required with CLI, TUI, MCP and HTTP support.
 - [davidfstr/nanoproxy](https://github.com/davidfstr/nanoproxy) - Small fast HTTP forward proxy in Go.
 - [Agent-Field/CodeAF](https://github.com/Agent-Field/CodeAF) - Open-Source Software factory for Open Models
 - [k3a/html2text](https://github.com/k3a/html2text) - Simple Go package to convert HTML to plain text
@@ -1488,6 +1490,8 @@
 
 ## Python 
 
+- [NandhaKishorM/laya](https://github.com/NandhaKishorM/laya) - Non-autoregressive System 1 decision engine. Typed choice, score and yes/no decisions over any text in a single forward pass, in 100+ languages, with a router that picks the right checkpoint per reque
+- [vectorize-io/hindsight](https://github.com/vectorize-io/hindsight) - Hindsight: Agent Memory That Learns
 - [flairNLP/flair](https://github.com/flairNLP/flair) - A very simple framework for state-of-the-art Natural Language Processing (NLP)
 - [cloud-in-a-bottle/cloud-in-a-bottle](https://github.com/cloud-in-a-bottle/cloud-in-a-bottle) - Deploy, use, and share web apps on a server you control. Your apps, data, and infrastructure stay yours.
 - [logpai/logparser](https://github.com/logpai/logparser) - A machine learning toolkit for log parsing [ICSE'19, DSN'16]
@@ -2205,6 +2209,7 @@
 
 ## TypeScript 
 
+- [receptron/laya](https://github.com/receptron/laya) - Run Laya, the open-source Jev-compatible System-1 decision model, from Node.js / TypeScript via ONNX Runtime
 - [Myriad-Dreamin/fluvia](https://github.com/Myriad-Dreamin/fluvia) - Fully asynchronous dataflow CLI for LLM agents: JS-syntax calls, resource handles, completion notifications (fluvia-dsh)
 - [jlokos/raybridge](https://github.com/jlokos/raybridge) - MCP server that bridges Raycast extensions to any MCP-compatible client
 - [wong2/diffx](https://github.com/wong2/diffx) - A local code review tool designed for the coding agent workflow
