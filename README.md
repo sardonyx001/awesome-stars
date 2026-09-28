@@ -334,6 +334,7 @@
 
 ## Go 
 
+- [davidfstr/nanoproxy](https://github.com/davidfstr/nanoproxy) - Small fast HTTP forward proxy in Go.
 - [Agent-Field/CodeAF](https://github.com/Agent-Field/CodeAF) - Open-Source Software factory for Open Models
 - [k3a/html2text](https://github.com/k3a/html2text) - Simple Go package to convert HTML to plain text
 - [umputun/revdiff](https://github.com/umputun/revdiff) - TUI for reviewing diffs, files, and documents with inline annotations
@@ -1818,6 +1819,7 @@
 
 ## Rust 
 
+- [lapce/floem](https://github.com/lapce/floem) - A native Rust UI library with fine-grained reactivity
 - [ZStud/reef](https://github.com/ZStud/reef) - Paste bash into fish. It just works.
 - [kolemannix/k1](https://github.com/kolemannix/k1) - A language for the joy of programming
 - [lovablelabs/oj](https://github.com/lovablelabs/oj) - Experimental next generation frontend tooling.
@@ -2171,6 +2173,7 @@
 
 ## Swift 
 
+- [singe/tidcli](https://github.com/singe/tidcli) - A simple touchID prompt'er for use in shell scripts.
 - [fayazara/Screendrop](https://github.com/fayazara/Screendrop) - A beautiful screenshot + screen recording + Loom alternative - all native, self hostable and free.
 - [jurplel/InstantSpaceSwitcher](https://github.com/jurplel/InstantSpaceSwitcher) - Native space switching on macOS with no animation
 - [epilande/Annotate](https://github.com/epilande/Annotate) - 📝 Annotation tool for macOS
@@ -2202,6 +2205,7 @@
 
 ## TypeScript 
 
+- [Myriad-Dreamin/fluvia](https://github.com/Myriad-Dreamin/fluvia) - Fully asynchronous dataflow CLI for LLM agents: JS-syntax calls, resource handles, completion notifications (fluvia-dsh)
 - [jlokos/raybridge](https://github.com/jlokos/raybridge) - MCP server that bridges Raycast extensions to any MCP-compatible client
 - [wong2/diffx](https://github.com/wong2/diffx) - A local code review tool designed for the coding agent workflow
 - [microsoft/inshellisense](https://github.com/microsoft/inshellisense) - IDE style command line auto complete
