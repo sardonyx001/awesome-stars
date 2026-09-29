@@ -90,6 +90,7 @@
 
 ## C 
 
+- [Telodendria/Telodendria](https://github.com/Telodendria/Telodendria) - Telodendria is an open source Matrix homeserver implementation written from scratch in ANSI C and designed to be lightweight and simple, yet functional. This is the official read-only mirror of the up
 - [Mithril-mine/libmdbx](https://github.com/Mithril-mine/libmdbx) - Fastfull embedded transactional key-value storage engine ★ Surpasses the legendary LMDB in reliability, capabilities and performance ★ Used in hundreds of open source projects, including Ethereum.
 - [JustVugg/colibri](https://github.com/JustVugg/colibri) - Run frontier MoE models on hardware you already own — pure C, zero deps, experts streamed from disk. Tiny engine, immense model. 🐦
 - [kees/kernel-tools](https://github.com/kees/kernel-tools) - Tools for doing upstream Linux kernel development, patch wrangling, builds, and testing
@@ -1823,6 +1824,7 @@
 
 ## Rust 
 
+- [element-hq/neutrino](https://github.com/element-hq/neutrino) - A lightweight, embedded homeserver written in Rust.
 - [lapce/floem](https://github.com/lapce/floem) - A native Rust UI library with fine-grained reactivity
 - [ZStud/reef](https://github.com/ZStud/reef) - Paste bash into fish. It just works.
 - [kolemannix/k1](https://github.com/kolemannix/k1) - A language for the joy of programming
