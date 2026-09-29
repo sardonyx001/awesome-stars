@@ -888,6 +888,7 @@
 
 ## c 
 
+- [Telodendria/Telodendria](https://github.com/Telodendria/Telodendria) - Telodendria is an open source Matrix homeserver implementation written from scratch in ANSI C and designed to be lightweight and simple, yet functional. This is the official read-only mirror of the up
 - [OleksandrChekhovskyi/hax](https://github.com/OleksandrChekhovskyi/hax) - A minimalist, terminal-native coding agent written in C.
 - [NationalSecurityAgency/XORSATFilter](https://github.com/NationalSecurityAgency/XORSATFilter) - A library for building efficient set-membership filters and dictionaries based on the Satisfiability problem.
 - [google/flatbuffers](https://github.com/google/flatbuffers) - FlatBuffers: Memory Efficient Serialization Library
@@ -4148,6 +4149,7 @@
 
 ## others 
 
+- [element-hq/neutrino](https://github.com/element-hq/neutrino) - A lightweight, embedded homeserver written in Rust.
 - [receptron/laya](https://github.com/receptron/laya) - Run Laya, the open-source Jev-compatible System-1 decision model, from Node.js / TypeScript via ONNX Runtime
 - [Myriad-Dreamin/fluvia](https://github.com/Myriad-Dreamin/fluvia) - Fully asynchronous dataflow CLI for LLM agents: JS-syntax calls, resource handles, completion notifications (fluvia-dsh)
 - [singe/tidcli](https://github.com/singe/tidcli) - A simple touchID prompt'er for use in shell scripts.
