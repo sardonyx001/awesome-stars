@@ -2192,7 +2192,7 @@
 - [fzipp/gocyclo](https://github.com/fzipp/gocyclo) - Calculate cyclomatic complexities of functions in Go source code.
 - [go-vgo/robotgo](https://github.com/go-vgo/robotgo) - RobotGo, Go Native cross-platform RPA, GUI automation, Auto test and Computer use  @vcaesar
 - [riverqueue/river](https://github.com/riverqueue/river) - Fast and reliable background jobs in Go
-- [openfga/openfga](https://github.com/openfga/openfga) - A high performance and flexible authorization/permission engine built for developers and inspired by Google Zanzibar
+- [openfga/openfga](https://github.com/openfga/openfga) - A high-performance and flexible authorization/permission engine built for developers and inspired by Google Zanzibar.
 - [tsenart/vegeta](https://github.com/tsenart/vegeta) - HTTP load testing tool and library. It's over 9000!
 - [uber-go/fx](https://github.com/uber-go/fx) - A dependency injection based application framework for Go.
 - [etcd-io/etcd](https://github.com/etcd-io/etcd) - Distributed reliable key-value store for the most critical data of a distributed system
@@ -2444,7 +2444,7 @@
 - [go-vgo/robotgo](https://github.com/go-vgo/robotgo) - RobotGo, Go Native cross-platform RPA, GUI automation, Auto test and Computer use  @vcaesar
 - [integrii/flaggy](https://github.com/integrii/flaggy) - Idiomatic Go input parsing with subcommands, positional values, and flags at any position. No required project or package layout and no external dependencies.
 - [riverqueue/river](https://github.com/riverqueue/river) - Fast and reliable background jobs in Go
-- [openfga/openfga](https://github.com/openfga/openfga) - A high performance and flexible authorization/permission engine built for developers and inspired by Google Zanzibar
+- [openfga/openfga](https://github.com/openfga/openfga) - A high-performance and flexible authorization/permission engine built for developers and inspired by Google Zanzibar.
 - [uber-go/fx](https://github.com/uber-go/fx) - A dependency injection based application framework for Go.
 - [authelia/authelia](https://github.com/authelia/authelia) - The Single Sign-On Multi-Factor portal for web apps. OpenID Certified™ and Post-Quantum Cryptography Ready.
 - [microsoft/kiota](https://github.com/microsoft/kiota) - OpenAPI based HTTP Client code generator
@@ -2755,7 +2755,7 @@
 - [bahdotsh/wrkflw](https://github.com/bahdotsh/wrkflw) - Validate and Run GitHub Actions locally.
 - [pingcap/tidb](https://github.com/pingcap/tidb) - TiDB is built for agentic workloads that grow unpredictably, with ACID guarantees and native support for transactions, analytics, and vector search. No data silos. No noisy neighbors. No infrastructur
 - [facebook/docusaurus](https://github.com/facebook/docusaurus) - Easy to maintain open source documentation websites.
-- [openfga/openfga](https://github.com/openfga/openfga) - A high performance and flexible authorization/permission engine built for developers and inspired by Google Zanzibar
+- [openfga/openfga](https://github.com/openfga/openfga) - A high-performance and flexible authorization/permission engine built for developers and inspired by Google Zanzibar.
 - [mongo-express/mongo-express](https://github.com/mongo-express/mongo-express) - Web-based MongoDB admin interface, written with Node.js and Express
 - [catppuccin/ghostty](https://github.com/catppuccin/ghostty) - 👻 Soothing pastel theme for Ghostty
 - [lxc/incus](https://github.com/lxc/incus) - Powerful system container and virtual machine manager
@@ -5700,7 +5700,7 @@
 - [google/syzkaller](https://github.com/google/syzkaller) - syzkaller is an unsupervised coverage-guided kernel fuzzer
 - [golang-jwt/jwt](https://github.com/golang-jwt/jwt) - Go implementation of JSON Web Tokens (JWT).
 - [CodeIntelligenceTesting/jazzer](https://github.com/CodeIntelligenceTesting/jazzer) - Coverage-guided, in-process fuzzing for the JVM
-- [openfga/openfga](https://github.com/openfga/openfga) - A high performance and flexible authorization/permission engine built for developers and inspired by Google Zanzibar
+- [openfga/openfga](https://github.com/openfga/openfga) - A high-performance and flexible authorization/permission engine built for developers and inspired by Google Zanzibar.
 - [authelia/authelia](https://github.com/authelia/authelia) - The Single Sign-On Multi-Factor portal for web apps. OpenID Certified™ and Post-Quantum Cryptography Ready.
 - [goauthentik/authentik](https://github.com/goauthentik/authentik) - The authentication glue you need.
 - [kata-containers/kata-containers](https://github.com/kata-containers/kata-containers) - Kata Containers is an open source project and community working to build a standard implementation of lightweight Virtual Machines (VMs) that feel and perform like containers, but provide the workload
