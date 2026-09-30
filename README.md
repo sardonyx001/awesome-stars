@@ -84,7 +84,6 @@
 
 ## Astro 
 
-- [steipete/steipete.me](https://github.com/steipete/steipete.me) - My personal website.
 - [mishamyrt/Lilex](https://github.com/mishamyrt/Lilex) - 🤘Open source programming font
 - [neiesc/awesome-minimalist](https://github.com/neiesc/awesome-minimalist) - A curated list of awesome minimalist frameworks (simple and lightweight).
 
@@ -1125,6 +1124,7 @@
 - [rybak/atlassian-tweaks](https://github.com/rybak/atlassian-tweaks) - Userscripts and userstyles with quality of life improvements for Bitbucket, Jira, and Confluence
 - [IvanMathy/Boop](https://github.com/IvanMathy/Boop) - A scriptable scratchpad for developers. In slow yet steady progress.
 - [jasonbio/reddit-shell](https://github.com/jasonbio/reddit-shell) - web based linux shell emulator that allows you to browse reddit via command line
+- [steipete/steipete.me](https://github.com/steipete/steipete.me) - My personal website.
 - [you-dont-need/You-Dont-Need-Lodash-Underscore](https://github.com/you-dont-need/You-Dont-Need-Lodash-Underscore) - List of JavaScript methods which you can use natively + ESLint Plugin
 - [terkel/mojik](https://github.com/terkel/mojik) - Take control of Japanese typesetting on the web
 - [gopasspw/gopassbridge](https://github.com/gopasspw/gopassbridge) - A web extension for Firefox and Chrome to insert login credentials from gopass
@@ -1140,7 +1140,6 @@
 - [nskondratev/socks5-proxy-server](https://github.com/nskondratev/socks5-proxy-server) - SOCKS5 proxy server
 - [lissy93/wapalyzer](https://github.com/lissy93/wapalyzer) - 🌐 Identify the technologies powering any website. This is a fork of the now deleted Wappalyzer project by @AliasIO and community.
 - [runtipi/runtipi-appstore](https://github.com/runtipi/runtipi-appstore) - Official Runtipi AppStore. Apps and updates live here!
-- [kuzzleio/kuzzle](https://github.com/kuzzleio/kuzzle) - Open-source Back-end, self-hostable & ready to use - Real-time, storage, advanced search - Web, Apps, Mobile, IoT -
 - [UdaraJay/Pile](https://github.com/UdaraJay/Pile) - Desktop app for digital journaling.
 - [go-shiori/shiori-web-ext](https://github.com/go-shiori/shiori-web-ext) - Web extension for using Shiori in Firefox and Chrome
 - [maaslalani/Euley](https://github.com/maaslalani/Euley) - CLI for using projecteuler.net offline.
@@ -2181,6 +2180,8 @@
 
 ## Swift 
 
+- [swiftlang/swift-foundation](https://github.com/swiftlang/swift-foundation) - The Foundation project
+- [laurentftech/ntfy-macos](https://github.com/laurentftech/ntfy-macos) - A simple yet powerful native ntfy MacOS notifier
 - [singe/tidcli](https://github.com/singe/tidcli) - A simple touchID prompt'er for use in shell scripts.
 - [fayazara/Screendrop](https://github.com/fayazara/Screendrop) - A beautiful screenshot + screen recording + Loom alternative - all native, self hostable and free.
 - [jurplel/InstantSpaceSwitcher](https://github.com/jurplel/InstantSpaceSwitcher) - Native space switching on macOS with no animation
@@ -2423,6 +2424,7 @@
 - [coder/code-server](https://github.com/coder/code-server) - VS Code in the browser
 - [supabase-community/seed](https://github.com/supabase-community/seed) - Automatically seed your database with production-like dummy data based on your schema for local development and testing.
 - [supabase-community/copycat](https://github.com/supabase-community/copycat) - Generate deterministic fake values: The same input will always generate the same fake-output.
+- [kuzzleio/kuzzle](https://github.com/kuzzleio/kuzzle) - Open-source Back-end, self-hostable & ready to use - Real-time, storage, advanced search - Web, Apps, Mobile, IoT -
 - [yourselfhosted/favicons](https://github.com/yourselfhosted/favicons) - An open-source and free favicon provider.
 - [yourselfhosted/slash](https://github.com/yourselfhosted/slash) - An open source, self-hosted platform for sharing and managing your most frequently used links. Easily create customizable, human-readable shortcuts to streamline your link management.
 - [umami-software/umami](https://github.com/umami-software/umami) - Umami is a privacy-first analytics platform. Traffic, campaigns, behavior, conversions, and revenue in one place — no cookies, no surveillance, self-hosted or in the cloud.
