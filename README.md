@@ -1786,7 +1786,7 @@
 - [tweepy/tweepy](https://github.com/tweepy/tweepy) - Twitter for Python!
 - [ferrucc-io/gpt-google](https://github.com/ferrucc-io/gpt-google) - 
 - [netspooky/yxd](https://github.com/netspooky/yxd) - yxd - Yuu's heX Dumper
-- [CalvinLoke/bad-apple](https://github.com/CalvinLoke/bad-apple) - Bad Apple printed out on the console with Python!
+- [rkk-2s/bad-apple](https://github.com/rkk-2s/bad-apple) - Bad Apple printed out on the console with Python!
 - [k4m4/kickthemout](https://github.com/k4m4/kickthemout) - 💤 Kick devices off your network by performing an ARP Spoof attack.
 - [tanreinama/OCR_Japanease](https://github.com/tanreinama/OCR_Japanease) - 日本語OCR
 - [Textualize/textual](https://github.com/Textualize/textual) - The lean application framework for Python.  Build sophisticated user interfaces with a simple Python API. Run your apps in the terminal and a web browser.
