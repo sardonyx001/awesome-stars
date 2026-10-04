@@ -1925,7 +1925,7 @@
 ## flutter 
 
 - [ente/ente](https://github.com/ente/ente) - 💚 End-to-end encrypted cloud for everything.
-- [finamp-app/finamp](https://github.com/finamp-app/finamp) - An open source Jellyfin music player
+- [finamp-app/finamp](https://github.com/finamp-app/finamp) - An open source music player made for Jellyfin
 - [AppFlowy-IO/AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) - Bring projects, wikis, and teams together with AI. AppFlowy is the AI collaborative workspace where you achieve more without losing control of your data. The leading open source Notion alternative.
 - [localsend/localsend](https://github.com/localsend/localsend) - An open-source cross-platform alternative to AirDrop
 - [jagandeepbrar/lunasea](https://github.com/jagandeepbrar/lunasea) - Self-hosted software controller built using Flutter
@@ -2742,7 +2742,6 @@
 - [linuxserver/docker-bazarr](https://github.com/linuxserver/docker-bazarr) - 
 - [getredash/redash](https://github.com/getredash/redash) - Make Your Company Data Driven. Connect to any data source, easily visualize, dashboard and share your data.
 - [epilande/Annotate](https://github.com/epilande/Annotate) - 📝 Annotation tool for macOS
-- [finamp-app/finamp](https://github.com/finamp-app/finamp) - An open source Jellyfin music player
 - [kubernetes-sigs/kustomize](https://github.com/kubernetes-sigs/kustomize) - Customization of kubernetes YAML configurations
 - [rust-lang/rust-analyzer](https://github.com/rust-lang/rust-analyzer) - A Rust compiler front-end for IDEs
 - [jenkins-zh/jenkins-cli](https://github.com/jenkins-zh/jenkins-cli) - Jenkins CLI allows you to manage your Jenkins in an easy way. Jenkins 命令行客户端
@@ -3772,7 +3771,7 @@
 ## music 
 
 - [bjarneo/cliamp](https://github.com/bjarneo/cliamp) - cliamp - Terminal music player inspired by winamp
-- [finamp-app/finamp](https://github.com/finamp-app/finamp) - An open source Jellyfin music player
+- [finamp-app/finamp](https://github.com/finamp-app/finamp) - An open source music player made for Jellyfin
 - [imputnet/cobalt](https://github.com/imputnet/cobalt) - best way to save what you love
 - [tsirysndr/music-player](https://github.com/tsirysndr/music-player) - An extensible music server written in Rust , single binary, zero dependency  🚀🎵✨
 
@@ -4385,7 +4384,6 @@
 - [charmbracelet/fantasy](https://github.com/charmbracelet/fantasy) - Build AI agents with Go. Multiple providers, multiple models, one API. 🧙
 - [aoi1/bbf-git](https://github.com/aoi1/bbf-git) - This is a repository for the book Build, Break, Fix and learn Git/GitHub
 - [legions-developer/evilcharts](https://github.com/legions-developer/evilcharts) - EvilCharts is an open-source chart UI website built with shadcn and Recharts, beautifully designed and handcrafted.
-- [Felitendo/jellyfin-plugin-lyrics](https://github.com/Felitendo/jellyfin-plugin-lyrics) - A plugin for Jellyfin that automatically downloads and applies lyrics to your songs
 - [LadybirdBrowser/ladybird](https://github.com/LadybirdBrowser/ladybird) - Truly independent web browser
 - [Waleed2660/springboot-learning-kit](https://github.com/Waleed2660/springboot-learning-kit) - A Spring Boot application designed for learning and experimentation with technologies like ActiveMQ, RabbitMQ and PostgreSQL, Prometheus & Grafana. This project demonstrates the integration of messagi
 - [appleboy/gin-jwt](https://github.com/appleboy/gin-jwt) - JWT Middleware for Gin framework
@@ -4971,7 +4969,7 @@
 - [sferik/x-cli](https://github.com/sferik/x-cli) - A command-line power tool for Twitter.
 - [ferrucc-io/gpt-google](https://github.com/ferrucc-io/gpt-google) - 
 - [netspooky/yxd](https://github.com/netspooky/yxd) - yxd - Yuu's heX Dumper
-- [CalvinLoke/bad-apple](https://github.com/CalvinLoke/bad-apple) - Bad Apple printed out on the console with Python!
+- [rkk-2s/bad-apple](https://github.com/rkk-2s/bad-apple) - Bad Apple printed out on the console with Python!
 - [tanreinama/OCR_Japanease](https://github.com/tanreinama/OCR_Japanease) - 日本語OCR
 - [theoremoon/ShellgeiBot](https://github.com/theoremoon/ShellgeiBot) - シェル芸を実行しちゃう危険なbot
 - [rigred/sandsifter-tests](https://github.com/rigred/sandsifter-tests) - A repository of results for runs of sandsifter on various x86 CPU's
