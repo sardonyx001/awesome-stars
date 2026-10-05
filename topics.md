@@ -527,6 +527,7 @@
 - [chroma-core/chroma](https://github.com/chroma-core/chroma) - Search infrastructure for AI
 - [ashishpatel26/500-AI-Agents-Projects](https://github.com/ashishpatel26/500-AI-Agents-Projects) - The 500 AI Agents Projects is a curated collection of AI agent use cases across various industries. It showcases practical applications and provides links to open-source projects for implementation, i
 - [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - The agent engineering platform.
+- [smol-machines/smolvm](https://github.com/smol-machines/smolvm) - An embeddable, portable, branchable virtual machine to safely run Agents locally.
 - [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) - Stop renting your intelligence. Own it with AnythingLLM. Everything you need for a powerful local-first agent experience
 - [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) - Supercharge your AI agents with data from the web and beyond. Building the library for superintelligence. 🔥
 - [nixopus/nixopus](https://github.com/nixopus/nixopus) - Run production apps without thinking about infrastructure. On your server or ours. Fully agentic.
@@ -3416,6 +3417,7 @@
 - [affaan-m/ECC](https://github.com/affaan-m/ECC) - The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
 - [onyx-dot-app/onyx](https://github.com/onyx-dot-app/onyx) - Open Source AI Platform - AI Chat with advanced features that works with every LLM
 - [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - The agent engineering platform.
+- [smol-machines/smolvm](https://github.com/smol-machines/smolvm) - An embeddable, portable, branchable virtual machine to safely run Agents locally.
 - [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) - Stop renting your intelligence. Own it with AnythingLLM. Everything you need for a powerful local-first agent experience
 - [janhq/jan](https://github.com/janhq/jan) - Jan is an open source alternative to ChatGPT that runs 100% offline on your computer.
 - [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
@@ -4295,7 +4297,7 @@
 - [ulixee/hero](https://github.com/ulixee/hero) - The web browser built for scraping
 - [mingrammer/diagrams](https://github.com/mingrammer/diagrams) - :art: Diagram as Code for prototyping cloud system architectures
 - [cola-io/codex-acp](https://github.com/cola-io/codex-acp) - An Agent Client Protocol (ACP)–compatible agent that bridges the OpenAI Codex runtime with ACP clients over stdio.
-- [hyvor/relay](https://github.com/hyvor/relay) - ✉️ Open-Source Email API for Developers. Cloud & Self-hosted Alternative to SES, Mailgun, SendGrid.
+- [hyvor/relay](https://github.com/hyvor/relay) - 📨 Open-Source Email API for Developers. Cloud & Self-hosted Alternative to SES, Mailgun, SendGrid.
 - [agntcy/oasf](https://github.com/agntcy/oasf) - Open Agentic Schema Framework
 - [yilinjz/astchunk](https://github.com/yilinjz/astchunk) - ASTChunk is a Python toolkit for code chunking using Abstract Syntax Trees (ASTs), designed to create structurally sound and meaningful code segments.
 - [plantuml/plantuml-server](https://github.com/plantuml/plantuml-server) - PlantUML Online Server
