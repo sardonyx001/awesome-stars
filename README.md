@@ -1824,6 +1824,9 @@
 
 ## Rust 
 
+- [dimo414/bkt](https://github.com/dimo414/bkt) - a subprocess caching utility, available as a command line binary and a Rust library.
+- [flamegraph-rs/flamegraph](https://github.com/flamegraph-rs/flamegraph) - Easy flamegraphs for Rust projects and everything else, without Perl or pipes &lt;3
+- [jonhoo/inferno](https://github.com/jonhoo/inferno) - A Rust port of FlameGraph
 - [workdone0/twig](https://github.com/workdone0/twig) - Terminal-based JSON & YAML viewer (TUI) for exploring and searching large files — fast, interactive, and privacy-first.
 - [element-hq/neutrino](https://github.com/element-hq/neutrino) - A lightweight, embedded homeserver written in Rust.
 - [lapce/floem](https://github.com/lapce/floem) - A native Rust UI library with fine-grained reactivity
