@@ -2478,7 +2478,7 @@
 - [spotify/spotify-web-api-ts-sdk](https://github.com/spotify/spotify-web-api-ts-sdk) - A Typescript SDK for the Spotify Web API with types for returned data.
 - [pingdotgg/uploadthing](https://github.com/pingdotgg/uploadthing) - File uploads for modern web devs
 - [RiskyMH/EmailThing](https://github.com/RiskyMH/EmailThing) - A web app for receiving and sending your emails!
-- [akazwz/smail](https://github.com/akazwz/smail) - Temporary email  临时邮箱 smail
+- [akazwz/smail](https://github.com/akazwz/smail) - Temporary email on Cloudflare Workers, with a real-time inbox. 临时邮箱
 - [Yooooomi/your_spotify](https://github.com/Yooooomi/your_spotify) - Self hosted Spotify tracking dashboard
 - [linagora/twake-drive-legacy](https://github.com/linagora/twake-drive-legacy) - LEGACY: The open-source alternative to Google Drive.
 - [seerr-team/seerr](https://github.com/seerr-team/seerr) - Open-source media request and discovery manager for Jellyfin, Plex, and Emby.
