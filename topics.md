@@ -954,7 +954,6 @@
 - [lissy93/cheat-code](https://github.com/lissy93/cheat-code) - 💫 An AI-powered coding assistant, built to try out the ChatGPT API
 - [haotian-liu/LLaVA](https://github.com/haotian-liu/LLaVA) - [NeurIPS'23 Oral] Visual Instruction Tuning (LLaVA) built towards GPT-4V level capabilities and beyond.
 - [ahmetbersoz/chatgpt-prompts-for-academic-writing](https://github.com/ahmetbersoz/chatgpt-prompts-for-academic-writing) - This list of writing prompts covers a range of topics and tasks, including brainstorming research ideas, improving language and style, conducting literature reviews, and developing research plans.
-- [ChatGPTNextWeb/NextChat](https://github.com/ChatGPTNextWeb/NextChat) - ✨ Zero-config AI chat assistant. No API key needed — sign up and instantly chat with GPT-5, Claude 4, Gemini 2.5, DeepSeek & 100+ top models. Pay-as-you-go saves you more. Available on Web, iOS, macOS
 
 ## chrome 
 
@@ -4817,7 +4816,6 @@
 - [spotify/spotify-web-api-ts-sdk](https://github.com/spotify/spotify-web-api-ts-sdk) - A Typescript SDK for the Spotify Web API with types for returned data.
 - [bbilly1/tilefy](https://github.com/bbilly1/tilefy) - Create beautiful tiles for your project
 - [pingdotgg/uploadthing](https://github.com/pingdotgg/uploadthing) - File uploads for modern web devs
-- [akazwz/smail](https://github.com/akazwz/smail) - Temporary email  临时邮箱 smail
 - [linagora/twake-drive-legacy](https://github.com/linagora/twake-drive-legacy) - LEGACY: The open-source alternative to Google Drive.
 - [ekgame/uiua-json](https://github.com/ekgame/uiua-json) - 
 - [777arc/PySDR](https://github.com/777arc/PySDR) - PySDR is a guide to software-defined radio (SDR) and RF signal processing using Python, live at https://pysdr.org
@@ -5841,6 +5839,7 @@
 - [gogs/gogs](https://github.com/gogs/gogs) - The painless way to host your own Git service
 - [anderspitman/awesome-tunneling](https://github.com/anderspitman/awesome-tunneling) - List of ngrok, Cloudflare Tunnel, Tailscale, and ZeroTier alternatives and other tunneling software and services. Focus on self-hosting.
 - [ekzhang/bore](https://github.com/ekzhang/bore) - 🕳 bore is a simple CLI tool for making tunnels to localhost
+- [akazwz/smail](https://github.com/akazwz/smail) - Temporary email on Cloudflare Workers, with a real-time inbox. 临时邮箱
 - [Yooooomi/your_spotify](https://github.com/Yooooomi/your_spotify) - Self hosted Spotify tracking dashboard
 - [tsirysndr/music-player](https://github.com/tsirysndr/music-player) - An extensible music server written in Rust , single binary, zero dependency  🚀🎵✨
 - [EnigmaCurry/d.rymcg.tech](https://github.com/EnigmaCurry/d.rymcg.tech) - A collection of self-hosted docker-compose projects with Traefik reverse proxy, integrated auth, and administrative Makefiles for easy maintainance
@@ -6376,6 +6375,7 @@
 - [tskau/cobold](https://github.com/tskau/cobold) - telegram bot for downloading media, powered by cobalt
 - [BabylonJS/Babylon.js](https://github.com/BabylonJS/Babylon.js) - Babylon.js is a powerful, beautiful, simple, and open game and rendering engine packed into a friendly JavaScript framework.
 - [encoredev/encore](https://github.com/encoredev/encore) - The infrastructure platform for the intelligence era
+- [akazwz/smail](https://github.com/akazwz/smail) - Temporary email on Cloudflare Workers, with a real-time inbox. 临时邮箱
 - [vanxh/openbio](https://github.com/vanxh/openbio) - Open source beautiful link in bio pages.
 - [drizzle-team/drizzle-orm](https://github.com/drizzle-team/drizzle-orm) - ORM
 - [trpc/trpc-openapi](https://github.com/trpc/trpc-openapi) - OpenAPI support for tRPC 🧩
