@@ -965,6 +965,7 @@
 ## Go Template 
 
 - [sourcebot-dev/sourcebot-helm-chart](https://github.com/sourcebot-dev/sourcebot-helm-chart) - Kubernetes config and Helm chart for Sourcebot
+- [braintrustdata/helm](https://github.com/braintrustdata/helm) - Helm charts for the self-hosted data plane
 
 ## HCL 
 
@@ -1522,7 +1523,6 @@
 - [agent-infra/sandbox](https://github.com/agent-infra/sandbox) - All-in-One Sandbox for AI Agents that combines Browser, Shell, File, MCP and VSCode Server in a single Docker container.
 - [MinishLab/semble](https://github.com/MinishLab/semble) - Fast and Accurate Code Search for Agents. Uses 99% fewer tokens than grep+read
 - [jumpserver/jumpserver](https://github.com/jumpserver/jumpserver) - JumpServer is an Open-source Privileged Access Management (PAM) platform with AI-powered capabilities, providing DevOps and IT teams a unified workspace to securely access SSH, RDP, Kubernetes, databa
-- [braintrustdata/helm](https://github.com/braintrustdata/helm) - Helm charts for the self-hosted data plane
 - [sooperset/mcp-atlassian](https://github.com/sooperset/mcp-atlassian) - MCP server for Atlassian tools (Confluence, Jira)
 - [maguowei/starred](https://github.com/maguowei/starred) - Create and maintain your own Awesome-style list from GitHub stars!
 - [thunderbird/appointment](https://github.com/thunderbird/appointment) - Invite others to grab times on your calendar. Choose a date. Make appointments as easy as it gets.
