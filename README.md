@@ -195,6 +195,7 @@
 
 ## C++ 
 
+- [snuri00/ps2-web-recomp](https://github.com/snuri00/ps2-web-recomp) - PS2 games in the browser: static recompilation to WebAssembly with a native runtime
 - [yhirose/cpp-httplib](https://github.com/yhirose/cpp-httplib) - A C++ header-only HTTP/HTTPS server and client library
 - [facebookresearch/faiss](https://github.com/facebookresearch/faiss) - A library for efficient similarity search and clustering of dense vectors.
 - [nmslib/hnswlib](https://github.com/nmslib/hnswlib) - Header-only C++/python library for fast approximate nearest neighbors
@@ -2219,6 +2220,8 @@
 
 ## TypeScript 
 
+- [truefoundry/trueforge](https://github.com/truefoundry/trueforge) - The open-source agent harness - the runtime layer that turns an LLM into a working agent.
+- [chrisbenincasa/tunarr](https://github.com/chrisbenincasa/tunarr) - Create a classic TV experience using your own media - IPTV backed by Plex/Jellyfin/Emby/NFO
 - [receptron/laya](https://github.com/receptron/laya) - Run Laya, the open-source Jev-compatible System-1 decision model, from Node.js / TypeScript via ONNX Runtime
 - [Myriad-Dreamin/fluvia](https://github.com/Myriad-Dreamin/fluvia) - Fully asynchronous dataflow CLI for LLM agents: JS-syntax calls, resource handles, completion notifications (fluvia-dsh)
 - [jlokos/raybridge](https://github.com/jlokos/raybridge) - MCP server that bridges Raycast extensions to any MCP-compatible client
