@@ -326,6 +326,7 @@
 
 ## Gherkin 
 
+- [open-feature/spec](https://github.com/open-feature/spec) - OpenFeature specification
 - [reitzig/sdkman-for-fish](https://github.com/reitzig/sdkman-for-fish) - Adds support for SDKMAN! to fish
 - [git-town/git-town](https://github.com/git-town/git-town) - Git branches made easy
 
@@ -1564,7 +1565,6 @@
 - [nandyalu/trailarr](https://github.com/nandyalu/trailarr) - Trailarr is a self-hosted app to download and manage trailers for your media libraries.
 - [karpathy/nanoGPT](https://github.com/karpathy/nanoGPT) - The simplest, fastest repository for training/finetuning medium-sized GPTs.
 - [jellyfin/jellycon](https://github.com/jellyfin/jellycon) - Kodi Addon for Jellyfin
-- [open-feature/spec](https://github.com/open-feature/spec) - OpenFeature specification
 - [verl-project/verl](https://github.com/verl-project/verl) - verl/HybridFlow: A Flexible and Efficient RL Post-Training Framework
 - [alonw0/web-asset-generator](https://github.com/alonw0/web-asset-generator) - Claude skill to generate favicons, app icons, and social media images from logos, text, or emojis. Supports emoji suggestions, validation, and framework auto-integration.
 - [GongRzhe/Office-PowerPoint-MCP-Server](https://github.com/GongRzhe/Office-PowerPoint-MCP-Server) - A MCP (Model Context Protocol) server for PowerPoint manipulation using python-pptx. This server provides tools for creating, editing, and manipulating PowerPoint presentations through the MCP protoco
@@ -2097,6 +2097,7 @@
 
 ## Shell 
 
+- [gazorby/fifc](https://github.com/gazorby/fifc) - 🐠 Configurable fzf completions for fish shell
 - [jorgebucaran/autopair.fish](https://github.com/jorgebucaran/autopair.fish) - Auto-complete matching pairs in the Fish command line
 - [sdelrio/rpi-hostap](https://github.com/sdelrio/rpi-hostap) - Transform your PI into a Wireless Router (DHCP and WPA2 already insisde)
 - [alexwforsythe/tmux-which-key](https://github.com/alexwforsythe/tmux-which-key) - A tmux plugin that allows users to select actions from a customizable popup menu 🧰
@@ -2190,7 +2191,7 @@
 
 ## Swift 
 
-- [ARahim3/DigUp](https://github.com/ARahim3/DigUp) - Search your Mac by what's in your files: photos, PDFs, recordings, videos and code. On-device, built on Google DeepMind's EmbeddingGemma 2.
+- [ARahim3/DigUp](https://github.com/ARahim3/DigUp) - Search your computer by what's in your files: photos, PDFs, documents, recordings, videos and code. On-device on Mac, Windows and Linux, built on Google DeepMind's EmbeddingGemma 2.
 - [swiftlang/swift-foundation](https://github.com/swiftlang/swift-foundation) - The Foundation project
 - [laurentftech/ntfy-macos](https://github.com/laurentftech/ntfy-macos) - A simple yet powerful native ntfy MacOS notifier
 - [singe/tidcli](https://github.com/singe/tidcli) - A simple touchID prompt'er for use in shell scripts.
@@ -2225,6 +2226,7 @@
 
 ## TypeScript 
 
+- [yusukebe/ramen-api](https://github.com/yusukebe/ramen-api) - Web API about 🍜
 - [morluto/rea](https://github.com/morluto/rea) - Reverse engineer anything with agents, from app behavior down to native binaries.
 - [truefoundry/trueforge](https://github.com/truefoundry/trueforge) - The open-source agent harness - the runtime layer that turns an LLM into a working agent.
 - [chrisbenincasa/tunarr](https://github.com/chrisbenincasa/tunarr) - Create a classic TV experience using your own media - IPTV backed by Plex/Jellyfin/Emby/NFO
