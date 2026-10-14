@@ -218,7 +218,6 @@
 - [Idov31/Nidhogg](https://github.com/Idov31/Nidhogg) - Windows rootkit for Intel x64 with 25+ features, demonstrating rootkit techniques compatible with all Windows 10 and Windows 11 versions.
 - [kyleneideck/BackgroundMusic](https://github.com/kyleneideck/BackgroundMusic) - Background Music, a macOS audio utility: automatically pause your music, set individual apps' volumes and record system audio.
 - [apple/foundationdb](https://github.com/apple/foundationdb) - FoundationDB - the open source, distributed, transactional key-value store
-- [lighthousand/books](https://github.com/lighthousand/books) - book list
 - [redpanda-data/redpanda](https://github.com/redpanda-data/redpanda) - Redpanda is a streaming data platform for developers. Kafka API compatible. 10x faster. No ZooKeeper. No JVM!
 - [yue/yue](https://github.com/yue/yue) - A library for creating native cross-platform GUI apps
 - [Stream-AD/MStream](https://github.com/Stream-AD/MStream) - Anomaly Detection on Time-Evolving Streams in Real-time. Detecting intrusions (DoS and DDoS attacks), frauds, fake rating anomalies.
@@ -1088,6 +1087,7 @@
 
 ## JavaScript 
 
+- [semantic-release/cli](https://github.com/semantic-release/cli) - :cl::round_pushpin: Setup automated semver compliant package publishing
 - [OAI/Arazzo-Specification](https://github.com/OAI/Arazzo-Specification) - The Arazzo Specification - A Tapestry for Deterministic API Workflows
 - [gildas-lormeau/SingleFile](https://github.com/gildas-lormeau/SingleFile) - Web Extension for saving a faithful copy of a complete web page in a single HTML file
 - [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) - Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.
