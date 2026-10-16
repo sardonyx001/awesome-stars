@@ -2684,6 +2684,7 @@
 
 ## graphql 
 
+- [zuplo/zudoku](https://github.com/zuplo/zudoku) - Framework for building high quality, interactive API documentation.
 - [yusukebe/ramen-api](https://github.com/yusukebe/ramen-api) - Web API about 🍜
 - [microcks/microcks](https://github.com/microcks/microcks) - The open source, cloud native tool for API Mocking and Testing. Microcks is a Cloud Native Computing Foundation incubating project 🚀
 - [holon-run/uxc](https://github.com/holon-run/uxc) - A unified CLI for discovering and invoking tools across OpenAPI, MCP, GraphQL, gRPC, and JSON-RPC
@@ -3635,6 +3636,7 @@
 
 ## markdown 
 
+- [zuplo/zudoku](https://github.com/zuplo/zudoku) - Framework for building high quality, interactive API documentation.
 - [wallpants/pantsdown](https://github.com/wallpants/pantsdown) - Markdown to "GitHub HTML" parser
 - [inkeep/open-knowledge](https://github.com/inkeep/open-knowledge) - Beautiful, AI-native markdown IDE and LLM wiki
 - [vercel/eve](https://github.com/vercel/eve) - The Open Framework for Building Agents
