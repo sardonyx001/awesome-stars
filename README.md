@@ -1310,6 +1310,7 @@
 - [chrisgrieser/nvim-chainsaw](https://github.com/chrisgrieser/nvim-chainsaw) - Smart and customizable creation of logs.
 - [adelarsq/image_preview.nvim](https://github.com/adelarsq/image_preview.nvim) - Image Preview for Neovim 🖼
 - [AGou-ops/dotfiles](https://github.com/AGou-ops/dotfiles) - My personal dotfiles, about neovim, zsh shell, tmux...
+- [Aylur/dotfiles](https://github.com/Aylur/dotfiles) - My personal config files
 - [yue/yue-sample-apps](https://github.com/yue/yue-sample-apps) - Sample apps of Yue
 - [avante-corp/avante.nvim](https://github.com/avante-corp/avante.nvim) - Use your Neovim like using Cursor AI IDE!
 - [mrjones2014/legendary.nvim](https://github.com/mrjones2014/legendary.nvim) - 🗺️ A legend for your keymaps, commands, and autocmds, integrates with which-key.nvim, lazy.nvim, and more.
@@ -1372,7 +1373,6 @@
 ## Nix 
 
 - [joshsymonds/nix-config](https://github.com/joshsymonds/nix-config) - 
-- [Aylur/dotfiles](https://github.com/Aylur/dotfiles) - My personal config files
 - [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) - Nix Packages collection & NixOS
 
 ## Objective-C 
@@ -2229,6 +2229,7 @@
 
 ## TypeScript 
 
+- [vercel-labs/tsc-ts](https://github.com/vercel-labs/tsc-ts) - TypeScript written in TypeScript
 - [zuplo/zudoku](https://github.com/zuplo/zudoku) - Framework for building high quality, interactive API documentation.
 - [cloudflare/cf](https://github.com/cloudflare/cf) - The agentic CLI for the entire Cloudflare API
 - [cloudflare/forge](https://github.com/cloudflare/forge) - 
