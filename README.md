@@ -89,6 +89,7 @@
 
 ## C 
 
+- [facebookincubator/katran](https://github.com/facebookincubator/katran) - A high performance layer 4 load balancer
 - [Telodendria/Telodendria](https://github.com/Telodendria/Telodendria) - Telodendria is an open source Matrix homeserver implementation written from scratch in ANSI C and designed to be lightweight and simple, yet functional. This is the official read-only mirror of the up
 - [Mithril-mine/libmdbx](https://github.com/Mithril-mine/libmdbx) - Fastfull embedded transactional key-value storage engine ★ Surpasses the legendary LMDB in reliability, capabilities and performance ★ Used in hundreds of open source projects, including Ethereum.
 - [JustVugg/colibri](https://github.com/JustVugg/colibri) - Run frontier MoE models on hardware you already own — pure C, zero deps, experts streamed from disk. Tiny engine, immense model. 🐦
@@ -337,6 +338,7 @@
 
 ## Go 
 
+- [cilium/cilium](https://github.com/cilium/cilium) - eBPF-based Networking, Security, and Observability
 - [speakeasy-api/openapi-generation](https://github.com/speakeasy-api/openapi-generation) - Open-source OpenAPI SDK generator for building production-ready client libraries. Available under AGPL-3.0; contact Speakeasy for commercial licensing options.
 - [git-bug/git-bug](https://github.com/git-bug/git-bug) - Distributed, offline-first bug tracker integrated in git
 - [boyter/cs](https://github.com/boyter/cs) - codespelunker - CLI code search tool that understands code structure and ranks results by relevance. No indexing required with CLI, TUI, MCP and HTTP support.
@@ -392,7 +394,7 @@
 - [dtolpin/gosparkline](https://github.com/dtolpin/gosparkline) - Sparklines in Go
 - [avivsinai/bitbucket-cli](https://github.com/avivsinai/bitbucket-cli) - Bitbucket CLI with gh-like ergonomics
 - [siderolabs/conform](https://github.com/siderolabs/conform) - Policy enforcement for your pipelines.
-- [ray-project/kuberay](https://github.com/ray-project/kuberay) - A toolkit to run Ray applications on Kubernetes
+- [kuberay-project/kuberay](https://github.com/kuberay-project/kuberay) - A toolkit to run Ray applications on Kubernetes
 - [zeromicro/go-zero](https://github.com/zeromicro/go-zero) - A cloud-native Go microservices framework with cli tool for productivity.
 - [tinyauthapp/tinyauth](https://github.com/tinyauthapp/tinyauth) - The tiniest OpenID Certified™ authorization and authentication server you have ever seen.
 - [earthly/earthly](https://github.com/earthly/earthly) - Super simple build framework with fast, repeatable builds and an instantly familiar syntax – like Dockerfile and Makefile had a baby.
@@ -412,6 +414,7 @@
 - [gitsocial-org/gitsocial](https://github.com/gitsocial-org/gitsocial) - Git-native collaboration platform
 - [runfinch/finch](https://github.com/runfinch/finch) - The Finch CLI is an open source client for container development
 - [GoogleContainerTools/skaffold](https://github.com/GoogleContainerTools/skaffold) - Easy and Repeatable Kubernetes Development
+- [genkit-ai/genkit](https://github.com/genkit-ai/genkit) - Open-source framework for building agentic apps in JavaScript, Go, Dart, and Python, built and used in production by Google
 - [nozomi-koborinai/gcp-cost-mcp-server](https://github.com/nozomi-koborinai/gcp-cost-mcp-server) - 💰 An MCP server that enables AI assistants to estimate Google Cloud costs, powered by Cloud Billing Catalog API and built with Genkit for Go
 - [ko-build/ko](https://github.com/ko-build/ko) - Build and deploy Go applications
 - [distr-sh/distr](https://github.com/distr-sh/distr) - The Open Source control plane for self-hosted, BYOC, and on-prem deployments. Everything you need to distribute applications to self-hosted customers out of the box. Supporting Docker Compose, Docker 
@@ -1483,7 +1486,7 @@
 - [hyvor/relay](https://github.com/hyvor/relay) - 📨 Open-Source Email API for Developers. Cloud & Self-hosted Alternative to SES, Mailgun, SendGrid.
 - [isucon/isucon14](https://github.com/isucon/isucon14) - 
 - [andrii-kryvoviaz/slink](https://github.com/andrii-kryvoviaz/slink) - Self-hosted image hosting and sharing platform with private links, collections, S3/SMB storage, OIDC SSO and ShareX support.
-- [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source, self-hostable PaaS alternative to Vercel, Heroku & Netlify that lets you easily deploy static sites, databases, full-stack applications and 280+ one-click services on your own servers.
+- [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source, self-hostable PaaS alternative to Vercel, Heroku & Netlify that lets you easily deploy static sites, databases, full-stack applications and 360+ one-click services on your own servers.
 - [nokonoko/Uguu](https://github.com/nokonoko/Uguu) - Uguu is a simple lightweight temporary file host with support for drop, paste, click and API uploading.
 - [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats) - 🔥 Stay motivated and show off your contribution streak! 🌟 Display your total contributions, current streak, and longest streak on your GitHub profile README
 
@@ -1604,7 +1607,6 @@
 - [pamoller/xmlformatter](https://github.com/pamoller/xmlformatter) - Format and compress XML documents
 - [huggingface/smolagents](https://github.com/huggingface/smolagents) - 🤗 smolagents: a barebones library for agents that think in code.
 - [SandeebAdhikari/DevPilot-HQ](https://github.com/SandeebAdhikari/DevPilot-HQ) - DevPilot is an AI-powered CLI that accelerates developer onboarding by automatically explaining and summarizing unfamiliar codebases.
-- [darwin-lau/langmanus](https://github.com/darwin-lau/langmanus) - A community-driven AI automation framework that builds upon the incredible work of the open source community. Our goal is to combine language models with specialized tools for tasks like web search, c
 - [langchain-ai/langgraph](https://github.com/langchain-ai/langgraph) - Build resilient agents.
 - [astanin/python-tabulate](https://github.com/astanin/python-tabulate) - Pretty-print tabular data in Python, a library and a command-line utility. Repository migrated from bitbucket.org/astanin/python-tabulate.
 - [ActivityWatch/aw-watcher-input](https://github.com/ActivityWatch/aw-watcher-input) - Track your keypresses and mouse movements with ActivityWatch
@@ -2287,7 +2289,6 @@
 - [vercel-labs/just-bash](https://github.com/vercel-labs/just-bash) - Bash for Agents
 - [eforge-build/eforge](https://github.com/eforge-build/eforge) - Open source agentic build system - transforms specifications into verified source code with blind adversarial review
 - [tmustier/pi-extensions](https://github.com/tmustier/pi-extensions) - A set of delightful extensions for Pi
-- [genkit-ai/genkit](https://github.com/genkit-ai/genkit) - Open-source framework for building agentic apps in JavaScript, Go, Dart, and Python, built and used in production by Google
 - [homarr-labs/dashboard-icons](https://github.com/homarr-labs/dashboard-icons) - Your definitive source for dashboard icons.
 - [growthbook/growthbook](https://github.com/growthbook/growthbook) - Open Source Feature Flags, Experimentation, and Product Analytics
 - [liketrek/TREK](https://github.com/liketrek/TREK) - A self-hosted travel/trip planner with real-time collaboration, interactive maps, PWA support, SSO, budgets, packing lists, and more.
