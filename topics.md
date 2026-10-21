@@ -215,6 +215,7 @@
 - [phishing](#phishing)
 - [php](#php)
 - [physics](#physics)
+- [pico-8](#pico-8)
 - [pixel-art](#pixel-art)
 - [portfolio](#portfolio)
 - [postgresql](#postgresql)
@@ -517,12 +518,13 @@
 - [tinyhumansai/openhuman](https://github.com/tinyhumansai/openhuman) - The fastest, cheapest, most efficient open-source agent harness. Run more than 500 agents on a $10 VPS.
 - [paperclipai/paperclip](https://github.com/paperclipai/paperclip) - The open-source app everyone uses to manage agents at work
 - [eforge-build/eforge](https://github.com/eforge-build/eforge) - Open source agentic build system - transforms specifications into verified source code with blind adversarial review
+- [homarr-labs/dashboard-icons](https://github.com/homarr-labs/dashboard-icons) - 3,400+ curated icons and logos for dashboards and AI agents. SVG, PNG and WEBP on a free CDN, plus an MCP server for Claude Code, Codex, ChatGPT, Cursor, Hermes and OpenClaw.
 - [Dicklesworthstone/destructive_command_guard](https://github.com/Dicklesworthstone/destructive_command_guard) - The Destructive Command Guard (dcg) is for blocking dangerous git and shell commands from being executed by agents.
 - [holon-run/uxc](https://github.com/holon-run/uxc) - A unified CLI for discovering and invoking tools across OpenAPI, MCP, GraphQL, gRPC, and JSON-RPC
 - [bytedance/deer-flow](https://github.com/bytedance/deer-flow) - An open-source long-horizon SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skill, subagents and message gateway, it handles different levels of ta
 - [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) - The agent that grows with you
 - [NVIDIA/NemoClaw](https://github.com/NVIDIA/NemoClaw) - Run agents like Hermes, LangChain Deep Agents, and OpenClaw more securely inside NVIDIA OpenShell with managed inference
-- [holon-run/holon](https://github.com/holon-run/holon) - An agent workbench for ongoing work: preserve goals and progress, connect events and schedules, and resume when the next condition is met.
+- [holon-run/holon](https://github.com/holon-run/holon) - Open-source software for individuals and teams to create and run AI assistants on their own computers or servers. Assign tasks, track progress, and let them follow up on ongoing work.
 - [kestra-io/kestra](https://github.com/kestra-io/kestra) - Event Driven Orchestration & Scheduling Platform for Mission Critical Applications
 - [lastmile-ai/mcp-agent](https://github.com/lastmile-ai/mcp-agent) - Build effective agents using Model Context Protocol and simple workflow patterns
 - [mcpjungle/MCPJungle](https://github.com/mcpjungle/MCPJungle) - One place to manage & connect to all your MCP servers
@@ -1036,6 +1038,7 @@
 - [paperclipai/paperclip](https://github.com/paperclipai/paperclip) - The open-source app everyone uses to manage agents at work
 - [eforge-build/eforge](https://github.com/eforge-build/eforge) - Open source agentic build system - transforms specifications into verified source code with blind adversarial review
 - [uditgoenka/autoresearch](https://github.com/uditgoenka/autoresearch) - Claude Autoresearch Skill — Autonomous goal-directed iteration for Claude Code. Inspired by Karpathy's autoresearch. Modify → Verify → Keep/Discard → Repeat forever.
+- [homarr-labs/dashboard-icons](https://github.com/homarr-labs/dashboard-icons) - 3,400+ curated icons and logos for dashboards and AI agents. SVG, PNG and WEBP on a free CDN, plus an MCP server for Claude Code, Codex, ChatGPT, Cursor, Hermes and OpenClaw.
 - [midspiral/lemmafit](https://github.com/midspiral/lemmafit) - Make agents prove that their code is correct.
 - [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) - The agent that grows with you
 - [router-for-me/CLIProxyAPI](https://github.com/router-for-me/CLIProxyAPI) - Wrap Antigravity, ChatGPT Codex, Claude Code, Grok Build, Muse Code, Devin as an OpenAI/Gemini/Claude/Codex compatible API service, allowing you to enjoy the free Gemini Series, GPT Series, Grok Serie
@@ -1597,7 +1600,7 @@
 
 ## design 
 
-- [Jakubantalik/Libraries.dev](https://github.com/Jakubantalik/Libraries.dev) - High-crafted UI libraries for AI agents: Border beam, Orbs, Metal, Gooey, Voice, Image, Avatar bots
+- [Jakubantalik/Libraries.dev](https://github.com/Jakubantalik/Libraries.dev) - Libraries and models for next-gen UI
 - [danielpetho/fancy](https://github.com/danielpetho/fancy) - 
 - [jgthms/bulma](https://github.com/jgthms/bulma) - Modern CSS framework based on Flexbox
 
@@ -1614,7 +1617,7 @@
 - [GoogleContainerTools/skaffold](https://github.com/GoogleContainerTools/skaffold) - Easy and Repeatable Kubernetes Development
 - [Dicklesworthstone/destructive_command_guard](https://github.com/Dicklesworthstone/destructive_command_guard) - The Destructive Command Guard (dcg) is for blocking dangerous git and shell commands from being executed by agents.
 - [holon-run/uxc](https://github.com/holon-run/uxc) - A unified CLI for discovering and invoking tools across OpenAPI, MCP, GraphQL, gRPC, and JSON-RPC
-- [holon-run/holon](https://github.com/holon-run/holon) - An agent workbench for ongoing work: preserve goals and progress, connect events and schedules, and resume when the next condition is met.
+- [holon-run/holon](https://github.com/holon-run/holon) - Open-source software for individuals and teams to create and run AI assistants on their own computers or servers. Assign tasks, track progress, and let them follow up on ongoing work.
 - [max-sixty/worktrunk](https://github.com/max-sixty/worktrunk) - Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows
 - [maxritter/pilot-shell](https://github.com/maxritter/pilot-shell) - Professional context and harness engineering for Claude Code and OpenAI Codex. Build production-grade software with spec-driven development, TDD, persistent memory, quality gates, code intelligence, h
 - [affaan-m/ECC](https://github.com/affaan-m/ECC) - The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
@@ -1726,7 +1729,7 @@
 - [containerd/containerd](https://github.com/containerd/containerd) - An open and reliable container runtime
 - [bibendi/dip](https://github.com/bibendi/dip) - The dip is a CLI dev–tool that provides native-like interaction with a Dockerized application.
 - [GoogleContainerTools/skaffold](https://github.com/GoogleContainerTools/skaffold) - Easy and Repeatable Kubernetes Development
-- [homarr-labs/dashboard-icons](https://github.com/homarr-labs/dashboard-icons) - Your definitive source for dashboard icons.
+- [homarr-labs/dashboard-icons](https://github.com/homarr-labs/dashboard-icons) - 3,400+ curated icons and logos for dashboards and AI agents. SVG, PNG and WEBP on a free CDN, plus an MCP server for Claude Code, Codex, ChatGPT, Cursor, Hermes and OpenClaw.
 - [ko-build/ko](https://github.com/ko-build/ko) - Build and deploy Go applications
 - [markrai/scrumboy](https://github.com/markrai/scrumboy) - Self-hosted project management • Customizable boards • Cross-project workload and flow analytics • Calendar/Agenda • Sticky-note wall • Imports/Backups • Email notifications • MCP/Agent automation
 - [browserless/browserless](https://github.com/browserless/browserless) - Deploy headless browsers in Docker. Run on our cloud or bring your own. Free for non-commercial uses.
@@ -2022,6 +2025,7 @@
 - [ppy/osu](https://github.com/ppy/osu) - rhythm is just a *click* away!
 - [lichess-org/lila](https://github.com/lichess-org/lila) - ♞ lichess.org: the forever free, adless and open source chess server ♞
 - [scallyw4g/bonsai](https://github.com/scallyw4g/bonsai) - The procedural generation voxel engine
+- [kitao/pyxel](https://github.com/kitao/pyxel) - A retro game engine for Python
 - [leereilly/games](https://github.com/leereilly/games) - Archived — A list of games, add-ons, maps, etc. hosted on GitHub. Any genre. Any platform. Any engine.
 - [hajimehoshi/ebiten](https://github.com/hajimehoshi/ebiten) - A dead simple 2D game engine for Go
 - [SimonWaldherr/cgolGo](https://github.com/SimonWaldherr/cgolGo) - Conway's Game of Life in Golang
@@ -2035,6 +2039,7 @@
 - [piqnt/planck.js](https://github.com/piqnt/planck.js) - 2D JavaScript Physics Engine
 - [SanderMertens/flecs](https://github.com/SanderMertens/flecs) - A fast entity component system (ECS) for C & C++
 - [FyroxEngine/Fyrox](https://github.com/FyroxEngine/Fyrox) - 3D and 2D game engine written in Rust
+- [kitao/pyxel](https://github.com/kitao/pyxel) - A retro game engine for Python
 - [leereilly/games](https://github.com/leereilly/games) - Archived — A list of games, add-ons, maps, etc. hosted on GitHub. Any genre. Any platform. Any engine.
 - [BabylonJS/Babylon.js](https://github.com/BabylonJS/Babylon.js) - Babylon.js is a powerful, beautiful, simple, and open game and rendering engine packed into a friendly JavaScript framework.
 - [bevyengine/bevy](https://github.com/bevyengine/bevy) - A refreshingly simple data-driven game engine built in Rust
@@ -2051,6 +2056,7 @@
 - [SanderMertens/flecs](https://github.com/SanderMertens/flecs) - A fast entity component system (ECS) for C & C++
 - [FyroxEngine/Fyrox](https://github.com/FyroxEngine/Fyrox) - 3D and 2D game engine written in Rust
 - [amethyst/amethyst](https://github.com/amethyst/amethyst) - Data-oriented and data-driven game engine written in Rust
+- [kitao/pyxel](https://github.com/kitao/pyxel) - A retro game engine for Python
 - [leereilly/games](https://github.com/leereilly/games) - Archived — A list of games, add-ons, maps, etc. hosted on GitHub. Any genre. Any platform. Any engine.
 - [BabylonJS/Babylon.js](https://github.com/BabylonJS/Babylon.js) - Babylon.js is a powerful, beautiful, simple, and open game and rendering engine packed into a friendly JavaScript framework.
 - [bevyengine/bevy](https://github.com/bevyengine/bevy) - A refreshingly simple data-driven game engine built in Rust
@@ -2067,6 +2073,7 @@
 - [SanderMertens/flecs](https://github.com/SanderMertens/flecs) - A fast entity component system (ECS) for C & C++
 - [FyroxEngine/Fyrox](https://github.com/FyroxEngine/Fyrox) - 3D and 2D game engine written in Rust
 - [amethyst/amethyst](https://github.com/amethyst/amethyst) - Data-oriented and data-driven game engine written in Rust
+- [kitao/pyxel](https://github.com/kitao/pyxel) - A retro game engine for Python
 - [leereilly/games](https://github.com/leereilly/games) - Archived — A list of games, add-ons, maps, etc. hosted on GitHub. Any genre. Any platform. Any engine.
 - [bevyengine/bevy](https://github.com/bevyengine/bevy) - A refreshingly simple data-driven game engine built in Rust
 - [hajimehoshi/ebiten](https://github.com/hajimehoshi/ebiten) - A dead simple 2D game engine for Go
@@ -2243,7 +2250,7 @@
 - [jroimartin/gocui](https://github.com/jroimartin/gocui) - Minimalist Go package aimed at creating Console User Interfaces.
 - [NimbleMarkets/ntcharts](https://github.com/NimbleMarkets/ntcharts) - Nimble Terminal Charts for the Golang BubbleTea framework and your TUIs
 - [panjf2000/gnet](https://github.com/panjf2000/gnet) - 🚀 gnet is a high-performance, lightweight, non-blocking, event-driven networking framework written in pure Go.
-- [goforj/godump](https://github.com/goforj/godump) - A minimal, developer-friendly pretty-printer and debug dumper for Go structs, inspired by Laravel’s dump() and Symfony’s VarDumper.
+- [goforj/godump](https://github.com/goforj/godump) - Configurable Go value and struct dumps with colorized output, type visibility controls, and field redaction.
 - [mpolden/echoip](https://github.com/mpolden/echoip) - A simple IP address lookup service.
 - [mliezun/caddy-snake](https://github.com/mliezun/caddy-snake) - Caddy plugin to serve Python apps
 - [shadawck/awesome-cli-frameworks](https://github.com/shadawck/awesome-cli-frameworks) - Collection of tools to build beautiful command line interface in different languages
@@ -2496,7 +2503,7 @@
 - [jedib0t/go-pretty](https://github.com/jedib0t/go-pretty) - Table-writer and more in golang!
 - [abdfnx/tran](https://github.com/abdfnx/tran) - 🖥 Securely transfer and send anything between computers with TUI.
 - [panjf2000/gnet](https://github.com/panjf2000/gnet) - 🚀 gnet is a high-performance, lightweight, non-blocking, event-driven networking framework written in pure Go.
-- [goforj/godump](https://github.com/goforj/godump) - A minimal, developer-friendly pretty-printer and debug dumper for Go structs, inspired by Laravel’s dump() and Symfony’s VarDumper.
+- [goforj/godump](https://github.com/goforj/godump) - Configurable Go value and struct dumps with colorized output, type visibility controls, and field redaction.
 - [traggo/server](https://github.com/traggo/server) - self-hosted tag-based time tracking
 - [yuin/goldmark](https://github.com/yuin/goldmark) - :trophy: The Golden Swiss Army Knife for markdown processing. 100% CommonMark compliant, AST w/ CST, Extensible, Fast, CJK-friendly.
 - [charmbracelet/glamour](https://github.com/charmbracelet/glamour) - Stylesheet-based markdown rendering for your CLI apps 💇🏻‍♀️
@@ -2944,6 +2951,7 @@
 - [koodo-reader/koodo-reader](https://github.com/koodo-reader/koodo-reader) - A modern ebook manager and reader with sync and backup capacities for Windows, macOS, Linux, Android, iOS and Web
 - [dbohdan/structured-text-tools](https://github.com/dbohdan/structured-text-tools) - A list of command-line tools for manipulating structured text data
 - [HttpErrorPages/HttpErrorPages](https://github.com/HttpErrorPages/HttpErrorPages) - :fast_forward: Simple HTTP Error Page Generator
+- [kitao/pyxel](https://github.com/kitao/pyxel) - A retro game engine for Python
 - [r04922101/LINE-Notify](https://github.com/r04922101/LINE-Notify) - A simple LINE Notify Example
 - [jgthms/bulma](https://github.com/jgthms/bulma) - Modern CSS framework based on Flexbox
 
@@ -3336,7 +3344,7 @@
 
 ## laravel 
 
-- [goforj/godump](https://github.com/goforj/godump) - A minimal, developer-friendly pretty-printer and debug dumper for Go structs, inspired by Laravel’s dump() and Symfony’s VarDumper.
+- [goforj/godump](https://github.com/goforj/godump) - Configurable Go value and struct dumps with colorized output, type visibility controls, and field redaction.
 - [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source, self-hostable PaaS alternative to Vercel, Heroku & Netlify that lets you easily deploy static sites, databases, full-stack applications and 360+ one-click services on your own servers.
 - [shadcn-ui/ui](https://github.com/shadcn-ui/ui) - Composable, accessible components with thoughtful defaults. Build your own component library with code you can customize, extend, and make your own.
 
@@ -3703,6 +3711,7 @@
 - [sooperset/mcp-atlassian](https://github.com/sooperset/mcp-atlassian) - MCP server for Atlassian tools (Confluence, Jira)
 - [openclaw/mcporter](https://github.com/openclaw/mcporter) - Call MCPs via TypeScript, masquerading as simple TypeScript API. Or package them as cli.
 - [nozomi-koborinai/gcp-cost-mcp-server](https://github.com/nozomi-koborinai/gcp-cost-mcp-server) - 💰 An MCP server that enables AI assistants to estimate Google Cloud costs, powered by Cloud Billing Catalog API and built with Genkit for Go
+- [homarr-labs/dashboard-icons](https://github.com/homarr-labs/dashboard-icons) - 3,400+ curated icons and logos for dashboards and AI agents. SVG, PNG and WEBP on a free CDN, plus an MCP server for Claude Code, Codex, ChatGPT, Cursor, Hermes and OpenClaw.
 - [rulego/rulego](https://github.com/rulego/rulego) - ⛓️RuleGo is a lightweight, high-performance, embedded, next-generation component orchestration rule engine framework for Go.
 - [holon-run/uxc](https://github.com/holon-run/uxc) - A unified CLI for discovering and invoking tools across OpenAPI, MCP, GraphQL, gRPC, and JSON-RPC
 - [markrai/scrumboy](https://github.com/markrai/scrumboy) - Self-hosted project management • Customizable boards • Cross-project workload and flow analytics • Calendar/Agenda • Sticky-note wall • Imports/Backups • Email notifications • MCP/Agent automation
@@ -4169,6 +4178,7 @@
 ## opengl 
 
 - [scallyw4g/bonsai](https://github.com/scallyw4g/bonsai) - The procedural generation voxel engine
+- [kitao/pyxel](https://github.com/kitao/pyxel) - A retro game engine for Python
 - [mifi/editly](https://github.com/mifi/editly) - Slick, declarative command line video editing & API
 
 ## operating-system 
@@ -4467,7 +4477,7 @@
 - [bedrock-kv/bedrock](https://github.com/bedrock-kv/bedrock) - An embedded, distributed key-value store with guarantees beyond ACID.
 - [0bs-chat/zerobs](https://github.com/0bs-chat/zerobs) - the ai chat app for the power users.
 - [bezhermoso/tree-sitter-ghostty](https://github.com/bezhermoso/tree-sitter-ghostty) - Tree-sitter grammar for Ghostty configuration files
-- [0xhckr/ghostty-shaders](https://github.com/0xhckr/ghostty-shaders) - A repository containing many free shaders to use with ghostty (the terminal)
+- [hackrdotsh/ghostty-shaders](https://github.com/hackrdotsh/ghostty-shaders) - A repository containing many free shaders to use with ghostty (the terminal)
 - [misirio/dbsandboxer](https://github.com/misirio/dbsandboxer) - DbSandboxer provides test isolation for Spring Boot applications by creating sandboxed database instances for integration tests.
 - [mongodb/mongodb-cli](https://github.com/mongodb/mongodb-cli) - MongoDB CLI enable you to manage your MongoDB via ops manager and cloud manager
 - [uxlfoundation/oneTBB](https://github.com/uxlfoundation/oneTBB) - oneAPI Threading Building Blocks (oneTBB)
@@ -5091,8 +5101,13 @@
 
 - [charmbracelet/harmonica](https://github.com/charmbracelet/harmonica) - A simple, physics-based animation library 🎼
 
+## pico-8 
+
+- [kitao/pyxel](https://github.com/kitao/pyxel) - A retro game engine for Python
+
 ## pixel-art 
 
+- [kitao/pyxel](https://github.com/kitao/pyxel) - A retro game engine for Python
 - [dicebear/dicebear](https://github.com/dicebear/dicebear) - DiceBear is an avatar library for designers and developers. 🌍
 
 ## portfolio 
@@ -5318,6 +5333,7 @@
 - [secdev/scapy](https://github.com/secdev/scapy) - Scapy: the Python-based interactive packet manipulation program & library.
 - [online-judge-tools/template-generator](https://github.com/online-judge-tools/template-generator) - Analyze problems of competitive programming and automatically generate boilerplate
 - [obi1kenobi/trustfall](https://github.com/obi1kenobi/trustfall) - A query engine for any combination of data sources. Query your files and APIs as if they were databases!
+- [kitao/pyxel](https://github.com/kitao/pyxel) - A retro game engine for Python
 - [StuffAnThings/qbit_manage](https://github.com/StuffAnThings/qbit_manage) - This tool will help manage tedious tasks in qBittorrent and automate them. Tag, categorize, remove Orphaned data, remove unregistered torrents and much much more.
 - [pallets/flask](https://github.com/pallets/flask) - The Python micro framework for building web applications.
 - [tconbeer/harlequin](https://github.com/tconbeer/harlequin) - The SQL IDE for Your Terminal. Now with hsql, your agent's favorite sql client.
@@ -5686,6 +5702,7 @@
 - [obi1kenobi/trustfall](https://github.com/obi1kenobi/trustfall) - A query engine for any combination of data sources. Query your files and APIs as if they were databases!
 - [FyroxEngine/Fyrox](https://github.com/FyroxEngine/Fyrox) - 3D and 2D game engine written in Rust
 - [amethyst/amethyst](https://github.com/amethyst/amethyst) - Data-oriented and data-driven game engine written in Rust
+- [kitao/pyxel](https://github.com/kitao/pyxel) - A retro game engine for Python
 - [bevyengine/bevy](https://github.com/bevyengine/bevy) - A refreshingly simple data-driven game engine built in Rust
 - [wezterm/wezterm](https://github.com/wezterm/wezterm) - A GPU-accelerated cross-platform terminal emulator and multiplexer written by @wez and implemented in Rust
 - [ekzhang/bore](https://github.com/ekzhang/bore) - 🕳 bore is a simple CLI tool for making tunnels to localhost
@@ -5809,7 +5826,7 @@
 - [labstack/fanout](https://github.com/labstack/fanout) - Single-binary observability platform. Ingest OTLP, store as Parquet, query with DuckDB.
 - [labstack/onebox](https://github.com/labstack/onebox) - onebox (ob) — plan-before-apply deploys. Zero downtime. One box.
 - [rcarmo/piclaw](https://github.com/rcarmo/piclaw) - pi coding agent in a technicolor web trenchcoat
-- [homarr-labs/dashboard-icons](https://github.com/homarr-labs/dashboard-icons) - Your definitive source for dashboard icons.
+- [homarr-labs/dashboard-icons](https://github.com/homarr-labs/dashboard-icons) - 3,400+ curated icons and logos for dashboards and AI agents. SVG, PNG and WEBP on a free CDN, plus an MCP server for Claude Code, Codex, ChatGPT, Cursor, Hermes and OpenClaw.
 - [distr-sh/distr](https://github.com/distr-sh/distr) - The Open Source control plane for self-hosted, BYOC, and on-prem deployments. Everything you need to distribute applications to self-hosted customers out of the box. Supporting Docker Compose, Docker 
 - [liketrek/TREK](https://github.com/liketrek/TREK) - A self-hosted travel/trip planner with real-time collaboration, interactive maps, PWA support, SSO, budgets, packing lists, and more.
 - [markrai/scrumboy](https://github.com/markrai/scrumboy) - Self-hosted project management • Customizable boards • Cross-project workload and flow analytics • Calendar/Agenda • Sticky-note wall • Imports/Backups • Email notifications • MCP/Agent automation
