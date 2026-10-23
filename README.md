@@ -1404,6 +1404,7 @@
 - [crystalidea/macs-fan-control](https://github.com/crystalidea/macs-fan-control) - Control fans on Apple computers
 - [catppuccin/ghostty](https://github.com/catppuccin/ghostty) - 👻 Soothing pastel theme for Ghostty
 - [rothgar/awesome-tuis](https://github.com/rothgar/awesome-tuis) - List of projects that provide terminal user interfaces
+- [awesome-jellyfin/awesome-jellyfin](https://github.com/awesome-jellyfin/awesome-jellyfin) - A Collection of Awesome Jellyfin Plugins, Themes, Guides and More!
 - [nCally/Project-Based-Tutorials-in-C](https://github.com/nCally/Project-Based-Tutorials-in-C) - A curated list of project-based tutorials in C
 - [waydabber/BetterDisplay](https://github.com/waydabber/BetterDisplay) - Unlock your displays on your Mac. Flexible HiDPI scaling, XDR/HDR extra brightness, virtual screens, DDC control, image adjustments, PIP/streaming, EDID override. More info -  betterdisplay.pro/guide
 - [nostr-protocol/nostr](https://github.com/nostr-protocol/nostr) - a truly censorship-resistant alternative to Twitter that has a chance of working
@@ -1856,10 +1857,10 @@
 - [microsoft/tgrep](https://github.com/microsoft/tgrep) - Trigram-indexed grep with a client/server architecture for fast regex search in large codebases locally
 - [tikv/agatedb](https://github.com/tikv/agatedb) - A persistent key-value storage in rust.
 - [pollen-robotics/microduck](https://github.com/pollen-robotics/microduck) - A Tiny biped duck robot 🦆
-- [servo/rust-smallvec](https://github.com/servo/rust-smallvec) - "Small vector" optimization for Rust: store up to a small number of items on the stack
+- [servo/rust-smallvec](https://github.com/servo/rust-smallvec) - 'Small vector' optimization for Rust: store up to a small number of items on the stack
 - [benwtrent/drain-rs](https://github.com/benwtrent/drain-rs) - Implementation of the drain log categorization algorithm in Rust
 - [databendlabs/databend](https://github.com/databendlabs/databend) - Data Agent Ready Warehouse : One for  Analytics, Search, AI, Python Sandbox.  — rebuilt from scratch. Unified architecture on your S3.
-- [pauloremoli/logana](https://github.com/pauloremoli/logana) - Terminal log analyzer built in Rust with instant filtering, structured field parsing, compressed file support, Docker/OTel streaming, and MCP integration.
+- [pauloremoli/logana](https://github.com/pauloremoli/logana) - Log analyzer built in Rust (TUI and GUI)
 - [probablySophie/ledgerr](https://github.com/probablySophie/ledgerr) - A simple plain-text time and finance tracking library
 - [mpecan/tokf](https://github.com/mpecan/tokf) - Config-driven CLI tool that compresses command output before it reaches an LLM context
 - [mpecan/rable](https://github.com/mpecan/rable) - A complete GNU Bash 5.3-compatible parser written in Rust — 100% compatible reimplementation of Parable with Python bindings via PyO3, ~10x faster
@@ -2125,7 +2126,6 @@
 - [Geczy/coolify-migration](https://github.com/Geczy/coolify-migration) - 
 - [nickeb96/puffer-fish](https://github.com/nickeb96/puffer-fish) - 🐡 Text Expansions for Fish
 - [obra/superpowers](https://github.com/obra/superpowers) - An agentic skills framework & software development methodology that works.
-- [awesome-jellyfin/awesome-jellyfin](https://github.com/awesome-jellyfin/awesome-jellyfin) - A Collection of Awesome Jellyfin Plugins, Themes, Guides and More!
 - [orhun/dotfiles](https://github.com/orhun/dotfiles) - Orhun's Arch Linux configuration files and scripts 🏠
 - [firecracker-microvm/firecracker-demo](https://github.com/firecracker-microvm/firecracker-demo) - A demo running 4000 Firecracker microVMs.
 - [bats-core/bats-core](https://github.com/bats-core/bats-core) - Bash Automated Testing System
