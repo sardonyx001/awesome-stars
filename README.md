@@ -1096,6 +1096,7 @@
 
 - [semantic-release/cli](https://github.com/semantic-release/cli) - :cl::round_pushpin: Setup automated semver compliant package publishing
 - [OAI/Arazzo-Specification](https://github.com/OAI/Arazzo-Specification) - The Arazzo Specification - A Tapestry for Deterministic API Workflows
+- [ain3sh/.agents](https://github.com/ain3sh/.agents) - 
 - [gildas-lormeau/SingleFile](https://github.com/gildas-lormeau/SingleFile) - Web Extension for saving a faithful copy of a complete web page in a single HTML file
 - [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) - Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.
 - [openwrt/luci](https://github.com/openwrt/luci) - LuCI - OpenWrt Configuration Interface
@@ -1527,7 +1528,6 @@
 - [littledivy/mimic](https://github.com/littledivy/mimic) - Intercept any app, then call it from Python like a library
 - [kubernetes-client/python](https://github.com/kubernetes-client/python) - Official Python client library for kubernetes
 - [cpatrickalves/plane-cli](https://github.com/cpatrickalves/plane-cli) - A command-line interface for https://plane.so, an open-source project management tool. The CLI allows you to manage projects, work items, modules, documents, comments, and users directly from the term
-- [ain3sh/.agents](https://github.com/ain3sh/.agents) - 
 - [usemoss/moss](https://github.com/usemoss/moss) - The retrieval layer for production AI systems. Lightning-fast (&lt;10ms) search without vector databases. Built for browser, edge, on-device, and cloud.
 - [MohammadRaziei/mermaidx](https://github.com/MohammadRaziei/mermaidx) - Python-native Mermaid diagram converter – no browser, Node.js, or npm required. Renders diagrams to SVG/PNG/PDF using an embedded QuickJS engine and resvg, perfect for documentation automation and CI/
 - [sphinx-contrib/confluencebuilder](https://github.com/sphinx-contrib/confluencebuilder) - Confluence Markup Builder Plugin for Sphinx
