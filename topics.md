@@ -4216,6 +4216,7 @@
 
 ## others 
 
+- [egoist/gorex](https://github.com/egoist/gorex) - Rex terminal clone in MyGo native UI
 - [facebookincubator/katran](https://github.com/facebookincubator/katran) - A high performance layer 4 load balancer
 - [vercel-labs/tsc-ts](https://github.com/vercel-labs/tsc-ts) - TypeScript written in TypeScript
 - [cloudflare/cf](https://github.com/cloudflare/cf) - The agentic CLI for the entire Cloudflare API
