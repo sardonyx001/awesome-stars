@@ -339,6 +339,7 @@
 
 ## Go 
 
+- [egoist/gorex](https://github.com/egoist/gorex) - Rex terminal clone in MyGo native UI
 - [hmdsefi/gograph](https://github.com/hmdsefi/gograph) - Generic graph data structures and algorithms for Go (Golang): dependency graphs (DAGs) with cycle checks and topological sort, BFS and DFS traversal, Dijkstra and other shortest paths, connectivity an
 - [cilium/cilium](https://github.com/cilium/cilium) - eBPF-based Networking, Security, and Observability
 - [speakeasy-api/openapi-generation](https://github.com/speakeasy-api/openapi-generation) - Open-source OpenAPI SDK generator for building production-ready client libraries. Available under AGPL-3.0; contact Speakeasy for commercial licensing options.
