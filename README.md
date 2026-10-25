@@ -2236,6 +2236,7 @@
 
 ## TypeScript 
 
+- [cloudflare/serverless-registry](https://github.com/cloudflare/serverless-registry) - A container registry backed by Workers and R2.
 - [vercel-labs/tsc-ts](https://github.com/vercel-labs/tsc-ts) - TypeScript written in TypeScript
 - [zuplo/zudoku](https://github.com/zuplo/zudoku) - Framework for building high quality, interactive API documentation.
 - [cloudflare/cf](https://github.com/cloudflare/cf) - The agentic CLI for the entire Cloudflare API
