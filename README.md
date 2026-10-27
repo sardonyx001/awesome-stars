@@ -2239,6 +2239,7 @@
 
 ## TypeScript 
 
+- [open-circle/formisch](https://github.com/open-circle/formisch) - The lightweight, schema-first, and fully type-safe form library for React, Solid, Vue, Svelte and more.
 - [cloudflare/serverless-registry](https://github.com/cloudflare/serverless-registry) - A container registry backed by Workers and R2.
 - [vercel-labs/tsc-ts](https://github.com/vercel-labs/tsc-ts) - TypeScript written in TypeScript
 - [zuplo/zudoku](https://github.com/zuplo/zudoku) - Framework for building high quality, interactive API documentation.
@@ -2629,6 +2630,7 @@
 
 ## Zig 
 
+- [zigtools/zls](https://github.com/zigtools/zls) - A language server for Zig supporting developers with features like autocomplete and goto definition
 - [vercel-labs/fx](https://github.com/vercel-labs/fx) - Unix like coding agent
 - [lightpanda-io/browser](https://github.com/lightpanda-io/browser) - Lightpanda: the headless browser designed for AI and automation
 - [satibot/satibot](https://github.com/satibot/satibot) - satibot is a lightweight, memory-aware AI agent, built in Zig for performance, with very simple local first vector search, web search, and file access capabilities. Inspired by OpenClawd and nanobot. 
