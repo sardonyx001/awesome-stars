@@ -1884,7 +1884,7 @@
 - [sarub0b0/kubetui](https://github.com/sarub0b0/kubetui) - An intuitive Terminal User Interface (TUI) tool for real-time monitoring and exploration of Kubernetes resources
 - [turbopuffer/alyze](https://github.com/turbopuffer/alyze) - Tokenization and analysis pipeline for full-text search
 - [servo/servo](https://github.com/servo/servo) - Servo aims to empower developers with a lightweight, high-performance alternative for embedding web technologies in applications.
-- [facebook/pyrefly](https://github.com/facebook/pyrefly) - A fast type checker and language server for Python
+- [meta/pyrefly](https://github.com/meta/pyrefly) - A fast type checker and language server for Python
 - [compio-rs/compio](https://github.com/compio-rs/compio) - A thread-per-core async Rust runtime with IOCP/io_uring/polling.
 - [Sollimann/bonsai](https://github.com/Sollimann/bonsai) - Rust implementation of behavior trees for deterministic AI (now with Python bindings)
 - [jnsahaj/lumen](https://github.com/jnsahaj/lumen) - Beautiful git diff viewer, generate commits with AI, get summary of changes, all from the CLI
@@ -1907,7 +1907,7 @@
 - [lycheeverse/lychee](https://github.com/lycheeverse/lychee) - ⚡ Fast, async, stream-based link checker written in Rust. Finds broken URLs and mail addresses inside Markdown, HTML, reStructuredText, websites and more!
 - [holon-run/holon](https://github.com/holon-run/holon) - Open-source software for individuals and teams to create and run AI assistants on their own computers or servers. Assign tasks, track progress, and let them follow up on ongoing work.
 - [lux-db/lux](https://github.com/lux-db/lux) - A Redis-compatable key-value store. Up to 10x faster. Native vector support.
-- [facebook/sapling](https://github.com/facebook/sapling) - A Scalable, User-Friendly Source Control System.
+- [meta/sapling](https://github.com/meta/sapling) - A Scalable, User-Friendly Source Control System.
 - [rustfs/rustfs](https://github.com/rustfs/rustfs) - RustFS is an open-source, S3-compatible high-performance object storage system supporting migration and coexistence with other S3-compatible platforms such as MinIO and Ceph.
 - [kamoshi/hauchiwa](https://github.com/kamoshi/hauchiwa) - Flexible static site generator library with incremental rebuilds and cached image optimization
 - [robustmq/robustmq](https://github.com/robustmq/robustmq) - Communication infrastructure for the AI era — one binary, one broker, one storage layer, any protocol
@@ -2363,7 +2363,7 @@
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
 - [vermaysha/elysia-compress](https://github.com/vermaysha/elysia-compress) - Elysia Compression utils that works with Bun
 - [danger/danger-js](https://github.com/danger/danger-js) - ⚠️ Stop saying "you forgot to …" in code review
-- [facebook/docusaurus](https://github.com/facebook/docusaurus) - Easy to maintain open source documentation websites.
+- [meta/docusaurus](https://github.com/meta/docusaurus) - Easy to maintain open source documentation websites.
 - [OpenCut-app/OpenCut](https://github.com/OpenCut-app/OpenCut) - The open-source CapCut alternative
 - [0bs-chat/zerobs](https://github.com/0bs-chat/zerobs) - the ai chat app for the power users.
 - [mongodb-js/mongosh](https://github.com/mongodb-js/mongosh) - The MongoDB Shell
