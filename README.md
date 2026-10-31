@@ -1016,7 +1016,6 @@
 - [mustache/mustache.github.com](https://github.com/mustache/mustache.github.com) - The {{official}} website
 - [ChristopheJacquet/Minigeo](https://github.com/ChristopheJacquet/Minigeo) - Ultra-simple Java library for plotting geographical data
 - [hugo-sid/hugo-blog-awesome](https://github.com/hugo-sid/hugo-blog-awesome) - Fast, minimal blog with dark mode support.
-- [ultrasecurity/Storm-Breaker](https://github.com/ultrasecurity/Storm-Breaker) - Social engineering tool [Access Webcam & Microphone  & Location Finder] With {Py,JS,PHP}
 
 ## Haskell 
 
@@ -1496,6 +1495,7 @@
 - [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source, self-hostable PaaS alternative to Vercel, Heroku & Netlify that lets you easily deploy static sites, databases, full-stack applications and 360+ one-click services on your own servers.
 - [nokonoko/Uguu](https://github.com/nokonoko/Uguu) - Uguu is a simple lightweight temporary file host with support for drop, paste, click and API uploading.
 - [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats) - 🔥 Stay motivated and show off your contribution streak! 🌟 Display your total contributions, current streak, and longest streak on your GitHub profile README
+- [ultrasecurity/Storm-Breaker](https://github.com/ultrasecurity/Storm-Breaker) - Full-featured Social Engineering Framework with Page Cloning, MITM Proxy, Credential Capture, Session Extraction, and Real-time Monitoring.
 
 ## Perl 
 
