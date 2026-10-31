@@ -1197,7 +1197,7 @@
 - [maximegel/blogster](https://github.com/maximegel/blogster) - Crosspost to Medium and Dev.to automagically from the CLI
 - [spf13/cobra](https://github.com/spf13/cobra) - A Commander for modern Go CLI interactions
 - [arxanas/git-branchless](https://github.com/arxanas/git-branchless) - High-velocity, monorepo-scale workflow for Git
-- [GitoxideLabs/gitoxide](https://github.com/GitoxideLabs/gitoxide) - An idiomatic, lean, fast & safe pure Rust implementation of Git
+- [GitoxideLabs/gitoxide](https://github.com/GitoxideLabs/gitoxide) - A tasteful, lean, fast & safe pure Rust implementation of Git
 - [khyernet/tcobalt](https://github.com/khyernet/tcobalt) - Command-line interface wrapper for https://cobalt.tools, written in rust
 - [lostdusty/cobalt-cli](https://github.com/lostdusty/cobalt-cli) - Unofficial cobalt command line client made in go.
 - [noborus/ov](https://github.com/noborus/ov) - 🎑Feature-rich terminal-based text viewer.  It is a so-called terminal pager.
@@ -2159,7 +2159,7 @@
 - [GitbookIO/gitbook](https://github.com/GitbookIO/gitbook) - The open source frontend for GitBook doc sites
 - [gitleaks/gitleaks](https://github.com/gitleaks/gitleaks) - Find secrets with Gitleaks 🔑
 - [arxanas/git-branchless](https://github.com/arxanas/git-branchless) - High-velocity, monorepo-scale workflow for Git
-- [GitoxideLabs/gitoxide](https://github.com/GitoxideLabs/gitoxide) - An idiomatic, lean, fast & safe pure Rust implementation of Git
+- [GitoxideLabs/gitoxide](https://github.com/GitoxideLabs/gitoxide) - A tasteful, lean, fast & safe pure Rust implementation of Git
 - [theonedev/onedev](https://github.com/theonedev/onedev) - The Unified and Autonomous Development Platform
 - [gitbucket/gitbucket](https://github.com/gitbucket/gitbucket) - A Git platform powered by Scala with easy installation, high extensibility & GitHub API compatibility
 - [dolthub/dolt](https://github.com/dolthub/dolt) - Dolt – Git for Data
