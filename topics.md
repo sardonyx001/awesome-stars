@@ -4238,6 +4238,8 @@
 
 ## others 
 
+- [phoboslab/qoi](https://github.com/phoboslab/qoi) - The “Quite OK Image Format” for fast, lossless image compression
+- [lancedb/lancedb](https://github.com/lancedb/lancedb) - Developer-friendly OSS embedded retrieval library for multimodal AI. Search More; Manage Less.
 - [adamalexandru4/pgmq-spring](https://github.com/adamalexandru4/pgmq-spring) - PGMQ Java client using Spring framework
 - [google/capsem](https://github.com/google/capsem) - 
 - [ant-src/ant](https://github.com/ant-src/ant) - The Ant programming language
