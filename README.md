@@ -198,6 +198,7 @@
 
 ## C++ 
 
+- [google/boringssl](https://github.com/google/boringssl) - Mirror of BoringSSL
 - [cloudflare/workerd](https://github.com/cloudflare/workerd) - The JavaScript / Wasm runtime that powers Cloudflare Workers
 - [snuri00/ps2-web-recomp](https://github.com/snuri00/ps2-web-recomp) - PS2 games in the browser: static recompilation to WebAssembly with a native runtime
 - [yhirose/cpp-httplib](https://github.com/yhirose/cpp-httplib) - A C++ header-only HTTP/HTTPS server and client library
@@ -340,6 +341,7 @@
 
 ## Go 
 
+- [google/trillian](https://github.com/google/trillian) - A transparent, highly scalable and cryptographically verifiable data store.
 - [ant-src/ant](https://github.com/ant-src/ant) - The Ant programming language
 - [vigolium/vigolium](https://github.com/vigolium/vigolium) - Vigolium - High-fidelity vulnerability scanner fusing agentic AI with native speed, modularity, and precision
 - [dwisiswant0/semctx](https://github.com/dwisiswant0/semctx) - Semantic code context for AI agents.
@@ -1846,6 +1848,8 @@
 
 ## Rust 
 
+- [google/wasefire](https://github.com/google/wasefire) - Secure firmware framework focusing on developer experience
+- [google/magika](https://github.com/google/magika) - Fast and accurate AI powered file content types detection
 - [lancedb/lancedb](https://github.com/lancedb/lancedb) - Developer-friendly OSS embedded retrieval library for multimodal AI. Search More; Manage Less.
 - [google/capsem](https://github.com/google/capsem) - 
 - [emilk/egui](https://github.com/emilk/egui) - egui: an easy-to-use immediate mode GUI in Rust that runs on both web and native
