@@ -404,6 +404,7 @@
 
 ## ai 
 
+- [google/magika](https://github.com/google/magika) - Fast and accurate AI powered file content types detection
 - [morluto/rea](https://github.com/morluto/rea) - Reverse engineer anything with agents, from app behavior down to native binaries.
 - [Agent-Field/CodeAF](https://github.com/Agent-Field/CodeAF) - Open-Source Software factory for Open Models
 - [databendlabs/databend](https://github.com/databendlabs/databend) - Data Agent Ready Warehouse : One for  Analytics, Search, AI, Python Sandbox.  — rebuilt from scratch. Unified architecture on your S3.
@@ -1581,6 +1582,7 @@
 
 ## deep-learning 
 
+- [google/magika](https://github.com/google/magika) - Fast and accurate AI powered file content types detection
 - [kuberay-project/kuberay](https://github.com/kuberay-project/kuberay) - A toolkit to run Ray applications on Kubernetes
 - [mlc-ai/web-llm](https://github.com/mlc-ai/web-llm) - High-performance In-browser LLM Inference Engine
 - [ray-project/ray](https://github.com/ray-project/ray) - Ray is an AI compute engine. Ray consists of a core distributed runtime and a set of AI Libraries for accelerating ML workloads.
@@ -1902,6 +1904,7 @@
 
 ## embedded 
 
+- [google/wasefire](https://github.com/google/wasefire) - Secure firmware framework focusing on developer experience
 - [nasa/fprime](https://github.com/nasa/fprime) - F´ - A flight software and embedded systems framework
 - [alibaba/zvec](https://github.com/alibaba/zvec) - A lightweight, lightning-fast, in-process vector database
 - [u-root/u-root](https://github.com/u-root/u-root) - A fully Go userland with Linux bootloaders! u-root can create a one-binary root file system (initramfs) containing a busybox-like set of tools written in Go.
@@ -2008,6 +2011,7 @@
 
 ## framework 
 
+- [google/wasefire](https://github.com/google/wasefire) - Secure firmware framework focusing on developer experience
 - [cloudwego/kitex](https://github.com/cloudwego/kitex) - Go RPC framework with high-performance and strong-extensibility for building micro-services.
 - [nasa/fprime](https://github.com/nasa/fprime) - F´ - A flight software and embedded systems framework
 - [vercel/eve](https://github.com/vercel/eve) - The Open Framework for Building Agents
@@ -3091,6 +3095,7 @@
 
 ## iot 
 
+- [google/wasefire](https://github.com/google/wasefire) - Secure firmware framework focusing on developer experience
 - [rulego/rulego](https://github.com/rulego/rulego) - ⛓️RuleGo is a lightweight, high-performance, embedded, next-generation component orchestration rule engine framework for Go.
 - [home-assistant/core](https://github.com/home-assistant/core) - :house_with_garden: Open source home automation that puts local control and privacy first.
 - [kuzzleio/kuzzle](https://github.com/kuzzleio/kuzzle) - Open-source Back-end, self-hostable & ready to use - Real-time, storage, advanced search - Web, Apps, Mobile, IoT -
@@ -4243,6 +4248,8 @@
 
 ## others 
 
+- [google/trillian](https://github.com/google/trillian) - A transparent, highly scalable and cryptographically verifiable data store.
+- [google/boringssl](https://github.com/google/boringssl) - Mirror of BoringSSL
 - [phoboslab/qoi](https://github.com/phoboslab/qoi) - The “Quite OK Image Format” for fast, lossless image compression
 - [lancedb/lancedb](https://github.com/lancedb/lancedb) - Developer-friendly OSS embedded retrieval library for multimodal AI. Search More; Manage Less.
 - [adamalexandru4/pgmq-spring](https://github.com/adamalexandru4/pgmq-spring) - PGMQ Java client using Spring framework
@@ -5632,6 +5639,7 @@
 
 ## rust 
 
+- [google/wasefire](https://github.com/google/wasefire) - Secure firmware framework focusing on developer experience
 - [morluto/rea](https://github.com/morluto/rea) - Reverse engineer anything with agents, from app behavior down to native binaries.
 - [emilk/egui](https://github.com/emilk/egui) - egui: an easy-to-use immediate mode GUI in Rust that runs on both web and native
 - [denoland/deno](https://github.com/denoland/deno) - A modern runtime for JavaScript and TypeScript.
@@ -5807,6 +5815,7 @@
 
 ## security 
 
+- [google/wasefire](https://github.com/google/wasefire) - Secure firmware framework focusing on developer experience
 - [vigolium/vigolium](https://github.com/vigolium/vigolium) - Vigolium - High-fidelity vulnerability scanner fusing agentic AI with native speed, modularity, and precision
 - [cilium/cilium](https://github.com/cilium/cilium) - eBPF-based Networking, Security, and Observability
 - [morluto/rea](https://github.com/morluto/rea) - Reverse engineer anything with agents, from app behavior down to native binaries.
