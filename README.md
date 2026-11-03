@@ -316,7 +316,6 @@
 
 ## Elixir 
 
-- [agntcy/oasf](https://github.com/agntcy/oasf) - Open Agentic Schema Framework
 - [bedrock-kv/bedrock](https://github.com/bedrock-kv/bedrock) - An embedded, distributed key-value store with guarantees beyond ACID.
 - [fuelen/owl](https://github.com/fuelen/owl) - A toolkit for writing command-line user interfaces.
 
@@ -436,6 +435,7 @@
 - [yindia/iapetus](https://github.com/yindia/iapetus) - Automate, test, and orchestrate anything that runs in a shell, container, or cloud. No vendor lock-in. 100% open source.
 - [yindia/rootcause](https://github.com/yindia/rootcause) - RootCause is a local-first MCP server that turns natural-language requests into evidence-backed incident analysis, Kubernetes diagnostics, and safer operations.
 - [janosmiko/vau](https://github.com/janosmiko/vau) - 🔒 A yazi-inspired terminal UI for browsing and editing HashiCorp Vault KV secrets.
+- [agntcy/oasf](https://github.com/agntcy/oasf) - Open Agentic Schema Framework
 - [mhiro2/seedling](https://github.com/mhiro2/seedling) - Dependency-aware test data builder for Go that resolves foreign-key DB relationships automatically.
 - [wahrwelt-kit/go-pgkit](https://github.com/wahrwelt-kit/go-pgkit) - 
 - [bunniesandbeatings/goerkin](https://github.com/bunniesandbeatings/goerkin) - Gherkin DSL for Ginkgo
@@ -506,7 +506,7 @@
 - [codesenberg/bombardier](https://github.com/codesenberg/bombardier) - Fast cross-platform HTTP benchmarking tool written in Go
 - [duckdb/duckdb-go](https://github.com/duckdb/duckdb-go) - duckdb-go provides a database/sql driver for the DuckDB database engine.
 - [saljam/webwormhole](https://github.com/saljam/webwormhole) - Peer authenticated WebRTC. A WebRTC-based clone of magic-wormhole.
-- [seaweedfs/seaweedfs](https://github.com/seaweedfs/seaweedfs) - SeaweedFS is a distributed storage system for object storage (S3), file systems, and Iceberg tables, designed to handle billions of files with O(1) disk access and effortless horizontal scaling.
+- [seaweedfs/seaweedfs](https://github.com/seaweedfs/seaweedfs) - SeaweedFS is a distributed storage system for object storage (S3), file systems, Iceberg table buckets, and Lance vector buckets, designed to handle billions of files with O(1) disk access and effortl
 - [confighub/sdk](https://github.com/confighub/sdk) - ConfigHub SDK for building custom API clients, workers and other tools
 - [kubernetes-sigs/kustomize](https://github.com/kubernetes-sigs/kustomize) - Customization of kubernetes YAML configurations
 - [k3s-io/kine](https://github.com/k3s-io/kine) - Run Kubernetes on MySQL, Postgres, sqlite, not etcd.
@@ -725,7 +725,6 @@
 - [evan-buss/openbooks](https://github.com/evan-buss/openbooks) - Search and Download eBooks
 - [blacktop/ipsw](https://github.com/blacktop/ipsw) - iOS/macOS Research Swiss Army Knife
 - [bakks/butterfish](https://github.com/bakks/butterfish) - A shell with AI superpowers
-- [dokku/dokku](https://github.com/dokku/dokku) - A docker-powered PaaS that helps you build and manage the lifecycle of applications
 - [ory/hydra](https://github.com/ory/hydra) - Internet-scale OpenID Certified™ OpenID Connect and OAuth2.1 provider that integrates with your user management through headless APIs. Solve OIDC/OAuth2 user cases over night. Consume as a service on 
 - [go-shiori/shiori](https://github.com/go-shiori/shiori) - Simple bookmark manager built with Go
 - [tsliwowicz/go-wrk](https://github.com/tsliwowicz/go-wrk) - go-wrk - a HTTP benchmarking tool based in spirit on the excellent wrk tool (https://github.com/wg/wrk)
@@ -1396,6 +1395,7 @@
 
 ## Others 
 
+- [Kohei-Wada/houritsu](https://github.com/Kohei-Wada/houritsu) - Japanese laws as git history, one commit per amendment (generated from the e-Gov law API)
 - [algolia/kubernetes-hands-on](https://github.com/algolia/kubernetes-hands-on) - Kubernetes Hands-on by Algolia
 - [YintongHuo/awesome-agent-trajectory](https://github.com/YintongHuo/awesome-agent-trajectory) - A collection of agent trajectory analysis techniques and benchmark
 - [christopherkade/awesome-dev-websites](https://github.com/christopherkade/awesome-dev-websites) - 📄 A curated list of awesome developer personal websites
@@ -1512,6 +1512,8 @@
 
 ## Python 
 
+- [baserow/baserow](https://github.com/baserow/baserow) - Build databases, automations, apps & agents with AI — no code.  Open source platform available on cloud and self-hosted. GDPR, HIPAA, SOC 2 compliant. Best Airtable alternative.
+- [celery/kombu](https://github.com/celery/kombu) - Messaging library for Python.
 - [scikit-rf/scikit-rf](https://github.com/scikit-rf/scikit-rf) - RF and Microwave Engineering Scikit
 - [google/elephant-goldfish-model](https://github.com/google/elephant-goldfish-model) - Open-source skills for designing and reviewing software with AI agents
 - [dwisiswant0/apkleaks](https://github.com/dwisiswant0/apkleaks) - Scanning APK file for URIs, endpoints & secrets.
@@ -1539,7 +1541,6 @@
 - [littledivy/mimic](https://github.com/littledivy/mimic) - Intercept any app, then call it from Python like a library
 - [kubernetes-client/python](https://github.com/kubernetes-client/python) - Official Python client library for kubernetes
 - [cpatrickalves/plane-cli](https://github.com/cpatrickalves/plane-cli) - A command-line interface for https://plane.so, an open-source project management tool. The CLI allows you to manage projects, work items, modules, documents, comments, and users directly from the term
-- [ain3sh/.agents](https://github.com/ain3sh/.agents) - 
 - [usemoss/moss](https://github.com/usemoss/moss) - The retrieval layer for production AI systems. Lightning-fast (&lt;10ms) search without vector databases. Built for browser, edge, on-device, and cloud.
 - [MohammadRaziei/mermaidx](https://github.com/MohammadRaziei/mermaidx) - Python-native Mermaid diagram converter – no browser, Node.js, or npm required. Renders diagrams to SVG/PNG/PDF using an embedded QuickJS engine and resvg, perfect for documentation automation and CI/
 - [sphinx-contrib/confluencebuilder](https://github.com/sphinx-contrib/confluencebuilder) - Confluence Markup Builder Plugin for Sphinx
@@ -1848,6 +1849,7 @@
 
 ## Rust 
 
+- [rvben/rumdl](https://github.com/rvben/rumdl) - Fast Markdown linter and formatter written in Rust
 - [google/wasefire](https://github.com/google/wasefire) - Secure firmware framework focusing on developer experience
 - [google/magika](https://github.com/google/magika) - Fast and accurate AI powered file content types detection
 - [lancedb/lancedb](https://github.com/lancedb/lancedb) - Developer-friendly OSS embedded retrieval library for multimodal AI. Search More; Manage Less.
@@ -2153,6 +2155,7 @@
 - [JonasAlfredsson/docker-nginx-certbot](https://github.com/JonasAlfredsson/docker-nginx-certbot) - Automatically create and renew website certificates for free using the Let's Encrypt certificate authority.
 - [babarot/enhancd](https://github.com/babarot/enhancd) - :rocket: A next-generation cd command with your interactive filter
 - [baker-scripts/StarrScripts](https://github.com/baker-scripts/StarrScripts) - Bash scripts for Starr apps (Radarr, Sonarr, Lidarr, Readarr) — custom formats, naming, and automation
+- [dokku/dokku](https://github.com/dokku/dokku) - A docker-powered PaaS that helps you build and manage the lifecycle of applications
 - [StamusNetworks/Clear-NDR-ISO](https://github.com/StamusNetworks/Clear-NDR-ISO) - A Suricata based NDR distribution
 - [franciscolourenco/done](https://github.com/franciscolourenco/done) - A fish-shell package to automatically receive notifications when long processes finish.
 - [orbstack/orbstack](https://github.com/orbstack/orbstack) - Fast, light, simple Docker containers & Linux machines
@@ -2285,8 +2288,9 @@
 - [giscus/giscus](https://github.com/giscus/giscus) - A commenting system powered by GitHub Discussions. :octocat: :speech_balloon: :gem:
 - [jvm/usql-mcp](https://github.com/jvm/usql-mcp) - usql MCP Server
 - [inkeep/open-knowledge](https://github.com/inkeep/open-knowledge) - Beautiful, AI-native markdown IDE and LLM wiki
-- [backnotprop/plannotator](https://github.com/backnotprop/plannotator) - Annotate and review coding agent plans and code diffs visually, share with your team, send feedback to agents with one click.
+- [backnotprop/plannotator](https://github.com/backnotprop/plannotator) - The workspace to stay in the loop and on top of agents - shape, decide, plan, annotate, review code, share with team, and send all feedback to agents with one click.
 - [DetachHead/basedpyright](https://github.com/DetachHead/basedpyright) - pyright fork with various type checking improvements, improved vscode support and pylance features built into the language server
+- [ain3sh/.agents](https://github.com/ain3sh/.agents) - 
 - [UsefulSoftwareCo/executor](https://github.com/UsefulSoftwareCo/executor) - The missing integration layer for AI agents. Let them call any OpenAPI / MCP / GraphQL / custom js functions in secure environment.
 - [Openpanel-dev/groupmq](https://github.com/Openpanel-dev/groupmq) - A fast, reliable Redis-backed per-group FIFO queue for Node + TypeScript with guaranteed job ordering and parallel processing across groups.
 - [The-Context-Company/observatory](https://github.com/The-Context-Company/observatory) - 
@@ -2542,7 +2546,7 @@
 - [itsyoboieltr/elysia-filesystem-router](https://github.com/itsyoboieltr/elysia-filesystem-router) - 
 - [elysiajs/elysia](https://github.com/elysiajs/elysia) - Ergonomic Framework for Humans
 - [modernized-js/arXiv-api](https://github.com/modernized-js/arXiv-api) - arXiv-api - A Javascript wrapper of arxiv api.
-- [lucide-icons/lucide](https://github.com/lucide-icons/lucide) - Beautiful & consistent icon toolkit made by the community. Open-source project and a fork of Feather Icons.
+- [lucide-icons/lucide](https://github.com/lucide-icons/lucide) - Beautiful & consistent icon toolkit made by the community. Lucide is an open-source icon library that provides 2000+ vector (svg) files for displaying icons and symbols in digital and non-digital proj
 - [omar-dulaimi/prisma-zod-generator](https://github.com/omar-dulaimi/prisma-zod-generator) - Prisma 2+ generator to emit Zod schemas from your Prisma schema
 - [valtyr/prisma-kysely](https://github.com/valtyr/prisma-kysely) - 🪄 Generate Kysely types directly from your Prisma schema!
 - [prisma/studio](https://github.com/prisma/studio) - 🎙️ The easiest way to explore and manipulate your data in all of your Prisma projects.
