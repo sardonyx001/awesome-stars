@@ -94,7 +94,7 @@
 - [facebookincubator/katran](https://github.com/facebookincubator/katran) - A high performance layer 4 load balancer
 - [Telodendria/Telodendria](https://github.com/Telodendria/Telodendria) - Telodendria is an open source Matrix homeserver implementation written from scratch in ANSI C and designed to be lightweight and simple, yet functional. This is the official read-only mirror of the up
 - [Mithril-mine/libmdbx](https://github.com/Mithril-mine/libmdbx) - Fastfull embedded transactional key-value storage engine ★ Surpasses the legendary LMDB in reliability, capabilities and performance ★ Used in hundreds of open source projects, including Ethereum.
-- [JustVugg/colibri](https://github.com/JustVugg/colibri) - Run frontier MoE models on hardware you already own — pure C, zero deps, experts streamed from disk. Tiny engine, immense model. 🐦
+- [JustVugg/colibri](https://github.com/JustVugg/colibri) - A hierarchical inference engine for frontier MoE models: hot experts on the GPU (CUDA, Vulkan), warm ones in RAM, cold ones streamed from NVMe. Written in C, runs on the hardware you already own.
 - [kees/kernel-tools](https://github.com/kees/kernel-tools) - Tools for doing upstream Linux kernel development, patch wrangling, builds, and testing
 - [OleksandrChekhovskyi/hax](https://github.com/OleksandrChekhovskyi/hax) - A minimalist, terminal-native coding agent written in C.
 - [KSPP/linux](https://github.com/KSPP/linux) - Linux kernel source tree (Kernel Self Protection Project)
@@ -1579,7 +1579,6 @@
 - [rendercv/rendercv](https://github.com/rendercv/rendercv) - Resume builder for academics and engineers
 - [exo-explore/exo](https://github.com/exo-explore/exo) - Run frontier AI locally.
 - [agentskills/agentskills](https://github.com/agentskills/agentskills) - Specification and documentation for Agent Skills
-- [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
 - [Blazemeter/taurus](https://github.com/Blazemeter/taurus) - Automation-friendly framework for Continuous Testing by
 - [locustio/locust](https://github.com/locustio/locust) - Write scalable load tests in plain Python 🚗💨
 - [ray-project/ray](https://github.com/ray-project/ray) - Ray is an AI compute engine. Ray consists of a core distributed runtime and a set of AI Libraries for accelerating ML workloads.
@@ -1781,7 +1780,7 @@
 - [ytdl-org/youtube-dl](https://github.com/ytdl-org/youtube-dl) - Command-line program to download videos from YouTube.com and other video sites
 - [4teamwork/docxcompose](https://github.com/4teamwork/docxcompose) - Append/Concatenate .docx documents
 - [joke2k/faker](https://github.com/joke2k/faker) - Faker is a Python package that generates fake data for you.
-- [supabase/supabase-py](https://github.com/supabase/supabase-py) - Python Client for Supabase. Query Postgres from Flask, Django, FastAPI. Python user authentication, security policies, edge functions, file storage, and realtime data streaming. Good first issue.
+- [supabase/supabase-py](https://github.com/supabase/supabase-py) - Python Client for Supabase. Query Postgres from Flask, Django, FastAPI. Python user authentication, security policies, edge functions, file storage, and realtime data streaming.
 - [DennisMitchell/jellylanguage](https://github.com/DennisMitchell/jellylanguage) - Jelly is a recreational programming language inspired by J.
 - [djaffry/oeffis-paper](https://github.com/djaffry/oeffis-paper) - Raspberry Pi based real time Vienna public transport and citybikes monitor using a triple color E-ink display. Get public transport information instantly, like being at a real station!
 - [tofuSCHNITZEL/home-assistant-wienerlinien](https://github.com/tofuSCHNITZEL/home-assistant-wienerlinien) - A sensor that give you information about departures from a specified Wiener Linien stop.
@@ -2212,6 +2211,7 @@
 
 ## Svelte 
 
+- [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
 - [lissy93/cheat-code](https://github.com/lissy93/cheat-code) - 💫 An AI-powered coding assistant, built to try out the ChatGPT API
 - [cupcakearmy/cryptgeon](https://github.com/cupcakearmy/cryptgeon) - cryptgeon is a secure, open source note / file sharing service inspired by PrivNote written in rust & svelte.
 - [imputnet/cobalt](https://github.com/imputnet/cobalt) - best way to save what you love
