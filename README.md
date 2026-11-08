@@ -1849,6 +1849,7 @@
 
 ## Rust 
 
+- [horizon-rust/horizon](https://github.com/horizon-rust/horizon) - Minecraft: Java Edition 26.3 rewritten from scratch in Rust, checked against vanilla with 281 differential harnesses. Get it with the Horizon launcher.
 - [indexable-inc/blaze](https://github.com/indexable-inc/blaze) - Incremental rust builds up to 92x faster than cargo/rustc
 - [anomalyco/rune](https://github.com/anomalyco/rune) - Rune: Native UI framework
 - [skim-rs/skim](https://github.com/skim-rs/skim) - Fuzzy Finder in rust!
