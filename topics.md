@@ -157,6 +157,7 @@
 - [julia](#julia)
 - [jupyter-notebook](#jupyter-notebook)
 - [kali-linux](#kali-linux)
+- [knowledge-graph](#knowledge-graph)
 - [koa](#koa)
 - [kotlin](#kotlin)
 - [kubernetes](#kubernetes)
@@ -328,7 +329,7 @@
 - [truefoundry/trueforge](https://github.com/truefoundry/trueforge) - The open-source agent harness - the runtime layer that turns an LLM into a working agent.
 - [alibaba/open-code-review](https://github.com/alibaba/open-code-review) - Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE,
 - [vectordotdev/vector](https://github.com/vectordotdev/vector) - A high-performance observability data pipeline.
-- [micro/mu](https://github.com/micro/mu) - The runtime for a personal assistant
+- [micro/mu](https://github.com/micro/mu) - The runtime for personal assistants
 - [iOfficeAI/OfficeCLI](https://github.com/iOfficeAI/OfficeCLI) - OfficeCLI is the first and best Office suite  purpose-built for AI agents to read, edit, and automate Word, Excel, and PowerPoint files. Free, open-source, single binary, no Office installation requir
 - [vercel/eve](https://github.com/vercel/eve) - The Open Framework for Building Agents
 - [agent-infra/sandbox](https://github.com/agent-infra/sandbox) - All-in-One Sandbox for AI Agents that combines Browser, Shell, File, MCP and VSCode Server in a single Docker container.
@@ -3306,6 +3307,13 @@
 - [JaKooLit/Debian-Hyprland](https://github.com/JaKooLit/Debian-Hyprland) - For automated installation of Hyprland on Debian 13 Trixie (Testing) and Debian SiD (Unstable)
 - [Deadshot0x7/Webspoilt](https://github.com/Deadshot0x7/Webspoilt) - This script will you help to find the information about the website and to help in penetrating testing
 - [0n1cOn3/FluxER](https://github.com/0n1cOn3/FluxER) - FluxER - The bash script which installs and runs the Fluxion tool inside Termux. The wireless security auditing tool used to perform WPA/WPA2 auditing and MITM auditing.
+
+## knowledge-graph 
+
+- [semantica-agi/semantica](https://github.com/semantica-agi/semantica) - Graph-Native Infrastructure for Context and Accountable AI Systems
+- [Graphify-Labs/graphify](https://github.com/Graphify-Labs/graphify) - Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, e
+- [cocoindex-io/cocoindex](https://github.com/cocoindex-io/cocoindex) - Incremental engine for long horizon agents 🌟 Star if you like it!
+- [dgraph-io/dgraph](https://github.com/dgraph-io/dgraph) - high-performance graph database for real-time use cases
 
 ## koa 
 
