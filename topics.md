@@ -308,6 +308,7 @@
 - [webapp](#webapp)
 - [webpack](#webpack)
 - [website](#website)
+- [whatsapp](#whatsapp)
 - [windows](#windows)
 - [windows-11](#windows-11)
 - [wordpress](#wordpress)
@@ -4328,6 +4329,7 @@
 
 ## others 
 
+- [isindir/sops-secrets-operator](https://github.com/isindir/sops-secrets-operator) - Kubernetes SOPS secrets operator
 - [NotRexed/Hookshot](https://github.com/NotRexed/Hookshot) - A Native Recompilation Of The Legend Of Zelda: Ocarina Of Time Nintendo Switch 2 Remake
 - [openbrowse-ai/openbrowse](https://github.com/openbrowse-ai/openbrowse) - The open source browser agent. A model-agnostic alternative to Claude for Chrome. Connect any local or cloud AI.
 - [vercel-labs/scriptc](https://github.com/vercel-labs/scriptc) - TypeScript-to-Native Compiler
@@ -6837,6 +6839,11 @@
 - [steipete/steipete.me](https://github.com/steipete/steipete.me) - My personal website.
 - [aunefyren/wrapperr](https://github.com/aunefyren/wrapperr) - Website based application that summarizes Plex statistics from a given period and displays it in a nice format. Similar to the Spotify Wrapped concept.
 - [gautamkrishnar/nothing-private](https://github.com/gautamkrishnar/nothing-private) - Do you think you are safe using private browsing or incognito mode?. :smile: :imp: This will prove that you're wrong.   Previously hosted at nothingprivate.ml
+
+## whatsapp 
+
+- [nikoksr/notify](https://github.com/nikoksr/notify) - A dead simple Go library for sending notifications to various messaging services.
+- [GorvGoyl/Clone-Wars](https://github.com/GorvGoyl/Clone-Wars) - 100+ open-source clones of popular sites like Airbnb, Amazon, Instagram, Netflix, Tiktok, Spotify, Whatsapp, Youtube etc. See source code, demo links, tech stack, github stars.
 
 ## windows 
 
