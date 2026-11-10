@@ -329,7 +329,7 @@
 - [truefoundry/trueforge](https://github.com/truefoundry/trueforge) - The open-source agent harness - the runtime layer that turns an LLM into a working agent.
 - [alibaba/open-code-review](https://github.com/alibaba/open-code-review) - Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE,
 - [vectordotdev/vector](https://github.com/vectordotdev/vector) - A high-performance observability data pipeline.
-- [micro/mu](https://github.com/micro/mu) - The runtime for personal assistants
+- [micro/mu](https://github.com/micro/mu) - An open runtime for personal assistants.
 - [iOfficeAI/OfficeCLI](https://github.com/iOfficeAI/OfficeCLI) - OfficeCLI is the first and best Office suite  purpose-built for AI agents to read, edit, and automate Word, Excel, and PowerPoint files. Free, open-source, single binary, no Office installation requir
 - [vercel/eve](https://github.com/vercel/eve) - The Open Framework for Building Agents
 - [agent-infra/sandbox](https://github.com/agent-infra/sandbox) - All-in-One Sandbox for AI Agents that combines Browser, Shell, File, MCP and VSCode Server in a single Docker container.
@@ -371,6 +371,7 @@
 
 ## agents 
 
+- [modem-dev/hunk](https://github.com/modem-dev/hunk) - Review-first terminal diff viewer for agentic coders
 - [truefoundry/trueforge](https://github.com/truefoundry/trueforge) - The open-source agent harness - the runtime layer that turns an LLM into a working agent.
 - [vectorize-io/hindsight](https://github.com/vectorize-io/hindsight) - Hindsight: Agent Memory That Learns
 - [backnotprop/plannotator](https://github.com/backnotprop/plannotator) - The workspace to stay in the loop and on top of agents - shape, decide, plan, annotate, review code, share with team, and send all feedback to agents with one click.
@@ -393,7 +394,6 @@
 - [nixopus/nixopus](https://github.com/nixopus/nixopus) - Run production apps without thinking about infrastructure. On your server or ours. Fully agentic.
 - [cloudflare/agents](https://github.com/cloudflare/agents) - Build and deploy AI Agents on Cloudflare
 - [simstudioai/sim](https://github.com/simstudioai/sim) - Sim is the collaborative workspace to build, deploy, and monitor AI agents and workflows. Used by 100,000+ builders.
-- [ruvnet/ruflo](https://github.com/ruvnet/ruflo) - 🌊 The original agent harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, federa
 - [crewAIInc/crewAI](https://github.com/crewAIInc/crewAI) - Framework for orchestrating role-playing, autonomous AI agents. By fostering collaborative intelligence, CrewAI empowers agents to work together seamlessly, tackling complex tasks.
 - [dagger/dagger](https://github.com/dagger/dagger) - Automation engine to build, test and ship any codebase. Runs locally, in CI, or directly in the cloud
 - [langchain-ai/langgraph](https://github.com/langchain-ai/langgraph) - Build resilient agents.
@@ -674,6 +674,7 @@
 
 ## api 
 
+- [danielroe/forges](https://github.com/danielroe/forges) - One client, every forge.
 - [yusukebe/ramen-api](https://github.com/yusukebe/ramen-api) - Web API about 🍜
 - [microcks/microcks](https://github.com/microcks/microcks) - The open source, cloud native tool for API Mocking and Testing. Microcks is a Cloud Native Computing Foundation incubating project 🚀
 - [istio/api](https://github.com/istio/api) - API definitions for the Istio project
@@ -1087,6 +1088,7 @@
 - [greggh/claude-code.nvim](https://github.com/greggh/claude-code.nvim) - Seamless integration between Claude Code AI assistant and Neovim
 - [kbwo/ccmanager](https://github.com/kbwo/ccmanager) - Coding Agent Session Manager for Claude Code / Gemini CLI / Codex CLI / Cursor Agent / Copilot CLI / Cline CLI / OpenCode / Kimi CLI
 - [coder/claudecode.nvim](https://github.com/coder/claudecode.nvim) - 🧩 Claude Code Neovim IDE Extension
+- [ruvnet/ruflo](https://github.com/ruvnet/ruflo) - 🌊 The original agent harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, federa
 - [hesreallyhim/awesome-claude-code](https://github.com/hesreallyhim/awesome-claude-code) - A hand-picked collection of the finest of resources for the most awesome of agents, Claude Code, the undisputed champion of coding companions, from the unstoppable team at Anthropic PBC (no affiliatio
 
 ## claude-skills 
@@ -1097,6 +1099,7 @@
 
 ## cli 
 
+- [modem-dev/hunk](https://github.com/modem-dev/hunk) - Review-first terminal diff viewer for agentic coders
 - [RohanKaran/kubectl-crashloop](https://github.com/RohanKaran/kubectl-crashloop) - Inspect Kubernetes pod crash history, events and previous logs
 - [rvben/rumdl](https://github.com/rvben/rumdl) - Fast Markdown linter and formatter written in Rust
 - [gazorby/fifc](https://github.com/gazorby/fifc) - 🐠 Configurable fzf completions for fish shell
@@ -1300,6 +1303,7 @@
 
 ## code-review 
 
+- [modem-dev/hunk](https://github.com/modem-dev/hunk) - Review-first terminal diff viewer for agentic coders
 - [umputun/revdiff](https://github.com/umputun/revdiff) - TUI for reviewing diffs, files, and documents with inline annotations
 - [alibaba/open-code-review](https://github.com/alibaba/open-code-review) - Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE,
 - [backnotprop/plannotator](https://github.com/backnotprop/plannotator) - The workspace to stay in the loop and on top of agents - shape, decide, plan, annotate, review code, share with team, and send all feedback to agents with one click.
@@ -1893,7 +1897,6 @@
 ## dsh-plugin 
 
 - [morluto/rea](https://github.com/morluto/rea) - Reverse engineer anything with agents, from app behavior down to native binaries.
-- [ruvnet/ruflo](https://github.com/ruvnet/ruflo) - 🌊 The original agent harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, federa
 - [reactive-resume/reactive-resume](https://github.com/reactive-resume/reactive-resume) - A one-of-a-kind resume builder that keeps your privacy in mind. Completely secure, customizable, portable, open-source and free forever. Try it out today!
 
 ## education 
@@ -2164,6 +2167,8 @@
 
 ## git 
 
+- [danielroe/forges](https://github.com/danielroe/forges) - One client, every forge.
+- [modem-dev/hunk](https://github.com/modem-dev/hunk) - Review-first terminal diff viewer for agentic coders
 - [git-bug/git-bug](https://github.com/git-bug/git-bug) - Distributed, offline-first bug tracker integrated in git
 - [joseluisq/gitnow](https://github.com/joseluisq/gitnow) - Speed up your Git workflow. :tropical_fish:
 - [avivsinai/bitbucket-cli](https://github.com/avivsinai/bitbucket-cli) - Bitbucket CLI with gh-like ergonomics
@@ -2891,7 +2896,6 @@
 - [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide) - A smarter cd command. Supports all major shells.
 - [ovh/utask](https://github.com/ovh/utask) - µTask is an automation engine that models and executes business processes declared in yaml. ✏️📋
 - [kuzzleio/kuzzle](https://github.com/kuzzleio/kuzzle) - Open-source Back-end, self-hostable & ready to use - Real-time, storage, advanced search - Web, Apps, Mobile, IoT -
-- [ory/hydra](https://github.com/ory/hydra) - Internet-scale OpenID Certified™ OpenID Connect and OAuth2.1 provider that integrates with your user management through headless APIs. Solve OIDC/OAuth2 user cases over night. Consume as a service on 
 - [go-shiori/shiori-web-ext](https://github.com/go-shiori/shiori-web-ext) - Web extension for using Shiori in Firefox and Chrome
 - [go-shiori/shiori](https://github.com/go-shiori/shiori) - Simple bookmark manager built with Go
 - [falcosecurity/falco](https://github.com/falcosecurity/falco) - Cloud Native Runtime Security
@@ -3457,6 +3461,7 @@
 
 ## linux 
 
+- [anomalyco/hex](https://github.com/anomalyco/hex) - Local voice dictation for mac, windows and linux
 - [horizon-rust/horizon](https://github.com/horizon-rust/horizon) - Minecraft: Java Edition 26.3 rewritten from scratch in Rust, checked against vanilla with 281 differential harnesses. Get it with the Horizon launcher.
 - [ARahim3/DigUp](https://github.com/ARahim3/DigUp) - Search your computer by what's in your files: photos, PDFs, documents, recordings, videos and code. On-device on Mac, Windows and Linux, built on Google DeepMind's EmbeddingGemma 2.
 - [morluto/rea](https://github.com/morluto/rea) - Reverse engineer anything with agents, from app behavior down to native binaries.
@@ -3671,6 +3676,7 @@
 
 ## macos 
 
+- [anomalyco/hex](https://github.com/anomalyco/hex) - Local voice dictation for mac, windows and linux
 - [ARahim3/DigUp](https://github.com/ARahim3/DigUp) - Search your computer by what's in your files: photos, PDFs, documents, recordings, videos and code. On-device on Mac, Windows and Linux, built on Google DeepMind's EmbeddingGemma 2.
 - [workdone0/twig](https://github.com/workdone0/twig) - Terminal-based JSON & YAML viewer (TUI) for exploring and searching large files — fast, interactive, and privacy-first.
 - [microsoft/inshellisense](https://github.com/microsoft/inshellisense) - IDE style command line auto complete
@@ -3822,6 +3828,7 @@
 - [modelcontextprotocol/go-sdk](https://github.com/modelcontextprotocol/go-sdk) - The official Go SDK for Model Context Protocol servers and clients. Maintained in collaboration with Google.
 - [modelcontextprotocol/typescript-sdk](https://github.com/modelcontextprotocol/typescript-sdk) - The official TypeScript SDK for Model Context Protocol servers and clients
 - [github/github-mcp-server](https://github.com/github/github-mcp-server) - GitHub's official MCP Server
+- [ruvnet/ruflo](https://github.com/ruvnet/ruflo) - 🌊 The original agent harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, federa
 - [browseros-ai/BrowserOS](https://github.com/browseros-ai/BrowserOS) - 🌐 The open-source Agentic browser; alternative to ChatGPT Atlas, Perplexity Comet, Dia.
 - [lobehub/lobehub](https://github.com/lobehub/lobehub) - 🤯 LobeHub - Super-Agents on Your Team. Add super-agents to the chats your team already uses.They take on work by themselves and get better every week.
 - [triggerdotdev/trigger.dev](https://github.com/triggerdotdev/trigger.dev) - Trigger.dev – build and deploy durable AI agents and workflows
@@ -3829,6 +3836,7 @@
 - [8bitgentleman/activitywatch-mcp-server](https://github.com/8bitgentleman/activitywatch-mcp-server) - Model Context Protocol server for ActivityWatch time tracking data
 - [PrefectHQ/fastmcp](https://github.com/PrefectHQ/fastmcp) - 🚀 The fast, Pythonic way to build MCP servers and clients.
 - [siyuan-note/siyuan](https://github.com/siyuan-note/siyuan) - An open-source, privacy-first, self-hosted knowledge workspace where humans and AI agents work together 开源、隐私优先、自托管的知识工作空间，让人与智能体在此协作
+- [ory/hydra](https://github.com/ory/hydra) - Internet-scale OpenID Certified™ OpenID Connect and OAuth2.1 provider that integrates with your user management through headless APIs. Solve OIDC/OAuth2 user cases over night. Consume as a service on 
 - [qax-os/excelize](https://github.com/qax-os/excelize) - Go language library for reading and writing Microsoft Excel™ (XLAM / XLSM / XLSX / XLTM / XLTX) spreadsheets
 - [langgenius/dify](https://github.com/langgenius/dify) - Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without reb
 - [go-kratos/kratos](https://github.com/go-kratos/kratos) - Your ultimate Go microservices framework for the cloud-native era.
@@ -4201,7 +4209,6 @@
 - [tmustier/pi-extensions](https://github.com/tmustier/pi-extensions) - A set of delightful extensions for Pi. Note I now use different extensions for my pi setup, see https://github.com/tmustier/vibes
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
 - [oven-sh/bun](https://github.com/oven-sh/bun) - Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one
-- [ruvnet/ruflo](https://github.com/ruvnet/ruflo) - 🌊 The original agent harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, federa
 - [pnpm/pnpm](https://github.com/pnpm/pnpm) - Fast, disk space efficient package manager
 - [feross/awesome-mad-science](https://github.com/feross/awesome-mad-science) - Delightful npm packages that make you say "wow, didn't know that was possible!"
 
@@ -4321,6 +4328,8 @@
 
 ## others 
 
+- [NotRexed/Hookshot](https://github.com/NotRexed/Hookshot) - A Native Recompilation Of The Legend Of Zelda: Ocarina Of Time Nintendo Switch 2 Remake
+- [openbrowse-ai/openbrowse](https://github.com/openbrowse-ai/openbrowse) - The open source browser agent. A model-agnostic alternative to Claude for Chrome. Connect any local or cloud AI.
 - [vercel-labs/scriptc](https://github.com/vercel-labs/scriptc) - TypeScript-to-Native Compiler
 - [starfederation/datastar](https://github.com/starfederation/datastar) - The hypermedia framework.
 - [withastro/flue](https://github.com/withastro/flue) - The sandbox agent framework.
@@ -4342,7 +4351,7 @@
 - [cloudflare/workerd](https://github.com/cloudflare/workerd) - The JavaScript / Wasm runtime that powers Cloudflare Workers
 - [cloudflare/forge](https://github.com/cloudflare/forge) - 
 - [speakeasy-api/openapi-generation](https://github.com/speakeasy-api/openapi-generation) - Open-source OpenAPI SDK generator for building production-ready client libraries. Available under AGPL-3.0; contact Speakeasy for commercial licensing options.
-- [storytold/wordcraft](https://github.com/storytold/wordcraft) - An open-source, clean-room reimplementation of Microsoft Word in pure Rust
+- [storytold/wordcraft](https://github.com/storytold/wordcraft) - WordCraft: an open-source, clean-room word processor in pure Rust
 - [snuri00/ps2-web-recomp](https://github.com/snuri00/ps2-web-recomp) - PS2 games in the browser: static recompilation to WebAssembly with a native runtime
 - [flamegraph-rs/flamegraph](https://github.com/flamegraph-rs/flamegraph) - Easy flamegraphs for Rust projects and everything else, without Perl or pipes &lt;3
 - [jonhoo/inferno](https://github.com/jonhoo/inferno) - A Rust port of FlameGraph
@@ -5720,6 +5729,7 @@
 
 ## rust 
 
+- [anomalyco/hex](https://github.com/anomalyco/hex) - Local voice dictation for mac, windows and linux
 - [horizon-rust/horizon](https://github.com/horizon-rust/horizon) - Minecraft: Java Edition 26.3 rewritten from scratch in Rust, checked against vanilla with 281 differential harnesses. Get it with the Horizon launcher.
 - [indexable-inc/blaze](https://github.com/indexable-inc/blaze) - Incremental rust builds up to 92x faster than cargo/rustc
 - [tursodatabase/libsql](https://github.com/tursodatabase/libsql) - libSQL is a fork of SQLite that is both Open Source, and Open Contributions.
@@ -5729,7 +5739,7 @@
 - [morluto/rea](https://github.com/morluto/rea) - Reverse engineer anything with agents, from app behavior down to native binaries.
 - [emilk/egui](https://github.com/emilk/egui) - egui: an easy-to-use immediate mode GUI in Rust that runs on both web and native
 - [denoland/deno](https://github.com/denoland/deno) - A modern runtime for JavaScript and TypeScript.
-- [storytold/photocraft](https://github.com/storytold/photocraft) - PhotoCraft: An open-source, photo editor written by scratch in pure Rust
+- [storytold/photocraft](https://github.com/storytold/photocraft) - PhotoCraft: An open-source photo editor written from scratch in pure Rust
 - [dimo414/bkt](https://github.com/dimo414/bkt) - a subprocess caching utility, available as a command line binary and a Rust library.
 - [lapce/floem](https://github.com/lapce/floem) - A native Rust UI library with fine-grained reactivity
 - [StanMarek/ghost-complete](https://github.com/StanMarek/ghost-complete) - Terminal autocomplete engine inspired by Fig. PTY proxy, 709 specs, Rust. Built for Ghostty.
@@ -6142,7 +6152,6 @@
 - [scarletkc/vexor](https://github.com/scarletkc/vexor) - A semantic search engine for files and code.
 - [agent-sh/agentsys](https://github.com/agent-sh/agentsys) - AI writes code. This automates everything else · 24 plugins · 49 agents · 44 skills · for Claude Code, OpenCode, Codex, Cursor, Kiro.
 - [obra/superpowers](https://github.com/obra/superpowers) - An agentic skills framework & software development methodology that works.
-- [ruvnet/ruflo](https://github.com/ruvnet/ruflo) - 🌊 The original agent harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, federa
 - [lobehub/lobehub](https://github.com/lobehub/lobehub) - 🤯 LobeHub - Super-Agents on Your Team. Add super-agents to the chats your team already uses.They take on work by themselves and get better every week.
 - [langgenius/dify](https://github.com/langgenius/dify) - Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without reb
 
@@ -6347,6 +6356,7 @@
 
 ## terminal 
 
+- [modem-dev/hunk](https://github.com/modem-dev/hunk) - Review-first terminal diff viewer for agentic coders
 - [workdone0/twig](https://github.com/workdone0/twig) - Terminal-based JSON & YAML viewer (TUI) for exploring and searching large files — fast, interactive, and privacy-first.
 - [StanMarek/ghost-complete](https://github.com/StanMarek/ghost-complete) - Terminal autocomplete engine inspired by Fig. PTY proxy, 709 specs, Rust. Built for Ghostty.
 - [microsoft/inshellisense](https://github.com/microsoft/inshellisense) - IDE style command line auto complete
@@ -6471,6 +6481,7 @@
 
 ## tui 
 
+- [modem-dev/hunk](https://github.com/modem-dev/hunk) - Review-first terminal diff viewer for agentic coders
 - [workdone0/twig](https://github.com/workdone0/twig) - Terminal-based JSON & YAML viewer (TUI) for exploring and searching large files — fast, interactive, and privacy-first.
 - [boyter/cs](https://github.com/boyter/cs) - codespelunker - CLI code search tool that understands code structure and ranks results by relevance. No indexing required with CLI, TUI, MCP and HTTP support.
 - [umputun/revdiff](https://github.com/umputun/revdiff) - TUI for reviewing diffs, files, and documents with inline annotations
