@@ -198,6 +198,7 @@
 
 ## C++ 
 
+- [NotRexed/Hookshot](https://github.com/NotRexed/Hookshot) - A Native Recompilation Of The Legend Of Zelda: Ocarina Of Time Nintendo Switch 2 Remake
 - [google/boringssl](https://github.com/google/boringssl) - Mirror of BoringSSL
 - [cloudflare/workerd](https://github.com/cloudflare/workerd) - The JavaScript / Wasm runtime that powers Cloudflare Workers
 - [snuri00/ps2-web-recomp](https://github.com/snuri00/ps2-web-recomp) - PS2 games in the browser: static recompilation to WebAssembly with a native runtime
@@ -383,7 +384,7 @@
 - [jesseduffield/lazydocker](https://github.com/jesseduffield/lazydocker) - The lazier way to manage everything docker
 - [boldsoftware/meat](https://github.com/boldsoftware/meat) - meat.dev
 - [openclaw/gogcli](https://github.com/openclaw/gogcli) - Google Workspace in your terminal.
-- [micro/mu](https://github.com/micro/mu) - The runtime for personal assistants
+- [micro/mu](https://github.com/micro/mu) - An open runtime for personal assistants.
 - [kubernetes/kops](https://github.com/kubernetes/kops) - Kubernetes Operations (kOps) - Production Grade k8s Installation, Upgrades and Management
 - [hedgieinsocks/kubectl-cnf](https://github.com/hedgieinsocks/kubectl-cnf) - A kubectl plugin that helps switch between current-contexts in multiple kubeconfigs within a terminal tab scope
 - [jonnylangefeld/kubectl-mc](https://github.com/jonnylangefeld/kubectl-mc) - Run kubectl commands against multiple clusters at once
@@ -2262,6 +2263,7 @@
 
 ## TypeScript 
 
+- [danielroe/forges](https://github.com/danielroe/forges) - One client, every forge.
 - [openbrowse-ai/openbrowse](https://github.com/openbrowse-ai/openbrowse) - The open source browser agent. A model-agnostic alternative to Claude for Chrome. Connect any local or cloud AI.
 - [modem-dev/hunk](https://github.com/modem-dev/hunk) - Review-first terminal diff viewer for agentic coders
 - [vercel-labs/scriptc](https://github.com/vercel-labs/scriptc) - TypeScript-to-Native Compiler
