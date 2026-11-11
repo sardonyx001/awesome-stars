@@ -341,6 +341,8 @@
 
 ## Go 
 
+- [podman-container-tools/skopeo](https://github.com/podman-container-tools/skopeo) - Work with remote images registries - retrieving information, images, signing content
+- [yetone/magpie](https://github.com/yetone/magpie) - Every agent's model. One place. Codex on DeepSeek, Claude Code on Kimi, from the menu bar.
 - [isindir/sops-secrets-operator](https://github.com/isindir/sops-secrets-operator) - Kubernetes SOPS secrets operator
 - [tinygo-org/tinygo](https://github.com/tinygo-org/tinygo) - Go compiler for small places. Microcontrollers, WebAssembly (WASM/WASI), and command-line tools. Based on LLVM.
 - [RohanKaran/kubectl-crashloop](https://github.com/RohanKaran/kubectl-crashloop) - Inspect Kubernetes pod crash history, events and previous logs
@@ -370,7 +372,7 @@
 - [rfjakob/gocryptfs](https://github.com/rfjakob/gocryptfs) - Encrypted overlay filesystem written in Go
 - [KromDaniel/regengo](https://github.com/KromDaniel/regengo) - a compile-time finite state machine generator for regular expressions in golang
 - [coregx/coregex](https://github.com/coregx/coregex) - Pure Go production-grade regex engine with SIMD optimizations. Up to 3-3000x+ faster than stdlib.
-- [labstack/fanout](https://github.com/labstack/fanout) - Single-binary observability platform. Ingest OTLP, store as Parquet, query with DuckDB.
+- [labstack/pitot](https://github.com/labstack/pitot) - Single-binary observability platform. Ingest OTLP, store as Parquet, query with DuckDB.
 - [FastFilter/xorfilter](https://github.com/FastFilter/xorfilter) - Go library implementing binary fuse and xor filters
 - [cloudwego/kitex](https://github.com/cloudwego/kitex) - Go RPC framework with high-performance and strong-extensibility for building micro-services.
 - [cloudwego/hertz](https://github.com/cloudwego/hertz) - Go HTTP framework with high-performance and strong-extensibility for building micro-services.
@@ -1411,7 +1413,6 @@
 - [elder-plinius/CL4R1T4S](https://github.com/elder-plinius/CL4R1T4S) - LEAKED SYSTEM PROMPTS FOR CHATGPT, CLAUDE, GEMINI, GROK, PERPLEXITY, CURSOR, LOVABLE, REPLIT, AND MORE! - AI SYSTEMS TRANSPARENCY FOR ALL! 👐
 - [pvd-nerd/docker-arr-suite](https://github.com/pvd-nerd/docker-arr-suite) - Modular Docker Compose stack for automated media management using Jellyfin/Plex, Traefik, qBittorrent, Radarr, Sonarr, Prowlarr, and more—securely routed through Gluetun with built-in reverse proxy, u
 - [devcontainers/spec](https://github.com/devcontainers/spec) - Development Containers: Use a container as a full-featured development environment.
-- [kepano/obsidian-skills](https://github.com/kepano/obsidian-skills) - Agent skills for Obsidian. Teach your agent to use Obsidian CLI and open formats including Markdown, Bases, JSON Canvas.
 - [devexperts/grading-system](https://github.com/devexperts/grading-system) - Grades system for the engineers at Devexperts
 - [sameerbagwe/k8sLabSetup](https://github.com/sameerbagwe/k8sLabSetup) - Setup Guide (Mac M1): Kubernetes, Cilium CNI, Istio Mesh, Security Hardening, CIS Benchmarks
 - [grayhatdevelopers/plane-coolify](https://github.com/grayhatdevelopers/plane-coolify) - Plane sample config for running on Coolify
@@ -1630,7 +1631,7 @@
 - [langchain-ai/langgraph](https://github.com/langchain-ai/langgraph) - Build resilient agents.
 - [astanin/python-tabulate](https://github.com/astanin/python-tabulate) - Pretty-print tabular data in Python, a library and a command-line utility. Repository migrated from bitbucket.org/astanin/python-tabulate.
 - [AsyncFuncAI/deepwiki-open](https://github.com/AsyncFuncAI/deepwiki-open) - Open Source DeepWiki: AI-Powered Wiki Generator for GitHub/Gitlab/Bitbucket Repositories. Join the discord: https://discord.gg/gMwThUMeme
-- [agno-agi/agno](https://github.com/agno-agi/agno) - The self-driving agent platform
+- [agno-agi/agno](https://github.com/agno-agi/agno) - The self-managing agent platform
 - [Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps) - 100+ AI Agents, Agent Skills and RAG Apps - Free and Open Source.
 - [geldata/gel](https://github.com/geldata/gel) - Gel supercharges Postgres with a modern data model, graph queries, Auth & AI solutions, and much more.
 - [astral-sh/ty](https://github.com/astral-sh/ty) - An extremely fast Python type checker and language server, written in Rust.
@@ -2140,6 +2141,7 @@
 - [tobi/try](https://github.com/tobi/try) - fresh directories for every vibe
 - [joseluisq/gitnow](https://github.com/joseluisq/gitnow) - Speed up your Git workflow. :tropical_fish:
 - [uditgoenka/autoresearch](https://github.com/uditgoenka/autoresearch) - Claude Autoresearch Skill — Autonomous goal-directed iteration for Claude Code. Inspired by Karpathy's autoresearch. Modify → Verify → Keep/Discard → Repeat forever.
+- [obsidianmd/obsidian-skills](https://github.com/obsidianmd/obsidian-skills) - Agent skills for Obsidian. Teach your agent to use Obsidian CLI and open formats including Markdown, Bases, JSON Canvas.
 - [PrismML-Eng/Bonsai-demo](https://github.com/PrismML-Eng/Bonsai-demo) - Bonsai Demo
 - [Mekann2904/dotfiles-bare](https://github.com/Mekann2904/dotfiles-bare) - 
 - [maxritter/qualitylayer](https://github.com/maxritter/qualitylayer) - Plan, build and review software with your coding agents. Work side by side in the App or browser, or use your favourite terminal or IDE.
