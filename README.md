@@ -1559,6 +1559,7 @@
 - [ECNU-SII/MIA](https://github.com/ECNU-SII/MIA) - Memory Intelligence Agent
 - [paypay/paypay-sample-ecommerce-backend-python](https://github.com/paypay/paypay-sample-ecommerce-backend-python) - PayPay Sample Ecommerce Backend
 - [sqlfluff/sqlfluff](https://github.com/sqlfluff/sqlfluff) - A modular SQL linter and auto-formatter with support for multiple dialects and templated code.
+- [cel-expr/cel-spec](https://github.com/cel-expr/cel-spec) - Common Expression Language -- specification and binary representation
 - [astronomer/dag-factory](https://github.com/astronomer/dag-factory) - Construct Apache Airflow DAGs Declaratively via YAML configuration files
 - [bytedance/deer-flow](https://github.com/bytedance/deer-flow) - An open-source long-horizon SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skill, subagents and message gateway, it handles different levels of ta
 - [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) - The agent that grows with you
@@ -2220,7 +2221,6 @@
 ## Starlark 
 
 - [bazelbuild/bazel-central-registry](https://github.com/bazelbuild/bazel-central-registry) - The central registry of Bazel modules for the Bzlmod external dependency system.
-- [cel-expr/cel-spec](https://github.com/cel-expr/cel-spec) - Common Expression Language -- specification and binary representation
 
 ## Svelte 
 
