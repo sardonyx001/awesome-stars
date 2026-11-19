@@ -758,6 +758,7 @@
 
 ## automation 
 
+- [woodpecker-ci/woodpecker](https://github.com/woodpecker-ci/woodpecker) - Woodpecker is a simple, yet powerful CI/CD engine with great extensibility.
 - [semantic-release/cli](https://github.com/semantic-release/cli) - :cl::round_pushpin: Setup automated semver compliant package publishing
 - [k1LoW/runn](https://github.com/k1LoW/runn) - runn is a package/tool for running operations following a scenario.
 - [rikeda71/ghostty-pane-splitter](https://github.com/rikeda71/ghostty-pane-splitter) - CLI Tool to split pane on Ghostty Terminal
@@ -1438,7 +1439,7 @@
 - [bndr/gojenkins](https://github.com/bndr/gojenkins) - Jenkins API Client in Go. Looking for maintainers to move this project forward.
 - [dagger/dagger](https://github.com/dagger/dagger) - Automation engine to build, test and ship any codebase. Runs locally, in CI, or directly in the cloud
 - [ncarlier/webhookd](https://github.com/ncarlier/webhookd) - A minimalist, powerful webhook server designed to easily trigger shell scripts and run external processes via HTTP requests.
-- [Flagsmith/flagsmith](https://github.com/Flagsmith/flagsmith) - Flagsmith is an open-source feature flag platform with remote config, experimentation, and self-hosted or cloud deployment options.
+- [Flagsmith/flagsmith](https://github.com/Flagsmith/flagsmith) - Flagsmith is an open-source feature flag platform with remote config and experimentation. Choose from self-hosted or cloud deployment options.
 
 ## cpp 
 
@@ -1732,6 +1733,7 @@
 
 ## devops 
 
+- [woodpecker-ci/woodpecker](https://github.com/woodpecker-ci/woodpecker) - Woodpecker is a simple, yet powerful CI/CD engine with great extensibility.
 - [kubescape/kubescape](https://github.com/kubescape/kubescape) - Kubescape is an open-source Kubernetes security platform for your IDE, CI/CD pipelines, and clusters. It includes risk analysis, security, compliance, and misconfiguration scanning, saving Kubernetes 
 - [dagucloud/dagu](https://github.com/dagucloud/dagu) - Self-hostable workflow orchestrator for teams whose main work isn't orchestration. Declarative YAML over your scripts, SSH commands, containers, etc; keep workflows separate from business logic. One b
 - [labstack/onebox](https://github.com/labstack/onebox) - onebox (ob) — plan-before-apply deploys. Zero downtime. One box.
@@ -1799,6 +1801,7 @@
 
 ## docker 
 
+- [woodpecker-ci/woodpecker](https://github.com/woodpecker-ci/woodpecker) - Woodpecker is a simple, yet powerful CI/CD engine with great extensibility.
 - [google/go-containerregistry](https://github.com/google/go-containerregistry) - Go library and CLIs for working with container registries
 - [oras-project/oras](https://github.com/oras-project/oras) - OCI registry client - managing content like artifacts, images, packages
 - [libracoder/kiri](https://github.com/libracoder/kiri) - A small, fast container runtime for macOS, Windows and Linux with free Ngrok alternative
@@ -1867,7 +1870,7 @@
 - [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source, self-hostable PaaS alternative to Vercel, Heroku & Netlify that lets you easily deploy static sites, databases, full-stack applications and 360+ one-click services on your own servers.
 - [orbstack/orbstack](https://github.com/orbstack/orbstack) - Fast, light, simple Docker containers & Linux machines
 - [getsentry/self-hosted](https://github.com/getsentry/self-hosted) - Sentry, feature-complete and packaged up for low-volume deployments and proofs-of-concept
-- [Flagsmith/flagsmith](https://github.com/Flagsmith/flagsmith) - Flagsmith is an open-source feature flag platform with remote config, experimentation, and self-hosted or cloud deployment options.
+- [Flagsmith/flagsmith](https://github.com/Flagsmith/flagsmith) - Flagsmith is an open-source feature flag platform with remote config and experimentation. Choose from self-hosted or cloud deployment options.
 - [zoriya/Kyoo](https://github.com/zoriya/Kyoo) - A portable and vast media library solution.
 - [lollipopkit/flutter_server_box](https://github.com/lollipopkit/flutter_server_box) - ServerBox - high performance server toolbox app & server written in Flutter & Rust.
 - [FlareSolverr/FlareSolverr](https://github.com/FlareSolverr/FlareSolverr) - Proxy server to bypass Cloudflare protection
@@ -2952,7 +2955,7 @@
 - [projectdiscovery/httpx](https://github.com/projectdiscovery/httpx) - httpx is a fast and multi-purpose HTTP toolkit that allows running multiple probes using the retryablehttp library.
 - [projectdiscovery/naabu](https://github.com/projectdiscovery/naabu) - A fast port scanner written in go with a focus on reliability and simplicity. Designed to be used in combination with other tools for attack surface discovery in bug bounties and pentests
 - [projectdiscovery/katana](https://github.com/projectdiscovery/katana) - A next-generation crawling and spidering framework.
-- [Flagsmith/flagsmith](https://github.com/Flagsmith/flagsmith) - Flagsmith is an open-source feature flag platform with remote config, experimentation, and self-hosted or cloud deployment options.
+- [Flagsmith/flagsmith](https://github.com/Flagsmith/flagsmith) - Flagsmith is an open-source feature flag platform with remote config and experimentation. Choose from self-hosted or cloud deployment options.
 - [vmfunc/sif](https://github.com/vmfunc/sif) - the blazing-fast pentesting suite.
 - [i-love-flamingo/flamingo](https://github.com/i-love-flamingo/flamingo) - Flamingo Framework and Core Library. Flamingo is a go based framework to build pluggable applications. Focus is on clean architecture, maintainability and operation readiness.
 - [Nekos-API/Nekos-API](https://github.com/Nekos-API/Nekos-API) - An open-source free anime images RESTful/GraphQL API.
@@ -3380,6 +3383,7 @@
 
 ## kubernetes 
 
+- [woodpecker-ci/woodpecker](https://github.com/woodpecker-ci/woodpecker) - Woodpecker is a simple, yet powerful CI/CD engine with great extensibility.
 - [kubescape/kubescape](https://github.com/kubescape/kubescape) - Kubescape is an open-source Kubernetes security platform for your IDE, CI/CD pipelines, and clusters. It includes risk analysis, security, compliance, and misconfiguration scanning, saving Kubernetes 
 - [libracoder/kiri](https://github.com/libracoder/kiri) - A small, fast container runtime for macOS, Windows and Linux with free Ngrok alternative
 - [RohanKaran/kubectl-crashloop](https://github.com/RohanKaran/kubectl-crashloop) - Inspect Kubernetes pod crash history, events and previous logs
@@ -5522,7 +5526,7 @@
 - [astral-sh/ruff](https://github.com/astral-sh/ruff) - An extremely fast Python linter and code formatter, written in Rust.
 - [wasi-master/13ft](https://github.com/wasi-master/13ft) - My own custom 12ft.io replacement
 - [pola-rs/polars](https://github.com/pola-rs/polars) - Extremely fast Query Engine for DataFrames, written in Rust
-- [Flagsmith/flagsmith](https://github.com/Flagsmith/flagsmith) - Flagsmith is an open-source feature flag platform with remote config, experimentation, and self-hosted or cloud deployment options.
+- [Flagsmith/flagsmith](https://github.com/Flagsmith/flagsmith) - Flagsmith is an open-source feature flag platform with remote config and experimentation. Choose from self-hosted or cloud deployment options.
 - [tox-dev/pipdeptree](https://github.com/tox-dev/pipdeptree) - A command line utility to display dependency tree of the installed Python packages
 - [zoriya/Kyoo](https://github.com/zoriya/Kyoo) - A portable and vast media library solution.
 - [MeanderingProgrammer/advent-of-code](https://github.com/MeanderingProgrammer/advent-of-code) - Advent of Code - All Years - Blazingly Fast
@@ -5681,7 +5685,7 @@
 - [SigNoz/signoz](https://github.com/SigNoz/signoz) - SigNoz is an open-source, OpenTelemetry-native observability platform for your team and their AI agents. Get logs, metrics, and traces in one tool with features like APM, distributed tracing, log mana
 - [PostHog/posthog](https://github.com/PostHog/posthog) - :hedgehog: PostHog is the leading platform for building self-driving products. Our developer tools – AI observability, analytics, session replay, flags, experiments, error tracking, logs, and more – c
 - [pmndrs/react-three-fiber](https://github.com/pmndrs/react-three-fiber) - 🇨🇭 A React renderer for Three.js
-- [Flagsmith/flagsmith](https://github.com/Flagsmith/flagsmith) - Flagsmith is an open-source feature flag platform with remote config, experimentation, and self-hosted or cloud deployment options.
+- [Flagsmith/flagsmith](https://github.com/Flagsmith/flagsmith) - Flagsmith is an open-source feature flag platform with remote config and experimentation. Choose from self-hosted or cloud deployment options.
 - [gethomepage/homepage](https://github.com/gethomepage/homepage) - A highly customizable homepage (or startpage / application dashboard) with Docker and service API integrations.
 - [camomeui/camome](https://github.com/camomeui/camome) - Light weight, accessible UI framework for React and CSS
 - [RiskyMH/EmailThing](https://github.com/RiskyMH/EmailThing) - A web app for receiving and sending your emails!
@@ -5827,6 +5831,7 @@
 - [Dicklesworthstone/destructive_command_guard](https://github.com/Dicklesworthstone/destructive_command_guard) - A fast Rust safety hook that blocks destructive shell, git, and filesystem commands before AI coding agents run them. 50+ security packs (databases, Kubernetes, Docker, cloud, Terraform), heredoc/inli
 - [orhun/git-cliff](https://github.com/orhun/git-cliff) - A highly customizable Changelog Generator that follows Conventional Commit specifications ⛰️
 - [crate-ci/typos](https://github.com/crate-ci/typos) - Source code spell checker
+- [holon-run/holon](https://github.com/holon-run/holon) - Open-source AI assistants on your own computer or server. Assign tasks, track progress, and let them follow up on ongoing work.
 - [lux-db/lux](https://github.com/lux-db/lux) - A Redis-compatable key-value store. Up to 10x faster. Native vector support.
 - [rustfs/rustfs](https://github.com/rustfs/rustfs) - RustFS is an open-source, S3-compatible high-performance object storage system supporting migration and coexistence with other S3-compatible platforms such as MinIO and Ceph.
 - [kamoshi/hauchiwa](https://github.com/kamoshi/hauchiwa) - Flexible static site generator library with incremental rebuilds and cached image optimization
@@ -6053,6 +6058,7 @@
 - [distr-sh/distr](https://github.com/distr-sh/distr) - The Open Source control plane for self-hosted, BYOC, and on-prem deployments. Everything you need to distribute applications to self-hosted customers out of the box. Supporting Docker Compose, Docker 
 - [liketrek/TREK](https://github.com/liketrek/TREK) - The most complete open-source travel planner: real-time collaboration, bookings, budgets, packing lists, journals, offline PWA, SSO and an AI-ready MCP server, with planet-wide place search and routin
 - [markrai/scrumboy](https://github.com/markrai/scrumboy) - Self-hosted project management • Customizable boards • Cross-project workload and flow analytics • Calendar/Agenda • Sticky-note wall • Imports/Backups • Email notifications • MCP/Agent automation
+- [holon-run/holon](https://github.com/holon-run/holon) - Open-source AI assistants on your own computer or server. Assign tasks, track progress, and let them follow up on ongoing work.
 - [henrygd/beszel](https://github.com/henrygd/beszel) - Lightweight server monitoring with historical data, docker stats, and alerts.
 - [mcpjungle/MCPJungle](https://github.com/mcpjungle/MCPJungle) - One place to manage & connect to all your MCP servers
 - [forwardemail/forwardemail.net](https://github.com/forwardemail/forwardemail.net) - Open-source, privacy-focused email service for custom domains. Free email forwarding, encrypted mailboxes (IMAP/POP3), SMTP sending, calendars and contacts (CalDAV/CardDAV), webhooks, and an email API
@@ -6100,7 +6106,7 @@
 - [SigNoz/signoz](https://github.com/SigNoz/signoz) - SigNoz is an open-source, OpenTelemetry-native observability platform for your team and their AI agents. Get logs, metrics, and traces in one tool with features like APM, distributed tracing, log mana
 - [getsentry/self-hosted](https://github.com/getsentry/self-hosted) - Sentry, feature-complete and packaged up for low-volume deployments and proofs-of-concept
 - [wasi-master/13ft](https://github.com/wasi-master/13ft) - My own custom 12ft.io replacement
-- [Flagsmith/flagsmith](https://github.com/Flagsmith/flagsmith) - Flagsmith is an open-source feature flag platform with remote config, experimentation, and self-hosted or cloud deployment options.
+- [Flagsmith/flagsmith](https://github.com/Flagsmith/flagsmith) - Flagsmith is an open-source feature flag platform with remote config and experimentation. Choose from self-hosted or cloud deployment options.
 - [zoriya/Kyoo](https://github.com/zoriya/Kyoo) - A portable and vast media library solution.
 - [beclab/Olares](https://github.com/beclab/Olares) - Open-Source Personal Cloud OS for Always-On Agents
 - [filebrowser/filebrowser](https://github.com/filebrowser/filebrowser) - File Browser provides a file managing interface within a specified directory and it can be used to upload, delete, preview and edit your files.
