@@ -1443,6 +1443,7 @@
 
 ## cpp 
 
+- [ClickHouse/clickhouse-cpp](https://github.com/ClickHouse/clickhouse-cpp) - C++ client library for ClickHouse
 - [morluto/rea](https://github.com/morluto/rea) - Reverse engineer anything with agents, from app behavior down to native binaries.
 - [yhirose/cpp-httplib](https://github.com/yhirose/cpp-httplib) - A C++ header-only HTTP/HTTPS server and client library
 - [nasa/fprime](https://github.com/nasa/fprime) - F´ - A flight software and embedded systems framework
@@ -4529,7 +4530,7 @@
 - [dependabot/cli](https://github.com/dependabot/cli) - A tool for running Dependabot update jobs.
 - [aayanmtn/chartgo](https://github.com/aayanmtn/chartgo) - chartjs for go
 - [devcontainers/spec](https://github.com/devcontainers/spec) - Development Containers: Use a container as a full-featured development environment.
-- [opendata-oss/opendata](https://github.com/opendata-oss/opendata) - OpenData is a collection of open source databases built on a common, object-native storage and infrastructure foundation.
+- [databricks/opendata](https://github.com/databricks/opendata) - OpenData is a collection of open source databases built on a common, object-native storage and infrastructure foundation.
 - [jurplel/InstantSpaceSwitcher](https://github.com/jurplel/InstantSpaceSwitcher) - Native space switching on macOS with no animation
 - [google/crosvm](https://github.com/google/crosvm) - The Chrome OS Virtual Machine Monitor - Mirror of https://chromium.googlesource.com/crosvm/crosvm/
 - [boldsoftware/exe.dev](https://github.com/boldsoftware/exe.dev) - just use ssh
