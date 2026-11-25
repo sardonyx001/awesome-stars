@@ -185,7 +185,6 @@
 - [mcp-server](#mcp-server)
 - [microservices](#microservices)
 - [microsoft](#microsoft)
-- [minecraft](#minecraft)
 - [mobile](#mobile)
 - [mongodb](#mongodb)
 - [monitoring](#monitoring)
@@ -696,7 +695,7 @@
 
 ## api 
 
-- [danielroe/forges](https://github.com/danielroe/forges) - One client, every forge.
+- [made-in-common/forges](https://github.com/made-in-common/forges) - One client, every forge.
 - [yusukebe/ramen-api](https://github.com/yusukebe/ramen-api) - Web API about 🍜
 - [microcks/microcks](https://github.com/microcks/microcks) - The open source, cloud native tool for API Mocking and Testing. Microcks is a Cloud Native Computing Foundation incubating project 🚀
 - [istio/api](https://github.com/istio/api) - API definitions for the Istio project
@@ -895,6 +894,7 @@
 
 ## bash 
 
+- [atuinsh/atuin](https://github.com/atuinsh/atuin) - ✨ Making your shell magical
 - [dimo414/bkt](https://github.com/dimo414/bkt) - a subprocess caching utility, available as a command line binary and a Rust library.
 - [microsoft/inshellisense](https://github.com/microsoft/inshellisense) - IDE style command line auto complete
 - [mpecan/rable](https://github.com/mpecan/rable) - A complete GNU Bash 5.3-compatible parser written in Rust — 100% compatible reimplementation of Parable with Python bindings via PyO3, ~10x faster
@@ -1303,7 +1303,7 @@
 - [minio/minio](https://github.com/minio/minio) - MinIO is a high-performance, S3 compatible object store, open sourced under GNU AGPLv3 license.
 - [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
 - [benjojo/dnsfs](https://github.com/benjojo/dnsfs) - Store your data in others DNS resolver cache
-- [gravitl/netmaker](https://github.com/gravitl/netmaker) - Netmaker makes networks with WireGuard. Netmaker automates fast, secure, and distributed virtual networks.
+- [gravitl/netmaker](https://github.com/gravitl/netmaker) - Netmaker is a WireGuard-powered Zero Trust networking platform for building fast, secure, and scalable virtual networks across clouds, devices, and infrastructure.
 - [encoredev/encore](https://github.com/encoredev/encore) - Infrastructure orchestration from local to your cloud
 
 ## cms 
@@ -2152,7 +2152,6 @@
 
 ## game-engine 
 
-- [horizon-rust/horizon](https://github.com/horizon-rust/horizon) - Minecraft 26.3 rewritten in Rust.
 - [scallyw4g/bonsai](https://github.com/scallyw4g/bonsai) - The procedural generation voxel engine
 - [faiface/pixel](https://github.com/faiface/pixel) - A hand-crafted 2D game library in Go
 - [piqnt/planck.js](https://github.com/piqnt/planck.js) - 2D JavaScript Physics Engine
@@ -2169,7 +2168,6 @@
 
 ## gamedev 
 
-- [horizon-rust/horizon](https://github.com/horizon-rust/horizon) - Minecraft 26.3 rewritten in Rust.
 - [emilk/egui](https://github.com/emilk/egui) - egui: an easy-to-use immediate mode GUI in Rust that runs on both web and native
 - [sedyh/awesome-ebitengine](https://github.com/sedyh/awesome-ebitengine) - A curated list of awesome Ebitengine frameworks, libraries and software
 - [faiface/pixel](https://github.com/faiface/pixel) - A hand-crafted 2D game library in Go
@@ -2205,7 +2203,7 @@
 ## git 
 
 - [spring-cloud/spring-cloud-config](https://github.com/spring-cloud/spring-cloud-config) - External configuration (server and client) for Spring Cloud
-- [danielroe/forges](https://github.com/danielroe/forges) - One client, every forge.
+- [made-in-common/forges](https://github.com/made-in-common/forges) - One client, every forge.
 - [modem-dev/hunk](https://github.com/modem-dev/hunk) - Review-first terminal diff viewer for agentic coders
 - [git-bug/git-bug](https://github.com/git-bug/git-bug) - Distributed, offline-first bug tracker integrated in git
 - [joseluisq/gitnow](https://github.com/joseluisq/gitnow) - Speed up your Git workflow. :tropical_fish:
@@ -3453,7 +3451,7 @@
 - [Permify/permify](https://github.com/Permify/permify) - An open-source authorization as a service inspired by Google Zanzibar, designed to build and manage fine-grained and scalable authorization systems for any application. — Permify is now part of Fusion
 - [beclab/Olares](https://github.com/beclab/Olares) - Open-Source Personal Cloud OS for Always-On Agents
 - [minio/minio](https://github.com/minio/minio) - MinIO is a high-performance, S3 compatible object store, open sourced under GNU AGPLv3 license.
-- [gravitl/netmaker](https://github.com/gravitl/netmaker) - Netmaker makes networks with WireGuard. Netmaker automates fast, secure, and distributed virtual networks.
+- [gravitl/netmaker](https://github.com/gravitl/netmaker) - Netmaker is a WireGuard-powered Zero Trust networking platform for building fast, secure, and scalable virtual networks across clouds, devices, and infrastructure.
 - [k3s-io/k3s](https://github.com/k3s-io/k3s) - Lightweight Kubernetes
 - [gogs/gogs](https://github.com/gogs/gogs) - The painless way to host your own Git service
 - [mercari/tortoise](https://github.com/mercari/tortoise) - Tortoise: Shell-Shockingly-Good Kubernetes Autoscaling
@@ -3510,7 +3508,6 @@
 
 - [libracoder/kiri](https://github.com/libracoder/kiri) - A small, fast container runtime for macOS, Windows and Linux with free Ngrok alternative
 - [anomalyco/hex](https://github.com/anomalyco/hex) - Local voice dictation for mac, windows and linux
-- [horizon-rust/horizon](https://github.com/horizon-rust/horizon) - Minecraft 26.3 rewritten in Rust.
 - [ARahim3/DigUp](https://github.com/ARahim3/DigUp) - Search your computer by what's in your files: photos, PDFs, documents, recordings, videos and code. On-device on Mac, Windows and Linux, built on Google DeepMind's EmbeddingGemma 2.
 - [morluto/rea](https://github.com/morluto/rea) - Reverse engineer anything with agents, from app behavior down to native binaries.
 - [workdone0/twig](https://github.com/workdone0/twig) - Terminal-based JSON & YAML viewer (TUI) for exploring and searching large files — fast, interactive, and privacy-first.
@@ -3951,10 +3948,6 @@
 - [fossteams/teams-cli](https://github.com/fossteams/teams-cli) - A CLI / TUI for Microsoft Teams
 - [microsoft/vscode](https://github.com/microsoft/vscode) - Visual Studio Code
 - [qax-os/excelize](https://github.com/qax-os/excelize) - Go language library for reading and writing Microsoft Excel™ (XLAM / XLSM / XLSX / XLTM / XLTX) spreadsheets
-
-## minecraft 
-
-- [horizon-rust/horizon](https://github.com/horizon-rust/horizon) - Minecraft 26.3 rewritten in Rust.
 
 ## mobile 
 
@@ -5791,11 +5784,11 @@
 
 ## rust 
 
+- [atuinsh/atuin](https://github.com/atuinsh/atuin) - ✨ Making your shell magical
 - [mrcjkb/rustaceanvim](https://github.com/mrcjkb/rustaceanvim) - 🦀 Supercharge your Rust experience in Neovim! A heavily modified fork of rust-tools.nvim
 - [kunobi-ninja/kache](https://github.com/kunobi-ninja/kache) - Zero-copy, content-addressed Rust build cache for Rust, C/C++ and more. No copies, no wasted disk
 - [your-moon/tern](https://github.com/your-moon/tern) - A fast, low-memory SSH terminal built with Rust and GPUI
 - [anomalyco/hex](https://github.com/anomalyco/hex) - Local voice dictation for mac, windows and linux
-- [horizon-rust/horizon](https://github.com/horizon-rust/horizon) - Minecraft 26.3 rewritten in Rust.
 - [indexable-inc/blaze](https://github.com/indexable-inc/blaze) - Incremental rust builds up to 92x faster than cargo/rustc. Backed by Y Combinator (F26).
 - [tursodatabase/libsql](https://github.com/tursodatabase/libsql) - libSQL is a fork of SQLite that is both Open Source, and Open Contributions.
 - [skim-rs/skim](https://github.com/skim-rs/skim) - Fuzzy Finder in rust!
@@ -6021,7 +6014,7 @@
 - [secdev/scapy](https://github.com/secdev/scapy) - Scapy: the Python-based interactive packet manipulation program & library.
 - [projectdiscovery/nuclei-templates](https://github.com/projectdiscovery/nuclei-templates) - Community curated list of templates for the nuclei engine to find security vulnerabilities.
 - [projectdiscovery/nuclei](https://github.com/projectdiscovery/nuclei) - Nuclei is a fast, customizable vulnerability scanner powered by the global security community and built on a simple YAML-based DSL, enabling collaboration to tackle trending vulnerabilities on the int
-- [gravitl/netmaker](https://github.com/gravitl/netmaker) - Netmaker makes networks with WireGuard. Netmaker automates fast, secure, and distributed virtual networks.
+- [gravitl/netmaker](https://github.com/gravitl/netmaker) - Netmaker is a WireGuard-powered Zero Trust networking platform for building fast, secure, and scalable virtual networks across clouds, devices, and infrastructure.
 - [evilsocket/xray](https://github.com/evilsocket/xray) - XRay is a tool for recon, mapping and OSINT gathering from public networks.
 - [evilsocket/opensnitch](https://github.com/evilsocket/opensnitch) - OpenSnitch is a GNU/Linux interactive application firewall inspired by Little Snitch.
 - [bettercap/bettercap](https://github.com/bettercap/bettercap) - The Swiss Army knife for 802.11, BLE, HID, CAN-bus, IPv4 and IPv6 networks reconnaissance and MITM attacks.
@@ -6117,7 +6110,7 @@
 - [mikeroyal/Self-Hosting-Guide](https://github.com/mikeroyal/Self-Hosting-Guide) - Self-Hosting Guide. Learn all about  locally hosting (on premises & private web servers) and managing software applications by yourself or your organization. Including Cloud, LLMs, WireGuard, Automati
 - [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
 - [barelyhuman/goblin](https://github.com/barelyhuman/goblin) - Golang binaries compiled on-demand for your system
-- [gravitl/netmaker](https://github.com/gravitl/netmaker) - Netmaker makes networks with WireGuard. Netmaker automates fast, secure, and distributed virtual networks.
+- [gravitl/netmaker](https://github.com/gravitl/netmaker) - Netmaker is a WireGuard-powered Zero Trust networking platform for building fast, secure, and scalable virtual networks across clouds, devices, and infrastructure.
 - [theonedev/onedev](https://github.com/theonedev/onedev) - The Unified and Autonomous Development Platform
 - [Dokploy/dokploy](https://github.com/Dokploy/dokploy) - Open Source Alternative to Vercel, Netlify and Heroku.
 - [gogs/gogs](https://github.com/gogs/gogs) - The painless way to host your own Git service
@@ -6177,6 +6170,7 @@
 
 ## shell 
 
+- [atuinsh/atuin](https://github.com/atuinsh/atuin) - ✨ Making your shell magical
 - [dimo414/bkt](https://github.com/dimo414/bkt) - a subprocess caching utility, available as a command line binary and a Rust library.
 - [mpecan/rable](https://github.com/mpecan/rable) - A complete GNU Bash 5.3-compatible parser written in Rust — 100% compatible reimplementation of Parable with Python bindings via PyO3, ~10x faster
 - [agent-infra/sandbox](https://github.com/agent-infra/sandbox) - All-in-One Sandbox for AI Agents that combines Browser, Shell, File, MCP and VSCode Server in a single Docker container.
@@ -6834,7 +6828,7 @@
 - [yarrick/iodine](https://github.com/yarrick/iodine) - Official git repo for iodine dns tunnel
 - [angristan/wireguard-install](https://github.com/angristan/wireguard-install) - WireGuard VPN installer for Linux servers
 - [netbirdio/netbird](https://github.com/netbirdio/netbird) - NetBird securely connects people, machines and AI agents across any network with one identity-based Zero Trust platform. Powered by peer-to-peer WireGuard®
-- [gravitl/netmaker](https://github.com/gravitl/netmaker) - Netmaker makes networks with WireGuard. Netmaker automates fast, secure, and distributed virtual networks.
+- [gravitl/netmaker](https://github.com/gravitl/netmaker) - Netmaker is a WireGuard-powered Zero Trust networking platform for building fast, secure, and scalable virtual networks across clouds, devices, and infrastructure.
 - [Nyr/openvpn-install](https://github.com/Nyr/openvpn-install) - OpenVPN road warrior installer for Ubuntu, Debian, AlmaLinux, Rocky Linux, CentOS and Fedora
 
 ## vscode 
@@ -7014,6 +7008,7 @@
 
 ## zsh 
 
+- [atuinsh/atuin](https://github.com/atuinsh/atuin) - ✨ Making your shell magical
 - [StanMarek/ghost-complete](https://github.com/StanMarek/ghost-complete) - Terminal autocomplete engine inspired by Fig. PTY proxy, 709 specs, Rust. Built for Ghostty.
 - [microsoft/inshellisense](https://github.com/microsoft/inshellisense) - IDE style command line auto complete
 - [bibendi/dip](https://github.com/bibendi/dip) - The dip is a CLI dev–tool that provides native-like interaction with a Dockerized application.
