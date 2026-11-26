@@ -2279,6 +2279,7 @@
 
 ## TypeScript 
 
+- [jenkinsci/pipeline-graph-view-plugin](https://github.com/jenkinsci/pipeline-graph-view-plugin) - Pipeline Graph View adds a visual representation of Jenkins pipelines, showing each stage of a run in a clear and easy-to-follow graph format.
 - [googleapis/release-please](https://github.com/googleapis/release-please) - generate release PRs based on the conventionalcommits.org spec
 - [made-in-common/forges](https://github.com/made-in-common/forges) - One client, every forge.
 - [openbrowse-ai/openbrowse](https://github.com/openbrowse-ai/openbrowse) - The open source browser agent. A model-agnostic alternative to Claude for Chrome. Connect any local or cloud AI.
